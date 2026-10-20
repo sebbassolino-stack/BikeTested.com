@@ -1,6 +1,6 @@
 # Launch readiness — October 19, 2026
 
-## Implemented locally
+## Implemented
 
 - Astro static publication with supplied logos, official product imagery, responsive editorial layout, and reduced-motion support.
 - Three current product evaluations: Aventon Pace 5 REC, Ride1Up Roadster V3, Lectric XPress2 Commuter. Primary URLs and check date recorded in canonical data. Pace 4 found discontinued, original Lectric XPress URL now redirects to XPress2; current coverage uses the correct model identity.
@@ -23,3 +23,12 @@
 ## Validation
 
 See the local session log for the final validation result and screenshot locations. Rich Results Test, Lighthouse scores, real-device performance, production availability, and merchant checkout discounts have not been independently measured in this build.
+
+## Cloudflare release — October 20, 2026
+
+- Initial source commit `d0c4ae7be49df7fde94bcd946965b9480391dbdf` pushed to GitHub main.
+- Created GitHub-integrated Cloudflare Pages project `biketested` in the established owned-brand account. Automatic production deployments enabled for main.
+- Build: Node 22.22.3, `npm run build`, output `dist`, repository root.
+- Public Pages URL: https://biketested.pages.dev.
+- Custom domain/DNS, analytics and affiliate activation are not included in this Pages release.
+- Final deployment receipt and live verification are recorded in the October 20 local session log.

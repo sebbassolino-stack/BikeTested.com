@@ -33,3 +33,9 @@ There are no confirmed Bike Tested affiliate agreements or discount codes in the
 Add documented offers to `offers` in `catalog.js`. Required fields: `brand`, `status`, `url`, `benefit`, `evidence`, `checkedOn`. Coded offers also need `code`, `eligibleStore`, and `terms`; optionally `checkoutTestedOn` and `stackingTerms`. An active coded offer generates `/promo/<brand>` on build. Do not transfer codes or tracking IDs from sister brands.
 
 See `docs/launch-readiness.md` for hosting and remaining commercial configuration. No automatic publishing or IndexNow submissions happen during builds.
+
+## Cloudflare Pages
+
+Project: `biketested`; public Pages address: https://biketested.pages.dev. Git integration tracks `main` in `sebbassolino-stack/BikeTested.com` and automatically builds pushed commits. Build command: `npm run build`; output: `dist`; Node: `22.22.3` (pinned in `.node-version` and Pages production/preview configuration).
+
+The custom-domain connection for `biketested.com` is a separate launch step. Canonical URLs currently target that intended domain. Affiliate and analytics activation remain separate from publication.
