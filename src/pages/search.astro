@@ -1,0 +1,4 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+<Layout title="Search Bike Tested"><div class="wrap"><div class="narrow"><div class="page-head"><h1>Find your<br/>next good read.</h1><p class="intro">Search bikes, comparisons, buying advice, and brand coverage.</p></div><div id="search"></div><p id="search-status" class="empty" hidden>Search is available in the production preview. <a href="/reviews">Browse all reviews →</a></p></div></div><link href="/pagefind/pagefind-ui.css" rel="stylesheet"/><script is:inline src="/pagefind/pagefind-ui.js"></script><script is:inline>if(window.PagefindUI){new PagefindUI({element:'#search',showSubResults:true,showImages:false});}else{document.querySelector('#search-status').hidden=false;}</script></Layout>

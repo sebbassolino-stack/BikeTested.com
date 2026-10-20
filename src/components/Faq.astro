@@ -1,0 +1,4 @@
+---
+const {items}=Astro.props;
+---
+<section class="faq"><h2>Your questions, answered.</h2>{items.map(([q,a])=><details><summary>{q}<span aria-hidden="true">+</span></summary><p>{a}</p></details>)}</section>

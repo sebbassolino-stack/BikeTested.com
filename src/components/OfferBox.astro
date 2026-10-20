@@ -1,0 +1,5 @@
+---
+import {brands} from '../data/catalog';
+const {offer:o,placement='offers'}=Astro.props;const brand=brands.find(b=>b.slug===o.brand);
+---
+<article class="brand-tile"><span class="kicker">Bike Tested partner offer</span><h2>{brand.name}</h2><p>{o.benefit}</p>{o.code&&<button class="code-button" data-copy-code={o.code} data-brand={o.brand}>Copy {o.code}</button>}<p class="note">{o.terms}</p><a class="button blue" href={o.url} target="_blank" rel="sponsored noopener" data-outbound data-affiliate="true" data-brand={o.brand} data-placement={placement}>Shop {brand.name} ↗</a><small class="disclosure">We may earn a commission from qualifying purchases.</small>{o.code&&<a class="text-link" href={`/promo/${o.brand}`}>Code & offer details →</a>}</article>

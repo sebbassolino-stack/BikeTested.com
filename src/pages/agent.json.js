@@ -1,0 +1,2 @@
+import {products,offers,updated} from '../data/catalog';
+export function GET(){return new Response(JSON.stringify({name:'Bike Tested',url:'https://biketested.com',editorialStandards:'https://biketested.com/editorial-standards',offers,products:products.map(p=>({name:p.name,url:`https://biketested.com/reviews/${p.slug}`,source:p.source,sourceCheckedOn:updated,evidence:p.evidence,measuredTesting:false})),disclosure:'https://biketested.com/affiliate-disclosure'},null,2),{headers:{'Content-Type':'application/json'}})}

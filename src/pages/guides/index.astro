@@ -1,0 +1,4 @@
+---
+import Layout from '../../layouts/Layout.astro';import {guides} from '../../data/guides';
+---
+<Layout title="Cycling & electric mobility buying guides"><div class="wrap"><div class="page-head"><div class="breadcrumb"><a href="/">Home</a> / Guides</div><h1>A little knowledge.<br/>A better ride.</h1><p class="intro">Practical starting points for choosing a bike, building your setup, and making everyday miles easier.</p></div><div class="article-list section">{guides.map((g,i)=><a class="article-row" href={`/guides/${g.slug}`}><span>0{i+1}</span><div><span class="kicker">{g.category}</span><h2>{g.title}</h2><p>{g.description}</p></div><span>↗</span></a>)}</div></div></Layout>
