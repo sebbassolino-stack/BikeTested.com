@@ -24,7 +24,7 @@ npm run preview
 - `docs/image-sources.json`: official manufacturer image provenance.
 - `docs/design-system.md`: visual direction and original concept reference.
 
-The build produces 35 HTML pages, including three product reviews, six buying guides, two editorial comparisons, an interactive comparison tool, a qualitative shortlist, six categories, and brand/offer/trust pages. No numerical ratings or generated product photos.
+The build produces 47 HTML pages, including three product reviews, 18 buying guides, two editorial comparisons, an interactive comparison tool, a qualitative shortlist, six categories, and brand/offer/trust pages. No numerical ratings or generated product photos.
 
 ## Monetization
 
@@ -38,4 +38,8 @@ See `docs/launch-readiness.md` for hosting and remaining commercial configuratio
 
 Project: `biketested`; public Pages address: https://biketested.pages.dev. Git integration tracks `main` in `sebbassolino-stack/BikeTested.com` and automatically builds pushed commits. Build command: `npm run build`; output: `dist`; Node: `22.22.3` (pinned in `.node-version` and Pages production/preview configuration).
 
-The custom-domain connection for `biketested.com` is a separate launch step. Canonical URLs currently target that intended domain. Affiliate and analytics activation remain separate from publication.
+The custom domain `biketested.com` returned the Bike Tested site successfully on October 21, 2026. Canonical URLs target that domain. Affiliate and analytics activation remain separate from publication.
+
+## Guide publishing
+
+Guide content lives in `src/data/guides.js`. Each guide has stable dates, category topics, a direct answer and sections; new guides also carry primary source links, visible FAQs, and curated related articles. `src/lib/guides.js` controls hub placement, section anchors and reading-time labels. Article dates, visible FAQs, internal anchors, cross-links and sitemap lastmod are checked during `npm run build`. FAQ markup describes the visible answers; it is not a promise of a Google rich result.

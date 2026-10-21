@@ -1,5 +1,51 @@
 ---
-import Layout from '../../layouts/Layout.astro';import {guides} from '../../data/guides';import {updated} from '../../data/catalog';
-export function getStaticPaths(){return guides.map(g=>({params:{slug:g.slug},props:{g}}))};const {g}=Astro.props;
+import Layout from '../../layouts/Layout.astro';
+import Faq from '../../components/Faq.astro';
+import { guides } from '../../data/guides';
+import { products } from '../../data/catalog';
+import { sectionsFor, sectionId, dateLabel, readingMinutes, relatedGuides } from '../../lib/guides';
+export function getStaticPaths(){return guides.map(g=>({params:{slug:g.slug},props:{g}}))}
+const {g}=Astro.props;
+const sections=sectionsFor(g);
+const canonical=`https://biketested.com/guides/${g.slug}`;
+const related=relatedGuides(g);
+const mentioned=(g.products || []).map(slug=>products.find(p=>p.slug===slug)).filter(Boolean);
+const schema=[{
+  '@type':'Article', '@id':`${canonical}#article`, headline:g.title, description:g.description,
+  datePublished:g.publishedOn, dateModified:g.updatedOn,
+  mainEntityOfPage:canonical, inLanguage:'en-US', articleSection:g.category,
+  author:{'@type':'Organization',name:'Bike Tested Editorial',url:'https://biketested.com/about'},
+  publisher:{'@id':'https://biketested.com/#organization'},
+  image:`https://biketested.com${g.image}`, citation:(g.sources||[]).map(s=>s.url)
+}];
+if(g.faq?.length) schema.push({'@type':'FAQPage',mainEntity:g.faq.map(([name,text])=>({'@type':'Question',name,acceptedAnswer:{'@type':'Answer',text}}))});
+schema.push({'@type':'BreadcrumbList',itemListElement:[{'@type':'ListItem',position:1,name:'Home',item:'https://biketested.com'},{'@type':'ListItem',position:2,name:'Guides',item:'https://biketested.com/guides'},{'@type':'ListItem',position:3,name:g.title,item:canonical}]});
 ---
-<Layout title={g.title} description={g.description} image={g.image} schema={[{'@type':'Article',headline:g.title,description:g.description,datePublished:updated,dateModified:updated,author:{'@type':'Organization',name:'Bike Tested Editorial',url:'https://biketested.com/about'}}]}><div class="wrap"><div class="narrow"><div class="page-head"><div class="breadcrumb"><a href="/">Home</a> / <a href="/guides">Guides</a> / {g.category}</div><span class="kicker">{g.category}</span><h1>{g.title}</h1><p class="intro">{g.description}</p><p class="meta">By <a href="/about">Bike Tested Editorial</a> · October 19, 2026</p></div><article class="prose"><div class="answer"><span class="kicker">The quick answer</span><p>{g.answer}</p></div>{g.sections.map(([h,t])=><section><h2>{h}</h2><p>{t}</p></section>)}<h2>Put it into practice.</h2><p><a href="/reviews">Explore our current bike reviews</a> or <a href="/compare">compare bikes side by side</a>.</p><h2>Keep reading.</h2><ul>{guides.filter(x=>x.slug!==g.slug).slice(0,3).map(x=><li><a href={`/guides/${x.slug}`}>{x.title}</a></li>)}</ul></article></div></div></Layout>
+<Layout title={g.title} description={g.description} image={g.image} schema={schema}>
+  <div class="wrap"><div class="narrow guide-article">
+    <div class="page-head">
+      <div class="breadcrumb"><a href="/">Home</a> / <a href="/guides">Guides</a> / {g.category}</div>
+      <span class="kicker">{g.category}</span>
+      <h1 data-pagefind-meta="title">{g.title}</h1>
+      <p class="intro">{g.description}</p>
+      <p class="meta">By <a href="/about">Bike Tested Editorial</a> · <time datetime={g.publishedOn}>{dateLabel(g.publishedOn)}</time> · {readingMinutes(g)} min read
+        {g.updatedOn!==g.publishedOn&&<span> · Updated <time datetime={g.updatedOn}>{dateLabel(g.updatedOn)}</time></span>}
+      </p>
+    </div>
+    <article class="prose">
+      <div class="answer"><span class="kicker">The quick answer</span><p>{g.answer}</p></div>
+      <nav class="guide-toc" aria-label="In this guide"><strong>In this guide</strong><ul>{sections.map(s=><li><a href={`#${sectionId(s.heading)}`}>{s.heading}</a></li>)}{g.faq?.length&&<li><a href="#questions">Frequently asked questions</a></li>}</ul></nav>
+      {sections.map(s=><section id={sectionId(s.heading)}>
+        <h2>{s.heading}</h2>
+        {(s.paragraphs||[]).map(text=><p>{text}</p>)}
+        {s.list&&<ul>{s.list.map(text=><li>{text}</li>)}</ul>}
+        {s.steps&&<ol class="guide-steps">{s.steps.map(text=><li>{text}</li>)}</ol>}
+        {s.table&&<div class="guide-table-wrap" role="region" aria-label={s.table.caption} tabindex="0"><table class="guide-table"><caption>{s.table.caption}</caption><thead><tr>{s.table.headers.map(h=><th scope="col">{h}</th>)}</tr></thead><tbody>{s.table.rows.map(row=><tr>{row.map((cell,i)=>i===0?<th scope="row">{cell}</th>:<td>{cell}</td>)}</tr>)}</tbody></table></div>}
+      </section>)}
+      {g.faq?.length&&<div id="questions"><Faq items={g.faq}/></div>}
+      {mentioned.length>0&&<section class="guide-next"><h2>Put the details to work.</h2><p>Compare these bikes using the manufacturer specifications and ownership considerations in our reviews.</p><ul>{mentioned.map(p=><li><a href={`/reviews/${p.slug}`}>{p.name}</a>: {p.label.toLowerCase()}.</li>)}</ul><a class="text-link" href="/compare">Compare the bikes side by side →</a></section>}
+      {g.sources?.length&&<section class="guide-sources" aria-labelledby="guide-sources-heading"><h2 id="guide-sources-heading">Sources & further reading</h2><p class="note">Technical references checked {dateLabel(g.updatedOn)}. Follow the instructions for your exact equipment.</p><ul>{g.sources.map(s=><li><a href={s.url} target="_blank" rel="noopener">{s.name} ↗</a></li>)}</ul></section>}
+      <section class="guide-next"><h2>Keep exploring.</h2><ul>{related.map(x=><li><a href={`/guides/${x.slug}`}>{x.title}</a></li>)}</ul><a class="text-link" href="/guides">All cycling guides →</a></section>
+    </article>
+  </div></div>
+</Layout>
