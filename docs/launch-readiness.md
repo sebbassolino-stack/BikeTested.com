@@ -32,3 +32,9 @@ See the local session log for the final validation result and screenshot locatio
 - Public Pages URL: https://biketested.pages.dev.
 - Custom domain/DNS, analytics and affiliate activation are not included in this Pages release.
 - Final deployment receipt and live verification are recorded in the October 20 local session log.
+
+## Partner activation — October 22, 2026
+
+This update supersedes the initial zero-offer commercial status above. The owner supplied 44 live partnerships: 24 codes, including 19 stated reader benefits, plus 20 link-only partners. Canonical registry: `src/data/partners.js`; offer pages: `/promo/<brand>` for coded partners and `/brands/<brand>` for all partners. `/deals` provides search and category/type filters. Future review templates inherit their partner link and code automatically.
+
+No independent checkout tests, analytics delivery, order attribution or revenue receipts are established. KuKirin and Windgoo storefront checks need follow-up; Emax USA is FPV/RC equipment. See `partner-review-workflow.md` and the review queue before adding products. Codes do not receive fabricated expiry, sitewide or stacking claims, or automatically advancing verification dates.

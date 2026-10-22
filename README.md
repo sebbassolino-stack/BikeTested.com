@@ -17,20 +17,26 @@ npm run preview
 
 ## Source of truth
 
-- `src/data/catalog.js`: products, manufacturers, specifications, reviews, categories, comparisons, and offer registry.
+- `src/data/catalog.js`: products, manufacturers, specifications, reviews, categories, comparisons, and exported offers.
+- `src/data/partners.js`: canonical partner roster, exact affiliate URLs, reader codes and supplied benefits.
+- `src/lib/offers.js`: shared answers, FAQs, schema and buying paths for pages and crawler feeds.
 - `src/data/guides.js`: original buying guides.
 - `src/data/pages.js`: editorial standards and publication information.
 - `src/styles/global.css`: responsive design tokens and components.
 - `docs/image-sources.json`: official manufacturer image provenance.
 - `docs/design-system.md`: visual direction and original concept reference.
 
-The build produces 47 HTML pages, including three product reviews, 18 buying guides, two editorial comparisons, an interactive comparison tool, a qualitative shortlist, six categories, and brand/offer/trust pages. No numerical ratings or generated product photos.
+The build produces 115 HTML pages, including three product reviews, 18 buying guides, two editorial comparisons, an interactive comparison tool, a qualitative shortlist, six categories, 47 brand pages, 24 promo pages, and offer/trust pages. No numerical ratings or generated product photos.
 
 ## Monetization
 
-There are no confirmed Bike Tested affiliate agreements or discount codes in the supplied material. Current outbound links are direct manufacturer links. No commission, checkout discount, measured testing, or sales attribution is claimed. Analytics hooks exist but no analytics provider is configured.
+The owner supplied 44 live Bike Tested partnerships on October 22, 2026: 24 reader codes (19 with a stated saving) and 20 link-only partners. Exact affiliate URLs are preserved. The public Eunorau reader offer is 2%; a separate personal-use code is excluded from all public output. Unknown discount amounts, eligibility, stacking and expiry remain unspecified. Supplied live status is separate from independently tested checkout acceptance.
 
-Add documented offers to `offers` in `catalog.js`. Required fields: `brand`, `status`, `url`, `benefit`, `evidence`, `checkedOn`. Coded offers also need `code`, `eligibleStore`, and `terms`; optionally `checkoutTestedOn` and `stackingTerms`. An active coded offer generates `/promo/<brand>` on build. Do not transfer codes or tracking IDs from sister brands.
+Update `src/data/partners.js` with documented Bike Tested offers. Use `reportedOn` for the actual source date and `checkoutTestedOn` only for a real recorded cart test. `catalog.js` exports derived brand and offer records; code pages, brand pages, the directory, review buyboxes/FAQs, product cards, schema, `llms.txt` and `agent.json` share these records. Never substitute another regional storefront or invent model eligibility.
+
+`docs/partner-review-queue.json` prepares all partners for product research. Run `npm run review:queue` to regenerate the initial queue from the registry; preserve subsequent editorial progress before regenerating. See `docs/partner-review-workflow.md` for product intake. KuKirin and Windgoo need storefront follow-up; Emax USA sells FPV/RC equipment and sits outside the cycling review queue. Link-check results live in `docs/partner-store-checks-2026-10-22.json`; they do not prove checkout, tracking attribution or fulfillment.
+
+Analytics hooks exist for affiliate clicks and code copies, including brand and placement. No analytics provider is configured, and no event-delivery or commission claim is made.
 
 See `docs/launch-readiness.md` for hosting and remaining commercial configuration. No automatic publishing or IndexNow submissions happen during builds.
 

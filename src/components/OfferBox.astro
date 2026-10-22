@@ -1,5 +1,13 @@
 ---
 import {brands} from '../data/catalog';
+import {offerLabel,offerPath} from '../lib/offers';
 const {offer:o,placement='offers'}=Astro.props;const brand=brands.find(b=>b.slug===o.brand);
 ---
-<article class="brand-tile"><span class="kicker">Bike Tested partner offer</span><h2>{brand.name}</h2><p>{o.benefit}</p>{o.code&&<button class="code-button" data-copy-code={o.code} data-brand={o.brand}>Copy {o.code}</button>}<p class="note">{o.terms}</p><a class="button blue" href={o.url} target="_blank" rel="sponsored noopener" data-outbound data-affiliate="true" data-brand={o.brand} data-placement={placement}>Shop {brand.name} ↗</a><small class="disclosure">We may earn a commission from qualifying purchases.</small>{o.code&&<a class="text-link" href={`/promo/${o.brand}`}>Code & offer details →</a>}</article>
+<article class="brand-tile partner-tile" data-partner={brand.name.toLowerCase()} data-offer-type={o.code?'code':'link'} data-partner-category={o.category}>
+  <span class="kicker">{o.code?'Reader discount code':'Affiliate partner'}</span><h2><a href={offerPath(o)}>{brand.name}</a></h2><p class="partner-benefit">{offerLabel(o)}</p>
+  {o.code&&<div class="code-row"><code>{o.code}</code><button class="code-button" data-copy-code={o.code} data-brand={o.brand} data-placement={placement} aria-label={`Copy ${brand.name} code ${o.code}`} aria-live="polite">Copy code</button></div>}
+  <p class="note">{o.code?(o.benefit?'Partner-reported saving. Confirm eligibility at checkout.':'The discount amount has not been supplied. Check the applied saving at checkout.'):'No reader code supplied. This link does not promise an automatic discount.'}</p>
+  {o.storeNotice&&<p class="store-notice">Store availability needs checking.</p>}
+  <a class="button blue" href={o.url} target="_blank" rel="sponsored noopener" data-outbound data-affiliate="true" data-brand={o.brand} data-placement={placement}>Shop {brand.name} ↗</a>
+  <small class="disclosure">We may earn a commission on qualifying purchases.</small><a class="text-link" href={offerPath(o)}>{o.code?'Code & offer details':'Store & buying advice'} →</a>
+</article>
