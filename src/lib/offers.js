@@ -11,7 +11,7 @@ export function offerAnswer(o, name) {
 export function productOfferAnswer(o,name,product) {
   if(!o?.code)return `Bike Tested does not currently list a confirmed ${name} reader code for this product. Check the official store for current pricing and promotions.`;
   const state=priceState(product,o);
-  if(state.kind==='observed')return `${o.code} was accepted for the ${product.name} ${state.base.label} variant at ${o.eligibleStore} checkout on ${state.checkedOn}. The item subtotal moved from ${state.base.formatted} to ${state.afterFormatted} (${state.discountFormatted} off) before tax and shipping. Other variants and models have not been checked.`;
+  if(state.kind==='observed')return `${o.code} was accepted for ${product.name}, ${state.base.label}, on ${state.checkedOn}. Other variants and models have not been checked.`;
   if(state.kind==='estimated')return `${o.code} is reported for ${o.benefit} at ${o.eligibleStore}. This exact product variant is recorded as eligible; the estimated item price is ${state.afterFormatted} from ${state.base.formatted}. Confirm eligibility, rounding and the final total at checkout.`;
   return `${o.code} is reported for ${o.benefit||'a reader discount'} at ${o.eligibleStore}, but eligibility for this exact product variant has not been confirmed. Check the code and item subtotal at checkout before ordering.`;
 }

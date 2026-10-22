@@ -436,13 +436,14 @@ export const partners = [
     "name": "Ausom",
     "url": "https://ausomstore.com/?ref=jbjmglxu",
     "code": "SEBASTIANBASSOL",
-    "benefit": "$50 off",
+    "benefit": "$50.00 off",
     "category": "electric-mobility",
     "platform": "GoAffPro",
     "reportedOn": "2026-10-22",
     "status": "active",
     "evidence": "Owner-confirmed live Bike Tested partner roster, October 22, 2026",
-    "checkoutTestedOn": null,
+    "checkoutTestedOn": "2026-10-22",
+    "discount": {"type":"fixed","value":50,"currency":"USD","scope":"Accepted on the Gosoul 2 Default Title variant; replaced the automatic $20 checkout promotion."},
     "description": "Explore Ausom electric scooters with our reader code. Choose around route conditions, tire maintenance, carrying weight and local support rather than range claims alone."
   },
   {

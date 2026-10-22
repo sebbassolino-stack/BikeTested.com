@@ -38,17 +38,17 @@
       "brand": "Ausom",
       "brandSlug": "ausom",
       "category": "electric-mobility",
-      "status": "ready-for-product-research",
+      "status": "checkout-verified-implementation-in-progress",
       "priority": 1,
-      "product": null,
-      "officialSource": null,
-      "reviewUrl": null,
+      "product": "Ausom Gosoul 2 Electric Scooter, US Default Title (variant 52314547912983; SKU 1297008)",
+      "officialSource": "https://ausomstore.com/products/ausom-gosoul-2-electric-scooter",
+      "reviewUrl": "/reviews/ausom-gosoul-2-electric-scooter",
       "affiliateUrl": "https://ausomstore.com/?ref=jbjmglxu",
       "code": "SEBASTIANBASSOL",
       "reportedBenefit": "$50 off",
       "offerDetailNeeded": false,
-      "checkoutTestedOn": null,
-      "nextStep": "Choose one exact current SKU from this storefront; record model, variant, primary specifications and official image provenance before drafting."
+      "checkoutTestedOn": "2026-10-22",
+      "nextStep": "Complete review integration, validation, desktop/mobile QA, release, and exact-deployment live verification before starting Cycplus."
     },
     {
       "brand": "Burchda",

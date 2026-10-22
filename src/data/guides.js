@@ -113,6 +113,7 @@ export const guides = [
     "topics": [
       "electric-mobility"
     ],
+    "products": ["ausom-gosoul-2-electric-scooter"],
     "related": [
       "folding-vs-full-size-ebike",
       "panniers-vs-backpack",
