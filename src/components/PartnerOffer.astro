@@ -7,6 +7,6 @@ const {offer:o,name,placement='promo'}=Astro.props;
   {o.code&&<div class="code-row"><code>{o.code}</code><button class="code-button" data-copy-code={o.code} data-brand={o.brand} data-placement={placement} aria-label={`Copy ${name} code ${o.code}`} aria-live="polite">Copy code</button></div>}
   <a class="button lime" href={o.url} target="_blank" rel="sponsored noopener" data-outbound data-affiliate="true" data-brand={o.brand} data-placement={placement}>Shop {name} ↗</a>
   <p class="disclosure">We may earn a commission when you buy through this link.</p>
-  <p class="note">{o.code?'Partner code supplied':'Partner link supplied'} <time datetime={o.reportedOn}>{o.reportedOn}</time>. {o.checkoutTestedOn?`Checkout tested ${o.checkoutTestedOn}.`:'Checkout acceptance has not been independently tested.'}</p>
+  <p class="note">{o.code?'Partner code supplied':'Partner link supplied'} <time datetime={o.reportedOn}>{o.reportedOn}</time>. {o.checkoutTestProduct?`Checkout acceptance observed ${o.checkoutTestedOn} for ${o.checkoutTestProduct.name}, ${o.checkoutTestProduct.variantLabel} only.`:'Checkout acceptance has not been independently tested.'}</p>
   {o.regionNote&&<p class="note">{o.regionNote}</p>}{o.storeNotice&&<p class="store-notice">{o.storeNotice}</p>}
 </div>

@@ -3,20 +3,20 @@
   "source": "Owner-supplied live Bike Tested partner roster",
   "queue": [
     {
-      "brand": "Actbest",
-      "brandSlug": "actbest",
+      "brand": "Mooncool",
+      "brandSlug": "mooncool",
       "category": "electric-bikes",
-      "status": "ready-for-product-research",
+      "status": "review-in-progress-substitute-for-luckeep",
       "priority": 1,
-      "product": null,
-      "officialSource": null,
-      "reviewUrl": null,
-      "affiliateUrl": "https://actbestbike.com/81054420bg",
-      "code": "SEBASTIAN3%",
-      "reportedBenefit": "3% off",
+      "product": "Mooncool TK2 Folding Electric Trike, US Cyan Green-Matte (variant 46144887226540)",
+      "officialSource": "https://www.mooncool.com/products/tk2-electric-trike",
+      "reviewUrl": "/reviews/mooncool-tk2-folding-electric-trike",
+      "affiliateUrl": "https://www.mooncool.com/?ref=znnfuofi",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "5% off",
       "offerDetailNeeded": false,
-      "checkoutTestedOn": null,
-      "nextStep": "Choose one exact current SKU from this storefront; record model, variant, primary specifications and official image provenance before drafting."
+      "checkoutTestedOn": "2026-10-22",
+      "nextStep": "Substitute for unavailable Luckeep products after both selected candidates redirected to the supplied homepage. Code acceptance and the $74.99 discount are scoped to Cyan Green-Matte variant 46144887226540; finish validation and exact-commit release before starting Ausom."
     },
     {
       "brand": "Ancheer",
@@ -230,7 +230,7 @@
       "brand": "Luckeep",
       "brandSlug": "luckeep",
       "category": "electric-bikes",
-      "status": "ready-for-product-research",
+      "status": "product-unavailable-after-bounded-research",
       "priority": 1,
       "product": null,
       "officialSource": null,
@@ -240,7 +240,7 @@
       "reportedBenefit": "10% off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": null,
-      "nextStep": "Choose one exact current SKU from this storefront; record model, variant, primary specifications and official image provenance before drafting."
+      "nextStep": "The two selected Luckeep candidates, M5 Max and C23, redirect to the supplied Luckeep homepage. The separate BENIFORE storefront has no confirmed Bike Tested destination. Initial batch uses permitted Mooncool substitute."
     },
     {
       "brand": "Mooncool",

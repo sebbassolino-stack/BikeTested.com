@@ -331,14 +331,19 @@ export const partners = [
     "name": "Mooncool",
     "url": "https://www.mooncool.com/?ref=znnfuofi",
     "code": "SEBASTIANBASSOL",
-    "benefit": "5% off",
+    "benefit": null,
     "category": "electric-bikes",
     "platform": "GoAffPro",
     "reportedOn": "2026-10-22",
     "status": "active",
     "evidence": "Owner-confirmed live Bike Tested partner roster, October 22, 2026",
-    "checkoutTestedOn": null,
-    "description": "Explore Mooncool electric trikes with our reader code. Check width, turning and storage space as carefully as frame fit and battery arrangements."
+    "checkoutTestedOn": "2026-10-22",
+    "description": "Explore Mooncool electric trikes with our reader code. Check width, turning and storage space as carefully as frame fit and battery arrangements.",
+    "discount": {
+      "type": "percent",
+      "value": 5,
+      "scope": "5% reader code; exact TK2 Cyan Green-Matte eligibility and stacking observed at US checkout."
+    }
   },
   {
     "slug": "ancheer",
@@ -487,7 +492,11 @@ export const partners = [
     "name": "Actbest",
     "url": "https://actbestbike.com/81054420bg",
     "code": "SEBASTIAN3%",
-    "benefit": "3% off",
+    "discount": {
+      "type": "percent",
+      "value": 3,
+      "scope": "Bike Tested reader code; model eligibility is recorded per exact product variant"
+    },
     "category": "electric-bikes",
     "platform": "BixGrow",
     "reportedOn": "2026-10-22",

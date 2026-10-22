@@ -34,6 +34,9 @@ export const guides = [
     "topics": [
       "electric-bikes"
     ],
+    "products": [
+      "mooncool-tk2-folding-electric-trike"
+    ],
     "related": [
       "torque-sensor-vs-cadence-sensor",
       "mid-drive-vs-hub-motor",
@@ -154,6 +157,9 @@ export const guides = [
       "panniers-vs-backpack",
       "presta-vs-schrader",
       "how-to-clean-lube-bike-chain"
+    ],
+    "products": [
+      "mooncool-tk2-folding-electric-trike"
     ]
   },
   {
@@ -659,7 +665,8 @@ export const guides = [
       "choose-your-first-ebike"
     ],
     "products": [
-      "aventon-pace-5-rec"
+      "aventon-pace-5-rec",
+      "mooncool-tk2-folding-electric-trike"
     ]
   },
   {
