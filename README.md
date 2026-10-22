@@ -36,7 +36,7 @@ Update `src/data/partners.js` with documented Bike Tested offers. Use `reportedO
 
 `docs/partner-review-queue.json` prepares all partners for product research. Run `npm run review:queue` to regenerate the initial queue from the registry; preserve subsequent editorial progress before regenerating. See `docs/partner-review-workflow.md` for product intake. KuKirin and Windgoo need storefront follow-up; Emax USA sells FPV/RC equipment and sits outside the cycling review queue. Link-check results live in `docs/partner-store-checks-2026-10-22.json`; they do not prove checkout, tracking attribution or fulfillment.
 
-Analytics hooks exist for affiliate clicks and code copies, including brand and placement. No analytics provider is configured, and no event-delivery or commission claim is made.
+Analytics hooks exist for affiliate clicks and code copies, including brand and placement. Cloudflare injects its page-view/performance analytics beacon in production. No affiliate-event destination is configured, and no event-delivery or commission claim is made.
 
 See `docs/launch-readiness.md` for hosting and remaining commercial configuration. No automatic publishing or IndexNow submissions happen during builds.
 
