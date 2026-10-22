@@ -6,7 +6,7 @@
       "brand": "Mooncool",
       "brandSlug": "mooncool",
       "category": "electric-bikes",
-      "status": "review-in-progress-substitute-for-luckeep",
+      "status": "review-published-substitute-for-luckeep",
       "priority": 1,
       "product": "Mooncool TK2 Folding Electric Trike, US Cyan Green-Matte (variant 46144887226540)",
       "officialSource": "https://www.mooncool.com/products/tk2-electric-trike",
@@ -16,7 +16,7 @@
       "reportedBenefit": "5% off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-22",
-      "nextStep": "Substitute for unavailable Luckeep products after both selected candidates redirected to the supplied homepage. Code acceptance and the $74.99 discount are scoped to Cyan Green-Matte variant 46144887226540; finish validation and exact-commit release before starting Ausom."
+      "nextStep": "Published and verified on the exact Cloudflare Pages deployment for commit 4222abca3967259a82864c674a80fa16da9ae157 (deployment 3afdb02d-b6aa-4de6-9c1d-6980d509c832); live review and promo routes show the exact variant price, code, canonical and image. Proceed to Ausom."
     },
     {
       "brand": "Ancheer",
