@@ -111,7 +111,7 @@ export const guides = [
     "topics": [
       "electric-mobility"
     ],
-    "products": ["ausom-gosoul-2-electric-scooter","ekx-x21-max-electric-dirt-bike"],
+    "products": ["ausom-gosoul-2-electric-scooter","ekx-x21-max-electric-dirt-bike","leoout-t85-electric-scooter"],
     "related": [
       "folding-vs-full-size-ebike",
       "panniers-vs-backpack",

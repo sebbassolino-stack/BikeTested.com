@@ -102,7 +102,7 @@
       "brand": "EKX",
       "brandSlug": "ekx",
       "category": "electric-mobility",
-      "status": "review-implemented-awaiting-live-release",
+      "status": "review-published-live-routes-verified",
       "priority": 1,
       "product": "EKX X21 Max Electric Dirt Bike, 8000W(Peak) / 60V 30Ah / United States (variant 46552269914299)",
       "officialSource": "https://ekxbike.com/products/ekx-x21-max-electric-dirt-bike?variant=46552269914299",
@@ -112,7 +112,7 @@
       "reportedBenefit": "$150 off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-23",
-      "nextStep": "Local checks/build and desktop/375px review and promo QA passed, including copy feedback, image load, extensionless canonicals and no horizontal overflow. Push the scoped review and verify the exact Cloudflare Pages deployment and live routes."
+      "nextStep": "Published in commit af23976; the live review and promo routes and product image return 200. Live review content shows the exact variant, observed code amount and canonical. Desktop and 375px review/promo QA passed. Cloudflare deployment ID was not retrievable from the locked dashboard session."
     },
     {
       "brand": "Eunorau",
@@ -134,7 +134,7 @@
       "brand": "FinBike",
       "brandSlug": "finbike",
       "category": "electric-bikes",
-      "status": "review-implemented-awaiting-live-release",
+      "status": "review-published-live-routes-verified",
       "priority": 1,
       "product": "FinBike EB8 Folding Fat-Tire Electric Bike, Grey / Europe (variant 46371984277561; SKU 5801997)",
       "officialSource": "https://www.finbike.com/products/finbike-eb8-electric-bike",
@@ -214,17 +214,17 @@
       "brand": "Leoout",
       "brandSlug": "leoout",
       "category": "electric-mobility",
-      "status": "ready-for-product-research",
+      "status": "review-implemented-awaiting-live-release",
       "priority": 1,
-      "product": null,
-      "officialSource": null,
-      "reviewUrl": null,
+      "product": "Leoout T85 Electric Scooter, Scooter with Seat (variant 53358973976889)",
+      "officialSource": "https://www.leoout.com/products/leoout-t85?variant=53358973976889",
+      "reviewUrl": "/reviews/leoout-t85-electric-scooter",
       "affiliateUrl": "https://leoout.com/?ref=SEBASTIANBASSOLINO",
       "code": "SEBASTIANBASSOL",
       "reportedBenefit": "$100 off",
       "offerDetailNeeded": false,
-      "checkoutTestedOn": null,
-      "nextStep": "Choose one exact current SKU from this storefront; record model, variant, primary specifications and official image provenance before drafting."
+      "checkoutTestedOn": "2026-10-23",
+      "nextStep": "Exact official variant, seller specifications and image provenance recorded. SEBASTIANBASSOL was accepted for $100 off variant 53358973976889 at checkout; no address or order. Local review, promo and guide integration implemented; npm run build and desktop review/promo QA passed. The browser viewport stayed at 1280px, so 375px QA is unverified. Push and verify the live review, promo route and product image."
     },
     {
       "brand": "Luckeep",

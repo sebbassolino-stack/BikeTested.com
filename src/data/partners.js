@@ -118,13 +118,19 @@ export const partners = [
     "name": "Leoout",
     "url": "https://leoout.com/?ref=SEBASTIANBASSOLINO",
     "code": "SEBASTIANBASSOL",
-    "benefit": "$100 off",
+    "benefit": "$100.00 off",
+    "discount": {
+      "type": "fixed",
+      "value": 100,
+      "currency": "USD",
+      "scope": "Accepted on the T85 Electric Scooter, Scooter with Seat variant (53358973976889) on October 23, 2026; other models and variants are untested."
+    },
     "category": "electric-mobility",
     "platform": "GoAffPro",
     "reportedOn": "2026-10-22",
     "status": "active",
     "evidence": "Owner-confirmed live Bike Tested partner roster, October 22, 2026",
-    "checkoutTestedOn": null,
+    "checkoutTestedOn": "2026-10-23",
     "description": "Explore Leoout electric scooters with the Bike Tested reader code. Check the selected model’s dimensions, handling requirements and service options before buying."
   },
   {

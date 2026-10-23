@@ -214,6 +214,75 @@ export const products = [
     "price":{"amountMinor":194900,"currency":"USD","region":"US","variantId":"46552269914299","variantLabel":"8000W(Peak) / 60V 30Ah / United States","source":"https://ekxbike.com/products/ekx-x21-max-electric-dirt-bike?variant=46552269914299","checkedOn":"2026-10-23","isSalePrice":true},
     "eligibility":{"status":"eligible","variantId":"46552269914299","evidence":"docs/evidence/ekx-x21-max-electric-dirt-bike.md#checkout"},
     "checkoutObservation":{"code":"SEBASTIANBASSOL","variantId":"46552269914299","baseAmountMinor":194900,"discountMinor":15000,"afterAmountMinor":179900,"currency":"USD","checkedOn":"2026-10-23","exclusions":"Before shipping and tax; no address entered and no order placed."}
+  },
+  {
+    "slug":"leoout-t85-electric-scooter",
+    "brand":"leoout",
+    "name":"Leoout T85 Electric Scooter",
+    "model":"T85",
+    "image":"/images/products/leoout-t85-electric-scooter.webp",
+    "imageAlt":"Black and gold Leoout T85 electric scooter with the seat-equipped configuration",
+    "imageWidth":1200,
+    "imageHeight":1200,
+    "category":"electric-mobility",
+    "use":"private",
+    "label":"For permitted off-road routes",
+    "headline":"A dual-drive scooter with an 85 km/h claim.",
+    "description":"The T85 pairs a seller-listed 5,600W dual-drive system with 11-inch off-road tires, hydraulic brakes and a seat-equipped version. Leoout lists an 85 km/h top speed and says its factory default speed limit is 17 mph.",
+    "verdict":"We would consider the Leoout T85 for an experienced rider who has already confirmed a suitable, permitted route and has the space to store a substantial scooter. Its published equipment list includes 11-inch off-road tires, hydraulic brakes, dual shock absorbers, NFC unlocking and a seat-equipped option. The listing's 85 km/h top-speed claim and much lower 17 mph factory default limit need clarification before purchase. Battery capacity, vehicle weight and dimensions are also missing, which makes it difficult to plan range, transport and storage. Read the short warranty and restrictive return terms alongside the hardware.",
+    "strengths":[
+      "The listing combines 11-inch off-road tires, dual shock absorbers and hydraulic brakes in a route-focused package.",
+      "A seat-equipped configuration is offered, and the product page lists NFC unlocking.",
+      "Leoout claims 5,600W across dual drive motors and a range of 80–100 km; these are manufacturer claims, not Bike Tested measurements.",
+      "SEBASTIANBASSOL was accepted on the exact Scooter with Seat variant, lowering its item amount by $100 at checkout."
+    ],
+    "tradeoffs":[
+      "Leoout lists up to 85 km/h but says the factory default speed limit is 17 mph; the selected page does not explain the modes or conditions behind those figures.",
+      "The listing does not specify battery capacity, scooter weight, dimensions or a charging time, limiting route, fit and storage planning.",
+      "The 80–100 km range claim has no stated test conditions. The store also describes city routes as well as off-road riding, so verify local access for the exact scooter before choosing a route.",
+      "Leoout's US/Europe limited warranty lasts six months for the original online-store purchaser and excludes normal wear and several other conditions.",
+      "The return policy says returns within 30 days are limited to quality issues; it lists $300 shipping and a $250 restocking fee for a scooter returned with wear."
+    ],
+    "specs":{
+      "Drive system":"5,600W dual-drive motors (manufacturer-listed; output not independently measured)",
+      "Battery":"Capacity not listed on the selected product page",
+      "Claimed top speed":"Up to 85 km/h; Leoout says the factory default speed limit is 17 mph",
+      "Claimed range":"80–100 km (manufacturer-listed; test conditions not stated)",
+      "Tires":"11-inch off-road tires",
+      "Suspension":"Dual shock absorbers (manufacturer-listed)",
+      "Brakes":"Hydraulic brake system (manufacturer-listed)",
+      "Maximum load":"330 lb (manufacturer-listed)",
+      "Access":"NFC unlocking (manufacturer-listed)",
+      "Selected version":"Scooter with Seat"
+    },
+    "source":"https://www.leoout.com/products/leoout-t85?variant=53358973976889",
+    "sourceLinks":[
+      {"label":"Warranty information","url":"https://www.leoout.com/pages/warranty-information"},
+      {"label":"Return and refund terms","url":"https://www.leoout.com/pages/shipping-policy-1"},
+      {"label":"Shipping policy","url":"https://www.leoout.com/pages/shipping-policy"}
+    ],
+    "evidence":"Manufacturer-specification editorial evaluation; exact US variant checkout observation; no Bike Tested ride, speed or range test",
+    "sections":[
+      ["A route-specific scooter, not a generic commuter","Leoout presents the T85 as an off-road scooter but also refers to city riding. The specification sheet lists dual drive motors, 11-inch off-road tires, hydraulic brakes, dual shocks and an NFC display. That is a distinct setup from a compact last-mile scooter. We would shortlist it only after identifying where this exact model can be used and where it can be stored. Bike Tested has not ridden it or measured its braking, acceleration, handling or range."],
+      ["Resolve speed and battery questions first","The product page lists a maximum speed of 85 km/h and separately says the factory default limit is 17 mph. It does not explain which setting produces the higher figure or how the riding modes work. Ask Leoout to clarify the delivered setting and the equipment needed to change it; do not treat the headline speed as a verified riding result. The same page advertises 80–100 km of range without explaining its test conditions, and it does not state battery capacity. Get the battery specification and a realistic range estimate for your route before relying on the number."],
+      ["Plan for missing fit and ownership details","The selected listing does not provide the scooter's weight, dimensions or charging time. Those omissions matter if you need to carry it, fit it into a lift or vehicle, or charge it away from home. Leoout lists a 330 lb maximum load and offers a seat-equipped version, but gives no seat-height or cockpit-fit measurements on the selected page. Measure the intended storage space and ask the seller for the missing specifications before ordering."],
+      ["Read the support terms before you buy","Leoout's limited warranty covers eligible material and workmanship defects for six months for an original owner who bought through its online store in the US or Europe; the policy excludes normal wear, consumables, water damage and several other causes. Its return page says the 30-day return window is limited to quality issues. It also lists $300 shipping and a $250 restocking fee when a returned scooter shows wear. Read the current written terms and confirm support for your location before making a high-output scooter your regular transport." ]
+    ],
+    "publishedOn":"2026-10-23",
+    "updatedOn":"2026-10-23",
+    "specsCheckedOn":"2026-10-23",
+    "faqs":[
+      ["How far does the Leoout T85 travel on a charge?","Leoout lists an 80–100 km range but does not state the test conditions on the selected product page, and it does not list battery capacity there. This is a seller claim, not a Bike Tested range measurement. Ask for the battery specification and plan around your load, speed, route and conditions."],
+      ["How fast is the Leoout T85?","The product page lists a top speed of up to 85 km/h and also says the factory default speed limit is 17 mph. It does not explain the settings behind those figures. Confirm the delivered limit and mode behavior with Leoout; Bike Tested has not measured the scooter's speed."],
+      ["Does the Leoout T85 fold for storage?","The selected product page does not state whether the T85 folds or provide folded dimensions. Ask Leoout for the vehicle dimensions and a storage or transport guide before relying on a car trunk, lift or small storage space."],
+      ["What warranty and return terms apply to the Leoout T85?","Leoout's limited warranty is six months for the original owner who bought from its online store in the US or Europe, subject to its terms and exclusions. Its return policy limits the 30-day window to quality issues and lists $300 shipping plus a $250 restocking fee for a returned scooter with wear. Read the current terms before ordering."]
+    ],
+    "relatedReviews":[
+      {"slug":"ausom-gosoul-2-electric-scooter","reason":"If you are comparing scooter formats and want a lower seller-listed top speed with stated weight and folded dimensions, see our Ausom Gosoul 2 review; Ausom limits that model to private-property use."}
+    ],
+    "price":{"amountMinor":129999,"currency":"USD","region":"US","variantId":"53358973976889","variantLabel":"Scooter with Seat","source":"https://www.leoout.com/products/leoout-t85?variant=53358973976889","checkedOn":"2026-10-23","isSalePrice":true},
+    "eligibility":{"status":"eligible","variantId":"53358973976889","evidence":"docs/evidence/leoout-t85-electric-scooter.md#checkout"},
+    "checkoutObservation":{"code":"SEBASTIANBASSOL","variantId":"53358973976889","baseAmountMinor":129999,"discountMinor":10000,"afterAmountMinor":119999,"currency":"USD","checkedOn":"2026-10-23","exclusions":"shipping and destination-based charges not established because no delivery address was entered; no order placed."}
   }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
