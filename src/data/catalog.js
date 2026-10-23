@@ -494,6 +494,82 @@ export const products = [
     "price":{"amountMinor":59999,"currency":"EUR","region":"DE","variantId":"51947256611137","variantLabel":"Gray / Standard","source":"https://gebikeglobal.com/products/gebikeglobal-g03-trekking-electric-bike?variant=51947256611137","checkedOn":"2026-10-23","isSalePrice":true},
     "eligibility":{"status":"eligible","variantId":"51947256611137","evidence":"docs/evidence/gebike-g03-city-commuter-ebike.md#checkout-observation"},
     "checkoutObservation":{"code":"SEBASTIANBASSOL","variantId":"51947256611137","baseAmountMinor":59999,"discountMinor":1000,"afterAmountMinor":58999,"currency":"EUR","checkedOn":"2026-10-23","exclusions":"Taxes and shipping were shown as calculated at checkout; no delivery address was entered and no order was placed. Result applies only to Gray / Standard SKU E001-G03-G."}
+  },
+  {
+    "slug":"ancheer-hummer-electric-bike",
+    "brand":"ancheer",
+    "name":"ANCHEER Hummer Electric Bike",
+    "model":"Hummer, Blue / One Size",
+    "image":"/images/products/ancheer-hummer-electric-bike.webp",
+    "imageAlt":"Blue ANCHEER Hummer electric bicycle, Blue / One Size configuration",
+    "imageWidth":1200,
+    "imageHeight":1200,
+    "category":"electric-bikes",
+    "use":"recreation",
+    "label":"For everyday rides and light off-road routes",
+    "headline":"A removable 499 Wh battery, with fit to verify.",
+    "description":"The Hummer adds Shimano 21-speed gearing, a lockable fork and a 750W peak claim. Its Blue / One Size frame needs a careful fit check.",
+    "verdict":"We would shortlist the ANCHEER Hummer for a rider who wants a removable 499 Wh battery, a lockable fork and conventional 21-speed gearing for everyday trips and the occasional smooth dirt path. The 27.5 × 2.1-inch tires are not a substitute for a trail-specific setup, and the One Size listing leaves rider fit unclear. Ask Ancheer to confirm reach and sizing before ordering. Its advertised 50-mile range and 22 mph top speed are seller claims, not Bike Tested measurements; check local e-bike rules for the exact model and route.",
+    "strengths":[
+      "The seller lists a removable 48V 10.4Ah battery (499 Wh), which can be taken indoors for charging.",
+      "A 750W peak rear hub motor and 73 Nm torque claim are paired with five pedal-assist levels, a throttle and cruise control.",
+      "The lockable suspension fork, 27.5 × 2.1-inch tires, dual mechanical disc brakes and Shimano 21-speed drivetrain give the Hummer a familiar bicycle-style equipment mix.",
+      "The Blue / One Size variant accepted SEBASTIANBASSOL at checkout for $33.99 off its $679.99 item price."
+    ],
+    "tradeoffs":[
+      "Ancheer lists this configuration as One Size but does not give a clear rider-height range or a full geometry chart. Ask about reach, stand-over and saddle adjustment before buying.",
+      "The product page advertises up to 50 miles and 22 mph. Those are manufacturer claims rather than Bike Tested measurements, and the page does not state enough test conditions to plan a dependable route from them.",
+      "A 750W peak output and 22 mph speed claim do not by themselves establish how the bike is classified where you live. Confirm the delivered model and local road or path rules.",
+      "The seller lists a 265 lb maximum load but does not clearly state the complete bike weight on the selected product page. Ask for both figures if lifting or carrying the bike is part of your routine.",
+      "Ancheer limits shipping to the lower 48 states. Its return policy describes a 30-day request window but also says sale items are non-refundable; this listing is discounted, so confirm in writing whether the standard return window applies. Customers pay return shipping on free-shipping orders.",
+      "The warranty policy lists one-year coverage for core e-bike components for the original purchaser, with shorter periods for some components. Confirm how those terms apply to the exact order."
+    ],
+    "specs":{
+      "Configuration / SKU":"Blue / One Size; variant 48841960390898; SKU US01+AMAK00009_P00_CA_BU",
+      "Motor":"750W peak rear hub motor; 73 Nm torque (seller-listed)",
+      "Battery":"48V 10.4Ah removable battery; 499 Wh (seller-listed)",
+      "Claimed top speed":"Up to 22 mph (manufacturer claim)",
+      "Claimed range":"Up to 50 miles (manufacturer claim; conditions not specified on the listing)",
+      "Tires":"27.5 × 2.1 inches",
+      "Fork":"Lockable suspension fork",
+      "Brakes":"Dual mechanical disc brakes",
+      "Drivetrain":"Shimano 21-speed gearing",
+      "Assist and controls":"Five pedal-assist levels, throttle and cruise control (seller-listed)",
+      "Display":"LCD digital display",
+      "Maximum load":"265 lb (manufacturer-listed)",
+      "Water-resistance claim":"IPX5 (manufacturer-listed)",
+      "Fit information":"One Size; no clear rider-height range or full geometry chart on the selected listing"
+    },
+    "source":"https://www.ancheer.shop/products/ancheer-hummer-ebike?variant=48841960390898",
+    "sourceLinks":[
+      {"label":"Shipping information","url":"https://www.ancheer.shop/pages/shipping-information"},
+      {"label":"Return and refund policy","url":"https://www.ancheer.shop/pages/return-and-refund-policy"},
+      {"label":"Warranty policy","url":"https://www.ancheer.shop/pages/warranty-policy"}
+    ],
+    "evidence":"Manufacturer-specification review; exact Blue / One Size checkout observed",
+    "sections":[
+      ["A useful everyday equipment mix","The Hummer combines a removable battery with a lockable suspension fork, Shimano 21-speed gearing and dual mechanical disc brakes. That gives it a familiar bicycle layout, while the seller's 750W peak and 73 Nm figures describe a stronger assist claim than the equipment list alone can explain. We would consider it for paved trips, neighborhood errands and the occasional smooth dirt path, then verify the fit and delivered configuration before choosing a route."],
+      ["Resolve the one-size question before comparing deals","The selected variant is Blue / One Size. The product page does not provide a rider-height band or a complete geometry chart, so the label is not enough to establish comfortable reach or stand-over. Ask Ancheer for those measurements and compare them with a bike you already fit. The listing also gives a 265 lb maximum load but does not clearly state the complete bike's weight; ask for it if you will carry the bike up stairs or lift it onto a rack."],
+      ["Use the range and speed as seller estimates","Ancheer advertises a 50-mile maximum range, 22 mph top speed and IPX5 water-resistance rating. The page does not give route, load or assist conditions for the range claim, and Bike Tested has not measured this bike. A 499 Wh battery is a useful comparison point, not a guarantee of distance. Plan with a charging margin, and check how the delivered model is classified under the rules for the roads and paths you intend to use."],
+      ["Check the full ownership terms","The official store says it ships free within the lower 48 states and estimates three to seven business days in transit after processing. Its return policy describes a 30-day request window, yet also says sale items are non-refundable; because this Hummer listing is discounted, ask the seller to confirm in writing whether the standard return window applies. Customers pay return shipping on free-shipping orders. The warranty policy lists one-year coverage for the frame, fork, battery, motor, controller and charger for the original purchaser, with shorter coverage for some other components. Read the current regional terms and ask about local service before ordering."],
+      ["What the reader code changed","On October 23, 2026, the cart accepted SEBASTIANBASSOL for the Blue / One Size Hummer (variant 48841960390898; SKU US01+AMAK00009_P00_CA_BU). The listed $679.99 item price fell by $33.99 to $646.00 before shipping and tax. The cart indicated free-shipping eligibility, but no delivery address was entered, no shipping or tax was calculated, and no order was placed. This observation covers only the selected variant; other colors and models were not tested. A separate storefront promotion was not tested or stacked."]
+    ],
+    "publishedOn":"2026-10-23",
+    "updatedOn":"2026-10-23",
+    "specsCheckedOn":"2026-10-23",
+    "faqs":[
+      ["What rider height does the ANCHEER Hummer fit?","The selected Blue / One Size listing does not give a clear rider-height range or full geometry chart. Ask Ancheer for reach, stand-over and saddle-adjustment measurements, then compare them with a bike that fits you."],
+      ["How far can the Hummer travel on one charge?","Ancheer advertises up to 50 miles from the Hummer's removable 48V 10.4Ah / 499 Wh battery. That is a seller estimate without clear test conditions on the selected listing, not a Bike Tested measurement. Rider load, route, weather and assist use affect real distance."],
+      ["What is the ANCHEER Hummer's maximum load?","The product page lists a 265 lb maximum load. It does not clearly state the bike's complete weight on the selected listing, so ask the seller if carrying or lifting the bike is important to your setup."],
+      ["Does the ANCHEER code apply to the Hummer?","SEBASTIANBASSOL was accepted for the Blue / One Size Hummer variant 48841960390898 on October 23, 2026. It reduced the $679.99 item price by $33.99 to $646.00 before shipping and tax. Other Hummer colors and models were not checked."],
+      ["Can I ride the Hummer on public roads?","Ancheer lists a 750W peak motor and a top speed of up to 22 mph. Those seller specifications do not establish the vehicle class or access rules in every location; check the requirements for the model delivered to you and the routes you plan to ride."]
+    ],
+    "relatedReviews":[
+      {"slug":"gebike-g03-city-commuter-ebike","reason":"If fit guidance and an everyday low-step frame matter more, compare the GEBIKE G03 and its listed dimensions before choosing a one-size bike."}
+    ],
+    "price":{"amountMinor":67999,"currency":"USD","region":"US","variantId":"48841960390898","variantLabel":"Blue / One Size","source":"https://www.ancheer.shop/products/ancheer-hummer-ebike?variant=48841960390898","checkedOn":"2026-10-23","isSalePrice":true},
+    "eligibility":{"status":"eligible","variantId":"48841960390898","evidence":"docs/evidence/ancheer-hummer-electric-bike.md#checkout-observation"},
+    "checkoutObservation":{"code":"SEBASTIANBASSOL","variantId":"48841960390898","baseAmountMinor":67999,"discountMinor":3399,"afterAmountMinor":64600,"currency":"USD","checkedOn":"2026-10-23","exclusions":"Before shipping and tax; cart indicated free-shipping eligibility but no address was entered; no order placed. Result applies only to Blue / One Size SKU US01+AMAK00009_P00_CA_BU."}
   }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}

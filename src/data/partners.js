@@ -369,7 +369,12 @@ export const partners = [
     "status": "active",
     "evidence": "Owner-confirmed live Bike Tested partner roster, October 22, 2026",
     "checkoutTestedOn": null,
-    "description": "Explore Ancheer electric bikes with the Bike Tested reader code. Compare your chosen frame and battery variant with the listing, accessories and assembly requirements."
+    "description": "Explore Ancheer electric bikes with the Bike Tested reader code. Our checkout observation covers the Hummer Blue / One Size variant only; confirm fit, configuration and your final total for the bike you choose.",
+    "discount": {
+      "type": "percent",
+      "value": 5,
+      "scope": "Five percent observed on ANCHEER Hummer Blue / One Size US variant 48841960390898 only; other models, variants and stacking were not tested."
+    }
   },
   {
     "slug": "windgoo",

@@ -30,11 +30,11 @@ export const guides = [
       ]
     ],
     "publishedOn": "2026-10-19",
-    "updatedOn": "2026-10-22",
+    "updatedOn": "2026-10-23",
     "topics": [
       "electric-bikes"
     ],
-    "products": ["mooncool-tk2-folding-electric-trike","finbike-eb8-electric-bike","hiknight-h2-pro-off-road-ebike"],
+    "products": ["mooncool-tk2-folding-electric-trike","finbike-eb8-electric-bike","hiknight-h2-pro-off-road-ebike","ancheer-hummer-electric-bike"],
     "related": [
       "torque-sensor-vs-cadence-sensor",
       "mid-drive-vs-hub-motor",
