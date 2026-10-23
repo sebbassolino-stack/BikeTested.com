@@ -79,6 +79,69 @@ export const products = [
     "price":{"amountMinor":124900,"currency":"EUR","region":"Europe","variantId":"46371984277561","variantLabel":"Grey / Europe","source":"https://www.finbike.com/products/finbike-eb8-electric-bike","checkedOn":"2026-10-22","isSalePrice":false},
     "eligibility":{"status":"eligible","variantId":"46371984277561","evidence":"docs/evidence/finbike-eb8-electric-bike.md#checkout"},
     "checkoutObservation":{"code":"SEBASTIANBASSOL","variantId":"46371984277561","baseAmountMinor":124900,"discountMinor":9992,"afterAmountMinor":114908,"currency":"EUR","checkedOn":"2026-10-22","exclusions":"Before shipping; no delivery address entered."}
+  },
+  {
+    "slug":"hiknight-h2-pro-off-road-ebike",
+    "brand":"hiknight",
+    "name":"HiKNiGHT H2 Pro Off-Road E-Bike",
+    "model":"H2 Pro",
+    "image":"/images/products/hiknight-h2pro-off-road-electric-bike.webp",
+    "imageAlt":"HiKNiGHT H2 Pro Grey dual-motor fat-tire e-bike with rear rack",
+    "imageWidth":1200,
+    "imageHeight":1200,
+    "category":"electric-bikes",
+    "use":"weekend",
+    "label":"For high-output off-road riding",
+    "headline":"Dual-motor power, with a heavy-bike footprint.",
+    "description":"A 26 × 4.0-inch step-through platform with dual motors and a removable 52V battery. HiKNiGHT advertises speeds up to 40 mph, so check the intended riding area, local rules and storage before ordering.",
+    "verdict":"We recommend the HiKNiGHT H2 Pro only for riders who specifically want a high-output off-road e-bike and have the space and strength to manage a bike listed at 36 kg. Its dual-motor setup, 26 × 4.0-inch tires, removable 52V 20Ah battery and hydraulic brakes make an ambitious trail-oriented package. The seller's 40 mph top-speed claim puts it outside a routine commuter brief; check the rules for your intended roads and trails. The Grey US variant accepted the Bike Tested code in checkout.",
+    "strengths":[
+      "A removable 52V 20Ah battery supports flexible charging and contains 1,040Wh by calculation from the listed voltage and capacity.",
+      "Dual motors, 26 × 4.0-inch tires and a suspension fork are aimed at demanding off-road use.",
+      "The seller lists hydraulic disc brakes, a seven-speed Shimano drivetrain and a step-through frame.",
+      "A US Grey variant accepted the supplied $100 code in checkout, reducing the item subtotal from $1,349 to $1,249 before shipping and tax."
+    ],
+    "tradeoffs":[
+      "At 36 kg (about 79 lb), it is a substantial bike to lift, store or maneuver in tight spaces.",
+      "The advertised 40 mph top speed calls for careful checks of local vehicle rules and where the bike may be ridden; do not assume it belongs on ordinary bike routes.",
+      "The product page gives different motor and range descriptions in separate sections; treat these as seller claims and confirm the exact configuration.",
+      "HiKNiGHT's listed rider-height and seat measurements vary slightly across page sections, so confirm reach and fit before ordering."
+    ],
+    "specs":{
+      "Motor":"Dual motors; product description says 1,500W × 2, while the page separately claims 4,000W peak",
+      "Peak torque":"140 N·m (seller-listed)",
+      "Battery":"52V 20Ah removable; 1,040Wh calculated from listed voltage and capacity",
+      "Top speed":"Up to 40 mph (seller claim)",
+      "Claimed range":"60–90 miles in the specification table; another product-page feature says 80+ miles",
+      "Wheels and tires":"26 × 4.0 inches",
+      "Brakes":"Hydraulic disc; 180 mm rotors (seller-listed)",
+      "Drivetrain":"Shimano 7-speed",
+      "Listed bike weight":"36 kg (about 79.4 lb)",
+      "Maximum payload":"380 lb (seller-listed)",
+      "Recommended rider height":"5 ft 5 in–6 ft 5 in (seller-listed; measurements vary between page sections)"
+    },
+    "source":"https://hiknightebike.com/products/hiknight-h2pro-dual-motor-fat-tire-electric-bike?variant=46697841885404",
+    "evidence":"Manufacturer specification evaluation; exact Grey US variant checkout observation; no Bike Tested riding or speed test",
+    "sections":[
+      ["A high-output off-road brief","The H2 Pro is built around two motors, 26 × 4.0-inch tires and a removable 52V 20Ah battery. HiKNiGHT advertises 4,000W peak output, 140 N·m peak torque and speeds up to 40 mph. Those are seller claims, not Bike Tested measurements. Start with the terrain and riding areas you can use, then confirm the bike's local class, access rules and required equipment before buying. A high advertised speed does not make this a sensible default commuter."],
+      ["Plan for the complete 36 kg bike","HiKNiGHT lists the H2 Pro at 36 kg, roughly 79.4 lb, with a recommended rider-height range of 5 ft 5 in to 6 ft 5 in. The page gives slightly different height and seat measurements in separate sections. Check reach, saddle adjustment, control access and mounting movement on the exact build. Make a roll-in storage plan and consider the weight before choosing a garage, apartment or vehicle carrier; this is not a convenient bike to lift repeatedly."],
+      ["Read the motor and range claims carefully","The page describes the motors as 1,500W × 2 and elsewhere advertises 4,000W peak output. Its specification table gives 60–90 miles of range, while another page section says 80+ miles. HiKNiGHT says performance varies with load, terrain, weather and riding mode; neither range figure has been measured by Bike Tested. Use battery capacity as one comparison point, plan conservatively, and ask the seller to confirm the exact motor configuration and written support terms. The Grey US variant accepted the supplied code at checkout; recheck the code and item subtotal before ordering." ]
+    ],
+    "publishedOn":"2026-10-22",
+    "updatedOn":"2026-10-22",
+    "specsCheckedOn":"2026-10-22",
+    "faqs":[
+      ["How fast does the HiKNiGHT H2 Pro go?","HiKNiGHT advertises a top speed of up to 40 mph. Actual speed depends on riding conditions, and the product page does not establish where this vehicle may legally be used. Check the requirements for your location and intended roads or trails before ordering."],
+      ["How far can the H2 Pro travel on one charge?","The specification table claims 60–90 miles, while another product-page feature says 80+ miles. HiKNiGHT notes that load, terrain, weather and riding mode affect performance. These are manufacturer claims, not Bike Tested range measurements; leave a reserve for your own route."],
+      ["How heavy is the H2 Pro, and who does it fit?","HiKNiGHT lists a weight of 36 kg (about 79.4 lb) and a rider-height range of 5 ft 5 in to 6 ft 5 in. Separate page sections show slightly different measurements. Confirm reach and saddle range on the exact configuration, and plan for ground-level storage if you cannot lift a heavy bike."],
+      ["Can I use the H2 Pro on public roads or trails?","The seller positions the H2 Pro as an off-road e-bike and advertises speeds up to 40 mph. Rules and access vary by location and route. Confirm the vehicle class, registration or equipment requirements, and trail access with the relevant local authority before riding in public areas."]
+    ],
+    "relatedReviews":[
+      {"slug":"lectric-xpress2","reason":"If the H2 Pro is more power and weight than your routine calls for, compare a commuter-focused electric bike with a conventional riding brief."}
+    ],
+    "price":{"amountMinor":134900,"currency":"USD","region":"US","variantId":"46697841885404","variantLabel":"Grey","source":"https://hiknightebike.com/products/hiknight-h2pro-dual-motor-fat-tire-electric-bike?variant=46697841885404","checkedOn":"2026-10-22","isSalePrice":true},
+    "eligibility":{"status":"eligible","variantId":"46697841885404","evidence":"docs/evidence/hiknight-h2-pro-off-road-ebike.md#checkout"},
+    "checkoutObservation":{"code":"SEBASTIANBASSOL","variantId":"46697841885404","baseAmountMinor":134900,"discountMinor":10000,"afterAmountMinor":124900,"currency":"USD","checkedOn":"2026-10-22","exclusions":"Before shipping and tax; no delivery address entered; checkout displayed an estimated tax that was not final."}
   }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}

@@ -182,17 +182,17 @@
       "brand": "Hiknight",
       "brandSlug": "hiknight",
       "category": "electric-bikes",
-      "status": "ready-for-product-research",
+      "status": "review-implemented-awaiting-live-release",
       "priority": 1,
-      "product": null,
-      "officialSource": null,
-      "reviewUrl": null,
+      "product": "HiKNiGHT H2 Pro Off-Road E-Bike, Grey US (variant 46697841885404; SKU HKN-H2PRO-Bag-GR-US)",
+      "officialSource": "https://hiknightebike.com/products/hiknight-h2pro-dual-motor-fat-tire-electric-bike?variant=46697841885404",
+      "reviewUrl": "/reviews/hiknight-h2-pro-off-road-ebike",
       "affiliateUrl": "https://hiknightebike.com/?ref=SEBASTIANBASSOLINO",
       "code": "SEBASTIANBASSOL",
       "reportedBenefit": "$100 off",
       "offerDetailNeeded": false,
-      "checkoutTestedOn": null,
-      "nextStep": "Choose one exact current SKU from this storefront; record model, variant, primary specifications and official image provenance before drafting."
+      "checkoutTestedOn": "2026-10-22",
+      "nextStep": "Exact Grey US variant accepted the code in checkout: $100 off the $1,349 bike item, leaving $1,249 before shipping and tax. Published release and live review/promo verification are pending."
     },
     {
       "brand": "Hycline",

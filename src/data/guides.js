@@ -34,10 +34,7 @@ export const guides = [
     "topics": [
       "electric-bikes"
     ],
-    "products": [
-      "mooncool-tk2-folding-electric-trike",
-      "finbike-eb8-electric-bike"
-    ],
+    "products": ["mooncool-tk2-folding-electric-trike","finbike-eb8-electric-bike","hiknight-h2-pro-off-road-ebike"],
     "related": [
       "torque-sensor-vs-cadence-sensor",
       "mid-drive-vs-hub-motor",
@@ -360,7 +357,7 @@ export const guides = [
     ],
     "image": "/images/lifestyle.webp",
     "publishedOn": "2026-10-21",
-    "updatedOn": "2026-10-21",
+    "updatedOn": "2026-10-22",
     "answer": "A hub motor drives a wheel; a mid-drive sends power through the bike’s drivetrain. We would compare mid-drives closely for sustained climbing and changing loads, and include hub-drive bikes for straightforward everyday riding. Choose using the complete bike, local service, and your route rather than motor wattage alone.",
     "sections": [
       {
@@ -455,10 +452,7 @@ export const guides = [
       "ebike-range-explained",
       "choose-your-first-ebike"
     ],
-    "products": [
-      "ride1up-roadster-v3",
-      "lectric-xpress2"
-    ]
+    "products": ["ride1up-roadster-v3","lectric-xpress2","hiknight-h2-pro-off-road-ebike"]
   },
   {
     "slug": "belt-drive-vs-chain-drive",
@@ -576,7 +570,7 @@ export const guides = [
     ],
     "image": "/images/lifestyle.webp",
     "publishedOn": "2026-10-21",
-    "updatedOn": "2026-10-21",
+    "updatedOn": "2026-10-22",
     "answer": "A step-through frame reduces the height you need to step over when mounting; a step-over frame has a higher top tube. We recommend choosing by comfortable mounting, fit, and the actual bike’s load and rack compatibility. Frame style alone does not determine quality, rider gender, or riding position.",
     "sections": [
       {
@@ -667,10 +661,7 @@ export const guides = [
       "folding-vs-full-size-ebike",
       "choose-your-first-ebike"
     ],
-    "products": [
-      "aventon-pace-5-rec",
-      "mooncool-tk2-folding-electric-trike"
-    ]
+    "products": ["aventon-pace-5-rec","mooncool-tk2-folding-electric-trike","hiknight-h2-pro-off-road-ebike"]
   },
   {
     "slug": "fat-tire-vs-regular-tire-ebikes",
@@ -778,7 +769,7 @@ export const guides = [
       "folding-vs-full-size-ebike",
       "ebike-range-explained"
     ],
-    "products": ["finbike-eb8-electric-bike"]
+    "products": ["finbike-eb8-electric-bike","hiknight-h2-pro-off-road-ebike"]
   },
   {
     "slug": "folding-vs-full-size-ebike",
@@ -1312,12 +1303,7 @@ export const guides = [
       "torque-sensor-vs-cadence-sensor",
       "fat-tire-vs-regular-tire-ebikes"
     ],
-    "products": [
-      "aventon-pace-5-rec",
-      "ride1up-roadster-v3",
-      "lectric-xpress2",
-      "finbike-eb8-electric-bike"
-    ]
+    "products": ["aventon-pace-5-rec","ride1up-roadster-v3","lectric-xpress2","finbike-eb8-electric-bike","hiknight-h2-pro-off-road-ebike"]
   },
   {
     "slug": "cost-to-charge-an-ebike",
