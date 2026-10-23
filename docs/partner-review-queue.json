@@ -144,7 +144,7 @@
       "reportedBenefit": "8% off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-22",
-      "nextStep": "Implementation, checkout evidence, build and 375px browser QA are complete. Push to origin main, verify the exact Cloudflare Pages deployment and live review/promo routes, then record the release."
+      "nextStep": "Published and verified on exact Cloudflare Pages deployment for commit 56c81d6 (deployment db3a8bd2-47ca-4fd2-b11a-fec8f5bdbef6; active). Live review and promo show the exact variant price, code and scope, canonical, and loaded product image."
     },
     {
       "brand": "GEBIKE",
