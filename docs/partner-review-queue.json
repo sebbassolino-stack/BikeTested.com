@@ -278,7 +278,7 @@
       "brand": "Young Electric",
       "brandSlug": "young-electric",
       "category": "components",
-      "status": "review-implemented-awaiting-live-release",
+      "status": "review-published-live-routes-verified",
       "priority": 1,
       "product": "Young Electric Tire-Press 2 E-Bike Rack with Ramp and Brake Light (variant 45170442535120, SKU 10104186BL-M)",
       "officialSource": "https://youngelectricbikes.com/products/200lbs-capacity-tire-clamp-e-bike-rack-with-ramp-adn-brake-light?variant=45170442535120",
@@ -288,7 +288,7 @@
       "reportedBenefit": "$15 off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-23",
-      "nextStep": "Exact Tire-Press 2 configuration, model, manual, specifications, policy details and image provenance recorded. SEBASTIANBASSOL was accepted in checkout for $15 off the $669.99 sale price on variant 45170442535120 / SKU 10104186BL-M, to a $654.99 item subtotal. No address or order; checkout displayed an estimated $43.39 tax before address details. Image cutout was visually checked on light and dark backgrounds. Build and live release remain."
+      "nextStep": "Published in c110e4d; offer-copy refinement in 2a6fc23. Live review, promo page and transparent official-image cutout each return 200, with the served image SHA-256 matching the local 1200x1200 WebP. SEBASTIANBASSOL was accepted for $15 off the $669.99 sale price on variant 45170442535120 / SKU 10104186BL-M, to a $654.99 item subtotal before shipping and tax. Checkout displayed an estimated $43.39 tax before address details; shipping was uncalculated and no order was placed. Desktop live QA passed; 375px is unverified and the Cloudflare deployment ID was not retrieved."
     },
     {
       "brand": "ZWheel",
