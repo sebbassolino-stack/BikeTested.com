@@ -26,7 +26,7 @@ npm run preview
 - `docs/image-sources.json`: official manufacturer image provenance.
 - `docs/design-system.md`: visual direction and original concept reference.
 
-The build produces 115 HTML pages, including three product reviews, 18 buying guides, two editorial comparisons, an interactive comparison tool, a qualitative shortlist, six categories, 47 brand pages, 24 promo pages, and offer/trust pages. No numerical ratings or generated product photos.
+The static build includes product reviews, 18 buying guides, editorial comparisons, an interactive comparison tool, a qualitative shortlist, six categories, brand pages, promo pages, and offer/trust pages. No numerical ratings or generated product photos.
 
 ## Monetization
 

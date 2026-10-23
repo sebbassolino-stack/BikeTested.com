@@ -545,6 +545,11 @@ export const partners = [
     "url": "https://www.finbike.com/?ref=SEBASTIANBASSOLINO",
     "code": "SEBASTIANBASSOL",
     "benefit": "8% off",
+    "discount": {
+      "type": "percent",
+      "value": 8,
+      "scope": "Accepted on the EB8 Grey / Europe single-bike variant (SKU 5801997) on October 22, 2026; other colors, bundles, and models are untested."
+    },
     "category": "electric-bikes",
     "platform": "GoAffPro",
     "reportedOn": "2026-10-22",

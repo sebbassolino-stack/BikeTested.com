@@ -30,12 +30,13 @@ export const guides = [
       ]
     ],
     "publishedOn": "2026-10-19",
-    "updatedOn": "2026-10-19",
+    "updatedOn": "2026-10-22",
     "topics": [
       "electric-bikes"
     ],
     "products": [
-      "mooncool-tk2-folding-electric-trike"
+      "mooncool-tk2-folding-electric-trike",
+      "finbike-eb8-electric-bike"
     ],
     "related": [
       "torque-sensor-vs-cadence-sensor",
@@ -246,7 +247,7 @@ export const guides = [
     ],
     "image": "/images/lifestyle.webp",
     "publishedOn": "2026-10-21",
-    "updatedOn": "2026-10-21",
+    "updatedOn": "2026-10-22",
     "answer": "A torque sensor responds to how hard you pedal; a cadence sensor detects pedal rotation and helps trigger assistance according to the bike’s programming. We would start with torque sensing for a connected pedaling feel, and try cadence sensing if low-effort cruising is the priority. The controller matters as much as the sensor label.",
     "sections": [
       {
@@ -344,7 +345,8 @@ export const guides = [
     ],
     "products": [
       "ride1up-roadster-v3",
-      "lectric-xpress2"
+      "lectric-xpress2",
+      "finbike-eb8-electric-bike"
     ]
   },
   {
@@ -681,7 +683,7 @@ export const guides = [
     ],
     "image": "/images/lifestyle.webp",
     "publishedOn": "2026-10-21",
-    "updatedOn": "2026-10-21",
+    "updatedOn": "2026-10-22",
     "answer": "Fat tires offer more air volume and can suit soft surfaces; a narrower commuter tire may be the simpler choice for a mostly paved routine. We would buy for the route, storage, and full bike weight first. Tire width alone does not establish grip, comfort, range, or off-road capability.",
     "sections": [
       {
@@ -776,7 +778,7 @@ export const guides = [
       "folding-vs-full-size-ebike",
       "ebike-range-explained"
     ],
-    "products": []
+    "products": ["finbike-eb8-electric-bike"]
   },
   {
     "slug": "folding-vs-full-size-ebike",
@@ -789,7 +791,7 @@ export const guides = [
     ],
     "image": "/images/lifestyle.webp",
     "publishedOn": "2026-10-21",
-    "updatedOn": "2026-10-21",
+    "updatedOn": "2026-10-22",
     "answer": "Choose a folding e-bike when its actual folded dimensions and handling solve a storage or transport problem. Choose a full-size bike when you have convenient parking and prefer a simpler daily setup. A folding frame reduces size; it does not automatically make a bike light or easy to carry.",
     "sections": [
       {
@@ -884,7 +886,7 @@ export const guides = [
       "panniers-vs-backpack",
       "bike-or-electric-scooter"
     ],
-    "products": []
+    "products": ["finbike-eb8-electric-bike"]
   },
   {
     "slug": "bike-tire-pressure",
@@ -1216,7 +1218,7 @@ export const guides = [
     ],
     "image": "/images/lifestyle.webp",
     "publishedOn": "2026-10-21",
-    "updatedOn": "2026-10-21",
+    "updatedOn": "2026-10-22",
     "answer": "E-bike range has no single reliable miles-per-charge answer. Battery energy, assistance, rider and luggage load, terrain, speed, weather, and battery condition all matter. Compare watt-hours and the stated test conditions, then plan your own route with a reserve rather than treating an advertised maximum as a guarantee.",
     "sections": [
       {
@@ -1313,7 +1315,8 @@ export const guides = [
     "products": [
       "aventon-pace-5-rec",
       "ride1up-roadster-v3",
-      "lectric-xpress2"
+      "lectric-xpress2",
+      "finbike-eb8-electric-bike"
     ]
   },
   {
