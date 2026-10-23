@@ -103,15 +103,15 @@ export const guides = [
       ],
       [
         "Confirm access before buying",
-        "Local rules and operator policies vary. Check your municipality, workplace, building, and transit provider for the exact vehicle and battery. Keep those requirements alongside the product specification when making a shortlist."
+        "Local rules and operator policies vary. Check your municipality, workplace, building, and transit provider for the exact vehicle and battery. A high-output electric dirt bike is a separate vehicle-class and access decision from an everyday commuter; a seller's general street-legal statement does not establish permission on your local roads or trails. Keep those requirements alongside the product specification when making a shortlist."
       ]
     ],
     "publishedOn": "2026-10-19",
-    "updatedOn": "2026-10-19",
+    "updatedOn": "2026-10-23",
     "topics": [
       "electric-mobility"
     ],
-    "products": ["ausom-gosoul-2-electric-scooter"],
+    "products": ["ausom-gosoul-2-electric-scooter","ekx-x21-max-electric-dirt-bike"],
     "related": [
       "folding-vs-full-size-ebike",
       "panniers-vs-backpack",

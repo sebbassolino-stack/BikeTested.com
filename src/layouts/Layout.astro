@@ -2,7 +2,8 @@
 import '../styles/global.css';
 import '@fontsource-variable/dm-sans';
 const {title='Better rides start here',description='Independent electric bike reviews, cycling buying guides, and practical comparisons. Find the right ride with Bike Tested.',image='/images/hero.webp',schema=[]}=Astro.props;
-const canonical=new URL(Astro.url.pathname,'https://biketested.com').href;
+const canonicalPath=Astro.url.pathname.replace(/\/index\.html$/,'').replace(/\.html$/,'')||'/';
+const canonical=new URL(canonicalPath,'https://biketested.com').href;
 const crumbs=Astro.url.pathname!=='/'&&!schema.some(s=>s['@type']==='BreadcrumbList')?[{'@type':'BreadcrumbList',itemListElement:[{'@type':'ListItem',position:1,name:'Home',item:'https://biketested.com'},{'@type':'ListItem',position:2,name:title,item:canonical}]}]:[];
 const graph=[{'@type':'Organization','@id':'https://biketested.com/#organization',name:'Bike Tested',url:'https://biketested.com',logo:'https://biketested.com/images/logo.webp',parentOrganization:{'@type':'Organization',name:'Basso Digital'}},{'@type':'WebSite',name:'Bike Tested',url:'https://biketested.com'},...schema,...crumbs];
 ---

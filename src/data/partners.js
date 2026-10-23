@@ -280,14 +280,15 @@ export const partners = [
     "name": "EKX",
     "url": "https://ekxbike.com/?ref=SEBASTIANBASSOLINO",
     "code": "SEBASTIANBASSOL",
-    "benefit": "$150 off",
-    "category": "electric-bikes",
+    "benefit": "$150.00 off",
+    "discount": {"type":"fixed","value":150,"currency":"USD","scope":"Accepted on the X21 Max 8000W(Peak) / 60V 30Ah / United States variant (46552269914299) on October 23, 2026; other models and variants are untested."},
+    "category": "electric-mobility",
     "platform": "GoAffPro",
     "reportedOn": "2026-10-22",
     "status": "active",
     "evidence": "Owner-confirmed live Bike Tested partner roster, October 22, 2026",
     "checkoutTestedOn": null,
-    "description": "Explore EKX bikes with the Bike Tested reader code. Confirm the exact model’s intended use, geometry and local access rules before choosing on motor output alone."
+    "description": "Explore EKX electric bikes and dirt bikes with the Bike Tested reader code. Check the exact model’s intended use, fit and local access rules before choosing on motor output alone."
   },
   {
     "slug": "bezior",

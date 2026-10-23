@@ -101,18 +101,18 @@
     {
       "brand": "EKX",
       "brandSlug": "ekx",
-      "category": "electric-bikes",
-      "status": "ready-for-product-research",
+      "category": "electric-mobility",
+      "status": "review-implemented-awaiting-live-release",
       "priority": 1,
-      "product": null,
-      "officialSource": null,
-      "reviewUrl": null,
+      "product": "EKX X21 Max Electric Dirt Bike, 8000W(Peak) / 60V 30Ah / United States (variant 46552269914299)",
+      "officialSource": "https://ekxbike.com/products/ekx-x21-max-electric-dirt-bike?variant=46552269914299",
+      "reviewUrl": "/reviews/ekx-x21-max-electric-dirt-bike",
       "affiliateUrl": "https://ekxbike.com/?ref=SEBASTIANBASSOLINO",
       "code": "SEBASTIANBASSOL",
       "reportedBenefit": "$150 off",
       "offerDetailNeeded": false,
-      "checkoutTestedOn": null,
-      "nextStep": "Choose one exact current SKU from this storefront; record model, variant, primary specifications and official image provenance before drafting."
+      "checkoutTestedOn": "2026-10-23",
+      "nextStep": "Local checks/build and desktop/375px review and promo QA passed, including copy feedback, image load, extensionless canonicals and no horizontal overflow. Push the scoped review and verify the exact Cloudflare Pages deployment and live routes."
     },
     {
       "brand": "Eunorau",

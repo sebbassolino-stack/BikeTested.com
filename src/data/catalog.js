@@ -1,6 +1,6 @@
 import { partners } from './partners.js';
 import { discountLabel } from '../lib/pricing.js';
-export const updated = '2026-10-22';
+export const updated = '2026-10-23';
 const editorialBrands = [
  {slug:'aventon',name:'Aventon',url:'https://www.aventon.com',description:'Comfort-focused electric bikes with connected features and a broad range of riding styles.'},
  {slug:'ride1up',name:'Ride1Up',url:'https://ride1up.com',description:'Direct-to-consumer electric bikes, from understated city commuters to larger utility models.'},
@@ -142,6 +142,78 @@ export const products = [
     "price":{"amountMinor":134900,"currency":"USD","region":"US","variantId":"46697841885404","variantLabel":"Grey","source":"https://hiknightebike.com/products/hiknight-h2pro-dual-motor-fat-tire-electric-bike?variant=46697841885404","checkedOn":"2026-10-22","isSalePrice":true},
     "eligibility":{"status":"eligible","variantId":"46697841885404","evidence":"docs/evidence/hiknight-h2-pro-off-road-ebike.md#checkout"},
     "checkoutObservation":{"code":"SEBASTIANBASSOL","variantId":"46697841885404","baseAmountMinor":134900,"discountMinor":10000,"afterAmountMinor":124900,"currency":"USD","checkedOn":"2026-10-22","exclusions":"Before shipping and tax; no delivery address entered; checkout displayed an estimated tax that was not final."}
+  },
+  {
+    "slug":"ekx-x21-max-electric-dirt-bike",
+    "brand":"ekx",
+    "name":"EKX X21 Max Electric Dirt Bike",
+    "model":"X21 Max",
+    "image":"/images/products/ekx-x21-max-electric-dirt-bike.webp",
+    "imageAlt":"Grey and black EKX X21 Max electric dirt bike, US 8000W peak and 60V 30Ah configuration",
+    "imageWidth":1200,
+    "imageHeight":1200,
+    "category":"electric-mobility",
+    "use":"private",
+    "label":"For permitted off-road riding",
+    "headline":"An electric dirt bike with a 60 mph claim.",
+    "description":"A high-output electric dirt bike with a 3,000W rated motor, an 8,000W peak claim and 19-inch off-road tires. Confirm fit, local classification, permitted routes and storage before treating it as a daily e-bike.",
+    "verdict":"We recommend the EKX X21 Max for riders who want a high-output electric dirt bike for permitted off-road routes, with 19-inch wheels and adjustable suspension to match. Its removable 60V 30Ah battery and 8,000W peak claim make the performance brief clear. The 60 mph seller-listed top speed, 106 lb weight and location-specific access rules make this a deliberate powersports purchase rather than an ordinary commuter e-bike.",
+    "strengths":[
+      "A removable 60V 30Ah battery is listed at 1,800Wh, paired with a 3,000W rated and 8,000W peak motor claim.",
+      "The 19-inch off-road tires, adjustable inverted fork and adjustable rear shock suit a trail-focused setup.",
+      "The listing specifies two-piston hydraulic disc brakes, a 330 lb payload, color LCD and NFC start.",
+      "SEBASTIANBASSOL was accepted on the exact US variant, reducing the item subtotal by $150 to $1,799 before shipping and tax.",
+      "The battery is removable for separate charging, and EKX lists a model-specific X21 Max manual and assembly video."
+    ],
+    "tradeoffs":[
+      "At 106 lb, it calls for ground-level or roll-in storage and a deliberate transport plan; frequent lifting is a poor fit.",
+      "EKX recommends riders from 5 ft 5 in to 6 ft 5 in, but the listing has no geometry chart or seat-height measurement to confirm fit.",
+      "The 60 mph and 3,000W rated figures call for local vehicle-class and route-access checks; a seller's broad street-legal claim does not settle every jurisdiction.",
+      "Range figures conflict: the specification table says 60 miles while one image caption says 55; both remain seller claims, not Bike Tested measurements.",
+      "The seller's buyer-remorse return policy lists $150–$250 return shipping plus a 10–15% restocking fee."
+    ],
+    "specs":{
+      "Motor":"3,000W rated / 8,000W peak (manufacturer-listed)",
+      "Peak torque":"240 N·m (manufacturer-listed)",
+      "Battery":"60V 30Ah removable lithium battery; 1,800Wh (manufacturer-listed)",
+      "Claimed top speed":"Up to 60 mph (manufacturer claim)",
+      "Claimed range":"Up to 60 miles in the specification table; one product image caption says 55 miles",
+      "Transmission":"7 speeds; sensor type and pedal-assist behavior are not specified on the selected listing",
+      "Suspension":"Adjustable inverted front fork and adjustable rear spring shock",
+      "Brakes":"Two-piston hydraulic disc brakes; 203 mm rotors are described elsewhere on the product page",
+      "Tires":"70/100-19 off-road tires",
+      "Listed weight":"48.2 kg (106 lb)",
+      "Recommended rider height":"5 ft 5 in–6 ft 5 in; no geometry chart or saddle-height range listed",
+      "Maximum payload":"150 kg (330 lb)",
+      "Charging":"67.2V 3A charger; seller lists 6–12 hours"
+    },
+    "source":"https://ekxbike.com/products/ekx-x21-max-electric-dirt-bike?variant=46552269914299",
+    "sourceLinks":[
+      {"label":"X21 Max manual and assembly guide","url":"https://ekxbike.com/pages/user-guides"},
+      {"label":"Warranty terms","url":"https://ekxbike.com/pages/warranty-policy"},
+      {"label":"Returns and FAQ","url":"https://ekxbike.com/pages/frequently-asked-questions"}
+    ],
+    "evidence":"Manufacturer specification evaluation; exact US variant checkout observation; no Bike Tested riding, speed or range test",
+    "sections":[
+      ["Built around big power and rough ground","The X21 Max is sold as an electric dirt bike, and its configuration reads that way: 19-inch off-road tires, full suspension, a 3,000W rated motor and an 8,000W peak claim. EKX also lists up to 240 N·m of torque, two-piston hydraulic disc brakes and a 330 lb maximum payload. Those headline figures make it an appealing option for a rider who has suitable private or otherwise permitted routes and wants a purpose-built off-road machine. They do not tell us how it rides; Bike Tested has not measured its speed, range, braking or handling."],
+      ["Check fit and controls before ordering","EKX gives a recommended rider-height range of 5 ft 5 in to 6 ft 5 in, but does not publish a frame-geometry chart or saddle-height range on the selected listing. Treat that height band as an initial filter, then check reach, stand-over, control access and stopping position on the exact build. At 106 lb, the X21 Max also needs a storage and transport plan that does not depend on lifting it repeatedly. The battery is removable, which makes charging away from the bike easier; it does not make the complete bike lighter to maneuver. The page lists a seven-speed transmission and mentions pedal-assist levels on the display, but does not identify a torque or cadence sensor or explain the pedal-assist behavior. Ask EKX to confirm those details if pedaling is part of your intended use."],
+      ["Confirm where it can be used and what ownership costs","EKX's FAQ describes the X21 Max as street legal, but its product page lists a 3,000W rated motor and a top speed of up to 60 mph. Do not assume that seller wording establishes the vehicle class, registration, equipment or road and trail access rules where you live. Check with the relevant local authority and use the X21 Max manual and assembly guide for setup. EKX lists a one-year limited warranty; original-battery coverage ends at one year or 300 charging cycles, whichever comes first, subject to its terms, and common wear items such as tires, brake pads and chains are excluded. Its return FAQ limits a full buyer-remorse refund to a new bike in its factory packaging with under 10 odometer miles, and lists $150–$250 return shipping plus a 10–15% restocking fee. Read the warranty terms before ordering. The October 23 checkout observation applies only to the US 8000W / 60V 30Ah variant, before shipping and tax." ]
+    ],
+    "publishedOn":"2026-10-23",
+    "updatedOn":"2026-10-23",
+    "specsCheckedOn":"2026-10-23",
+    "faqs":[
+      ["How fast and how far does the EKX X21 Max go?","EKX lists a top speed of up to 60 mph and a range of up to 60 miles. One product image caption says 55 miles, so the manufacturer's own page is inconsistent. These are seller claims, not Bike Tested measurements; actual distance and speed depend on use and conditions."],
+      ["How heavy is the X21 Max, and who does it fit?","EKX lists the bike at 48.2 kg (106 lb) and recommends rider heights from 5 ft 5 in to 6 ft 5 in. The product page does not provide a geometry chart or saddle-height range. Confirm reach, stand-over and control access on the exact build, and plan for ground-level storage."],
+      ["Is the EKX X21 Max street legal?","EKX's FAQ describes the X21 Max as street legal, while the product listing gives a 3,000W rated motor and a top speed of up to 60 mph. That seller statement does not establish the vehicle class or permissions in every location. Confirm local registration, equipment and road or trail access requirements before riding."],
+      ["Does the X21 Max use a torque or cadence sensor?","The selected product listing mentions pedal-assist levels on its display and a seven-speed transmission, but does not identify a torque or cadence sensor or explain how pedal assist behaves. Ask EKX to confirm the exact controls and assist setup for the US configuration before relying on it for a particular riding style."]
+    ],
+    "relatedReviews":[
+      {"slug":"hiknight-h2-pro-off-road-ebike","reason":"If you want a conventional 26 × 4-inch fat-tire setup with a lower seller-listed top speed, compare our HiKNiGHT H2 Pro review; its local classification and access still need checking."}
+    ],
+    "price":{"amountMinor":194900,"currency":"USD","region":"US","variantId":"46552269914299","variantLabel":"8000W(Peak) / 60V 30Ah / United States","source":"https://ekxbike.com/products/ekx-x21-max-electric-dirt-bike?variant=46552269914299","checkedOn":"2026-10-23","isSalePrice":true},
+    "eligibility":{"status":"eligible","variantId":"46552269914299","evidence":"docs/evidence/ekx-x21-max-electric-dirt-bike.md#checkout"},
+    "checkoutObservation":{"code":"SEBASTIANBASSOL","variantId":"46552269914299","baseAmountMinor":194900,"discountMinor":15000,"afterAmountMinor":179900,"currency":"USD","checkedOn":"2026-10-23","exclusions":"Before shipping and tax; no address entered and no order placed."}
   }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
