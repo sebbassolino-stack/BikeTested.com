@@ -570,7 +570,7 @@ export const guides = [
     ],
     "image": "/images/lifestyle.webp",
     "publishedOn": "2026-10-21",
-    "updatedOn": "2026-10-22",
+    "updatedOn": "2026-10-23",
     "answer": "A step-through frame reduces the height you need to step over when mounting; a step-over frame has a higher top tube. We recommend choosing by comfortable mounting, fit, and the actual bike’s load and rack compatibility. Frame style alone does not determine quality, rider gender, or riding position.",
     "sections": [
       {
@@ -661,7 +661,7 @@ export const guides = [
       "folding-vs-full-size-ebike",
       "choose-your-first-ebike"
     ],
-    "products": ["aventon-pace-5-rec","mooncool-tk2-folding-electric-trike","hiknight-h2-pro-off-road-ebike"]
+    "products": ["aventon-pace-5-rec","mooncool-tk2-folding-electric-trike","hiknight-h2-pro-off-road-ebike","gebike-g03-city-commuter-ebike"]
   },
   {
     "slug": "fat-tire-vs-regular-tire-ebikes",

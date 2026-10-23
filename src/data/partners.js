@@ -464,14 +464,20 @@ export const partners = [
     "name": "GEBIKE",
     "url": "https://gebikeglobal.com/?ref=SEBASTIANBASSOLINO",
     "code": "SEBASTIANBASSOL",
-    "benefit": "€10 off",
+    "benefit": "€10.00 off",
+    "discount": {
+      "type": "fixed",
+      "value": 10,
+      "currency": "EUR",
+      "scope": "Accepted on the GEBIKE G03 Gray / Standard variant (51947256611137, SKU E001-G03-G) on October 23, 2026; other colors, bundles and models are untested."
+    },
     "category": "electric-bikes",
     "platform": "GoAffPro",
     "reportedOn": "2026-10-22",
     "status": "active",
     "evidence": "Owner-confirmed live Bike Tested partner roster, October 22, 2026",
-    "checkoutTestedOn": null,
-    "description": "Explore GEBIKE electric bikes with our euro-denominated reader offer. Check your checkout currency, delivery region and the final applied discount."
+    "checkoutTestedOn": "2026-10-23",
+    "description": "Use the GEBIKE reader code on the exact G03 Gray / Standard version checked at checkout. Confirm model fit, destination, product details and the final total with the seller."
   },
   {
     "slug": "hx-happy-relax",

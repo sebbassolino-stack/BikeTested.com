@@ -13,7 +13,7 @@ const deals=fs.readFileSync('dist/deals.html','utf8');
 const sitemap=fs.readFileSync('dist/sitemap-0.xml','utf8');
 assert.equal(offers.length,44);assert.equal(offers.filter(o=>o.code).length,24);assert.equal(offers.filter(o=>o.benefit).length,19);assert.equal(new Set(offers.map(o=>o.brand)).size,44);
 assert.equal(feed.offers.length,44);
-const exact={eunorau:['EUNORSEBASTIAN60','2% off','https://eunorau-ebike.com/?ref=gowithsebastian&utm_medium=affiliate&utm_source=goaffpro'],actbest:['SEBASTIAN3%','3% off','https://actbestbike.com/81054420bg'],gebike:['SEBASTIANBASSOL','€10 off','https://gebikeglobal.com/?ref=SEBASTIANBASSOLINO'],eahora:['SEBASTIANBASSOL','$400 off','https://eahoraescooter.com/?ref=vymoetrs'],happyrun:['SEBASTIANBASSOL23',null,'https://happyrunsports.com/?ref=hhyssezj'],mooncool:['SEBASTIANBASSOL','5% off','https://www.mooncool.com/?ref=znnfuofi']};
+const exact={eunorau:['EUNORSEBASTIAN60','2% off','https://eunorau-ebike.com/?ref=gowithsebastian&utm_medium=affiliate&utm_source=goaffpro'],actbest:['SEBASTIAN3%','3% off','https://actbestbike.com/81054420bg'],gebike:['SEBASTIANBASSOL','€10.00 off','https://gebikeglobal.com/?ref=SEBASTIANBASSOLINO'],eahora:['SEBASTIANBASSOL','$400 off','https://eahoraescooter.com/?ref=vymoetrs'],happyrun:['SEBASTIANBASSOL23',null,'https://happyrunsports.com/?ref=hhyssezj'],mooncool:['SEBASTIANBASSOL','5% off','https://www.mooncool.com/?ref=znnfuofi']};
 for(const [slug,expected]of Object.entries(exact)){const o=offers.find(x=>x.brand===slug);assert.deepEqual([o.code,o.benefit,o.url],expected,`Exact owner offer: ${slug}`);}
 for(const o of offers){
   const name=brands.find(b=>b.slug===o.brand).name,answer=offerAnswer(o,name),item=feed.offers.find(x=>x.slug===o.brand);

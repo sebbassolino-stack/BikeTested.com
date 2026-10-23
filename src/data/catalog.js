@@ -421,6 +421,79 @@ export const products = [
     "price":{"amountMinor":66999,"currency":"USD","region":"US","variantId":"45170442535120","variantLabel":"Missouri Warehouse / with Lock and Brake Light","source":"https://youngelectricbikes.com/products/200lbs-capacity-tire-clamp-e-bike-rack-with-ramp-adn-brake-light?variant=45170442535120","checkedOn":"2026-10-23","isSalePrice":true},
     "eligibility":{"status":"eligible","variantId":"45170442535120","evidence":"docs/evidence/young-electric-tire-press-2-ebike-rack.md#checkout-observation"},
     "checkoutObservation":{"code":"SEBASTIANBASSOL","variantId":"45170442535120","baseAmountMinor":66999,"discountMinor":1500,"afterAmountMinor":65499,"currency":"USD","checkedOn":"2026-10-23","exclusions":"Shipping was not calculated because no address was entered; checkout displayed a $43.39 estimated tax before address details; no order placed."}
+  },
+  {
+    "slug":"gebike-g03-city-commuter-ebike",
+    "brand":"gebike",
+    "name":"GEBIKE G03 City Commuter & Everyday E-Bike",
+    "model":"G03, Gray / Standard",
+    "image":"/images/products/gebike-g03-city-commuter-ebike.webp",
+    "imageAlt":"Gray GEBIKE G03 step-through electric bicycle with front suspension and rear rack",
+    "imageWidth":1200,
+    "imageHeight":1200,
+    "category":"electric-bikes",
+    "use":"commute",
+    "label":"For low-step everyday rides",
+    "headline":"A low step-through, with 29 kg to move.",
+    "description":"The G03 combines a step-through frame, removable 36V 13Ah battery, front suspension and rear rack. Its listed 29 kg weight matters when storing or carrying a city e-bike.",
+    "verdict":"We would look at the G03 for low-step city or everyday rides when the removable battery and rear rack match your routine. Its 29 kg listed weight is a practical drawback: this is a large bike to carry up stairs or load into a car. GEBIKE lists a 36V 13Ah battery and range up to 88.5 km, but that distance is an ideal-condition claim rather than a measured result. Check frame fit, weight handling and the exact version's intended use before ordering.",
+    "strengths":[
+      "The low-step frame suits riders who prefer a lower opening when mounting and stopping; the seller positions this version for city and everyday use.",
+      "GEBIKE lists a removable 36V 13Ah battery, front suspension, a rear rack, Shimano 7-speed gearing, mechanical disc brakes and an LED display for day-to-day errands.",
+      "The product page gives a 120 kg maximum load, 29 kg bike weight and overall dimensions, which are useful for planning fit and storage.",
+      "SEBASTIANBASSOL was accepted on the exact Gray / Standard G03 for €10 off at checkout."
+    ],
+    "tradeoffs":[
+      "At 29 kg (63.9 lb), the G03 is heavy to carry indoors or lift onto a vehicle rack; its 1,730 mm length also needs real storage space.",
+      "The stated range is up to 88.5 km under ideal pedal-assist conditions. The brand homepage rounds this to 89 km; neither figure is a Bike Tested range measurement.",
+      "The product title calls this a City Commuter bike, its URL calls it a trekking model, and the homepage describes G03 as all-terrain. Ask the seller to confirm the intended use and exact equipment before buying; do not infer trail capability from the homepage label.",
+      "The seller lists 250W rated power, up to 750W peak output and 25 km/h. Check the delivered model label and the rules for your destination rather than relying on the store's general road-use wording.",
+      "The listing does not identify the pedal-assist sensor type or a local repair network. Ask how the assist responds and who can service the electrical system or source a replacement battery where you live.",
+      "The current return policy makes the customer responsible for change-of-mind return shipping. It also allows a small handling fee for extended day-15-to-30 returns if the bike shows wear beyond normal inspection. Confirm the region-specific terms and warranty coverage."
+    ],
+    "specs":{
+      "Configuration / SKU":"Gray / Standard; variant 51947256611137; SKU E001-G03-G",
+      "Rated / peak motor":"250 W rated / up to 750 W peak (manufacturer-listed)",
+      "Top speed":"25 km/h (manufacturer-listed)",
+      "Battery":"36V 13Ah removable (manufacturer-listed)",
+      "Maximum range":"Up to 88.5 km under ideal pedal-assist conditions (seller estimate)",
+      "Maximum load":"120 kg / 264 lb (manufacturer-listed payload)",
+      "Bike weight":"29 kg / 63.9 lb (manufacturer-listed)",
+      "Assist behavior":"Pedal assist (seller-listed); sensor type not specified in the product details",
+      "Frame and equipment":"Step-through frame; front suspension; rear rack; Shimano 7-speed gearing; mechanical disc brakes; LED display",
+      "Dimensions":"1,730 × 750 × 1,135 mm (68.1 × 29.5 × 44.7 in)",
+      "Water rating":"IPX4 (manufacturer-listed)",
+      "Included / assembly":"Toolkit, two battery keys, zip ties, charger and manual; seller says some parts require assembly",
+      "Shipping":"Seller advertises free shipping from an EU warehouse; destination charges not checked",
+      "Warranty":"Product page advertises 2-year coverage; confirm the written terms for this variant"
+    },
+    "source":"https://gebikeglobal.com/products/gebikeglobal-g03-trekking-electric-bike?variant=51947256611137",
+    "sourceLinks":[
+      {"label":"GEBIKE shipping policy","url":"https://gebikeglobal.com/policies/shipping-policy"},
+      {"label":"GEBIKE return and refund policy","url":"https://gebikeglobal.com/policies/refund-policy"},
+      {"label":"GEBIKE official homepage","url":"https://gebikeglobal.com/"}
+    ],
+    "evidence":"Manufacturer-specification editorial evaluation; exact Gray / Standard variant and code observed in cart; no Bike Tested ride, range or road-use test",
+    "sections":[
+      ["A step-through that still weighs 29 kg","The G03's lower frame opening is its clearest fit-led feature. GEBIKE lists front suspension, a rear rack and an upright everyday position, but a frame style does not establish a comfortable fit. Its published overall dimensions are 1,730 × 750 × 1,135 mm; the listing does not give a rider-height range or a full geometry chart. At 29 kg, try the size and plan how you will move it between storage and the street."],
+      ["Treat the range as a planning estimate","GEBIKE lists a removable 36V 13Ah battery and up to 88.5 km with pedal assist under ideal conditions. Its homepage rounds that figure to 89 km. Weather, route, rider and assistance settings change actual distance, and Bike Tested has not measured a G03 range. Use the figure as an optimistic comparison point, not as the length of a route you can count on."],
+      ["Confirm which G03 this listing describes","The product title calls the bike a City Commuter, the product URL uses Trekking, and the homepage calls G03 an all-terrain model. The listing gives 250W rated power, up to 750W peak output and a 25 km/h top speed, but those figures do not establish the delivered bike's local classification or trail suitability. Ask GEBIKE to confirm the exact equipment and model labeling for your destination."],
+      ["Check delivery, returns and warranty terms","The listing advertises free delivery from an EU warehouse in 3–7 days and displays a two-year warranty badge. The current return policy describes a 14-day withdrawal period for EU buyers and voluntary returns through day 30; customers pay change-of-mind return shipping, and a handling fee may apply during days 15–30 if the bike shows wear beyond normal inspection. The product's 30-day price-protection terms exclude coupons and personalized discounts. Review the written terms for your region before ordering."],
+      ["What the GEBIKE code changed","The cart accepted SEBASTIANBASSOL for the Gray / Standard G03 variant (51947256611137; SKU E001-G03-G). It reduced the listed €599.99 item price by €10 to €589.99 before taxes and shipping. Checkout showed that delivery and tax are calculated later; no address was entered and no order was placed. Other G03 colors, bundles and GEBIKE products were not tested."]
+    ],
+    "publishedOn":"2026-10-23",
+    "updatedOn":"2026-10-23",
+    "specsCheckedOn":"2026-10-23",
+    "faqs":[
+      ["Is the G03 a step-through e-bike?","Yes. The product page shows and describes a low-step frame. Check reach, saddle adjustment, control access and the actual bike dimensions to determine personal fit; the listing does not supply a rider-height range."],
+      ["How heavy is the GEBIKE G03?","GEBIKE lists the G03 at 29 kg (63.9 lb). Consider whether you can move that weight through your home, up stairs or onto your vehicle rack."],
+      ["What range does GEBIKE claim for the G03?","The product page lists up to 88.5 km (55 miles) under ideal pedal-assist conditions; the homepage rounds this to 89 km. These are seller estimates, not Bike Tested measurements, and real range depends on the route, rider, weather and assistance setting."],
+      ["Can the G03 battery be removed?","GEBIKE lists a removable 36V 13Ah battery for the Gray / Standard G03. The product page also lists a 42V 2A charger and a 6–7 hour charge time."],
+      ["Does the G03 include a rear rack and what is its load limit?","The seller describes an integrated rear rack and lists a maximum payload of 120 kg (264 lb) for the bike. Confirm how rider and cargo weight count toward that limit and check the rack's own instructions before loading it."]
+    ],
+    "price":{"amountMinor":59999,"currency":"EUR","region":"DE","variantId":"51947256611137","variantLabel":"Gray / Standard","source":"https://gebikeglobal.com/products/gebikeglobal-g03-trekking-electric-bike?variant=51947256611137","checkedOn":"2026-10-23","isSalePrice":true},
+    "eligibility":{"status":"eligible","variantId":"51947256611137","evidence":"docs/evidence/gebike-g03-city-commuter-ebike.md#checkout-observation"},
+    "checkoutObservation":{"code":"SEBASTIANBASSOL","variantId":"51947256611137","baseAmountMinor":59999,"discountMinor":1000,"afterAmountMinor":58999,"currency":"EUR","checkedOn":"2026-10-23","exclusions":"Taxes and shipping were shown as calculated at checkout; no delivery address was entered and no order was placed. Result applies only to Gray / Standard SKU E001-G03-G."}
   }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
