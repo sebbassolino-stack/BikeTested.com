@@ -150,7 +150,7 @@
       "brand": "GEBIKE",
       "brandSlug": "gebike",
       "category": "electric-bikes",
-      "status": "review-implemented-awaiting-live-release",
+      "status": "review-published-live-routes-verified",
       "priority": 1,
       "product": "GEBIKE G03 City Commuter & Everyday E-Bike, Gray / Standard (variant 51947256611137; SKU E001-G03-G)",
       "officialSource": "https://gebikeglobal.com/products/gebikeglobal-g03-trekking-electric-bike?variant=51947256611137",
@@ -160,7 +160,7 @@
       "reportedBenefit": "€10.00 off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-23",
-      "nextStep": "Exact product, Gray / Standard SKU E001-G03-G, checkout result, return/shipping terms and image provenance recorded. The code reduced €599.99 by €10 to €589.99 in the cart; taxes/shipping remained uncalculated without an address and no order was placed. The exact official-image cutout was visually checked on light and dark backgrounds. Build and live release remain."
+      "nextStep": "Published in commit 1469ef8. Live review, promo and transparent official cutout return 200; review/promo show the exact Gray / Standard checkout result (€599.99 less €10 = €589.99), and the live image SHA-256 matches the local file. Desktop content checked; 375px not verified. Shipping/tax were uncalculated without an address and no order was placed."
     },
     {
       "brand": "Gyroor",
