@@ -214,7 +214,7 @@
       "brand": "Leoout",
       "brandSlug": "leoout",
       "category": "electric-mobility",
-      "status": "review-implemented-awaiting-live-release",
+      "status": "review-published-live-routes-verified",
       "priority": 1,
       "product": "Leoout T85 Electric Scooter, Scooter with Seat (variant 53358973976889)",
       "officialSource": "https://www.leoout.com/products/leoout-t85?variant=53358973976889",
@@ -224,7 +224,7 @@
       "reportedBenefit": "$100 off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-23",
-      "nextStep": "Exact official variant, seller specifications and image provenance recorded. SEBASTIANBASSOL was accepted for $100 off variant 53358973976889 at checkout; no address or order. Local review, promo and guide integration implemented; npm run build and desktop review/promo QA passed. The browser viewport stayed at 1280px, so 375px QA is unverified. Push and verify the live review, promo route and product image."
+      "nextStep": "Pushed in commit 12c799c; live review, promo and official product-image cutout return 200 and show the exact seat-equipped variant and $100 code offer. Checkout acceptance was scoped to variant 53358973976889; no address or order. Desktop review and promo QA passed; 375px QA is unverified because the browser remained 1280px."
     },
     {
       "brand": "Luckeep",
