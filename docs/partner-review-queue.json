@@ -22,7 +22,7 @@
       "brand": "Ancheer",
       "brandSlug": "ancheer",
       "category": "electric-bikes",
-      "status": "review-built-awaiting-live-verification",
+      "status": "review-published-live-routes-verified",
       "priority": 1,
       "product": "ANCHEER Hummer Electric Bike, Blue / One Size (variant 48841960390898; SKU US01+AMAK00009_P00_CA_BU)",
       "officialSource": "https://www.ancheer.shop/products/ancheer-hummer-ebike?variant=48841960390898",
@@ -32,7 +32,7 @@
       "reportedBenefit": "5% off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-23",
-      "nextStep": "Exact US variant, source specifications, image provenance, policies and checkout result are recorded. Review is implemented; finish validation, publish, and verify production before starting another product."
+      "nextStep": "Published in commit e6855f5; Cloudflare Pages deployment dba59ea1-3337-4009-9bc4-f4d83fd72cc1 succeeded. Live review, promo and exact transparent official image return 200; the live image SHA-256 matches the local asset. SEBASTIANBASSOL was accepted for $33.99 off the $679.99 Blue / One Size US variant, to a $646.00 item subtotal before shipping and tax. Desktop and 375px review/promo QA passed, including code-copy feedback and no horizontal overflow. No address or order. Continue with another coded, popular or newer product."
     },
     {
       "brand": "Ausom",
