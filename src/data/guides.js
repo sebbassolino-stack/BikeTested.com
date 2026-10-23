@@ -674,7 +674,7 @@ export const guides = [
     ],
     "image": "/images/lifestyle.webp",
     "publishedOn": "2026-10-21",
-    "updatedOn": "2026-10-22",
+    "updatedOn": "2026-10-23",
     "answer": "Fat tires offer more air volume and can suit soft surfaces; a narrower commuter tire may be the simpler choice for a mostly paved routine. We would buy for the route, storage, and full bike weight first. Tire width alone does not establish grip, comfort, range, or off-road capability.",
     "sections": [
       {
@@ -769,7 +769,7 @@ export const guides = [
       "folding-vs-full-size-ebike",
       "ebike-range-explained"
     ],
-    "products": ["finbike-eb8-electric-bike","hiknight-h2-pro-off-road-ebike"]
+    "products": ["finbike-eb8-electric-bike","hiknight-h2-pro-off-road-ebike","young-electric-tire-press-2-ebike-rack"]
   },
   {
     "slug": "folding-vs-full-size-ebike",

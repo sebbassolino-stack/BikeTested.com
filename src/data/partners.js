@@ -647,13 +647,19 @@ export const partners = [
     "name": "Young Electric",
     "url": "https://youngelectricbikes.com/?ref=SEBASTIANBASSOLINO",
     "code": "SEBASTIANBASSOL",
-    "benefit": "$15 off",
-    "category": "electric-bikes",
+    "benefit": "$15.00 off",
+    "discount": {
+      "type": "fixed",
+      "value": 15,
+      "currency": "USD",
+      "scope": "Accepted on the Tire-Press 2 E-Bike Rack, Missouri Warehouse / with Lock and Brake Light variant (45170442535120, SKU 10104186BL-M) on October 23, 2026; other products and variants are untested."
+    },
+    "category": "gear-and-tech",
     "platform": "GoAffPro",
     "reportedOn": "2026-10-22",
     "status": "active",
     "evidence": "Owner-confirmed live Bike Tested partner roster, October 22, 2026",
-    "checkoutTestedOn": null,
-    "description": "Explore Young Electric off-road and hunting bikes with our reader code. Check the exact bike’s carrying capacity, rack compatibility and trail access requirements."
+    "checkoutTestedOn": "2026-10-23",
+    "description": "Use the Young Electric reader code on the rack configuration we checked at checkout. Confirm hitch and bike compatibility, the package contents, shipping, and the current total with the seller."
   }
 ];

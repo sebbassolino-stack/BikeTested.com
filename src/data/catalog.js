@@ -350,6 +350,77 @@ export const products = [
     "price":{"amountMinor":129900,"currency":"USD","region":"US","variantId":"47402576675064","variantLabel":"M5 48V21Ah","source":"https://voltrover.shop/products/voltrover-electric-bike-m5?variant=47402576675064","checkedOn":"2026-10-23","isSalePrice":true},
     "eligibility":{"status":"eligible","variantId":"47402576675064","evidence":"docs/evidence/voltrover-m5-electric-dirt-bike.md#checkout-observation"},
     "checkoutObservation":{"code":"SEBASTIANBASSOL","variantId":"47402576675064","baseAmountMinor":129900,"discountMinor":12990,"afterAmountMinor":116910,"currency":"USD","checkedOn":"2026-10-23","exclusions":"taxes and shipping remained uncalculated because no delivery address was entered; no order placed."}
+  },
+  {
+    "slug":"young-electric-tire-press-2-ebike-rack",
+    "brand":"young-electric",
+    "name":"Young Electric Tire-Press 2 E-Bike Rack with Ramp and Brake Light",
+    "model":"Tire-Press 2, item 10104186",
+    "image":"/images/products/young-electric-tire-press-2-ebike-rack.webp",
+    "imageAlt":"Young Electric Tire-Press 2 two-bike hitch rack with ramp, brake lights and lock",
+    "imageWidth":1200,
+    "imageHeight":1200,
+    "category":"components",
+    "use":"utility",
+    "label":"For transporting two e-bikes",
+    "headline":"A loading ramp, with a 90-pound handling question.",
+    "description":"A two-bike tire-clamp hitch rack with a ramp, folding trays and a seller-listed 200 lb load capacity. At 90 lb before bikes, it needs a realistic vehicle, storage and handling plan.",
+    "verdict":"We would consider the Tire-Press 2 for riders moving two heavy e-bikes who have a 2-inch hitch and can manage a 90 lb carrier. Its wheel trays, tire clamps and loading ramp address the bike-loading step, and Young Electric lists support for tires up to 5 inches wide. The trade-offs are physical: the rack does not tilt, measures 44 × 57 × 16.5 inches, and the seller limits RV use to 160 lb. Match the rack and bike setup with the vehicle and hitch instructions before buying. The code was accepted for the selected Missouri Warehouse / with Lock and Brake Light configuration, though one product-page bullet says the brake light is sold separately; confirm the included parts.",
+    "strengths":[
+      "Two wheel trays, tire clamps and front-wheel holders are designed for two bikes without touching their frames; the seller lists tires up to 5 inches wide.",
+      "An included ramp and folding trays reduce lifting at the bike-loading step; the official manual shows the assembly and loading sequence.",
+      "Young Electric lists a 200 lb maximum load and a lower 160 lb maximum for RV use.",
+      "SEBASTIANBASSOL was accepted for the exact selected configuration at checkout."
+    ],
+    "tradeoffs":[
+      "The product page lists the rack at 90 lb. Its 44 × 57 × 16.5 inch dimensions are substantial, and no folded dimensions are given.",
+      "The seller's specification says the rack does not tilt. Check rear-hatch access with the rack loaded rather than assuming the tailgate will clear.",
+      "It requires a 2-inch receiver. Check the vehicle and hitch instructions against the carrier and loaded-bike setup; ask Young Electric how its 200 lb and 160 lb limits should be applied.",
+      "The page title and selected option say 'with Lock and Brake Light,' while a feature bullet says the brake light is sold separately. Confirm the exact box contents for this SKU.",
+      "The manual recommends 5 mm and 6 mm Allen keys and 13 mm, 17 mm and 24 mm wrenches; it labels these assembly tools as not included.",
+      "The current personal-preference return policy allows an unopened request within 3 calendar days and deducts 35% of the purchase price plus a $35 return-label fee. For opened or installed items, it caps the refund at 50% before a separate $35 label fee."
+    ],
+    "specs":{
+      "Selected configuration":"With Lock and Brake Light / Missouri Warehouse",
+      "Variant / SKU":"45170442535120 / 10104186BL-M",
+      "Bike capacity":"2 bikes (manufacturer-listed)",
+      "Maximum load":"200 lb; 160 lb maximum for RV use (manufacturer-listed)",
+      "Rack weight":"90 lb (seller-listed)",
+      "Maximum tire width":"5 inches (manufacturer-listed)",
+      "Hitch receiver":"2 inches",
+      "Tilt / fold":"Does not tilt; folds",
+      "Dimensions":"44 × 57 × 16.5 inches (official manual)",
+      "Materials":"Alloy steel and aluminum (seller-listed)",
+      "Warranty":"One-year limited warranty under the current store policy for eligible new products"
+    },
+    "source":"https://youngelectricbikes.com/products/200lbs-capacity-tire-clamp-e-bike-rack-with-ramp-adn-brake-light?variant=45170442535120",
+    "sourceLinks":[
+      {"label":"Tire-Press 2 user manual","url":"https://cdn.shopify.com/s/files/1/0614/3262/7408/files/10104186_user_manual.pdf?v=1767937350"},
+      {"label":"Shipping policy","url":"https://youngelectricbikes.com/policies/shipping-policy"},
+      {"label":"Return and warranty policy","url":"https://youngelectricbikes.com/policies/refund-policy"}
+    ],
+    "evidence":"Manufacturer-specification editorial evaluation; official assembly manual reviewed; exact-variant checkout observation; no installation or loading test",
+    "sections":[
+      ["The ramp helps at the bike-loading step","The Tire-Press 2 pairs two wheel trays with tire clamps and front-wheel holders. Young Electric says its design avoids frame contact and accepts tires up to 5 inches wide. Its manual shows rolling a bike up the ramp, positioning the wheel and securing the tire clamp. We have not loaded a bike on this rack, so check tire width, fenders, wheelbase and the seller's instructions for your exact bike before relying on fit."],
+      ["Count the rack before checking the load","Young Electric lists a 90 lb rack weight and a 200 lb maximum load, with a separate 160 lb maximum for RV use. The product page does not explain how the load figures should be applied to every vehicle and installation. Confirm the carrier's rating with the seller and compare the whole setup with the vehicle and hitch maker's instructions. A 2-inch receiver is required."],
+      ["Plan around the rack's size and movement","The official manual lists dimensions of 44 × 57 × 16.5 inches. The product page says it folds but does not give folded dimensions, and its specification table says it does not tilt. Measure the storage space and check whether the loaded rack will block a hatch. Assembly calls for 5 mm and 6 mm Allen keys plus 13 mm, 17 mm and 24 mm wrenches, which the manual marks as not included."],
+      ["Confirm the light, shipping and return terms","The current product option selector reads 'with Lock and Brake Light,' and the product title includes a brake light; a feature bullet also says brake-light compatibility is optional and the light is sold separately. The hero image shows the rack, two lamps and a lock. Confirm the exact contents of SKU 10104186BL-M before ordering. The shipping policy lists free standard shipping for U.S. orders over $99, while the product page says shipping is calculated at checkout; no address was entered to verify a destination rate. The current return policy gives just 3 calendar days for unopened personal-preference requests, with a 35% deduction plus $35 return-label fee; opened or installed items have a 50% refund cap before that label fee. It also describes a one-year limited warranty for eligible new products."],
+      ["What the Bike Tested code changed","At checkout, SEBASTIANBASSOL reduced the $669.99 sale price for this exact configuration by $15, to a $654.99 item subtotal. Shipping remained uncalculated without an address; checkout displayed an estimated $43.39 tax before address details. No order was placed. Other Young Electric products and variants were not tested."
+      ]
+    ],
+    "publishedOn":"2026-10-23",
+    "updatedOn":"2026-10-23",
+    "specsCheckedOn":"2026-10-23",
+    "faqs":[
+      ["How many bikes can the Tire-Press 2 carry?","Young Electric's product specifications list two bikes and a maximum load of 200 lb, reduced to 160 lb for RV use. Confirm with the seller how those limits apply to your vehicle and use, then check both the bike and hitch maker's ratings."],
+      ["Will the rack fit a fat-tire e-bike?","Young Electric lists a maximum tire width of 5 inches. Check the width and shape of your exact tire, fender clearance and wheelbase against the carrier instructions; this review does not include a physical fit test."],
+      ["Does the selected version include brake lights and a lock?","The selected option is labeled 'with Lock and Brake Light' and the product image shows both, but a feature bullet says brake-light compatibility is optional and sold separately. Ask the seller to confirm the package for SKU 10104186BL-M."],
+      ["Does SEBASTIANBASSOL work on this rack?","The code was accepted at checkout for variant 45170442535120, SKU 10104186BL-M, selected as Missouri Warehouse / with Lock and Brake Light, on October 23, 2026. It reduced the $669.99 sale price by $15 to a $654.99 item subtotal before delivery charges. No address was entered or order placed; other variants and products were not tested."],
+      ["What should I know about returns and warranty?","The current store policy allows unopened personal-preference return requests within 3 calendar days, with a 35% deduction and $35 return-label fee. For opened or installed items, it caps the refund at 50% before a separate $35 label fee. The policy describes a one-year limited warranty for eligible new products; review the current terms before ordering."]
+    ],
+    "price":{"amountMinor":66999,"currency":"USD","region":"US","variantId":"45170442535120","variantLabel":"Missouri Warehouse / with Lock and Brake Light","source":"https://youngelectricbikes.com/products/200lbs-capacity-tire-clamp-e-bike-rack-with-ramp-adn-brake-light?variant=45170442535120","checkedOn":"2026-10-23","isSalePrice":true},
+    "eligibility":{"status":"eligible","variantId":"45170442535120","evidence":"docs/evidence/young-electric-tire-press-2-ebike-rack.md#checkout-observation"},
+    "checkoutObservation":{"code":"SEBASTIANBASSOL","variantId":"45170442535120","baseAmountMinor":66999,"discountMinor":1500,"afterAmountMinor":65499,"currency":"USD","checkedOn":"2026-10-23","exclusions":"Shipping was not calculated because no address was entered; checkout displayed a $43.39 estimated tax before address details; no order placed."}
   }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
