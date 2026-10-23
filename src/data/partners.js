@@ -645,12 +645,18 @@ export const partners = [
     "url": "https://www.burchda-ebike.com/?ref=SEBASTIANBASSOLINO",
     "code": "SEBASTIANBASSOL",
     "benefit": "3% off",
+    "discount": {
+      "type": "percent",
+      "value": 3,
+      "scope": "Accepted on the Burchda U8 2026 Upgrade, Champagne Gold / 1000W / 48V31.5Ah variant 50464726483219 on October 23, 2026; other variants and models are untested."
+    },
+    "stackingObservation": "The code did not apply while the U8 cart included the automatic free riding-package promotion. After removing the gift package, it applied to the U8 alone.",
     "category": "electric-bikes",
     "platform": "GoAffPro",
     "reportedOn": "2026-10-22",
     "status": "active",
     "evidence": "Owner-confirmed live Bike Tested partner roster, October 22, 2026",
-    "checkoutTestedOn": null,
+    "checkoutTestedOn": "2026-10-23",
     "description": "Explore Burchda electric bikes with our partner code. Compare the selected model’s frame, battery configuration and regional service options before ordering."
   },
   {

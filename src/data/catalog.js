@@ -570,11 +570,91 @@ export const products = [
     "price":{"amountMinor":67999,"currency":"USD","region":"US","variantId":"48841960390898","variantLabel":"Blue / One Size","source":"https://www.ancheer.shop/products/ancheer-hummer-ebike?variant=48841960390898","checkedOn":"2026-10-23","isSalePrice":true},
     "eligibility":{"status":"eligible","variantId":"48841960390898","evidence":"docs/evidence/ancheer-hummer-electric-bike.md#checkout-observation"},
     "checkoutObservation":{"code":"SEBASTIANBASSOL","variantId":"48841960390898","baseAmountMinor":67999,"discountMinor":3399,"afterAmountMinor":64600,"currency":"USD","checkedOn":"2026-10-23","exclusions":"Before shipping and tax; cart indicated free-shipping eligibility but no address was entered; no order placed. Result applies only to Blue / One Size SKU US01+AMAK00009_P00_CA_BU."}
+  },
+  {
+    "slug":"burchda-u8-step-thru-electric-bike",
+    "brand":"burchda",
+    "name":"Burchda U8 Step-Thru Electric Bike",
+    "model":"U8 2026 Upgrade, Champagne Gold / 1000W / 48V31.5Ah",
+    "image":"/images/products/burchda-u8-step-thru-electric-bike.webp",
+    "imageAlt":"Champagne Gold Burchda U8 2026 Upgrade step-through electric bike with front basket and rear rack cushion",
+    "imageWidth":1200,
+    "imageHeight":1200,
+    "category":"electric-bikes",
+    "use":"utility",
+    "label":"For low-step utility rides",
+    "headline":"A big battery and useful carrying setup, with fit to confirm.",
+    "description":"The U8 2026 Upgrade pairs a step-through frame with 20 × 4-inch tires, a removable 48V 31.5Ah battery, front basket and rear rack.",
+    "verdict":"We recommend the Burchda U8 2026 Upgrade for riders who want an easy-to-mount frame, wide tires and a ready-to-use basket and rear rack for neighborhood errands. The selected 48V 31.5Ah battery is a substantial capacity, and the model adds a suspension fork, hydraulic brakes and Shimano seven-speed gearing. Its listed 43 kg weight makes storage and lifting the deciding fit check; confirm the exact ready-to-ride weight and frame measurements before ordering.",
+    "strengths":[
+      "The low step-through opening makes frequent stops and mounting easier to manage; check reach and saddle range for your own fit.",
+      "Burchda lists a removable 48V 31.5Ah battery, a useful capacity for longer days between charging opportunities.",
+      "A front basket, rear rack with cushion, fenders and 20 × 4-inch tires give the U8 an errand-ready, comfort-oriented layout.",
+      "The selected 1000W configuration is listed with up to 95 Nm of torque, a hydraulic suspension fork, hydraulic disc brakes and Shimano seven-speed gearing."
+    ],
+    "tradeoffs":[
+      "The product page lists 43 kg and 180 × 70 × 117 cm. An older U8 manual separately lists a 36 kg bike and 8.3 kg battery; ask Burchda for the complete weight of this 2026 configuration and plan storage around a heavy full-size bike.",
+      "Range claims conflict across the product page: the feature section gives 70–80 km electric-only and 80–100 km pedal-assist, while other sections say 100–160 km, up to 140 km and 100–120 km. Treat every figure as a manufacturer estimate and plan a route with charging margin.",
+      "The listing does not give a rider-height range or full geometry chart. A low frame opening does not establish a comfortable reach or saddle position; request frame measurements and compare the bike with one that fits.",
+      "The selected motor setting is 1000W, with a throttle and adjustable 25/45 km/h speed claim. Confirm the delivered configuration and the rules for your intended roads and paths before choosing a route.",
+      "In the tested cart, the code did not apply while the automatic free riding-package promotion was active. The U8 code applied after the gift package was removed; confirm which offer the store accepts with your exact basket."
+    ],
+    "specs":{
+      "Configuration / variant":"Champagne Gold / 1000W / 48V31.5Ah; variant 50464726483219",
+      "Frame":"6061 aluminum alloy, step-through",
+      "Motor":"1000W; up to 95 Nm torque (manufacturer-listed; power classification is not specified consistently)",
+      "Battery":"48V 31.5Ah removable lithium pack (about 1,512 Wh from the listed nominal values)",
+      "Range claims":"Conflicting manufacturer figures: 70–80 km electric-only, 80–100 km pedal-assist, 100–120 km pedal-assist, 100–160 km, and up to 140 km",
+      "Riding modes":"Pedal, pedal assist and throttle; cruise control listed",
+      "Speed":"Adjustable 25 / 45 km/h (manufacturer-listed)",
+      "Tires":"20 × 4.0 inches",
+      "Fork":"Hydraulic suspension fork",
+      "Brakes":"Hydraulic disc brakes (manufacturer feature description)",
+      "Drivetrain":"Shimano seven-speed gearing",
+      "Display and lighting":"LCD display, LED headlight and red rear warning light",
+      "Listed maximum payload":"396 lb in feature copy; 400 lb in page highlights",
+      "Listed bike weight":"43 kg on the current product page; an older U8 manual lists 36 kg plus an 8.3 kg battery",
+      "Dimensions":"180 × 70 × 117 cm",
+      "Charging time":"8–10 hours (manufacturer-listed)",
+      "Water-resistance claim":"IP65 (manufacturer-listed)"
+    },
+    "source":"https://www.burchda-ebike.com/products/burchda-u8-step-thru-electric-bike?variant=50464726483219",
+    "sourceLinks":[
+      {"label":"Burchda warranty policy","url":"https://www.burchda-ebike.com/pages/warranty"},
+      {"label":"Burchda return and refund policy","url":"https://www.burchda-ebike.com/policies/refund-policy"},
+      {"label":"Earlier U8 user manual","url":"https://cdn.shopify.com/s/files/1/0793/8667/3427/files/U8.pdf?v=1721101882"}
+    ],
+    "evidence":"Manufacturer-specification editorial review; exact Champagne Gold / 1000W / 48V31.5Ah cart and code observation",
+    "sections":[
+      ["Low-step access with an errand-ready layout","The U8 brings together a low step-through, a front basket, a rear rack with cushion, fenders and 20 × 4-inch tires. Burchda also lists a hydraulic suspension fork and Shimano seven-speed gearing. That combination makes the bike an appealing option for riders who want to carry everyday items and prefer a lower frame opening. Before adding bags or other cargo, ask Burchda for the rack’s own load limit; the bike’s listed maximum payload does not establish the rack rating."],
+      ["Treat the battery and range as separate questions","The selected configuration has a removable 48V 31.5Ah pack. Burchda lists pedal, pedal-assist and throttle modes, but its range figures vary across sections: 70–80 km electric-only, 80–100 km pedal-assist, 100–120 km pedal-assist, 100–160 km and up to 140 km. These are seller claims rather than Bike Tested measurements. Compare the battery capacity with your route, then plan with a margin and ask which estimate applies to this exact motor and speed setting."],
+      ["Measure the bike and plan how to move it","The low frame opening helps at mounting, while the listed 180 × 70 × 117 cm dimensions and 43 kg weight make storage the bigger daily question. An earlier U8 manual lists a 36 kg bike plus an 8.3 kg battery, so the information may describe a different configuration or weigh-in method. The product page does not provide a rider-height band or full geometry chart. Ask for this upgrade’s complete ready-to-ride weight, reach and saddle-height range, then measure doors, storage and any vehicle carrier before buying."],
+      ["Confirm the delivered speed setting and support","The selected page lists a 1000W motor, up to 95 Nm, throttle control and an adjustable 25/45 km/h speed setting. It also gives two slightly different payload figures: 396 lb in feature copy and 400 lb in a page highlight. Confirm the delivered setup, load definition and local route rules with the seller. The product page advertises a 30-day return window, while the formal policy requires under 10 km, original packaging and prior approval; confirm return freight. The warranty table lists 12 months for core parts such as frame, motor and battery, with shorter or no coverage for several wear items."],
+      ["What the Burchda code changed","On October 23, 2026, the German storefront cart accepted SEBASTIANBASSOL for the Champagne Gold / 1000W / 48V31.5Ah U8 (variant 50464726483219). It reduced the €1,289.00 item price by €38.67 to a €1,250.33 item subtotal. The code did not apply while the automatic free riding-package promotion was active; removing that gift package allowed the code to apply to the bike alone. No delivery address was entered, shipping was not calculated and no order was placed. Other variants and models were not checked."
+      ]
+    ],
+    "publishedOn":"2026-10-23",
+    "updatedOn":"2026-10-23",
+    "specsCheckedOn":"2026-10-23",
+    "faqs":[
+      ["How far can the Burchda U8 travel on one charge?","Burchda publishes several different figures: 70–80 km electric-only, 80–100 km and 100–120 km in pedal-assist sections, 100–160 km in the title, and up to 140 km in a feature headline. These are manufacturer estimates, not Bike Tested measurements. Ask which claim applies to your exact setting and plan a shorter route with charging margin."],
+      ["How heavy is the U8 2026 Upgrade?","The current product page lists 43 kg and dimensions of 180 × 70 × 117 cm. An earlier U8 manual lists 36 kg for the bike plus an 8.3 kg battery. Confirm the complete weight of the selected 2026 configuration before planning stairs, vehicle loading or storage."],
+      ["Can I remove the U8 battery to charge it?","Burchda describes the selected 48V 31.5Ah battery as removable. Confirm the charging location, battery handling instructions and the exact pack included with your order."],
+      ["What should I confirm about U8 fit and speed?","The product page does not provide a rider-height range or complete geometry chart. Ask for reach and saddle-height measurements. The selected listing also states a 1000W motor, throttle and adjustable 25/45 km/h settings; check the delivered setup and rules for the roads or paths you intend to use."],
+      ["Did the Burchda code work with the automatic free package?","No. SEBASTIANBASSOL was rejected while the store’s automatic free riding-package promotion was active. After the package was removed, the code applied to the U8 alone. The observation covers only Champagne Gold / 1000W / 48V31.5Ah, variant 50464726483219, on October 23, 2026." ]
+    ],
+    "relatedReviews":[
+      {"slug":"gebike-g03-city-commuter-ebike","reason":"Compare the GEBIKE G03 if you want another step-through for everyday rides and would rather prioritize a lighter listed weight over the U8’s fat tires and large battery."},
+      {"slug":"finbike-eb8-electric-bike","reason":"Compare the folding FinBike EB8 if storage footprint matters more than the U8’s non-folding utility layout."}
+    ],
+    "price":{"amountMinor":128900,"currency":"EUR","region":"DE","variantId":"50464726483219","variantLabel":"Champagne Gold / 1000W / 48V31.5Ah","source":"https://www.burchda-ebike.com/products/burchda-u8-step-thru-electric-bike?variant=50464726483219","checkedOn":"2026-10-23","isSalePrice":true},
+    "eligibility":{"status":"eligible","variantId":"50464726483219","evidence":"docs/evidence/burchda-u8-step-thru-electric-bike.md#checkout-observation"},
+    "checkoutObservation":{"code":"SEBASTIANBASSOL","variantId":"50464726483219","baseAmountMinor":128900,"discountMinor":3867,"afterAmountMinor":125033,"currency":"EUR","checkedOn":"2026-10-23","exclusions":"exact bike only, no delivery address or order; shipping not calculated; product page marks price tax included; code did not apply while the automatic free riding-package promotion was active; code applied after package removal."}
   }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
 const checkoutProductFor=brand=>products.find(p=>p.brand===brand&&p.checkoutObservation);
-export const offers=partners.map(p=>{const tested=checkoutProductFor(p.slug);const discount=p.discount||null;const checkoutTestProduct=tested?{slug:tested.slug,name:tested.name,variantId:tested.price.variantId,variantLabel:tested.price.variantLabel}:null;const terms=checkoutTestProduct?`Checkout acceptance was observed for ${checkoutTestProduct.name}, ${checkoutTestProduct.variantLabel} only. Eligibility for other models or variants, minimum spend, exclusions and expiry have not been supplied; confirm the current final total at this storefront.`:p.terms||'Product eligibility, minimum spend, exclusions, stacking and expiry have not been supplied. Confirm any discount in the final checkout total at this storefront.';return {...p,benefit:p.benefit??(discount?discountLabel(discount):null),discount,brand:p.slug,eligibleStore:new URL(p.url).hostname,terms,checkoutTestedOn:tested?.checkoutObservation?.checkedOn||p.checkoutTestedOn||null,checkoutTestProduct};});
+export const offers=partners.map(p=>{const tested=checkoutProductFor(p.slug);const discount=p.discount||null;const checkoutTestProduct=tested?{slug:tested.slug,name:tested.name,variantId:tested.price.variantId,variantLabel:tested.price.variantLabel}:null;const terms=checkoutTestProduct?`Checkout acceptance was observed for ${checkoutTestProduct.name}, ${checkoutTestProduct.variantLabel} only. ${p.stackingObservation||''} Eligibility for other models or variants, minimum spend, exclusions and expiry have not been supplied; confirm the current final total at this storefront.`:p.terms||'Product eligibility, minimum spend, exclusions, stacking and expiry have not been supplied. Confirm any discount in the final checkout total at this storefront.';return {...p,benefit:p.benefit??(discount?discountLabel(discount):null),discount,brand:p.slug,eligibleStore:new URL(p.url).hostname,terms,checkoutTestedOn:tested?.checkoutObservation?.checkedOn||p.checkoutTestedOn||null,checkoutTestProduct};});
 export const comparisons=[{slug:'aventon-pace-5-rec-vs-ride1up-roadster-v3',a:products[0].slug,b:products[1].slug,title:'Pace 5 REC vs Roadster V3',description:'Relaxed cruiser or pared-back city bike? Start with how you want to ride.'},{slug:'lectric-xpress2-vs-ride1up-roadster-v3',a:products[2].slug,b:products[1].slug,title:'XPress2 vs Roadster V3',description:'A suspension-equipped commuter or a simpler urban setup: where each makes sense.'}];
 export const categories=[{slug:'electric-bikes',name:'Electric bikes',text:'A little assistance. A lot more possibility.',guide:'choose-your-first-ebike'},{slug:'traditional-bikes',name:'Traditional bikes',text:'Road, gravel, hybrid, or mountain. Start with your route.',guide:'road-gravel-or-hybrid'},{slug:'electric-mobility',name:'Electric mobility',text:'Think through your last mile before choosing your next ride.',guide:'bike-or-electric-scooter'},{slug:'gear-and-tech',name:'Gear & tech',text:'The essentials that make every ride work better.',guide:'commuter-gear-checklist'},{slug:'components',name:'Components & upgrades',text:'Compatibility first. Better upgrades follow.',guide:'plan-your-bike-upgrades'},{slug:'cycling-technology',name:'Cycling technology',text:'Useful data, without losing sight of the ride.',guide:'choose-a-cycling-computer'}];
 export const brandFor=p=>brands.find(b=>b.slug===p.brand);

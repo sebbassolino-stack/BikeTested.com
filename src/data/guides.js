@@ -34,7 +34,7 @@ export const guides = [
     "topics": [
       "electric-bikes"
     ],
-    "products": ["mooncool-tk2-folding-electric-trike","finbike-eb8-electric-bike","hiknight-h2-pro-off-road-ebike","ancheer-hummer-electric-bike"],
+    "products": ["mooncool-tk2-folding-electric-trike","finbike-eb8-electric-bike","hiknight-h2-pro-off-road-ebike","ancheer-hummer-electric-bike","burchda-u8-step-thru-electric-bike"],
     "related": [
       "torque-sensor-vs-cadence-sensor",
       "mid-drive-vs-hub-motor",
@@ -661,7 +661,7 @@ export const guides = [
       "folding-vs-full-size-ebike",
       "choose-your-first-ebike"
     ],
-    "products": ["aventon-pace-5-rec","mooncool-tk2-folding-electric-trike","hiknight-h2-pro-off-road-ebike","gebike-g03-city-commuter-ebike"]
+    "products": ["aventon-pace-5-rec","mooncool-tk2-folding-electric-trike","hiknight-h2-pro-off-road-ebike","gebike-g03-city-commuter-ebike","burchda-u8-step-thru-electric-bike"]
   },
   {
     "slug": "fat-tire-vs-regular-tire-ebikes",
@@ -769,7 +769,7 @@ export const guides = [
       "folding-vs-full-size-ebike",
       "ebike-range-explained"
     ],
-    "products": ["finbike-eb8-electric-bike","hiknight-h2-pro-off-road-ebike","young-electric-tire-press-2-ebike-rack"]
+    "products": ["finbike-eb8-electric-bike","hiknight-h2-pro-off-road-ebike","young-electric-tire-press-2-ebike-rack","burchda-u8-step-thru-electric-bike"]
   },
   {
     "slug": "folding-vs-full-size-ebike",
