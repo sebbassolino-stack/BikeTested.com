@@ -898,7 +898,7 @@ export const guides = [
     ],
     "image": "/images/lifestyle.webp",
     "publishedOn": "2026-10-21",
-    "updatedOn": "2026-10-21",
+    "updatedOn": "2026-10-22",
     "answer": "The right bicycle tire pressure depends on the tire and rim combination, rider and luggage weight, tube or tubeless setup, and surface. Start with the manufacturers’ guidance or a compatible pressure calculator. Stay within all applicable limits; the maximum printed PSI is a limit, not a universal riding target.",
     "sections": [
       {
@@ -996,7 +996,9 @@ export const guides = [
       "fat-tire-vs-regular-tire-ebikes",
       "plan-your-bike-upgrades"
     ],
-    "products": []
+    "products": [
+      "cycplus-as2-pro-max-tiny-e-pump"
+    ]
   },
   {
     "slug": "presta-vs-schrader",

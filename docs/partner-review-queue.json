@@ -70,17 +70,17 @@
       "brand": "Cycplus",
       "brandSlug": "cycplus",
       "category": "cycling-technology",
-      "status": "ready-for-product-research",
+      "status": "review-ready-to-publish",
       "priority": 1,
-      "product": null,
-      "officialSource": null,
-      "reviewUrl": null,
+      "product": "CYCPLUS AS2 Pro Max Tiny E-Pump for Bike, US AS2 Pro Max (variant 43708211495070; SKU AS6-1)",
+      "officialSource": "https://www.cycplus.com/products/tiny-pump-as2-pro-max",
+      "reviewUrl": "/reviews/cycplus-as2-pro-max-tiny-e-pump",
       "affiliateUrl": "https://www.cycplus.com/?ref=ygsauvdr",
       "code": "SEBASTIANBASSOL",
       "reportedBenefit": "5% off",
       "offerDetailNeeded": false,
-      "checkoutTestedOn": null,
-      "nextStep": "Choose one exact current SKU from this storefront; record model, variant, primary specifications and official image provenance before drafting."
+      "checkoutTestedOn": "2026-10-22",
+      "nextStep": "Product-specific code acceptance and source research recorded; npm run check/build and desktop/375px review-promo QA passed. Commit, push, then verify exact-commit Pages success and live review/promo code, price, canonical and image before selecting the next product."
     },
     {
       "brand": "Eahora",

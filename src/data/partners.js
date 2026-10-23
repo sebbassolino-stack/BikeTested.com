@@ -262,6 +262,11 @@ export const partners = [
     "url": "https://www.cycplus.com/?ref=ygsauvdr",
     "code": "SEBASTIANBASSOL",
     "benefit": "5% off",
+    "discount": {
+      "type": "percent",
+      "value": 5,
+      "scope": "Accepted on the AS2 Pro Max US variant (SKU AS6-1) on October 22, 2026; eligibility for other products and variants is unconfirmed."
+    },
     "category": "cycling-technology",
     "platform": "GoAffPro",
     "reportedOn": "2026-10-22",
