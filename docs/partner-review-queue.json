@@ -54,7 +54,7 @@
       "brand": "Burchda",
       "brandSlug": "burchda",
       "category": "electric-bikes",
-      "status": "review-in-progress",
+      "status": "review-published-live-routes-verified",
       "priority": 1,
       "product": "Burchda U8 2026 Upgrade, Champagne Gold / 1000W / 48V31.5Ah (variant 50464726483219)",
       "officialSource": "https://www.burchda-ebike.com/products/burchda-u8-step-thru-electric-bike?variant=50464726483219",
@@ -64,7 +64,7 @@
       "reportedBenefit": "3% off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-23",
-      "nextStep": "Exact-variant review, image provenance and code cart test recorded; npm run check/build and desktop/375px review/promo QA passed, including loaded transparent image, exact affiliate destination and code-copy feedback. Ready to publish and verify the deployed routes."
+      "nextStep": "Published in commit 61a69a55b920f9dc4a6a55933701e6647d054271. Live canonical review and promo routes show the exact variant, code terms, cart result and affiliate destination; desktop and 375px QA passed with no overflow, loaded 1200px transparent image, and promo code-copy feedback. Shipping was not calculated and no order was placed. Continue with the next coded product."
     },
     {
       "brand": "Cycplus",
