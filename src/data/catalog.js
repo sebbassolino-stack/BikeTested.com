@@ -283,6 +283,73 @@ export const products = [
     "price":{"amountMinor":129999,"currency":"USD","region":"US","variantId":"53358973976889","variantLabel":"Scooter with Seat","source":"https://www.leoout.com/products/leoout-t85?variant=53358973976889","checkedOn":"2026-10-23","isSalePrice":true},
     "eligibility":{"status":"eligible","variantId":"53358973976889","evidence":"docs/evidence/leoout-t85-electric-scooter.md#checkout"},
     "checkoutObservation":{"code":"SEBASTIANBASSOL","variantId":"53358973976889","baseAmountMinor":129999,"discountMinor":10000,"afterAmountMinor":119999,"currency":"USD","checkedOn":"2026-10-23","exclusions":"shipping and destination-based charges not established because no delivery address was entered; no order placed."}
+  },
+  {
+    "slug":"voltrover-m5-electric-dirt-bike",
+    "brand":"voltrover",
+    "name":"Voltrover M5 48V21Ah Electric Dirt Bike",
+    "model":"M5 48V21Ah",
+    "image":"/images/products/voltrover-m5-electric-dirt-bike.webp",
+    "imageAlt":"Black and orange Voltrover M5 48V21Ah electric dirt bike, side view",
+    "imageWidth":1200,
+    "imageHeight":1200,
+    "category":"electric-mobility",
+    "use":"private",
+    "label":"For youth-focused off-road riding",
+    "headline":"A 37 mph claim, with fit and range questions.",
+    "description":"Voltrover's M5 pairs a 48V 21Ah battery with a seller-listed 2,000W motor and up-to-37 mph claim. The brand positions it for teen riders and off-road routes.",
+    "verdict":"We would consider the M5 for a teen rider whose family has already identified an appropriate off-road place to ride and space to store the bike. Voltrover lists a 48V 21Ah battery, a 2,000W motor, three gear settings and a top speed of up to 37 mph. That speed claim makes fit, supervision and riding area central; the seller's own refund policy says the bike is for off-road use only. Its 32M range notation is unexplained, and basic fit measurements are missing. The store code was accepted on this exact variant, but Voltrover's product page also displays a separate Amazon offer at $999. Compare the exact listing and confirm the written warranty and return terms before choosing where to buy.",
+    "strengths":[
+      "Voltrover specifies a 48V 21Ah lithium battery and lists a 2,000W motor.",
+      "Three gear settings are listed, though the page does not state each setting's speed limit.",
+      "SEBASTIANBASSOL was accepted on the exact M5 48V21Ah variant at Voltrover's store."
+    ],
+    "tradeoffs":[
+      "The seller claims a top speed of up to 37 mph and says the bike is for off-road use only. Prioritize rider fit, supervision, protective equipment and an appropriate riding area.",
+      "The page lists a maximum range of 32M without defining the unit or test conditions; Bike Tested did not measure range.",
+      "The reviewed listing does not state the bike's weight, wheel size, seat height or charging time, so check fit, storage and transport details with Voltrover.",
+      "The store advertises a two-year warranty, but coverage detail was not found in the checked policies. The refund policy also lists discounted products as non-returnable and names $300 return shipping plus a 10% restocking fee for customer-reason returns.",
+      "The product page displays a separate $999 Amazon offer. We did not verify that listing or apply the Voltrover code there; compare the exact model, seller and support terms."
+    ],
+    "specs":{
+      "Motor":"2,000W (manufacturer-listed)",
+      "Battery":"48V, 21Ah lithium (manufacturer-listed)",
+      "Claimed top speed":"Up to 37 mph (not measured by Bike Tested)",
+      "Speed settings":"3 gear settings; speeds per setting are not listed",
+      "Claimed maximum range":"32M (unit and test conditions not explained)",
+      "Intended use":"Off-road only per Voltrover's refund policy",
+      "Rider positioning":"Marketed for teens; the homepage says ages 14+",
+      "Fit details":"Weight, wheel size and seat height are not listed on the reviewed page"
+    },
+    "source":"https://voltrover.shop/products/voltrover-electric-bike-m5?variant=47402576675064",
+    "sourceLinks":[
+      {"label":"Returns and refund policy","url":"https://voltrover.shop/policies/refund-policy"},
+      {"label":"Shipping policy","url":"https://voltrover.shop/policies/shipping-policy"}
+    ],
+    "evidence":"Manufacturer-specification editorial evaluation; exact variant checkout observation; seller-hosted customer comments reviewed, not independently verified; no Bike Tested ride, speed or range test",
+    "sections":[
+      ["An off-road bike with youth-oriented marketing","Voltrover markets the M5 to teens and young riders, and its refund policy says the bike is for off-road use only. The listed 37 mph top speed makes the question less about finding the highest motor figure and more about who will ride, where, and with what supervision. Confirm fit, protective equipment and access for the exact vehicle before considering a route. Bike Tested has not ridden the M5 or measured its speed."],
+      ["Ask what the range figure means","The product page labels its maximum range as 32M but does not define the unit or testing conditions. The 48V 21Ah battery is useful context, not a range guarantee. Ask Voltrover for a realistic estimate at the intended rider weight, speed and terrain, and for the charging time before planning around the headline."],
+      ["Check fit and maintenance details","The reviewed listing does not give the bike's weight, wheel size, seat height or charging time. Those details matter for a young rider as well as for transport and storage. The seller-hosted review section includes individual reports of charging or motor problems, as well as one report of a warranty motor replacement. These are buyer accounts, not a measured failure or service rate; ask about diagnostic support and replacement parts for your region."],
+      ["Read the return terms before using the code","Voltrover advertises a two-year warranty in its store banner, but the checked policy pages do not explain its coverage. Its refund policy begins with a 30-day period, then says returns are limited to quality issues and lists sale or discounted products among non-returnable items. This M5 is listed at a sale price. The same policy lists $300 return shipping and a 10% restocking fee for customer-reason returns, so ask the seller how the terms apply to this exact sale unit."],
+      ["Compare the store offer with the linked Amazon option","The Voltrover cart accepted SEBASTIANBASSOL on the $1,299.00 sale price and showed $129.90 off, for an estimated $1,169.10 total before taxes and shipping. The product page also advertises an Amazon option for $999. We did not verify that retailer listing or test the Bike Tested code there; compare the exact version and seller terms before choosing a channel."]
+    ],
+    "publishedOn":"2026-10-23",
+    "updatedOn":"2026-10-23",
+    "specsCheckedOn":"2026-10-23",
+    "faqs":[
+      ["How fast is the Voltrover M5?","Voltrover lists a top speed of up to 37 mph and three gear settings but does not state the speed for each setting. This is a manufacturer claim, not a Bike Tested measurement. Confirm the delivered settings and intended rider fit before use."],
+      ["What range does the Voltrover M5 get?","The product page lists a maximum range of 32M but does not define the unit or test conditions. The 48V 21Ah battery specification does not establish real-world range. Ask for an estimate for the rider, speed and terrain you expect."],
+      ["Is the Voltrover M5 intended for public roads?","Voltrover's refund policy describes its electric dirt bikes as off-road only. Check access for your exact vehicle and intended location; the Bike Tested review does not make a legal classification."],
+      ["Does the Voltrover code work on the M5?","SEBASTIANBASSOL was accepted for the M5 48V21Ah variant (47402576675064) in Voltrover's cart on October 23, 2026. It reduced the $1,299.00 sale price by $129.90 to an estimated $1,169.10 total before taxes and shipping. Other products and variants were not tested."],
+      ["What are the M5 warranty and return terms?","Voltrover advertises a two-year warranty in its store banner, but the checked pages do not detail the coverage. Its refund policy lists discounted products among non-returnable items and says returns are limited to quality issues; customer-reason returns can involve $300 shipping and a 10% restocking fee. Confirm current written terms for this sale listing before buying."]
+    ],
+    "relatedReviews":[
+      {"slug":"ekx-x21-max-electric-dirt-bike","reason":"Compare the EKX X21 Max if you are considering another electric dirt bike with a larger seller-listed battery and different motor claims; intended rider fit and access still need to be checked."}
+    ],
+    "price":{"amountMinor":129900,"currency":"USD","region":"US","variantId":"47402576675064","variantLabel":"M5 48V21Ah","source":"https://voltrover.shop/products/voltrover-electric-bike-m5?variant=47402576675064","checkedOn":"2026-10-23","isSalePrice":true},
+    "eligibility":{"status":"eligible","variantId":"47402576675064","evidence":"docs/evidence/voltrover-m5-electric-dirt-bike.md#checkout-observation"},
+    "checkoutObservation":{"code":"SEBASTIANBASSOL","variantId":"47402576675064","baseAmountMinor":129900,"discountMinor":12990,"afterAmountMinor":116910,"currency":"USD","checkedOn":"2026-10-23","exclusions":"taxes and shipping remained uncalculated because no delivery address was entered; no order placed."}
   }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}

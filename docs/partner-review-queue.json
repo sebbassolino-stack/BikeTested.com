@@ -262,17 +262,17 @@
       "brand": "Voltrover",
       "brandSlug": "voltrover",
       "category": "electric-bikes",
-      "status": "ready-for-product-research",
+      "status": "review-implemented-awaiting-live-release",
       "priority": 1,
-      "product": null,
-      "officialSource": null,
-      "reviewUrl": null,
+      "product": "Voltrover M5 48V21Ah Electric Dirt Bike (variant 47402576675064)",
+      "officialSource": "https://voltrover.shop/products/voltrover-electric-bike-m5?variant=47402576675064",
+      "reviewUrl": "/reviews/voltrover-m5-electric-dirt-bike",
       "affiliateUrl": "https://voltrover.shop/?ref=SEBASTIANBASSOLINO",
       "code": "SEBASTIANBASSOL",
       "reportedBenefit": "10% off",
       "offerDetailNeeded": false,
-      "checkoutTestedOn": null,
-      "nextStep": "Choose one exact current SKU from this storefront; record model, variant, primary specifications and official image provenance before drafting."
+      "checkoutTestedOn": "2026-10-23",
+      "nextStep": "Exact M5 48V21Ah variant, manufacturer specifications, return/shipping terms and official image provenance recorded. SEBASTIANBASSOL was accepted for $129.90 off the $1,299 sale price (variant 47402576675064); no address or order. Build and desktop review/promo QA passed; code copy feedback and exact affiliate destination verified. The browser remained at 1280px, so 375px QA is unverified. Push and verify live review, promo and image."
     },
     {
       "brand": "Young Electric",

@@ -493,12 +493,17 @@ export const partners = [
     "url": "https://voltrover.shop/?ref=SEBASTIANBASSOLINO",
     "code": "SEBASTIANBASSOL",
     "benefit": "10% off",
+    "discount": {
+      "type": "percent",
+      "value": 10,
+      "scope": "Accepted on the M5 48V21Ah variant (47402576675064) on October 23, 2026; applied to its $1,299.00 sale price; other products and variants are untested."
+    },
     "category": "electric-bikes",
     "platform": "GoAffPro",
     "reportedOn": "2026-10-22",
     "status": "active",
     "evidence": "Owner-confirmed live Bike Tested partner roster, October 22, 2026",
-    "checkoutTestedOn": null,
+    "checkoutTestedOn": "2026-10-23",
     "description": "Explore Voltrover electric dirt bikes with our reader code. Confirm intended terrain, rider suitability and where the exact vehicle can legally be used."
   },
   {
