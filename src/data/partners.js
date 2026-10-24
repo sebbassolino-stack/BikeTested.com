@@ -569,14 +569,20 @@ export const partners = [
     "name": "ZWheel",
     "url": "https://zwheelsport.com/?ref=SEBASTIANBASSOLINO",
     "code": "SEBASTIANBASSOL",
-    "benefit": "$20 off",
+    "benefit": "$20.00 off",
+    "discount": {
+      "type": "fixed",
+      "value": 20,
+      "currency": "USD",
+      "scope": "Accepted for the Zwheel D3-D (ZSB2) Red variant, Shopify ID 48219169783962, on 2026-10-23; other models and variants are untested."
+    },
     "category": "electric-mobility",
     "platform": "GoAffPro",
     "reportedOn": "2026-10-22",
     "status": "active",
     "evidence": "Owner-confirmed live Bike Tested partner roster, October 22, 2026",
-    "checkoutTestedOn": null,
-    "description": "Explore ZWheel electric scooters with our reader code. Keep regional model versions and checkout currency in view when comparing the final delivered cost."
+    "checkoutTestedOn": "2026-10-23",
+    "description": "Use the supplied reader code for the D3-D (ZSB2) Red variant we checked; eligibility for other Zwheel models and variants is untested."
   },
   {
     "slug": "finbike",

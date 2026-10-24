@@ -1199,6 +1199,115 @@ export const products = [
     "checkedOn": "2026-10-23",
     "exclusions": "Exact US 20Ah variant 51294483775628 / SKU T1MAX-20AH only; $499.00 bike-item price before shipping and tax. No address was entered and no order was placed; the test cart was cleared."
   }
+},
+{
+  "slug": "zwheel-d3-d-electric-scooter",
+  "brand": "zwheel",
+  "name": "Zwheel D3-D (ZSB2) Dual-Motor Electric Scooter",
+  "model": "D3-D (ZSB2)",
+  "image": "/images/products/zwheel-d3-d-electric-scooter.webp",
+  "imageAlt": "Red and black Zwheel D3-D dual-motor electric scooter in a front three-quarter view",
+  "imageWidth": 1200,
+  "imageHeight": 1200,
+  "category": "electric-mobility",
+  "use": "weekend",
+  "label": "For ground-level storage and rougher routes",
+  "headline": "Dual drive and big tires, with real carry weight.",
+  "description": "The D3-D pairs a dual-drive 48V system with 10-inch tubeless tires and front and rear spring suspension. Its 32 kg net listing and conflicting motor, range, speed, and model markings call for a careful exact-variant check.",
+  "verdict": "We recommend the Zwheel D3-D (ZSB2) for riders who want a substantial dual-motor scooter for rougher routes and have ground-level storage plus a suitable place to ride under local rules. Its 10-inch tubeless tires, spring suspension, and listed 48V 20Ah pack point toward an adventure-focused setup. The 32 kg net weight makes daily carrying unrealistic, while conflicting motor, range, speed, and model markings call for written confirmation before checkout.",
+  "strengths": [
+    "The 10-inch tubeless off-road tires and independent front and rear spring suspension give the design a clear brief for broken pavement and mixed surfaces.",
+    "Zwheel lists a 48V 20Ah battery and dual-drive configuration for the selected D3-D, with lighting, turn signals, and a brake light in the equipment list.",
+    "The seller lists a 150 kg maximum load and a 32 kg net weight for the dual-drive version, useful figures to compare with rider needs and storage plans.",
+    "The supplied Bike Tested code was accepted on the exact US Red variant in checkout."
+  ],
+  "tradeoffs": [
+    "At 32 kg net and 36 kg boxed, the dual-drive version is a ground-level storage choice; the listing does not provide folded scooter dimensions.",
+    "The listing conflicts on motor output: its headline and specification table say 1,200W per motor, while feature copy says dual 500W motors.",
+    "The specification table claims 60 km for dual drive, while feature copy says up to 70 km. Neither figure is a Bike Tested range measurement.",
+    "A 25 km/h speed limit appears alongside 45–50 km/h maximum-speed claims and a 25-to-45 km/h unlock description. Confirm the exact configuration and local access rules.",
+    "The product title identifies D3-D (ZSB2), but several official gallery angles show K5 or K16 arm markings. Confirm the exact model and brake version for the Red variant before ordering."
+  ],
+  "specs": {
+    "Selected configuration": "US Red; Shopify variant 48219169783962; title D3-D (ZSB2)",
+    "Motor": "Dual drive: 1,200W × 2 in the specification table; feature copy elsewhere says dual 500W",
+    "Battery": "48V 20Ah for dual drive (manufacturer-listed)",
+    "Claimed range": "60 km dual-drive specification; up to 70 km in feature copy (conflict)",
+    "Speed": "25 km/h speed limit listed; dual-drive maximum 50 km/h; unlock text says 25 to 45 km/h",
+    "Wheels and tires": "10-inch tubeless off-road tires",
+    "Suspension": "Independent front and rear spring suspension",
+    "Brakes": "Oil disc or hydraulic disc version; the Red variant's brake version is not identified",
+    "Frame": "Aluminum alloy (manufacturer-listed)",
+    "Listed weight": "32 kg net / 36 kg gross for dual drive",
+    "Maximum load": "150 kg (manufacturer-listed)",
+    "Vehicle dimensions": "1,250 × 645 × 1,310 mm (manufacturer-listed)",
+    "Package dimensions": "1,250 × 245 × 575 mm; folded vehicle dimensions not stated",
+    "Water-resistance claim": "IPX54 in marketing copy; exact rating and use limits need model-specific confirmation",
+    "Controls": "Tuya app unlock, cruise control, gear control, KM/mile switch, and lighting system"
+  },
+  "source": "https://zwheelsport.com/products/zwheel-d3-d?variant=48219169783962",
+  "evidence": "Manufacturer-specification editorial evaluation; exact-variant checkout observation; no ride testing",
+  "sections": [
+    [
+      "A dual-drive scooter with a clear route and storage brief",
+      "Zwheel presents the D3-D as an all-terrain dual-motor scooter, listing 10-inch tubeless off-road tires, independent spring suspension at both ends, and lighting with turn signals. Those parts make it worth considering for riders whose routes include rougher pavement and who have room to store a full-size standing scooter. They do not establish ride comfort, traction, or braking performance; Bike Tested has not ridden or measured this model."
+    ],
+    [
+      "Treat folding as a storage aid, not a carrying solution",
+      "The dual-drive version is listed at 32 kg net and 36 kg gross. Zwheel describes the scooter as foldable, but it does not publish a folded vehicle size on this product page. The listed package dimensions are shipping measurements, not proof of the folded scooter's dimensions. Plan for ground-level storage and ask for the actual folded size before deciding whether it will fit a closet, trunk, or elevator."
+    ],
+    [
+      "Ask which motor, speed, and range figures apply to the Red unit",
+      "The D3-D page's dual-drive specification table says 1,200W × 2, 60 km, and up to 50 km/h. Elsewhere, feature copy calls the motors dual 500W and claims up to 70 km. A 25 km/h speed limit and a button unlock from 25 to 45 km/h add another unresolved distinction. These are manufacturer claims rather than test results. Request the Red unit's current manual, rated and peak output, range conditions, and delivered speed configuration, then check local vehicle rules."
+    ],
+    [
+      "Confirm the model label and the version of the hardware",
+      "The title identifies the scooter as D3-D (ZSB2), and the specification section also refers to D3D-S. Several other images in the official gallery show K5 or K16 markings on the swingarms. The listing names both oil-disc and hydraulic-disc versions without tying the Red variant to one. Ask Zwheel to confirm the model code, brake type, and pictured configuration for variant 48219169783962 before you rely on those details."
+    ],
+    [
+      "The exact Red variant and reader-code observation",
+      "The Zwheel D3-D Red variant was listed at $679.99 on October 23, 2026. In checkout, SEBASTIANBASSOL was accepted for $20.00 off, leaving a $659.99 item subtotal before shipping; the store states that tax is included in listed prices. This applies only to Red variant 48219169783962. No address was entered, shipping was not calculated, no order was placed, and the test cart was cleared. The product page showed both Many In Stock and a negative remaining-stock count, so this review makes no availability claim."
+    ]
+  ],
+  "publishedOn": "2026-10-23",
+  "updatedOn": "2026-10-23",
+  "specsCheckedOn": "2026-10-23",
+  "faqs": [
+    ["How fast does the Zwheel D3-D go?", "The product page lists a 25 km/h speed limit, a 50 km/h dual-drive maximum, and a button unlock description from 25 to 45 km/h. Zwheel does not clearly reconcile these figures for the Red unit. Confirm its delivered configuration and check the rules where you intend to ride."],
+    ["What range does the D3-D claim?", "The specification table lists 60 km for dual drive; marketing copy says up to 70 km. Zwheel does not provide enough test conditions in those statements to make them comparable. They are seller claims, not Bike Tested range results."],
+    ["Is the D3-D easy to carry or store?", "Zwheel lists the dual-drive scooter at 32 kg net and describes it as foldable, but the product page does not give folded vehicle dimensions. The 1,250 × 245 × 575 mm figure is package size, not folded scooter size. Measure the storage route and ask the seller for the folded dimensions."],
+    ["Which brakes come on the Red D3-D?", "The listing mentions oil-disc and hydraulic-disc versions without identifying which applies to Red variant 48219169783962. Ask Zwheel to confirm the delivered brake hardware and model code before ordering."]
+  ],
+  "relatedReviews": [
+    {"slug": "ausom-gosoul-2-electric-scooter", "reason": "Compare another folding electric scooter and its exact single-motor configuration."},
+    {"slug": "leoout-t85-electric-scooter", "reason": "Compare the D3-D with a seat-equipped scooter and review its exact variant evidence."}
+  ],
+  "price": {
+    "amountMinor": 67999,
+    "currency": "USD",
+    "region": "US",
+    "variantId": "48219169783962",
+    "variantLabel": "Red (D3-D / ZSB2)",
+    "source": "https://zwheelsport.com/products/zwheel-d3-d?variant=48219169783962",
+    "checkedOn": "2026-10-23",
+    "isSalePrice": false
+  },
+  "eligibility": {
+    "status": "eligible",
+    "variantId": "48219169783962",
+    "evidence": "docs/evidence/zwheel-d3-d-electric-scooter.md#exact-variant-checkout"
+  },
+  "checkoutObservation": {
+    "code": "SEBASTIANBASSOL",
+    "stage": "checkout",
+    "variantId": "48219169783962",
+    "baseAmountMinor": 67999,
+    "discountMinor": 2000,
+    "afterAmountMinor": 65999,
+    "currency": "USD",
+    "checkedOn": "2026-10-23",
+    "exclusions": "Exact US Red variant 48219169783962 only; $679.99 item price less $20.00 code discount, before shipping. Store states listed tax is included; shipping was not calculated because no address was entered. No order was placed; the test item was removed from the cart."
+  }
 }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}

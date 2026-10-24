@@ -13,7 +13,7 @@ const deals=fs.readFileSync('dist/deals.html','utf8');
 const sitemap=fs.readFileSync('dist/sitemap-0.xml','utf8');
 assert.equal(offers.length,44);assert.equal(offers.filter(o=>o.code).length,24);assert.equal(offers.filter(o=>o.benefit).length,20);assert.equal(new Set(offers.map(o=>o.brand)).size,44);
 assert.equal(feed.offers.length,44);
-const exact={eunorau:['EUNORSEBASTIAN60','2% off','https://eunorau-ebike.com/?ref=gowithsebastian&utm_medium=affiliate&utm_source=goaffpro'],actbest:['SEBASTIAN3%','3% off','https://actbestbike.com/81054420bg'],gebike:['SEBASTIANBASSOL','€10.00 off','https://gebikeglobal.com/?ref=SEBASTIANBASSOLINO'],eahora:['SEBASTIANBASSOL','$400 off','https://eahoraescooter.com/?ref=vymoetrs'],happyrun:['SEBASTIANBASSOL23',null,'https://happyrunsports.com/?ref=hhyssezj'],mooncool:['SEBASTIANBASSOL','5% off','https://www.mooncool.com/?ref=znnfuofi'],tomofree:['SEBASTIANBASSOL','6% off','https://tomofree.com/?ref=uhifvbyw']};
+const exact={eunorau:['EUNORSEBASTIAN60','2% off','https://eunorau-ebike.com/?ref=gowithsebastian&utm_medium=affiliate&utm_source=goaffpro'],actbest:['SEBASTIAN3%','3% off','https://actbestbike.com/81054420bg'],gebike:['SEBASTIANBASSOL','€10.00 off','https://gebikeglobal.com/?ref=SEBASTIANBASSOLINO'],eahora:['SEBASTIANBASSOL','$400 off','https://eahoraescooter.com/?ref=vymoetrs'],happyrun:['SEBASTIANBASSOL23',null,'https://happyrunsports.com/?ref=hhyssezj'],mooncool:['SEBASTIANBASSOL','5% off','https://www.mooncool.com/?ref=znnfuofi'],tomofree:['SEBASTIANBASSOL','6% off','https://tomofree.com/?ref=uhifvbyw'],zwheel:['SEBASTIANBASSOL','$20.00 off','https://zwheelsport.com/?ref=SEBASTIANBASSOLINO']};
 for(const [slug,expected]of Object.entries(exact)){const o=offers.find(x=>x.brand===slug);assert.deepEqual([o.code,o.benefit,o.url],expected,`Exact owner offer: ${slug}`);}
 for(const o of offers){
   const name=brands.find(b=>b.slug===o.brand).name,answer=offerAnswer(o,name),item=feed.offers.find(x=>x.slug===o.brand);
@@ -46,6 +46,10 @@ const tomofreeProduct=products.find(p=>p.slug==='tomofree-t1max-folding-ebike'),
 assert(tomofreeFeed&&tomofreeFeed.price.amountMinor===49900&&tomofreeFeed.price.variantId==='51294483775628',`Exact public product price ${tomofreeProduct.slug}`);
 assert.equal(tomofreeFeed.eligibility.status,'confirmed-for-exact-variant');assert.equal(tomofreeFeed.afterCodePrice.amountMinor,46906);assert.equal(tomofreeState.kind,'observed');
 assert(llms.includes('$469.06')&&llms.includes('Other variants and models have not been checked'),`Crawler price and eligibility scope ${tomofreeProduct.slug}`);
+const zwheelProduct=products.find(p=>p.slug==='zwheel-d3-d-electric-scooter'),zwheelFeed=feed.products.find(p=>p.name===zwheelProduct.name),zwheelState=priceState(zwheelProduct,offers.find(o=>o.brand==='zwheel'));
+assert(zwheelFeed&&zwheelFeed.price.amountMinor===67999&&zwheelFeed.price.variantId==='48219169783962',`Exact public product price ${zwheelProduct.slug}`);
+assert.equal(zwheelFeed.eligibility.status,'confirmed-for-exact-variant');assert.equal(zwheelFeed.afterCodePrice.amountMinor,65999);assert.equal(zwheelState.kind,'observed');
+assert(llms.includes('$659.99')&&llms.toLowerCase().includes('other variants and models have not been checked'),`Crawler price and eligibility scope ${zwheelProduct.slug}`);
 const walk=p=>fs.readdirSync(p,{withFileTypes:true}).flatMap(x=>x.isDirectory()?walk(`${p}/${x.name}`):[`${p}/${x.name}`]);
 for(const file of walk('dist').filter(x=>/\.(html|json|txt|js)$/.test(x))){const content=fs.readFileSync(file,'utf8');assert(!content.includes('PERSON'+'SEBASTIAN84'),`Personal-use code leaked: ${file}`);}
 const queue=JSON.parse(fs.readFileSync('docs/partner-review-queue.json','utf8'));

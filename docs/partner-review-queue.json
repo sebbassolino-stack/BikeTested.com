@@ -294,17 +294,17 @@
       "brand": "ZWheel",
       "brandSlug": "zwheel",
       "category": "electric-mobility",
-      "status": "ready-for-product-research",
+      "status": "review-implemented-pending-live-verification",
       "priority": 1,
-      "product": null,
-      "officialSource": null,
-      "reviewUrl": null,
+      "product": "Zwheel D3-D (ZSB2) Dual-Motor Electric Scooter, US Red (variant 48219169783962)",
+      "officialSource": "https://zwheelsport.com/products/zwheel-d3-d?variant=48219169783962",
+      "reviewUrl": "/reviews/zwheel-d3-d-electric-scooter",
       "affiliateUrl": "https://zwheelsport.com/?ref=SEBASTIANBASSOLINO",
       "code": "SEBASTIANBASSOL",
-      "reportedBenefit": "$20 off",
+      "reportedBenefit": "$20.00 off on tested Red variant",
       "offerDetailNeeded": false,
-      "checkoutTestedOn": null,
-      "nextStep": "Choose one exact current SKU from this storefront; record model, variant, primary specifications and official image provenance before drafting."
+      "checkoutTestedOn": "2026-10-23",
+      "nextStep": "The exact Red variant accepted SEBASTIANBASSOL for $20.00 off $679.99 to $659.99 before shipping; the test cart was cleared. Review, product-page image cutout, evidence note, and electric-mobility guide link are implemented. Build and verify the production review, promo, and image routes. The listing conflicts on motor, range, speed, model markings, and stock indicators; do not claim current availability."
     },
     {
       "brand": "Bezior",
@@ -614,7 +614,7 @@
       "brand": "Tomofree",
       "brandSlug": "tomofree",
       "category": "electric-bikes",
-      "status": "review-implemented-pending-live-verification",
+      "status": "review-published-live-routes-verified",
       "priority": 2,
       "product": "Tomofree T1MAX Folding E-Bike, US 20Ah (variant 51294483775628; SKU T1MAX-20AH)",
       "officialSource": "https://tomofree.com/products/t1max-ebike?variant=51294483775628",
@@ -624,7 +624,7 @@
       "reportedBenefit": "6% off on tested T1MAX 20Ah variant",
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-23",
-      "nextStep": "Review, exact-variant offer, official image cutout, evidence note and folding-guide link are implemented. Finish build, live route and image verification; preserve the page/feed sold-out versus available conflict without asserting current stock."
+      "nextStep": "Commit 6049c89 is live: the review and promo routes display the exact 20Ah variant and offer, and the live 1200×1200 product image SHA-256 matches local. Review was checked at 375px; promo route and image were also opened live. No stock claim. GitHub Cloudflare Pages check run 120738068784 remained in progress at the latest check; record its final state separately."
     },
     {
       "brand": "TsTescooter",
