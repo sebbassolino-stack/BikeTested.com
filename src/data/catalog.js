@@ -1639,6 +1639,122 @@ export const products = [
       "exclusions": "Dark Gray / US variant only; before shipping and tax; no delivery address or order."
     }
   },
+  {
+    "slug": "actbest-striker-max-awd-moped-ebike",
+    "brand": "actbest",
+    "name": "Actbest Striker Max AWD Electric Bike",
+    "model": "Striker Max, Red / US (variant 51857948770586; SKU AT59MaxUS01HP-11)",
+    "image": "/images/products/actbest-striker-max-awd-moped-ebike.webp",
+    "imageAlt": "Black Actbest Striker Max moped-style e-bike with red decals, 20 by 4 inch tires and dual rear shocks",
+    "imageWidth": 1200,
+    "imageHeight": 1200,
+    "category": "electric-mobility",
+    "use": "private",
+    "label": "For private-property routes with switchable dual motors",
+    "headline": "Twin batteries and full suspension, with a substantial footprint to plan around.",
+    "description": "The Striker Max pairs switchable dual motors with two removable 52 V batteries, 20 × 4-inch tires and full suspension. At 109.8 lb, with conflicting speed, class and length details, it calls for a careful fit, storage and route check.",
+    "verdict": "We recommend the Actbest Striker Max for riders with private-property or other permitted routes who want switchable dual-motor drive, two removable batteries and a moped-style full-suspension frame. Actbest lists 3,000 W peak output, 20 × 4-inch tires and hydraulic brakes, while its up-to-120-mile pedal-assist range is an ideal-condition claim. At 109.8 lb, with conflicting speed and length figures plus unconfirmed code eligibility, confirm fit, transport and the exact setup before choosing it.",
+    "strengths": [
+      "Actbest lists switchable single- or dual-motor AWD with up to 3,000 W peak output, giving the rider two stated drive modes without requiring both motors for every use.",
+      "Two removable 52 V 20 Ah batteries provide 40 Ah of combined capacity. Actbest advertises up to 120 miles with pedal assist under ideal conditions; actual range varies with speed, terrain, load, motor mode and assist use.",
+      "The 20 × 4-inch tires, hydraulic front fork, dual rear shocks and hydraulic brakes make a substantial equipment list for rougher private-property routes on paper.",
+      "A Shimano 7-speed drivetrain, PAS levels 0–5, 360 lb listed payload and suggested rider height of 5 ft 3 in–6 ft 3 in provide useful details to compare with your routes, fit and load."
+    ],
+    "tradeoffs": [
+      "At 109.8 lb, this is a heavy vehicle to lift or store. Actbest's specification table lists 67.7 inches of length, while its geometry chart gives 64.96 inches; measure your actual storage and transport space and confirm the relevant figure with the seller.",
+      "Actbest's page title says 37 mph, while the product heading and specification table say 38+ mph; the table also labels it Class 3. Ask Actbest to confirm the delivered US speed setting and model documentation, then check the rules for your intended route.",
+      "The up-to-120-mile figure is Actbest's ideal-condition pedal-assist claim, not a Bike Tested range result. Expect distance to depend on route, rider and cargo load, temperature, assist level, throttle use and motor mode.",
+      "The supplied SEBASTIAN3% code and 3% brand benefit are available to check, but the exact Red / US variant did not produce a verifiable model discount during our cart attempt. No after-code amount or eligibility is confirmed."
+    ],
+    "specs": {
+      "Configuration / SKU": "Red / US; variant 51857948770586; SKU AT59MaxUS01HP-11",
+      "Drive system": "Switchable dual-motor AWD; dual hub motors, up to 3,000 W peak (manufacturer-listed)",
+      "Top-speed and class claims": "37 mph in the page title; 38+ mph in the heading and specifications; Class 3 label in the specification table",
+      "Battery": "Two removable 52 V 20 Ah batteries; 40 Ah combined capacity (manufacturer-listed)",
+      "Claimed range": "Up to 120 miles with pedal assist under ideal conditions (Actbest claim; not measured by Bike Tested)",
+      "Pedal assist": "PAS levels 0–5 (manufacturer-listed)",
+      "Drivetrain": "Shimano 7-speed (manufacturer-listed)",
+      "Brakes": "Hydraulic brakes (manufacturer-listed)",
+      "Tires and wheels": "20 × 4.0-inch fat tires (manufacturer-listed)",
+      "Suspension": "Hydraulic front fork and dual rear shock absorbers (manufacturer-listed)",
+      "Rider height and seat": "Suggested rider height 5 ft 3 in–6 ft 3 in; seat height 27.56–31.50 inches",
+      "Listed weight": "109.8 lb",
+      "Dimensions": "67.7 × 26.8 × 41.3 inches in the product table; geometry lists 64.96 inches total length, 41.34-inch wheelbase and 27.56-inch handlebar length",
+      "Maximum payload": "360 lb (manufacturer-listed)",
+      "Charging": "58.8 V / 2 A charger; 9–10 hours (manufacturer-listed)",
+      "Water rating": "IPX5 (manufacturer-listed)"
+    },
+    "source": "https://actbestbike.com/products/striker-max?variant=51857948770586",
+    "evidence": "Manufacturer-specification editorial evaluation. Exact Red / US variant and listing price recorded; the Bike Tested code route did not produce an exact-model acceptance or a usable discount result. No Bike Tested ride, speed, braking or range test.",
+    "sections": [
+      [
+        "Switchable dual-motor drive and two removable batteries",
+        "Actbest builds the Striker Max around two hub motors with switchable single- or dual-motor drive, listing up to 3,000 W peak output. The second battery gives the package a total listed capacity of two 52 V 20 Ah packs, both removable. Actbest advertises up to 120 miles with pedal assist under ideal conditions and says range changes with speed, load, terrain, assist, temperature and motor mode. Treat the distance as a seller claim rather than a route guarantee; frequent dual-motor or throttle use is among the reasons to plan with a charging margin."
+      ],
+      [
+        "A complete equipment list for rougher routes",
+        "The 20 × 4-inch tires sit alongside a hydraulic front fork and dual rear shocks. The page also lists hydraulic brakes, a Shimano 7-speed drivetrain and PAS levels 0–5. Those parts make the Striker Max look well-equipped on paper, but specifications do not establish how the bike accelerates, brakes or feels on a particular surface. Its weight and moped-style frame point toward planned private-property use and storage, rather than a light bicycle you casually carry upstairs."
+      ],
+      [
+        "Check rider fit, weight and transport together",
+        "Actbest suggests riders from 5 ft 3 in to 6 ft 3 in and gives a 27.56–31.50-inch seat-height range. Use those numbers as a starting screen, then check inseam, reach and control position against the exact bike. At 109.8 lb, the Striker Max needs a realistic ground-level storage and transport plan. The product table says it is 67.7 inches long, but the geometry chart says 64.96 inches; ask which measurement applies to the Red / US configuration before buying a rack or confirming a tight storage space."
+      ],
+      [
+        "Resolve the speed label and route fit before buying",
+        "Actbest's page title describes a 37 mph model, while the page heading and specification table use 38+ mph; the same table labels it Class 3. Those seller statements do not establish the delivered speed setting or where the exact vehicle may be used. Ask Actbest to confirm the Red / US configuration in writing and check the rules for your roads, trails or property. The 360 lb payload is also a seller figure; confirm how it applies to rider, cargo and accessories."
+      ],
+      [
+        "Check the exact code and final cart amount",
+        "The Actbest partner listing supplies the Bike Tested code SEBASTIAN3% for a stated 3% brand-level benefit. We added the Red / US Striker Max variant to a fresh cart, but applying the code route redirected to an empty cart. The cart did not show exact-model acceptance or savings, so this review does not calculate a discounted price. Use the code from the buy box and check the final item subtotal for your exact configuration before ordering."
+      ]
+    ],
+    "publishedOn": "2026-10-24",
+    "updatedOn": "2026-10-24",
+    "specsCheckedOn": "2026-10-24",
+    "faqs": [
+      [
+        "How far does the Actbest Striker Max go on one charge?",
+        "Actbest advertises up to 120 miles with pedal assist under ideal conditions from its two removable 52 V 20 Ah batteries. That is a manufacturer claim, not a Bike Tested range result. Terrain, rider and cargo weight, speed, assist level, throttle use, temperature and single- or dual-motor mode affect actual distance."
+      ],
+      [
+        "Is the Striker Max a 37 mph or 38+ mph model?",
+        "Actbest's page title says 37 mph, while its product heading and specification table say 38+ mph. The same table labels the bike Class 3. Ask Actbest to confirm the delivered US speed setting and documentation, then check the rules for the exact route or property where you intend to ride."
+      ],
+      [
+        "What rider size and storage space should I plan for?",
+        "Actbest suggests a 5 ft 3 in–6 ft 3 in rider height and lists a 27.56–31.50-inch seat range. The bike weighs 109.8 lb. Its product table gives a 67.7-inch length, while the geometry chart says 64.96 inches, so confirm the exact dimensions and check reach, inseam, doorway clearance and transport capacity before ordering."
+      ],
+      [
+        "How much can the Striker Max carry?",
+        "Actbest lists a 360 lb maximum payload. Confirm how that limit applies to the rider, cargo and accessories for the Red / US configuration, and keep any carrier within its own stated load limits."
+      ]
+    ],
+    "relatedReviews": [
+      {
+        "slug": "happyrun-g300-se-ultra-electric-dirt-bike",
+        "reason": "Compare another moped-style high-power electric bike with a single-battery setup and different speed claims; confirm its exact configuration and route fit."
+      },
+      {
+        "slug": "voltrover-m5-electric-dirt-bike",
+        "reason": "Compare a private-property electric dirt bike with a single-motor design and a different battery and fit brief."
+      }
+    ],
+    "price": {
+      "amountMinor": 149900,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "51857948770586",
+      "variantLabel": "Red / US (SKU AT59MaxUS01HP-11)",
+      "source": "https://actbestbike.com/products/striker-max?variant=51857948770586",
+      "checkedOn": "2026-10-24",
+      "isSalePrice": true
+    },
+    "eligibility": {
+      "status": "unresolved",
+      "variantId": "51857948770586",
+      "evidence": "docs/evidence/actbest-striker-max-awd-moped-ebike.md#exact-variant-code-check"
+    }
+  },
  {"slug":"lankeleisi-mg740plus-dual-motor-electric-bike","brand":"lankeleisi","name":"Lankeleisi MG740Plus Dual Motor Electric Bike","model":"MG740Plus Grey / US (variant 43058170495175; SKU MG740-Grey / US)","image":"/images/products/lankeleisi-mg740plus-dual-motor-electric-bike.webp","imageAlt":"Gray Lankeleisi MG740Plus electric bike with dual hub motors and 26 by 4 inch fat tires","imageWidth":1200,"imageHeight":1200,"category":"electric-bikes","use":"weekend","label":"For taller riders considering dual-motor power","headline":"Two hub motors and wide tires, with fit and weight to plan around.","description":"The MG740Plus pairs two 48V 1,000W hub motors with a removable 48V 20Ah Samsung battery and 26 × 4.0-inch tires. At a listed 34kg, with conflicting range, torque and speed details, it calls for a careful fit, storage and route check.","verdict":"We recommend the Lankeleisi MG740Plus for taller riders who want a fat-tire e-bike with selectable front and rear hub-motor drive. Its removable 48V 20Ah Samsung battery, 26 × 4.0-inch tires, front suspension and hydraulic brakes make a broad equipment package for mixed surfaces on paper. At a listed 34kg, with a 74-inch frame and an unclassified 45–51km/h speed claim, it needs careful fit, storage and route planning. Confirm the setup, written support terms and code eligibility before ordering.","strengths":["Two 48V 1,000W hub motors and a display that can switch between single- and dual-motor output give riders a choice of drive configuration; Lankeleisi does not detail that control behavior further.","The removable 48V 20Ah Samsung battery is rated at 960Wh from its nominal voltage and capacity. Lankeleisi lists up to 70km in pure-electric mode and 150km with pedal assist.","A 100mm lockable front fork, 26 × 4.0-inch Chaoyang tires, hydraulic disc brakes, front lighting and a Shimano seven-speed drivetrain create a substantial mixed-surface equipment list.","The geometry chart gives a 170–195cm recommended height, 31.4–37.4-inch saddle range, 74-inch overall length and 180kg maximum load as useful starting points for fit and carrying plans."],"tradeoffs":["At 34kg (74.95lb) and 74 inches long, the MG740Plus needs ground-level storage and a realistic lifting or loading plan; the listing does not describe a folding design.","Lankeleisi lists a 45–51km/h maximum-speed claim but does not state an e-bike class on the product page. Confirm the configured speed and classification for your intended routes.","The description states up to 95Nm of torque while the specification table lists 90Nm. The page calls the bike full suspension but specifies a 100mm front fork without detailing rear travel or shock setup; confirm the exact build.","The product page lists a 12-point Hall speed sensor rather than describing a torque sensor. Riders who want power to track pedal force should ask how assistance responds before choosing it."],"specs":{"Motor":"Dual 48V 1,000W brushless hub motors (manufacturer-listed as a 2,000W dual-motor system)","Torque":"Up to 95Nm in the description; 90Nm in the specification table","Battery":"Removable 48V 20Ah Samsung lithium pack using 18650 cells; 960Wh calculated from nominal volts × amp-hours","Claimed range":"60–70km pure electric and 120–150km pedal assist in the table; the feature copy says up to 70km and 150km","Assist sensor and display":"12-point Hall speed sensor; color LCD with speed, trip, battery, assist level and single/dual motor output selection","Drivetrain":"Shimano seven-speed; TX50 shifter, M310 derailleur and KMC 7-speed chain (manufacturer-listed)","Brakes":"DYISLAND de-energized hydraulic disc brakes (manufacturer-listed)","Tires and wheels":"26 × 4.0-inch Chaoyang fat tires; aluminum-alloy rims","Front suspension":"Lockable oil-spring fork with 100mm travel (manufacturer-listed)","Top-speed claim":"45–51km/h (about 28–32mph); product page does not state an e-bike class","Recommended rider height":"170–195cm (about 5ft 7in–6ft 5in; manufacturer geometry chart)","Saddle height":"31.4–37.4 inches (manufacturer geometry chart)","Listed weight":"34kg (74.95lb; manufacturer-listed)","Dimensions":"74 inches overall length; 46-inch wheelbase; 28.3-inch handlebar width; 27.9-inch standover (manufacturer geometry chart)","Maximum load":"180kg on the geometry chart; the specification table rounds this to 400lb","Warranty page":"One year for listed components, two years for battery and motors, three years for frame; original-owner terms apply, subject to exclusions"},"source":"https://lankeleisi.com/products/mg740plus-dual-motor-electric-bike?variant=43058170495175","sourceLinks":[{"label":"MG740Plus geometry chart","url":"https://lankeleisi.com/cdn/shop/files/mg740_cf72de16-5fc7-41c1-9142-4818fccff27c_1.webp?v=1755155452"},{"label":"LANKELEISI warranty terms","url":"https://lankeleisi.com/pages/warranty"},{"label":"MG740PLUS English owner manual","url":"https://cdn.shopify.com/s/files/1/0549/7172/7933/files/MG740PLUS_Manual.pdf?v=1705637136"}],"evidence":"Manufacturer-specification editorial evaluation; current product listing and exact Grey / US variant observed; partner-supplied reader code amount and model eligibility are unspecified and checkout was not possible while the variants were listed sold out; no Bike Tested ride or range test.","sections":[["Dual hub motors for riders who can use the extra setup","The MG740Plus is built around two 48V 1,000W hub motors, one at each wheel. Lankeleisi says the color display can switch between single- and dual-motor output, giving riders a way to choose the listed drive configuration. The page does not explain how assist levels, throttle response or motor switching behave in practice, so treat the power figures as specifications rather than a promise of hill speed or traction. The 26 × 4.0-inch tires, hydraulic brakes and lockable front fork suit a mixed-surface brief. The top-speed claim reaches 45–51km/h, and the product page does not state an e-bike class; confirm the delivered setup and the rules that apply to your route."],["Compare the battery and range claims with your actual route","The removable Samsung pack is listed at 48V and 20Ah, or 960Wh when calculated from those nominal values. Lankeleisi gives 60–70km in pure-electric mode and 120–150km with pedal assist in its specification table; the feature copy says up to 70km and 150km, while a separate highlight says 70–130km per charge. The specification table says its figures come from a 60kg load, 25°C and 20km/h average on a flat road. These are manufacturer-reported conditions, not Bike Tested measurements. Speed, assist level, terrain, temperature, rider and cargo load, and tire pressure affect distance. Use the battery figure to compare capacity, then plan with a comfortable charging margin instead of treating the longest claim as a route guarantee."],["Fit and storage are part of the decision","Lankeleisi recommends the MG740Plus for riders 170–195cm tall and lists a 31.4–37.4-inch saddle range. Its geometry chart also gives a 27.9-inch standover, 28.3-inch handlebar, 46-inch wheelbase and 74-inch total length. Check your inseam, reach and control position against the full diagram; the height range alone cannot settle fit. At 34kg (74.95lb), it is a substantial bike to carry. Measure storage access and vehicle-rack limits, and plan for a ground-level parking space rather than frequent stair lifting."],["Resolve the specification details before choosing a setup","The product description claims up to 95Nm of torque while the specification table says 90Nm. Lankeleisi calls the MG740Plus full suspension, but the table specifies a 100mm front fork and does not give rear-shock travel or configuration. The geometry chart and table also express the 180kg load limit as roughly 396lb and 400lb respectively. Those differences are small or unresolved, but they matter when comparing specifications. Ask Lankeleisi to confirm the exact torque figure, rear suspension and payload interpretation for the US Grey variant. The page lists a 12-point Hall speed sensor; riders seeking torque-sensor response should confirm how the assist reacts to pedal input."],["Check support coverage, availability and the supplied code","The warranty page, last updated September 2023, lists one year for specified components, two years for motors and battery, and three years for the frame. It limits coverage to the original owner and lists exclusions; read the current written terms before ordering. On October 23, 2026, the official US listing showed both Grey and Blue variants as sold out, so checkout and code acceptance could not be checked. The Bike Tested partner roster supplies SEBASTIANBASSOL but gives no discount amount or model eligibility. Copy it from the buy box if you want to check the exact terms when the Grey / US variant becomes orderable; no saving is confirmed."]],"publishedOn":"2026-10-23","updatedOn":"2026-10-23","specsCheckedOn":"2026-10-23","faqs":[["How far does the MG740Plus go on a charge?","Lankeleisi lists 60–70km in pure-electric mode and 120–150km with pedal assist, while a separate page highlight says 70–130km per charge. The specification table states a 60kg load, 25°C and 20km/h average on a flat road. These are manufacturer-reported conditions, not Bike Tested range results; rider load, speed, terrain, temperature and assist level change actual distance."],["What rider height does the MG740Plus fit?","The manufacturer geometry chart recommends 170–195cm and lists a 31.4–37.4-inch saddle height, 27.9-inch standover and 22.5–26.3-inch seat-to-handlebar spacing. Check the complete geometry against your inseam and preferred reach rather than treating the height range as a guarantee."],["Does the MG740Plus have full suspension?","Lankeleisi calls it full suspension and lists a 100mm lockable front fork, but its specification table does not describe rear-shock travel or setup. Confirm the rear suspension details for the Grey / US configuration before ordering."],["What does the MG740Plus warranty cover?","Lankeleisi’s warranty page, last updated September 2023, lists one year for specified components, two years for motors and battery, and three years for the frame. The terms are limited to the original owner and include exclusions, so confirm the current policy and local service process before buying."]],"relatedReviews":[{"slug":"hiknight-h2-pro-off-road-ebike","reason":"Compare another 26 × 4.0-inch dual-motor e-bike with a different frame, battery and listed speed claims."},{"slug":"actbest-cozy-wide-tire-step-through-electric-bike","reason":"Compare a step-through fat-tire commuter if your main routes are paved and easy access matters more than dual-motor drive."}],"price":{"amountMinor":99900,"currency":"USD","region":"US","variantId":"43058170495175","variantLabel":"Grey / US (SKU MG740-Grey / US)","source":"https://lankeleisi.com/products/mg740plus-dual-motor-electric-bike?variant=43058170495175","checkedOn":"2026-10-23","isSalePrice":true},"eligibility":{"status":"unresolved","variantId":"43058170495175","evidence":"docs/evidence/lankeleisi-mg740plus-dual-motor-electric-bike.md#offer-and-availability"}},
   {
     slug: 'cycplus-as2-ultra-tiny-e-pump',

@@ -107,11 +107,11 @@ export const guides = [
       ]
     ],
     "publishedOn": "2026-10-19",
-    "updatedOn": "2026-10-23",
+    "updatedOn": "2026-10-24",
     "topics": [
       "electric-mobility"
     ],
-    "products": ["ausom-gosoul-2-electric-scooter","ekx-x21-max-electric-dirt-bike","leoout-t85-electric-scooter","voltrover-m5-electric-dirt-bike","gyroor-c5-electric-trike","zwheel-d3-d-electric-scooter"],
+    "products": ["ausom-gosoul-2-electric-scooter","ekx-x21-max-electric-dirt-bike","leoout-t85-electric-scooter","voltrover-m5-electric-dirt-bike","gyroor-c5-electric-trike","zwheel-d3-d-electric-scooter","actbest-striker-max-awd-moped-ebike"],
     "related": [
       "folding-vs-full-size-ebike",
       "panniers-vs-backpack",

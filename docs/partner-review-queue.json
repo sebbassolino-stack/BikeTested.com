@@ -739,6 +739,22 @@
       "nextStep": "Published in commit 9f80b56; Cloudflare Pages completed successfully. The live review, promo, and exact transparent product image return 200; the live image SHA-256 matches local. Exact Dark Gray US variant 52286186291482 (SKU AT21US00HP-V) showed $749.00 and accepted SEBASTIAN3% for $22.47 off, leaving a $726.53 item subtotal before shipping and tax. 375px live QA passed with no overflow; no address or order. Continue with a distinct coded partner."
     },
     {
+      "brand": "Actbest",
+      "brandSlug": "actbest",
+      "category": "electric-mobility",
+      "status": "ready-for-release",
+      "priority": 1,
+      "product": "Striker Max AWD Dual-Motor Moped-Style E-Bike, Red / US (variant 51857948770586; SKU AT59MaxUS01HP-11)",
+      "officialSource": "https://actbestbike.com/products/striker-max?variant=51857948770586",
+      "reviewUrl": "/reviews/actbest-striker-max-awd-moped-ebike",
+      "affiliateUrl": "https://actbestbike.com/81054420bg",
+      "code": "SEBASTIAN3%",
+      "reportedBenefit": "3% off",
+      "offerDetailNeeded": false,
+      "checkoutTestedOn": "2026-10-24",
+      "nextStep": "Exact Red / US cart line added. The SEBASTIAN3% route redirected to an empty cart, so exact-model eligibility and sale-price stacking remain unconfirmed. Do not calculate savings; proceed with the review and verify production routes."
+    },
+    {
       "brand": "Cycplus",
       "brandSlug": "cycplus",
       "category": "cycling-technology",
