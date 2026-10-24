@@ -262,7 +262,7 @@
       "brand": "Mooncool",
       "brandSlug": "mooncool",
       "category": "electric-bikes",
-      "status": "ready-for-release",
+      "status": "review-published-live-routes-verified",
       "priority": 1,
       "product": "FT1 Fat Tire Electric Trike, Peacock Green-Matte / US (variant 46134256894124; SKU FT1-20KQL)",
       "officialSource": "https://www.mooncool.com/products/ft1-electric-trike?variant=46134256894124",
@@ -272,7 +272,7 @@
       "reportedBenefit": "5% off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-24",
-      "nextStep": "Official US listing checked October 24, 2026. Peacock Green-Matte variant 46134256894124 / SKU FT1-20KQL was listed at $1,349.99; an isolated one-item cart accepted SEBASTIANBASSOL for $67.49 off, leaving $1,282.50 before shipping and tax. Official image was already transparent and inspected on light/dark backgrounds. Build passed with 30 reviews and 142 pages; local 375px/1280px review and promo rendering passed with no mobile overflow, exact image load and physical code-copy feedback. Review, promo and image await release verification."
+      "nextStep": "Published in review commit 71596f9; Cloudflare Pages check succeeded (deployment 18fd178b-67f3-4679-b09f-754c17cdb483). Live review, promo, agent feed and official transparent image return 200; live image SHA-256 adc6320653843bf6db298c136c4c695873df37c25fde604b329b05866e581161 matches local. Exact Peacock Green-Matte US variant 46134256894124 / SKU FT1-20KQL was listed at $1,349.99 and accepted SEBASTIANBASSOL for $67.49 off, leaving $1,282.50 before shipping and tax. Local 375px/1280px review and promo QA passed with no mobile overflow, exact image loaded, and code copy successful. Cart was cleared; no address or order. Continue with another coded, popular or newer product."
     },
     {
       "brand": "Voltrover",
