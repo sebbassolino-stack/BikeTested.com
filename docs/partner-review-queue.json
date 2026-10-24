@@ -870,7 +870,7 @@
       "brand": "Ausom",
       "brandSlug": "ausom",
       "category": "electric-mobility",
-      "status": "review-in-progress",
+      "status": "review-published-live-routes-verified",
       "priority": 1,
       "product": "Ausom K20 Pro (Laluz 2 Pro) Dual Motor Electric Scooter, US Default Title (variant 51839968084247; SKU 1298433)",
       "officialSource": "https://ausomstore.com/products/ausom-k20-pro-dual-motor-e-scooter?variant=51839968084247",
@@ -880,7 +880,7 @@
       "reportedBenefit": "$50.00 USD off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": null,
-      "nextStep": "Official Ausom page and Shopify product feed checked October 24, 2026. The 2026-arrival K20 Pro US variant is listed at $729.00 against an $879.00 compare-at price. An older search snippet showed a separate $30 offer, but it was absent from the current direct page/feed and is excluded. The $50 reader code was accepted on Gosoul 2 only; K20 eligibility and sale-price stacking are untested. Build and verify review, Ausom promo, image and public feed before release."
+      "nextStep": "Review commit fba810e483edc1f60bde91e951b8175d25da859e deployed successfully to Cloudflare Pages as fa1d27af-01d3-4321-a323-4a7a117a2f77. Production review, Ausom promo, image and agent feed returned 200; the live image SHA-256 matches local. The US variant remains listed at $729.00 against an $879.00 compare-at price. SEBASTIANBASSOL eligibility and sale-price stacking for K20 Pro are untested; agent feed leaves eligibility unresolved and afterCodePrice null. Visual browser QA was not completed. Continue with another distinct coded, newer product."
     }
   ]
 }
