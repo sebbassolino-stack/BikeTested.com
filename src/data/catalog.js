@@ -2934,6 +2934,109 @@ export const products = [
       variantId: '51839968084247',
       evidence: 'docs/evidence/ausom-k20-pro-dual-motor-electric-scooter.md#partner-offer'
     }
+  },
+  {
+    slug: 'young-electric-e-scout-pro-electric-bike',
+    brand: 'young-electric',
+    name: 'Young Electric E-Scout Pro',
+    model: 'E-Scout Pro Matte Gun Metal (variant 44484400840912; SKU 12803011YE054)',
+    image: '/images/products/young-electric-e-scout-pro-electric-bike.webp',
+    imageAlt: 'Matte Gun Metal Young Electric E-Scout Pro all-terrain electric bike in side profile',
+    imageWidth: 1200,
+    imageHeight: 1200,
+    category: 'electric-bikes',
+    use: 'weekend',
+    label: 'For fat-tire rides with a full-size storage plan',
+    headline: 'A broad all-terrain setup, with weight to plan around.',
+    description: 'The E-Scout Pro pairs a 750W Bafang Sutto rear-hub motor with a 960Wh LG battery, 26 × 4-inch Kenda tires, and an adjustable front fork. Young Electric lists an 80-mile maximum and an 82 lb net weight, so range conditions and storage deserve a close look.',
+    verdict: 'We recommend the Young Electric E-Scout Pro to riders looking for a full-size fat-tire e-bike with a rear rack, fenders, and equipment for mixed surfaces. The 960Wh battery, hydraulic disc brakes, and adjustable 80mm fork make a substantial manufacturer-listed package. At 82 lb, it needs a practical ground-level storage and transport plan. Young Electric describes it as a Class 2 bike that can be unlocked to Class 3; confirm the delivered setting and the rules for your route. The Matte Gun Metal listing is $1,399, while the partner code’s $15 benefit has only been confirmed on a rack, not this bike.',
+    strengths: [
+      'A 48V 20Ah (960Wh) LG battery, thumb throttle, and five levels of pedal assist give the bike a useful equipment foundation for longer recreational rides.',
+      'The 26 × 4-inch Kenda tires, 80mm adjustable fork, and hydraulic disc brakes suit a mixed-surface brief on the manufacturer specification sheet.',
+      'The rear rack, front and rear fenders, Shimano seven-speed drivetrain, and 3.5-inch color display cover practical details beyond the motor headline.',
+      'A listed 330 lb maximum load and saddle-height range of 28.3–37.4 inches help buyers check capacity and initial fit.'
+    ],
+    tradeoffs: [
+      'The listed net weight is 82 lb and the bike is 76 inches long. Measure storage access and your vehicle rack rating, and plan how you will move it without frequent lifting.',
+      'Young Electric advertises up to 80 miles depending on pedal effort but does not provide complete range-test conditions on the specification page. Treat that as a ceiling, not a route estimate.',
+      'The seller describes the E-Scout Pro as Class 2, with an unlockable Class 3 setting reaching up to 28 mph by pedal assist and 20 mph by throttle. Confirm the actual configuration and check current local rules for your planned use.',
+      'The selected Matte Gun Metal variant is listed at $1,399 against a $2,599 compare-at price. Sale-price stacking with SEBASTIANBASSOL is untested; the $15 code result was observed only on Young Electric’s Tire-Press 2 rack.'
+    ],
+    specs: {
+      'Selected configuration': 'Matte Gun Metal; variant 44484400840912; SKU 12803011YE054',
+      'Motor': '750W Bafang Sutto rear hub motor; peak power at least 1,000W (manufacturer-listed)',
+      'Speed configuration': 'Class 2 as listed; seller says it can be unlocked to Class 3, up to 28 mph by pedal assist and 20 mph by throttle',
+      'Battery': '48V, 20Ah, 960Wh lithium-ion battery with LG cells',
+      'Claimed range': 'Up to 80 miles, depending on pedal effort; manufacturer test conditions are not supplied on the specification page',
+      'Assistance and controls': 'Five pedal-assist levels, speed sensor, thumb throttle, and 3.5-inch color HMI display',
+      'Charging': '3A charger; approximately 6–7 hours (manufacturer-listed)',
+      'Drivetrain': 'Shimano seven-speed',
+      'Brakes': 'Hydraulic disc brakes',
+      'Tires': 'KENDA 26 × 4.0-inch fat tires',
+      'Front suspension': 'Adjustable fork with 80mm travel, lockout, and preload adjustment',
+      'Lights and accessories': '15-lux front light, brake rear light, front and rear fenders, and rear rack',
+      'Maximum load': '330 lb',
+      'Listed net weight': '82 lb',
+      'Dimensions': '76 inches long; handlebar 27.5 inches wide and 42.1 inches high; saddle height 28.3–37.4 inches',
+      'Assembly': 'Seller says the bike ships 95% pre-assembled'
+    },
+    source: 'https://youngelectricbikes.com/products/young-electric-e-scout-pro-750w-long-range-electric-hunting-bike-960wh-lg-battery-up-to-80-miles-28-mph-26-all-terrain-ebike-new?variant=44484400840912',
+    sourceLinks: [
+      {label: 'Young Electric E-Scout Pro specification page', url: 'https://youngelectricbikes.com/en-ca/pages/e-scout-pro-specifications'},
+      {label: 'Young Electric E-Scout Pro listing', url: 'https://youngelectricbikes.com/products/young-electric-e-scout-pro-750w-long-range-electric-hunting-bike-960wh-lg-battery-up-to-80-miles-28-mph-26-all-terrain-ebike-new?variant=44484400840912'}
+    ],
+    evidence: 'Manufacturer-specification editorial evaluation; exact US Matte Gun Metal listing and price checked; E-Scout Pro code eligibility and sale-price stacking untested; no ride, range, or braking test.',
+    sections: [
+      [
+        'A full-size fat-tire setup for mixed surfaces',
+        'The E-Scout Pro brings together a 750W Bafang Sutto rear-hub motor, a 48V 20Ah LG battery, 26 × 4-inch Kenda tires, and an adjustable front fork. The spec sheet also lists hydraulic disc brakes, Shimano seven-speed gearing, a rear rack, and fenders. That is a broad equipment list for a rider who wants an outdoor-oriented e-bike with practical cargo fittings. These are manufacturer specifications, not Bike Tested ride or braking results.'
+      ],
+      [
+        'Use the range claim as a starting point',
+        'Young Electric advertises up to 80 miles, depending on pedal effort. Its specification page does not give the load, speed, terrain, temperature, or assist mode behind that maximum, so it cannot predict a particular route. The 960Wh figure is useful for comparing battery capacity, while the 3A charger and seller-estimated 6–7-hour charge time help set expectations at home. Build in charging margin and ask the seller for guidance that matches your rider and cargo load.'
+      ],
+      [
+        'Check fit, storage, and the carrying plan',
+        'The seller lists an 82 lb net weight, a 330 lb maximum load, a 76-inch body length, and a saddle-height range of 28.3–37.4 inches. Measure the whole storage path, including any doorway, ramp, vehicle carrier, and place to charge the bike. The listed 26-inch frame size and saddle range are starting points; compare reach and control position with the size chart and confirm fit if you are between sizes. At this weight, a ground-level space is easier to manage than frequent stair carrying.'
+      ],
+      [
+        'Confirm the speed setting for your route',
+        'Young Electric describes the E-Scout Pro as a Class 2 e-bike that can be unlocked to Class 3, with up to 28 mph by pedal assist and 20 mph by throttle. Confirm which setting will arrive on the selected variant and check the current rules for the place you intend to ride. A seller’s speed description does not settle local access or classification requirements.'
+      ],
+      [
+        'Check the sale price and reader code separately',
+        'On October 24, 2026, Young Electric’s U.S. feed listed Matte Gun Metal variant 44484400840912 / SKU 12803011YE054 at $1,399, with a $2,599 compare-at price. This is a sale listing, and stacking with SEBASTIANBASSOL has not been checked for this e-bike. The partner’s $15 code benefit was accepted on a different product, the Tire-Press 2 rack, only. Confirm the code and final item total for the E-Scout Pro at checkout; no discounted bike price is claimed.'
+      ]
+    ],
+    publishedOn: '2026-10-24',
+    updatedOn: '2026-10-24',
+    specsCheckedOn: '2026-10-24',
+    faqs: [
+      ['How far can the E-Scout Pro travel on a charge?', 'Young Electric lists up to 80 miles, depending on pedal effort. The specification page does not give full test conditions, so this is a manufacturer maximum rather than a Bike Tested range result or a route guarantee. Rider load, speed, terrain, temperature, and assist level affect range.'],
+      ['Is the E-Scout Pro a Class 2 or Class 3 e-bike?', 'Young Electric describes it as Class 2 and says it can be unlocked to Class 3, up to 28 mph with pedal assist and 20 mph by throttle. Confirm the delivered setting and current local rules for the routes you plan to use.'],
+      ['How heavy is the E-Scout Pro?', 'Young Electric lists an 82 lb net weight and a 76-inch body length. Measure storage and vehicle-rack access, and plan for a ground-level parking space if you do not want to lift a full-size bike regularly.'],
+      ['Does the Bike Tested code apply to the E-Scout Pro?', 'SEBASTIANBASSOL is the supplied Young Electric reader code, reported as $15 off and accepted on the Tire-Press 2 rack. Eligibility and sale-price stacking have not been checked for the E-Scout Pro, so confirm the code at checkout; no bike saving or after-code amount is reported.'],
+      ['What is included with the E-Scout Pro?', 'Young Electric lists a rear rack, front and rear fenders, a front light, a brake rear light, and five levels of pedal assist. The seller says the bike ships 95% pre-assembled. Confirm the package contents for your selected variant before ordering.']
+    ],
+    relatedReviews: [
+      {slug: 'young-electric-tire-press-2-ebike-rack', reason: 'Young Electric’s rack review covers load limits and fit checks; compatibility with the E-Scout Pro was not tested.'},
+      {slug: 'hiknight-h2-pro-off-road-ebike', reason: 'Compare another 26 × 4-inch fat-tire e-bike with a different motor and weight profile.'}
+    ],
+    price: {
+      amountMinor: 139900,
+      currency: 'USD',
+      region: 'US',
+      variantId: '44484400840912',
+      variantLabel: 'Matte Gun Metal (SKU 12803011YE054)',
+      source: 'https://youngelectricbikes.com/products/young-electric-e-scout-pro-750w-long-range-electric-hunting-bike-960wh-lg-battery-up-to-80-miles-28-mph-26-all-terrain-ebike-new?variant=44484400840912',
+      checkedOn: '2026-10-24',
+      isSalePrice: true
+    },
+    eligibility: {
+      status: 'unresolved',
+      variantId: '44484400840912',
+      evidence: 'docs/evidence/young-electric-e-scout-pro-electric-bike.md#partner-code-scope'
+    }
   }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
