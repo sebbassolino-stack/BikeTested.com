@@ -1057,6 +1057,22 @@
       "offerDetailNeeded": false,
       "checkoutTestedOn": null,
       "nextStep": "Review commit 63a0641ceadd686eaa410a67de81e04e7b5c9973 was pushed to main; Cloudflare Pages check 121008366002 succeeded for deployment b106f143-5666-411d-95a4-049bcac512fd. The exact US Basic variant 42041508135161 / SKU 044LK was listed at $422.99 on 2026-10-24. SEBASTIANBASSOL has no supplied discount amount and exact S2 Pro eligibility remains unresolved; agent feed has no checkout/code observation or afterCodePrice. The live review, Hiboy promo, agent feed, and exact official image return 200 on biketested.com and biketested.pages.dev; live image SHA-256 matches local. Browser viewport QA was unavailable after CUA timed out."
+    },
+    {
+      "brand": "Actbest",
+      "brandSlug": "actbest",
+      "category": "electric-bikes",
+      "status": "review-ready-for-publish",
+      "priority": 1,
+      "product": "Summit Plus Full-Suspension Folding Fat-Tire Electric Bike, Gray / US (variant 52313144983834; SKU AT60PLUSUS00HP)",
+      "officialSource": "https://actbestbike.com/products/summit-plus-full-suspension-fat-tire-ebike?variant=52313144983834",
+      "reviewUrl": "/reviews/actbest-summit-plus-full-suspension-fat-tire-electric-bike",
+      "affiliateUrl": "https://actbestbike.com/81054420bg",
+      "code": "SEBASTIAN3%",
+      "reportedBenefit": "3% off; exact Gray / US cart accepted $22.47 against $749.00, leaving $726.53 before shipping and tax",
+      "offerDetailNeeded": false,
+      "checkoutTestedOn": "2026-10-24",
+      "nextStep": "Review draft and image are ready for build and publication. Manual conflicts with the current page on weight, speed and water rating are documented. The exact Gray / US variant accepted SEBASTIAN3% in cart; no address or order. Verify the production review, promo, feed and image after deployment, then update this row with the commit and deployment result."
     }
   ]
 }

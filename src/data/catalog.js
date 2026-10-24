@@ -4041,6 +4041,117 @@ export const products = [
       variantId: '42041508135161',
       evidence: 'docs/evidence/hiboy-s2-pro-electric-scooter.md#partner-offer'
     }
+  },
+  {
+    slug: 'actbest-summit-plus-full-suspension-fat-tire-electric-bike',
+    brand: 'actbest',
+    name: 'Actbest Summit Plus Full-Suspension Folding Fat-Tire Electric Bike',
+    model: 'Summit Plus, Gray / US (variant 52313144983834; SKU AT60PLUSUS00HP)',
+    image: '/images/products/actbest-summit-plus-full-suspension-fat-tire-electric-bike.webp',
+    imageAlt: 'Gray Actbest Summit Plus folding electric bike with 20 by 4 inch tires, front and rear suspension, and a rear rack',
+    imageWidth: 1200,
+    imageHeight: 1200,
+    category: 'electric-bikes',
+    use: 'recreation',
+    label: 'For fat-tire comfort and full suspension in a folding frame',
+    headline: 'A feature-rich folder, with nearly 80 lb to move.',
+    description: 'The Summit Plus pairs 20 × 4-inch tires, front and rear suspension, a removable battery and a folding frame. Its roughly 79 lb listed weight and conflicting speed and water-resistance details are worth resolving before you plan storage or regular routes.',
+    verdict: 'We recommend the Actbest Summit Plus for riders who want wide 20 × 4-inch tires, front and rear suspension, a removable battery and a folding frame for storage. Its rack and 400 lb listed payload add practical flexibility on paper. Folding does not make a roughly 79 lb bike easy to carry, though, and the current product page conflicts with the manual on weight, top speed and water rating. Confirm the exact Gray / US setup, storage fit and route rules before buying.',
+    strengths: [
+      'The folding frame can reduce the bike’s parked footprint, while the front fork and four-bar rear suspension add more equipment than a basic folding commuter. Confirm the folded package fits your storage space before ordering.',
+      'Actbest lists 20 × 4-inch tires, a removable 48 V / 15 Ah battery, a 1,800 W peak motor and five pedal-assist levels. That gives the Summit Plus a clear fat-tire, high-output equipment brief on paper.',
+      'A rear rack and the seller-listed 120 lb rack capacity offer a useful cargo option; Actbest also lists a 400 lb total payload. Confirm how the complete load limit applies to rider, luggage and accessories.',
+      'The exact Gray / US variant accepted Bike Tested’s SEBASTIAN3% code in the cart, with the observed item subtotal recorded below. The result is limited to this tested configuration.'
+    ],
+    tradeoffs: [
+      'Actbest’s product page lists the bike at 79.4 lb; the Summit Plus manual says 78.9 lb. Either figure is heavy to lift. Plan ground-level storage and check your vehicle rack’s approved bike weight rather than assuming the folding hinge solves transport.',
+      'The product page advertises 32+ mph and labels the model Class 3, while the manual lists 28 mph. Ask Actbest to confirm the delivered Gray / US speed setting and documentation, then check local rules for the specific route you intend to use.',
+      'The current page lists IPX5 water resistance, while the manual gives IP54. Those are different manufacturer statements; confirm the rating for the exact delivered bike and follow its care instructions, especially before riding or storing it in wet conditions.',
+      'Actbest advertises up to 75 miles with pedal assist. That is a manufacturer estimate, not a Bike Tested range result. Rider and cargo load, speed, hills, temperature, assist level and stops can change the distance substantially.',
+      'On October 24, 2026, the Gray / US variant accepted SEBASTIAN3% in the cart for $22.47 off its $749.00 item price, leaving $726.53 before shipping and tax. This does not document a completed checkout or order; other Summit Plus configurations remain untested.'
+    ],
+    specs: {
+      'Configuration / SKU': 'Gray / US; variant 52313144983834; SKU AT60PLUSUS00HP',
+      'Motor': '1,800 W peak (Actbest-listed)',
+      'Top speed and class': 'Product page: 32+ mph and Class 3; Summit Plus manual: 28 mph. Confirm the exact delivered setup.',
+      'Battery': 'Removable 48 V / 15 Ah (manufacturer-listed)',
+      'Claimed range': 'Up to 75 miles with pedal assist (Actbest claim; not independently measured)',
+      'Pedal assist': 'Five levels (manufacturer-listed)',
+      'Tires and suspension': '20 × 4.0-inch tires; adjustable front fork and four-bar rear suspension (manufacturer-listed)',
+      'Drivetrain and brakes': '7-speed drivetrain and disc brakes (manufacturer-listed)',
+      'Listed weight': '79.4 lb on the current product page; 78.9 lb in the manual',
+      'Folded dimensions': '40.94 × 22.05 × 28.74 in (manufacturer-listed)',
+      'Load limits': '400 lb total payload; 120 lb rear-rack capacity (manufacturer-listed)',
+      'Charging': '54.6 V / 2 A charger; 7–8 hours (manufacturer-listed)',
+      'Water-resistance rating': 'Product page: IPX5; manual: IP54. Confirm the rating for the exact configuration.'
+    },
+    source: 'https://actbestbike.com/products/summit-plus-full-suspension-fat-tire-ebike?variant=52313144983834',
+    sourceLinks: [
+      { label: 'Actbest Summit Plus user manual', url: 'https://cdn.shopify.com/s/files/1/0763/1064/2970/files/SUMMIT_PLUS_USER_MANUAL.pdf?v=1785461557' }
+    ],
+    evidence: 'Manufacturer-specification editorial evaluation; exact Gray / US variant, listed price and cart code result checked October 24, 2026; manual and product-page conflicts recorded; no Bike Tested ride, range, speed, braking or fit test',
+    sections: [
+      [
+        'A folding fat-tire bike with suspension at both ends',
+        'The Summit Plus combines a folding frame with 20 × 4-inch tires, an adjustable front fork and four-bar rear suspension. That mix will appeal to riders looking for a wide-tire setup with more suspension equipment than a simple folder. Actbest lists a removable 48 V / 15 Ah battery, five assist levels and a 1,800 W peak motor. Those are manufacturer specifications, not evidence of how the bike handles a particular surface or load.'
+      ],
+      [
+        'Check the folded footprint and the weight you still have to lift',
+        'Actbest gives folded dimensions of 40.94 × 22.05 × 28.74 inches. The product page lists 79.4 lb, while the manual says 78.9 lb. The small difference does not change the buying decision: this is a heavy bike to carry through a home, load into a vehicle or put on a rack. Measure the storage path and check your carrier’s approved weight and tire width before relying on the folding frame.'
+      ],
+      [
+        'Resolve the speed and water-rating differences',
+        'The current product page lists a 32+ mph top speed and a Class 3 label; the Summit Plus manual lists 28 mph. The page gives an IPX5 rating, while the manual states IP54. These are unresolved manufacturer-document differences for the Gray / US bike we checked. Ask Actbest to confirm the delivered speed setting and water-resistance guidance, and check the rules for your intended route. Neither label alone establishes where a specific configuration may be used.'
+      ],
+      [
+        'Treat the 75-mile range as a planning claim',
+        'Actbest advertises up to 75 miles with pedal assist. The manual describes range references as controlled estimates and notes that rider weight, speed, terrain and other conditions affect distance. We did not measure the Summit Plus’s range. Plan around your own route, cargo, temperature and assist use, and leave room for the return trip rather than treating the maximum as a promise.'
+      ],
+      [
+        'Exact Gray variant price and code result',
+        'On October 24, 2026, Actbest listed Gray / US variant 52313144983834 (SKU AT60PLUSUS00HP) at $749.00. A fresh cart accepted Bike Tested’s SEBASTIAN3% code and reduced this item by $22.47, leaving a $726.53 subtotal before shipping and tax. We did not enter a delivery address or place an order. This observed cart result applies to the exact Gray variant; confirm the item total for another color or configuration before relying on the code.'
+      ]
+    ],
+    publishedOn: '2026-10-24',
+    updatedOn: '2026-10-24',
+    specsCheckedOn: '2026-10-24',
+    faqs: [
+      ['How much does the Actbest Summit Plus weigh?', 'Actbest’s current product page lists 79.4 lb and its manual lists 78.9 lb. Both figures describe a heavy bike to lift, even though the frame folds. Confirm the specification for your exact configuration and plan for ground-level storage or an appropriately rated carrier.'],
+      ['How fast is the Summit Plus?', 'The product page lists 32+ mph and a Class 3 label, while the Summit Plus manual says 28 mph. Ask Actbest to confirm the delivered Gray / US speed setting and documentation, then check the rules for your intended route.'],
+      ['Can the Summit Plus travel 75 miles on a charge?', 'Actbest advertises up to 75 miles with pedal assist. That is a manufacturer estimate, not a Bike Tested range result. Speed, terrain, rider and cargo load, temperature, assist level and stops affect actual distance.'],
+      ['Did the Bike Tested code apply to this bike?', 'Yes. In a cart check on October 24, 2026, SEBASTIAN3% reduced the exact Gray / US variant 52313144983834 by $22.47 from its $749.00 item price, leaving $726.53 before shipping and tax. This was cart evidence only; no address or order was entered.']
+    ],
+    relatedReviews: [
+      { slug: 'actbest-cozy-wide-tire-step-through-electric-bike', reason: 'Compare Actbest’s lighter step-through fat-tire setup, front fork and exact-variant code result.' },
+      { slug: 'gebike-gt20-fat-tire-electric-bike', reason: 'Compare another folding 20-inch fat-tire electric bike with a different frame and equipment package.' }
+    ],
+    price: {
+      amountMinor: 74900,
+      currency: 'USD',
+      region: 'US',
+      variantId: '52313144983834',
+      variantLabel: 'Gray / US (SKU AT60PLUSUS00HP)',
+      source: 'https://actbestbike.com/products/summit-plus-full-suspension-fat-tire-ebike?variant=52313144983834',
+      checkedOn: '2026-10-24',
+      isSalePrice: true
+    },
+    eligibility: {
+      status: 'eligible',
+      variantId: '52313144983834',
+      evidence: 'docs/evidence/actbest-summit-plus-full-suspension-fat-tire-electric-bike.md#exact-variant-cart-check'
+    },
+    checkoutObservation: {
+      code: 'SEBASTIAN3%',
+      stage: 'cart',
+      variantId: '52313144983834',
+      baseAmountMinor: 74900,
+      discountMinor: 2247,
+      afterAmountMinor: 72653,
+      currency: 'USD',
+      checkedOn: '2026-10-24',
+      message: 'The exact Gray / US Summit Plus cart item accepted SEBASTIAN3% and showed $22.47 off the $749.00 item price. The resulting item subtotal was $726.53 before shipping and tax.',
+      exclusions: 'Gray / US variant 52313144983834 only; cart evidence, not completed checkout; no delivery address or order. Other colors and configurations are untested.'
+    }
   }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}

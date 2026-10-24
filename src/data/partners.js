@@ -541,14 +541,14 @@ export const partners = [
     "discount": {
       "type": "percent",
       "value": 3,
-      "scope": "Bike Tested reader code; model eligibility is recorded per exact product variant"
+      "scope": "Accepted on the Cozy Dark Gray / US variant 52286186291482 at checkout on October 23, 2026, and on the Summit Plus Gray / US variant 52313144983834 in the cart on October 24, 2026; other models and variants are untested."
     },
     "category": "electric-bikes",
     "platform": "BixGrow",
     "reportedOn": "2026-10-22",
     "status": "active",
     "evidence": "Owner-confirmed live Bike Tested partner roster, October 22, 2026",
-    "checkoutTestedOn": "2026-10-23",
+    "checkoutTestedOn": "2026-10-24",
     "description": "Explore Actbest electric bikes with our reader code. Copy the complete code including the percent symbol, then compare fit and equipment for your selected bike."
   },
   {
