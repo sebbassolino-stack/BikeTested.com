@@ -4152,6 +4152,121 @@ export const products = [
       message: 'The exact Gray / US Summit Plus cart item accepted SEBASTIAN3% and showed $22.47 off the $749.00 item price. The resulting item subtotal was $726.53 before shipping and tax.',
       exclusions: 'Gray / US variant 52313144983834 only; cart evidence, not completed checkout; no delivery address or order. Other colors and configurations are untested.'
     }
+  },
+  {
+    slug: 'happyrun-g100-pro-6000w-electric-bike',
+    brand: 'happyrun',
+    name: 'HappyRun G100 Pro 6000W Dual-Battery Electric Bike',
+    model: 'Tank G100 Pro, Black / US (variant 45639455637604; SKU G100pro-black)',
+    image: '/images/products/happyrun-g100-pro-6000w-electric-bike.webp',
+    imageAlt: 'Black HappyRun Tank G100 Pro electric bike with dual battery housings, 20 by 4 inch tires, full suspension and hydraulic disc brakes',
+    imageWidth: 1200,
+    imageHeight: 1200,
+    category: 'electric-bikes',
+    use: 'private',
+    label: 'For high-output riders with space for a 159 lb bike',
+    headline: 'Dual batteries and full suspension, with 28 vs. 50 mph to resolve.',
+    description: 'The Tank G100 Pro combines dual 72 V batteries, full suspension, hydraulic brakes and 20 × 4-inch tires. HappyRun advertises speeds up to 50 mph but also describes a 28 mph commuter limit; the manual’s speed table tops out at 28+ mph. At 159 lb, storage, transport, route fit and return costs all deserve a plan.',
+    verdict: 'We recommend the HappyRun Tank G100 Pro to experienced riders who have a suitable route, ground-level storage and a practical way to move a 159 lb motorcycle-style bike. Its two removable 72 V batteries, full suspension and hydraulic brakes make a substantial equipment package on paper. Before buying, confirm the delivered speed setting: the product page claims up to 50 mph, while its commuter FAQ and manual describe a 28 mph limit. Check the 32/33-inch seat-height difference and local route rules, too; the supplied partner code did not reduce the exact Black cart.',
+    strengths: [
+      'Two removable batteries—72 V / 18 Ah and 72 V / 15 Ah—provide a listed combined 33 Ah capacity. HappyRun says the batteries can be removed for charging and lists a dual-battery management system.',
+      'Full suspension, a hydraulic front fork, power-off hydraulic brakes, 180 mm front and 203 mm rear rotors, front and rear turn signals, and an NFC-unlock display are a broad equipment list for this motorcycle-style format.',
+      'HappyRun lists 20 × 4-inch road tires, 400 lb total payload and a 33 lb rear-rack load limit. The separate rack rating gives buyers a more useful cargo boundary than total payload alone.',
+      'The product page and manual provide a five-level speed selector and an advertised 28 mph limited mode. Confirm how the exact Black variant is configured before planning a route around that setting.'
+    ],
+    tradeoffs: [
+      'HappyRun lists the G100 Pro at 159 lb including both batteries. The manual warns that a rack or carrier not designed for the bike’s size and weight can create a lifting or loading risk. Plan ground-level storage and confirm the carrier’s approved load and tire fit before purchase.',
+      'Speed claims do not line up: the product page advertises up to 50 mph, while its commuter FAQ describes a 28 mph maximum setting and the manual’s five speed levels run up to 28+ mph. Ask HappyRun which setting ships on the Black / US variant and check local rules for your intended route; the review makes no road-classification claim.',
+      'HappyRun suggests a 5 ft 3 in–6 ft 5 in rider range, but its specification table gives a 32-inch seat height while the geometry chart and manual say 33 inches. Use the one-size recommendation as a starting point and confirm reach, stand-over clearance and saddle height against the delivered bike.',
+      'The up-to-78-mile range is a manufacturer claim, not a Bike Tested measurement. HappyRun’s manual says range changes with rider fitness and weight, terrain and riding style; leave a reserve for speed, hills, cargo and stops.',
+      'The official return policy charges $150 return shipping plus a 4.5% processing fee for a new, unused bike returned within 14 days; a used bike under 20 miles has a $150 shipping fee and 20% restocking fee. Non-quality bike returns are not allowed after 14 days, so read the full terms before treating the product-page “14-Day Trial” as a low-cost test ride.',
+      'The exact Black / US variant did not receive a discount when the supplied SEBASTIANBASSOL23 code was checked in the cart. The product page also displayed HALLO100 for an extra $100 off on October 24, 2026, but that seller promotion was not tested in the cart or for stacking; no after-code price is claimed.'
+    ],
+    specs: {
+      'Configuration / SKU': 'Black / US; variant 45639455637604; SKU G100pro-black',
+      'Motor': '3,000 W rated / 6,000 W peak (manufacturer-listed)',
+      'Battery': 'Two removable 72 V lithium batteries: 18 Ah upper and 15 Ah lower; 33 Ah combined (manufacturer-listed)',
+      'Top-speed claims': 'Product page: up to 50 mph; commuter FAQ: 28 mph maximum setting; manual speed table: 6, 12, 18, 24 and 28+ mph. Confirm exact delivered setup.',
+      'Claimed range': 'Up to 78 miles (HappyRun claim; not independently measured)',
+      'Tires and suspension': '20 × 4.0-inch road tires; full suspension and adjustable front fork (manufacturer-listed)',
+      'Brakes': 'Power-off hydraulic brakes; 180 mm front and 203 mm rear rotors (manufacturer-listed)',
+      'Listed weight': '159 lb including both batteries (manufacturer-listed)',
+      'Dimensions': '68 in total length; 47 in handlebar height; 45 in wheelbase',
+      'Fit': 'One size; suggested rider height 5 ft 3 in–6 ft 5 in; product table says 32 in seat height, geometry chart and manual say 33 in',
+      'Load limits': '400 lb total payload; 33 lb rear-rack load limit (manufacturer-listed)',
+      'Controls and visibility': 'Five speed levels, NFC unlock, front and rear sequential turn signals, integrated tail/brake light',
+      'Charging and water rating': '2 A charger; 7–8 hours; IP54 (manufacturer-listed)'
+    },
+    source: 'https://www.happyrunsports.com/products/happyrun-g100-pro-6000w-electric-bike?variant=45639455637604',
+    sourceLinks: [
+      { label: 'HappyRun Tank G100 Pro owner manual', url: 'https://cdn.shopify.com/s/files/1/0600/6741/4116/files/Happyrun_Tank_G100Pro_Manual.pdf?v=1789010403' },
+      { label: 'HappyRun return and refund policy', url: 'https://www.happyrunsports.com/pages/return-and-refund' }
+    ],
+    evidence: 'Manufacturer-specification editorial evaluation; exact Black / US variant and listed price checked October 24, 2026; partner code checked at cart with no discount; manual and product-page speed and seat-height details recorded; no Bike Tested ride, speed, range, braking or fit test',
+    sections: [
+      [
+        'A dual-battery system with motorcycle-scale weight',
+        'The G100 Pro combines an upper 72 V / 18 Ah battery with a lower 72 V / 15 Ah pack, a 3,000 W rated / 6,000 W peak motor and a seller-claimed range of up to 78 miles. HappyRun says both batteries are removable. Full suspension and hydraulic brakes complete a large, high-output package. We did not measure speed or range; plan your ride with a charging reserve and treat the distance as a manufacturer estimate.'
+      ],
+      [
+        'Resolve the advertised 50 mph and the 28 mph setting',
+        'HappyRun’s product headline and specification block advertise up to 50 mph, but the same page says a commuter mode limits the bike to 28 mph. Its manual lists five speed levels—6, 12, 18, 24 and 28+ mph. Ask the seller to confirm the exact Black / US speed setting and supplied documentation before ordering. Check local route rules for that configuration; neither a product name nor a speed-limiter setting alone establishes where it can be used.'
+      ],
+      [
+        'Check fit, cargo and transport as one decision',
+        'HappyRun recommends a rider height of 5 ft 3 in–6 ft 5 in, while its specification table lists a 32-inch seat and the geometry chart and manual list 33 inches. The bike weighs 159 lb with both batteries. Its 400 lb total payload is not the same as its 33 lb rear-rack limit. Check saddle height, reach and control access in person if possible, measure storage, and confirm a carrier is rated for the bike’s weight and tire width.'
+      ],
+      [
+        'The current price, partner code and seller promotion',
+        'On October 24, 2026, HappyRun’s Shopify feed listed the Black / US variant 45639455637604 (SKU G100pro-black) at $2,099.00. The supplied SEBASTIANBASSOL23 code did not reduce this exact item in a fresh cart, so this review does not report a partner-code saving or after-code price. The product page displayed the temporary HALLO100 seller promotion for an extra $100 off; we did not test that code or its stacking with the partner code.'
+      ],
+      [
+        'Read the return terms before relying on the 14-day trial',
+        'HappyRun advertises a 14-day trial, but its current return policy says a non-quality return of a new, unused bike within 14 days incurs $150 return shipping plus a 4.5% transaction fee. For a used bike with under 20 miles, the policy lists $150 return shipping and a 20% restocking fee; it does not allow non-quality bike returns after 14 days. Keep the original box and confirm the applicable terms before ordering if you may need to return a bike this heavy.'
+      ]
+    ],
+    publishedOn: '2026-10-24',
+    updatedOn: '2026-10-24',
+    specsCheckedOn: '2026-10-24',
+    faqs: [
+      ['How fast does the HappyRun G100 Pro go?', 'HappyRun advertises up to 50 mph, but its product page also describes a 28 mph commuter limit and the owner manual lists speed levels up to 28+ mph. Confirm the delivered Black / US setting and documentation, then check rules for the intended route.'],
+      ['How much does the G100 Pro weigh?', 'HappyRun lists 159 lb including both batteries. That is a substantial bike to move; plan ground-level storage and confirm any carrier is rated for its full weight and tire width.'],
+      ['Can the G100 Pro travel 78 miles on a charge?', 'HappyRun claims up to 78 miles. That is a manufacturer estimate, not a Bike Tested range result. Rider load, terrain, speed, stops, temperature and riding style change actual distance.'],
+      ['Did the Bike Tested code discount the Black G100 Pro?', 'No discount appeared for exact Black / US variant 45639455637604 (SKU G100pro-black) in the October 24, 2026 cart check. We do not show a partner-code after-price. The product page separately displayed HALLO100, but we did not test that seller promotion or whether it stacks.'],
+      ['What are HappyRun’s G100 Pro return fees?', 'For a new, unused bike returned within 14 days for a non-quality issue, HappyRun’s policy lists $150 return shipping plus a 4.5% transaction fee. For a used bike under 20 miles, it lists $150 shipping and a 20% restocking fee; non-quality returns are not allowed after 14 days. Read the current policy before ordering.']
+    ],
+    relatedReviews: [
+      { slug: 'happyrun-g300-se-ultra-electric-dirt-bike', reason: 'Compare another high-output HappyRun model with mid-drive power, different battery capacity and an off-road focus.' },
+      { slug: 'voltrover-m5-electric-dirt-bike', reason: 'Compare another motorcycle-style electric bike with a different frame, motor and battery setup.' }
+    ],
+    price: {
+      amountMinor: 209900,
+      currency: 'USD',
+      region: 'US',
+      variantId: '45639455637604',
+      variantLabel: 'Black / US (SKU G100pro-black)',
+      source: 'https://www.happyrunsports.com/products/happyrun-g100-pro-6000w-electric-bike?variant=45639455637604',
+      checkedOn: '2026-10-24',
+      isSalePrice: true
+    },
+    eligibility: {
+      status: 'unresolved',
+      variantId: '45639455637604',
+      evidence: 'docs/evidence/happyrun-g100-pro-6000w-electric-bike.md#exact-variant-cart-code-check'
+    },
+    codeCheckObservation: {
+      code: 'SEBASTIANBASSOL23',
+      stage: 'cart',
+      result: 'no-discount',
+      variantId: '45639455637604',
+      baseAmountMinor: 209900,
+      discountMinor: 0,
+      afterAmountMinor: 209900,
+      currency: 'USD',
+      checkedOn: '2026-10-24',
+      message: 'After the exact Black / US variant was added to a fresh cart, the SEBASTIANBASSOL23 discount route redirected to the cart, but cart.js showed no discount applications and the $2,099.00 item price remained unchanged.',
+      exclusions: 'Black / US variant 45639455637604 only; cart evidence, not completed checkout; no address or order. HappyRun displayed HALLO100 on its product page, but that separate promotion and stacking were not tested. The test cart was cleared.'
+    }
   }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
