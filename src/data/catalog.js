@@ -2008,6 +2008,95 @@ export const products = [
       checkedOn: '2026-10-24',
       exclusions: 'Exact Burgundy-Matte US variant 46361523617964 / SKU TP2-20JH only; cart showed $99.99 off and $1,900.00 item subtotal before shipping and tax; no address or order; test cart cleared.'
     }
+  },
+  {
+    slug: 'mooncool-ft1-fat-tire-electric-trike',
+    brand: 'mooncool',
+    name: 'Mooncool FT1 Fat Tire Electric Trike',
+    model: 'FT1, Peacock Green-Matte / US (variant 46134256894124; SKU FT1-20KQL)',
+    image: '/images/products/mooncool-ft1-fat-tire-electric-trike.webp',
+    imageAlt: 'Peacock Green-Matte Mooncool FT1 fat-tire electric trike with front basket and rear backrest',
+    imageWidth: 1200,
+    imageHeight: 1200,
+    publishedOn: '2026-10-24',
+    updatedOn: '2026-10-24',
+    specsCheckedOn: '2026-10-24',
+    category: 'electric-bikes',
+    use: 'utility',
+    label: 'For wide-tire cargo trips',
+    headline: 'A folding trike with room for the everyday load.',
+    description: 'Mooncool pairs the FT1’s 20 × 4-inch tires and rear-drive differential with front and rear baskets. The foldable frame helps with planned storage, but its 48 kg listed weight and 30.7-inch width still call for a roll-in parking spot.',
+    verdict: 'We recommend the Mooncool FT1 for riders who want a step-through, three-wheel setup with 20 × 4-inch tires and front and rear baskets for neighborhood errands. Its 48V battery, seven-speed drivetrain, differential and folding frame make a useful utility package on paper. The fit condition is space: at a listed 48 kg and 30.7 inches wide assembled, it belongs in storage you can roll into, not a stairwell where you must lift it. The Peacock Green-Matte US variant accepted SEBASTIANBASSOL in the cart.',
+    strengths: [
+      'Wide 20 × 4-inch tires, a step-through frame and backrest-equipped seat suit a relaxed, cargo-minded trike setup.',
+      'Mooncool pairs a listed 500W rear-drive motor with a differential, plus front and rear baskets for errands.',
+      'A 48V 14.5Ah battery, three pedal-assist levels, thumb throttle and Shimano seven-speed drivetrain give riders several ways to manage the route.',
+      'The frame folds, and Mooncool lists a 400 lb maximum load and rider-height guidance from 5 ft to 6 ft 3 in.'
+    ],
+    tradeoffs: [
+      'At 48 kg (about 106 lb) and 30.7 inches wide assembled, the FT1 needs a measured path to storage. Its folded 41.3 × 33.5 × 50.4-inch footprint is still substantial.',
+      'The technical table lists mechanical disc brakes. Riders seeking hydraulic brakes should compare the exact braking setup before buying.',
+      'Mooncool gives a 35–60-mile range in product copy and 60 miles in the technical table without stating matching test conditions; treat it as a manufacturer estimate, not a route guarantee.'
+    ],
+    specs: {
+      'Motor': '500W rated rear-drive, 1,092W peak, 45 N·m (manufacturer-listed)',
+      'Battery': '48V 14.5Ah lithium (manufacturer-listed)',
+      'Advertised range': '35–60 miles in product copy; technical table lists 60 miles; test conditions not supplied',
+      'Top speed and class': '15.5 mph top safe speed; Mooncool labels it Class 2',
+      'Weight and load': '48 kg / about 106 lb; 400 lb maximum load (manufacturer-listed)',
+      'Dimensions and fit': '70.9 in long × 30.7 in wide assembled; 41.3 × 33.5 × 50.4 in folded; recommended height 5 ft–6 ft 3 in; seat height 30–40 in',
+      'Wheels and tires': '20 × 4.0 in',
+      'Assistance and drivetrain': 'Three pedal-assist levels; thumb throttle; Shimano seven-speed drivetrain; differential',
+      'Brakes and controls': 'Mechanical disc brakes; parking brake, brake motor cutoff, turn signals and horn listed',
+      'Cargo': 'Front basket 12.2 × 11.8 × 5.5 in; rear basket 18.9 × 14.2 × 5.9 in',
+      'Charging': '2A charger; 7–9 hour charge time; no fast-charging support listed',
+      'Warranty': 'Mooncool lists lifetime frame, two-year battery and one-year accessories/parts coverage; check full terms and exclusions'
+    },
+    source: 'https://www.mooncool.com/products/ft1-electric-trike?variant=46134256894124',
+    evidence: 'Manufacturer-specification evaluation; official US product listing and exact-variant cart observation; no Bike Tested ride or range testing.',
+    relatedReviews: [
+      { slug: 'mooncool-tk2-pro-electric-trike', reason: 'Compare Mooncool’s TK2 Pro if you want a larger 48V 20Ah battery, hydraulic disc brakes and a higher listed maximum load; confirm the features of the selected model.' },
+      { slug: 'mooncool-tk2-folding-electric-trike', reason: 'Compare the separately listed TK2 for its narrower 20 × 3-inch tires and reverse function; check the current weight and storage dimensions against your route.' }
+    ],
+    sections: [
+      ['A fat-tire trike built around useful cargo space', 'The FT1 makes sense for riders who want a three-wheel platform for short errands and recreational loops, with room for bags in both the front and rear baskets. The low step-through layout and padded seat with backrest support an upright riding position, while a 20 × 4-inch tire package sets it apart from narrower-tire utility trikes. Mooncool lists a 400 lb maximum load; confirm how the seller applies that limit to rider, cargo and accessories before planning a regular load.'],
+      ['Read the motor and drivetrain as a complete setup', 'Mooncool describes a 500W rear-drive motor with 1,092W peak output and 45 N·m torque, paired with a differential. The product table lists three pedal-assist levels, a thumb throttle and a Shimano seven-speed drivetrain. That mix gives riders both motor assistance and gearing to work with, while the differential is part of the seller’s rear-wheel design. The listing also includes turn signals, a horn and a parking brake. Practice starts, stops and turns with no cargo before using the baskets on a regular route.'],
+      ['Measure the route to storage before choosing a folding trike', 'Mooncool lists the FT1 at 48 kg (about 106 lb), 70.9 inches long and 30.7 inches wide when assembled. Its folded dimensions are 41.3 × 33.5 × 50.4 inches. Folding can help it fit a planned parking area, but the weight and folded height make frequent lifting a poor fit. Measure doorways, ramps, turns and the final storage footprint, and check that your vehicle or rack is designed for a three-wheel vehicle of this size. The recommended rider-height range is 5 ft to 6 ft 3 in, with a 30–40-inch seat-height adjustment listed; treat those as starting points and verify control reach.'],
+      ['Keep the range and braking claims in context', 'Mooncool gives a 35–60-mile range in its product copy and lists 60 miles in the technical table. It does not provide matching rider, speed, terrain or assistance conditions beside those figures, so use them as manufacturer estimates and plan with a reserve. The listing pairs a 48V 14.5Ah battery with a 2A charger and a 7–9-hour charge time; it says fast charging is not supported. The technical table lists mechanical disc brakes, a parking brake and a brake motor cutoff. Check the delivered setup and follow the manual’s inspection and adjustment guidance before riding.'],
+      ['The code result is specific to Peacock Green-Matte', 'On October 24, 2026, Mooncool listed the Peacock Green-Matte US variant 46134256894124 (SKU FT1-20KQL) at $1,349.99, beside a $1,899.99 regular price. In a cart containing only that trike, SEBASTIANBASSOL was accepted for $67.49 off; the cart page showed a $1,282.50 item subtotal before shipping and tax. No address or order was entered, and the test cart was cleared. This observation applies to the selected variant on the checked date; it does not establish code eligibility for every Mooncool model or color.']
+    ],
+    faqs: [
+      ['How far does the Mooncool FT1 go on a charge?', 'Mooncool’s product copy gives a 35–60-mile range, while its technical table lists 60 miles. It does not supply comparable test conditions with the figures. Treat the range as a manufacturer estimate and plan for rider load, route, weather and assistance level.'],
+      ['What are the FT1’s folded dimensions and weight?', 'Mooncool lists a 48 kg (about 106 lb) net weight and a folded size of 41.3 × 33.5 × 50.4 inches. Measure the full route into storage; folding does not make the trike easy to carry.'],
+      ['What rider height does Mooncool recommend?', 'Mooncool recommends riders from 5 ft to 6 ft 3 in and lists a seat-height adjustment from 30 to 40 inches. Use those figures as a starting point, then check your reach to the bars, mounting comfort and ability to operate the controls.'],
+      ['Does the FT1 have hydraulic brakes?', 'The technical table lists mechanical disc brakes, along with a parking brake and brake motor cutoff. Confirm the delivered specification and ask Mooncool about adjustment and replacement parts if brake type is important to you.']
+    ],
+    price: {
+      amountMinor: 134999,
+      currency: 'USD',
+      region: 'US',
+      variantId: '46134256894124',
+      variantLabel: 'Peacock Green-Matte / US (SKU FT1-20KQL)',
+      source: 'https://www.mooncool.com/products/ft1-electric-trike?variant=46134256894124',
+      checkedOn: '2026-10-24',
+      isSalePrice: true
+    },
+    eligibility: {
+      status: 'eligible',
+      variantId: '46134256894124',
+      evidence: 'docs/evidence/mooncool-ft1-fat-tire-electric-trike.md#exact-variant-cart-check'
+    },
+    checkoutObservation: {
+      code: 'SEBASTIANBASSOL',
+      stage: 'cart',
+      variantId: '46134256894124',
+      baseAmountMinor: 134999,
+      discountMinor: 6749,
+      afterAmountMinor: 128250,
+      currency: 'USD',
+      checkedOn: '2026-10-24',
+      exclusions: 'Exact Peacock Green-Matte US variant only; item subtotal before shipping and tax; no address or order; other variants untested.'
+    }
   }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}

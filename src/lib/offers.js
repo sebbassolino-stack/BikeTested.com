@@ -4,7 +4,12 @@ export const offerPath = o => o.code ? `/promo/${o.brand}` : `/brands/${o.brand}
 export const offerLabel = o => o.benefit || (o.code ? (o.codeCheckProduct?.result==='invalid-code'?'Reader code supplied':'Reader code available') : 'Shop through our partner link');
 export const checkoutTests = o => Array.isArray(o.checkoutTestProducts)&&o.checkoutTestProducts.length?o.checkoutTestProducts:(o.checkoutTestProduct?[o.checkoutTestProduct]:[]);
 export const codeChecks = o => Array.isArray(o.codeCheckProducts)&&o.codeCheckProducts.length?o.codeCheckProducts:(o.codeCheckProduct?[o.codeCheckProduct]:[]);
-export const checkoutTestSummary = o => checkoutTests(o).map(t=>`${t.name}, ${t.variantLabel} (${t.stage==='cart'?'cart':'checkout'} on ${priceDateLabel(t.checkedOn||o.checkoutTestedOn)})`).join('; ');
+export const checkoutTestSummary = o => checkoutTests(o).map(t=>{
+  const prefix=o.name?`${o.name} `:'';
+  const name=prefix&&t.name?.toLowerCase().startsWith(prefix.toLowerCase())?t.name.slice(prefix.length):t.name;
+  const variant=(t.variantLabel||'').trim();
+  return `${name}${variant?`, ${variant}`:''} (${t.stage==='cart'?'cart':'checkout'} on ${priceDateLabel(t.checkedOn||o.checkoutTestedOn)})`;
+}).join('; ');
 const acceptanceLocation = (o, product=null) => {
   const tests=checkoutTests(o);
   const matching=product?tests.find(t=>t.slug===product.slug||t.variantId===product.price?.variantId):null;
@@ -37,6 +42,13 @@ export const offerCheckSummary=o=>[
 export function offerAnswer(o, name) {
   if (!o.code) return `Shop ${name} through Bike Tested’s affiliate link at ${o.eligibleStore}. No reader discount code has been supplied for this partnership.`;
   const observations=offerCheckSummary(o);
+  const accepted=checkoutTests(o);
+  if(accepted.length>1&&o.benefit){
+    const latest=accepted.at(-1),surface=latest.stage==='cart'?'in the cart':'at checkout';
+    const earlier=accepted.length-1;
+    const product=latest.name?.toLowerCase().startsWith(`${name} `.toLowerCase())?latest.name.slice(name.length+1):latest.name;
+    return `${name}: ${o.code} for ${o.benefit} at ${o.eligibleStore}. Accepted ${surface} for ${product}, ${latest.variantLabel}, on ${priceDateLabel(latest.checkedOn||o.checkoutTestedOn)}. ${earlier} other exact configurations also accepted; eligibility elsewhere is unconfirmed.`;
+  }
   if (!o.benefit) {
     if(observations)return `The ${name} reader code is ${o.code} at ${o.eligibleStore}; no discount amount has been specified. ${observations} Other models and variants have not been checked; confirm the item total before paying.`;
     return `The ${name} discount code is ${o.code} at ${o.eligibleStore}. The discount amount has not been specified; enter the code and check the final total before paying.`;

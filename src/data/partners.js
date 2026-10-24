@@ -365,12 +365,12 @@ export const partners = [
     "reportedOn": "2026-10-22",
     "status": "active",
     "evidence": "Owner-confirmed live Bike Tested partner roster, October 22, 2026",
-    "checkoutTestedOn": "2026-10-22",
+    "checkoutTestedOn": "2026-10-24",
     "description": "Explore Mooncool electric trikes with our reader code. Check width, turning and storage space as carefully as frame fit and battery arrangements.",
     "discount": {
       "type": "percent",
       "value": 5,
-      "scope": "5% reader code; accepted for TK2 Cyan Green-Matte variant 46144887226540 in a US cart on October 22, 2026, and TK2 PRO Burgundy-Matte variant 46361523617964 in a US cart on October 24, 2026. Other models and variants are untested."
+      "scope": "5% reader code; accepted for TK2 Cyan Green-Matte variant 46144887226540 in a US cart on October 22, 2026, TK2 PRO Burgundy-Matte variant 46361523617964, and FT1 Peacock Green-Matte variant 46134256894124 in US carts on October 24, 2026. Other models and variants are untested."
     }
   },
   {
