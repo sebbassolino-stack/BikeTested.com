@@ -770,7 +770,7 @@ export const guides = [
       "folding-vs-full-size-ebike",
       "ebike-range-explained"
     ],
-    "products": ["finbike-eb8-electric-bike","hiknight-h2-pro-off-road-ebike","young-electric-tire-press-2-ebike-rack","burchda-u8-step-thru-electric-bike"]
+    "products": ["finbike-eb8-electric-bike","hiknight-h2-pro-off-road-ebike","young-electric-tire-press-2-ebike-rack","burchda-u8-step-thru-electric-bike","hycline-code-bones-fat-tire-set"]
   },
   {
     "slug": "folding-vs-full-size-ebike",
@@ -991,7 +991,8 @@ export const guides = [
       "plan-your-bike-upgrades"
     ],
     "products": [
-      "cycplus-as2-pro-max-tiny-e-pump"
+      "cycplus-as2-pro-max-tiny-e-pump",
+      "hycline-code-bones-fat-tire-set"
     ]
   },
   {

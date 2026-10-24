@@ -612,12 +612,17 @@ export const partners = [
     "url": "https://hyclinebike.com/?ref=zcmvdskp",
     "code": "SEBASTIANBASSOL",
     "benefit": "5% off",
+    "discount": {
+      "type": "percent",
+      "value": 5,
+      "scope": "Accepted on the Code: Bones 20×4 two-pack-with-tubes variant 44651812684001 on October 23, 2026; eligibility for other products and variants is untested."
+    },
     "category": "components",
     "platform": "GoAffPro",
     "reportedOn": "2026-10-22",
     "status": "active",
     "evidence": "Owner-confirmed live Bike Tested partner roster, October 22, 2026",
-    "checkoutTestedOn": null,
+    "checkoutTestedOn": "2026-10-23",
     "description": "Explore Hycline bikes, tires and components with our reader code. Match replacement parts to the dimensions and compatibility requirements of your current bike."
   },
   {

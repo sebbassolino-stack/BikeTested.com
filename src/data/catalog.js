@@ -851,6 +851,111 @@ export const products = [
     "checkedOn": "2026-10-23",
     "exclusions": "Exact Black C5 variant only. Item subtotal before shipping and tax; no delivery address entered and no order placed."
   }
+},
+{
+  "slug": "hycline-code-bones-fat-tire-set",
+  "brand": "hycline",
+  "name": "Hycline Code: Bones 20×4 Fat Tire Set",
+  "model": "Code: Bones 20×4 Fat Tire Set",
+  "image": "/images/products/hycline-code-bones-fat-tire-set.webp",
+  "imageAlt": "Hycline Code: Bones 20×4 fat tires with two inner tubes and two tire levers",
+  "imageWidth": 1200,
+  "imageHeight": 1200,
+  "category": "components",
+  "use": "recreation",
+  "label": "For 20×4 fat-bike replacements",
+  "headline": "A matched pair with the basics for a full tire refresh.",
+  "description": "The 20×4 Code: Bones set pairs two 102-406 clincher tires with two inner tubes and two tire levers. Its pronounced tread is aimed at riders who split time between pavement and loose surfaces.",
+  "verdict": "We recommend the Hycline Code: Bones 20×4 Fat Tire Set to owners already running 20×4 wheels who want a matched replacement pair plus tubes and levers in one order. Its blocky tread is an appealing fit for a fat bike that moves between pavement and loose ground, and the $105.99 two-pack accepted our Bike Tested code in the US cart. At 2.05 kg per tire, and with an exact 102-406 fit, weight and compatibility are the deciding checks.",
+  "strengths": [
+    "The selected set includes two tires and two tubes; Hycline’s package graphic also shows two tire levers, reducing separate parts shopping for a paired replacement.",
+    "The 20×4 size is identified as ETRTO 102-406, giving owners a precise sidewall and rim reference before they order.",
+    "A symmetrical center tread and pronounced side knobs give the pattern a clear mixed-surface purpose; Hycline describes it for loose terrain and urban pavement.",
+    "The exact 20×4 two-pack variant accepted SEBASTIANBASSOL in the US cart for $5.29 off, leaving a $100.70 item subtotal before shipping and tax."
+  ],
+  "tradeoffs": [
+    "At 2.05 kg per tire, the pair adds substantial rotating weight; riders prioritizing a light, quick-feeling setup may prefer a narrower or lighter replacement.",
+    "This is a 20×4 tire for a 406 mm bead-seat diameter, not a universal 20-inch replacement. Confirm rim approval and clearance at the frame, fork, fenders, and any nearby hardware.",
+    "Hycline lists 40 PSI as the tire maximum. A wheel or rim may impose a lower limit, and the maximum is not a target pressure for every rider or route.",
+    "The listing confirms two tubes but does not identify their valve standard. Check the current tube and valve details against your rims before relying on the included pair."
+  ],
+  "specs": {
+    "Selected configuration": "20×4 / 40 PSI / two-pack tires with tubes; variant 44651812684001; SKU SHP-EbFT905_204BLK_2TR2TB",
+    "Tire size": "20×4.0 inches; ETRTO 102-406",
+    "Tire type": "Clincher",
+    "Maximum pressure": "40 PSI (manufacturer-listed)",
+    "Construction": "30 TPI; folding bead; dual layer (manufacturer-listed)",
+    "Listed weight": "2.05 kg per tire",
+    "Package contents": "Two tires and two inner tubes; Hycline’s package graphic shows two tire levers",
+    "Tube valve": "Valve standard not identified on the product listing"
+  },
+  "source": "https://hyclinebike.com/products/code-bones-all-terrain-fat-tire-20-x-4-0?variant=44651812684001",
+  "evidence": "Manufacturer-specification editorial evaluation; exact US two-pack cart observation",
+  "sections": [
+    [
+      "A matched pair for a complete refresh",
+      "The selected configuration makes sense when both wheels need new rubber. Hycline lists two Code: Bones tires with two inner tubes, while its package-contents graphic also shows two tire levers. That is a more useful starting point than buying a single tire and discovering that the opposite wheel or old tubes need attention as well. The tires are clinchers, so confirm that your wheel is designed for a compatible clincher tire and tube setup. The included tubes’ valve standard is not stated on the listing, so check that detail with Hycline against your rims before checkout."
+    ],
+    [
+      "Size and clearance come before tread choice",
+      "Hycline lists this version as 20×4.0 with an ETRTO marking of 102-406. Read the existing tire sidewall and verify the wheel’s bead-seat diameter; a familiar 20-inch label alone does not establish fit. Then check the rim maker’s approved tire-width range and measure clearance at the frame, fork, fenders, and any rack or wiring near the wheel. A four-inch casing can be a poor match even when the nominal wheel diameter is right. If the markings or approved width are unclear, confirm them with the bike and wheel makers before installing a replacement."
+    ],
+    [
+      "A blocky tread for changing surfaces",
+      "The Code: Bones pattern uses a symmetrical center row and larger side knobs. Hycline says the center is intended to support braking stability and the side tread to add cornering bite, with the blocky layout aimed at loose, rocky ground as well as pavement. We like that the tread brief is specific: it targets riders who want one fat-bike setup for a mix of routes instead of a smooth commuter tire. Those are manufacturer descriptions, not Bike Tested grip or braking measurements. The product page also markets puncture resistance, but it does not provide a comparable test result or a puncture-free guarantee."
+    ],
+    [
+      "Plan for tire weight and a suitable pressure",
+      "Hycline lists each 20×4 tire at 2.05 kg, so a pair is a substantial replacement set before the tubes are added. That is worth factoring into a build where lighter wheels and a nimble feel matter most. The seller lists 40 PSI as the maximum; the rim may carry a lower limit, and a suitable operating pressure depends on the full wheel, load, and surface. Use the lower applicable limit and pressure guidance for your exact setup rather than treating 40 PSI as a universal target. On October 23, 2026, the US two-pack variant accepted SEBASTIANBASSOL for $5.29 off, from $105.99 to $100.70 before shipping and tax. No address was entered and no order was placed."
+    ]
+  ],
+  "publishedOn": "2026-10-23",
+  "updatedOn": "2026-10-23",
+  "specsCheckedOn": "2026-10-23",
+  "faqs": [
+    [
+      "Which bike fits the 20×4 Code: Bones tire?",
+      "This configuration is listed as 20×4.0 and ETRTO 102-406. Match both the existing tire and wheel markings, then confirm the rim’s approved width and clearance at the frame, fork, and fenders. A shared nominal diameter is not enough to prove fit."
+    ],
+    [
+      "What comes in the Code: Bones two-pack?",
+      "Hycline labels the selected variant as two tires with tubes. Its package-contents graphic shows two tires, two inner tubes, and two tire levers. The product listing does not identify the tubes’ valve standard, so confirm that detail for your rims."
+    ],
+    [
+      "Should I inflate the Code: Bones to 40 PSI?",
+      "No. Hycline lists 40 PSI as the tire maximum, not a universal riding target. Check the rim’s limit and pressure guidance for your tire, wheel, load, and route; follow the lowest applicable limit."
+    ],
+    [
+      "Does the Code: Bones tire guarantee puncture protection?",
+      "Hycline advertises dual-layer construction and puncture resistance, but the product page does not provide a comparable puncture test result or a puncture-free guarantee. Choose it for the published size and tread design, and keep a repair plan for any tire setup."
+    ]
+  ],
+  "price": {
+    "amountMinor": 10599,
+    "currency": "USD",
+    "region": "US",
+    "variantId": "44651812684001",
+    "variantLabel": "20×4 / 40 PSI / Buy 2-pack tires with tubes",
+    "source": "https://hyclinebike.com/products/code-bones-all-terrain-fat-tire-20-x-4-0?variant=44651812684001",
+    "checkedOn": "2026-10-23",
+    "isSalePrice": true
+  },
+  "eligibility": {
+    "status": "eligible",
+    "variantId": "44651812684001",
+    "evidence": "docs/evidence/hycline-code-bones-fat-tire-set.md#exact-variant-cart-observation"
+  },
+  "checkoutObservation": {
+    "code": "SEBASTIANBASSOL",
+    "stage": "cart",
+    "variantId": "44651812684001",
+    "baseAmountMinor": 10599,
+    "discountMinor": 529,
+    "afterAmountMinor": 10070,
+    "currency": "USD",
+    "checkedOn": "2026-10-23",
+    "exclusions": "exact 20×4 two-pack-with-tubes variant only, before shipping and tax; no address was entered or order placed, and the isolated test cart was cleared."
+  }
 }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
