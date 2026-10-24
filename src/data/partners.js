@@ -286,7 +286,7 @@ export const partners = [
     "discount": {
       "type": "percent",
       "value": 5,
-      "scope": "Accepted on the AS2 Pro Max US variant (SKU AS6-1) on October 22, 2026; eligibility for other products and variants is unconfirmed."
+      "scope": "Accepted on the AS2 Pro Max US variant (SKU AS6-1) on October 22, 2026 and the AS2 Ultra US variant (SKU AS2 Ultra) on October 24, 2026; eligibility for other products and variants is unconfirmed."
     },
     "category": "cycling-technology",
     "platform": "GoAffPro",
@@ -294,6 +294,7 @@ export const partners = [
     "status": "active",
     "evidence": "Owner-confirmed live Bike Tested partner roster, October 22, 2026",
     "checkoutTestedOn": null,
+    "stackingObservation": "On October 22, 2026, the code applied to the AS2 Pro Max US variant's $89.99 sale price. On October 24, 2026, it applied to the AS2 Ultra US variant's $94.99 sale price. These observations are specific to those exact variants.",
     "description": "Explore Cycplus trainers and electric air pumps with our reader code. Check the specific product’s compatibility, included adapters and charging requirements."
   },
   {

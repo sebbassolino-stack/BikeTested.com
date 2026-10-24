@@ -721,6 +721,22 @@
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-23",
       "nextStep": "Published in commit 9f80b56; Cloudflare Pages completed successfully. The live review, promo, and exact transparent product image return 200; the live image SHA-256 matches local. Exact Dark Gray US variant 52286186291482 (SKU AT21US00HP-V) showed $749.00 and accepted SEBASTIAN3% for $22.47 off, leaving a $726.53 item subtotal before shipping and tax. 375px live QA passed with no overflow; no address or order. Continue with a distinct coded partner."
+    },
+    {
+      "brand": "Cycplus",
+      "brandSlug": "cycplus",
+      "category": "cycling-technology",
+      "status": "review-ready-for-release",
+      "priority": 1,
+      "product": "AS2 Ultra Tiny E-Pump for Bike, US (variant 45372870623390; SKU AS2 Ultra)",
+      "officialSource": "https://www.cycplus.com/products/as2ultra?variant=45372870623390",
+      "reviewUrl": "/reviews/cycplus-as2-ultra-tiny-e-pump",
+      "affiliateUrl": "https://www.cycplus.com/?ref=ygsauvdr",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "5% off",
+      "offerDetailNeeded": false,
+      "checkoutTestedOn": "2026-10-24",
+      "nextStep": "Review, official image cutout, evidence record, build and local 375px QA are complete. Commit, Pages deployment and production route/image verification are pending. Exact US variant 45372870623390 (SKU AS2 Ultra) showed $94.99 and accepted SEBASTIANBASSOL for $4.74 off, leaving a $90.25 item subtotal before shipping and tax; no address or order. Code acceptance is separately recorded for the AS2 Pro Max variant only."
     }
   ]
 }
