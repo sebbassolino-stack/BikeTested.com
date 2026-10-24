@@ -406,17 +406,17 @@
       "brand": "HappyRun",
       "brandSlug": "happyrun",
       "category": "electric-bikes",
-      "status": "ready-for-product-research",
+      "status": "review-implemented-pending-live-verification",
       "priority": 2,
-      "product": null,
-      "officialSource": null,
-      "reviewUrl": null,
+      "product": "HappyRun G300 SE Ultra Electric Dirt Bike, Default Title (variant 48049109500004; SKU G300se-ult-black)",
+      "officialSource": "https://happyrunsports.com/products/g300se-ultra-electric-dirt-bike?variant=48049109500004",
+      "reviewUrl": "/reviews/happyrun-g300-se-ultra-electric-dirt-bike",
       "affiliateUrl": "https://happyrunsports.com/?ref=hhyssezj",
       "code": "SEBASTIANBASSOL23",
       "reportedBenefit": null,
       "offerDetailNeeded": true,
-      "checkoutTestedOn": null,
-      "nextStep": "Choose one exact current SKU from this storefront; record model, variant, primary specifications and official image provenance before drafting."
+      "checkoutTestedOn": "2026-10-23",
+      "nextStep": "Review, source note and official transparent product cutout are implemented; local build and live routes remain to verify. The exact variant 48049109500004 / SKU G300se-ult-black was listed at $1,189.00. Checkout rejected SEBASTIANBASSOL23 as invalid; no saving is confirmed. No address or order; test cart cleared. The product page conflicts on weight, payload and rider-height figures and describes off-road use; review makes no street-legal or availability claim."
     },
     {
       "brand": "Hiboy",

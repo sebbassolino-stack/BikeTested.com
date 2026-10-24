@@ -1308,6 +1308,111 @@ export const products = [
     "checkedOn": "2026-10-23",
     "exclusions": "Exact US Red variant 48219169783962 only; $679.99 item price less $20.00 code discount, before shipping. Store states listed tax is included; shipping was not calculated because no address was entered. No order was placed; the test item was removed from the cart."
   }
+},
+{
+  "slug": "happyrun-g300-se-ultra-electric-dirt-bike",
+  "brand": "happyrun",
+  "name": "HappyRun G300 SE Ultra Electric Dirt Bike",
+  "model": "G300 SE Ultra",
+  "image": "/images/products/happyrun-g300-se-ultra-electric-dirt-bike.webp",
+  "imageAlt": "Black and orange HappyRun G300 SE Ultra electric dirt bike in a front three-quarter view",
+  "imageWidth": 1200,
+  "imageHeight": 1200,
+  "category": "electric-mobility",
+  "use": "weekend",
+  "label": "For off-road riding with private ground access",
+  "headline": "A fast dirt-bike setup with figures to verify.",
+  "description": "A motorcycle-style electric dirt bike with a 60V battery, peak mid-drive claim, full suspension and hydraulic brakes. Conflicting weight, payload and fit figures call for an exact check before ordering.",
+  "verdict": "We recommend the HappyRun G300 SE Ultra for riders seeking a high-speed, motorcycle-style electric dirt bike for off-road use on private property or designated OHV routes. Its 60V 31Ah battery, peak mid-drive claim, full suspension and hydraulic brakes point to a focused trail setup. It is not an everyday commuter: HappyRun claims 44 mph, and its own weight, payload and rider-height figures conflict. Confirm the delivered configuration and local access rules before buying.",
+  "strengths": [
+    "The 60V 31Ah battery and 6,000W peak mid-drive claims give the G300 SE Ultra a clear off-road performance brief.",
+    "A hydraulic front fork, rear spring shock and hydraulic disc brakes are listed alongside full suspension.",
+    "The 17-inch front and 14-inch rear off-road tires, 31.9-inch seat height and motorcycle-style controls distinguish it from a pedal-assist commuter e-bike.",
+    "The product page describes the model for off-road use and directs riders to check local rules before using public streets."
+  ],
+  "tradeoffs": [
+    "HappyRun claims speeds up to 44 mph and says the G300 SE Ultra is for off-road use; it is not presented as a street-legal commuter.",
+    "The published weight figures do not reconcile: a specification line pairs 138 lb excluding the battery with 140 lb and a 21.8 lb battery, while the Shopify variant feed lists 58.967 kg.",
+    "Maximum payload appears as both 330 lb and 350 lb, and rider-height guidance starts at 4 ft 1 in in the summary but 3 ft 11 in in the geometry section.",
+    "The supplied code was rejected as invalid in checkout for the selected variant, so no code saving is confirmed."
+  ],
+  "specs": {
+    "Selected configuration": "Default Title; Shopify variant 48049109500004; SKU G300se-ult-black",
+    "Motor": "6,000W peak mid-drive (manufacturer-listed)",
+    "Battery": "60V 31Ah lithium (1,860Wh calculated from listed voltage and capacity)",
+    "Claimed range": "56–65 miles in the FAQ; up to 65 miles in product highlights and comparison copy",
+    "Claimed top speed": "44 mph (manufacturer-listed; not independently measured)",
+    "Peak torque": "240 N·m (manufacturer-listed)",
+    "Suspension": "Full suspension; hydraulic front fork and rear spring shock (manufacturer-listed)",
+    "Brakes": "Hydraulic; 190 × 3.4 mm rotors (manufacturer-listed)",
+    "Wheels and tires": "17-inch front / 14-inch rear off-road tires",
+    "Seat height": "31.9 inches (manufacturer-listed)",
+    "Recommended rider height": "4 ft 1 in–6 ft 1 in in summary; 3 ft 11 in–6 ft 1 in in geometry",
+    "Maximum payload": "330 lb in the summary; 350 lb in detailed specifications and comparison",
+    "Listed weight": "Conflicting page figures of 138 lb excluding battery and 140 lb with a 21.8 lb battery; Shopify variant feed lists 58.967 kg",
+    "Water resistance": "IPX5 (manufacturer claim)"
+  },
+  "source": "https://happyrunsports.com/products/g300se-ultra-electric-dirt-bike?variant=48049109500004",
+  "evidence": "Manufacturer-specification editorial evaluation; exact-variant checkout code rejection; no ride testing",
+  "sections": [
+    [
+      "An electric dirt bike, not a city e-bike",
+      "HappyRun describes the G300 SE Ultra as an electric dirt bike for off-road riding on private property, designated trails and OHV areas. The page claims a 44 mph top speed and a 6,000W peak mid-drive motor, with a full-twist throttle and motorcycle-style controls. That makes local access rules, protective gear and a suitable riding area central buying questions. The seller does not present this model as a street-legal commuter; check local rules before riding anywhere public."
+    ],
+    [
+      "The equipment list favors dirt, but performance remains a seller claim",
+      "HappyRun lists a 60V 31Ah battery, 240 N·m peak torque, hydraulic front fork, rear spring shock and hydraulic brakes with 190 × 3.4 mm rotors. The staggered 17-inch front and 14-inch rear tires reinforce its dirt-bike layout. These are manufacturer specifications, not measured acceleration, range, braking or durability results. The advertised range spans 56–65 miles in the FAQ and reaches 65 miles in the product highlights; actual distance will depend on conditions and use."
+    ],
+    [
+      "Get a reliable weight, load limit and fit answer",
+      "The product page gives conflicting payload limits of 330 and 350 lb, and its rider-height range starts at 4 ft 1 in in the summary but 3 ft 11 in in geometry. Weight is less clear: one line pairs 138 lb without the battery with a 140 lb figure and a 21.8 lb battery, while the Shopify variant feed lists 58.967 kg. Treat the bike as a substantial machine and ask HappyRun to confirm the ready-to-ride weight, exact payload limit and fit range for the delivered G300 SE Ultra."
+    ],
+    [
+      "The current listing and exact reader-code check",
+      "On October 23, 2026, HappyRun listed the G300 SE Ultra default variant (48049109500004; SKU G300se-ult-black) at $1,189.00 USD. At checkout, the supplied Bike Tested code SEBASTIANBASSOL23 was rejected with “Enter a valid discount code.” The item remained $1,189.00 before shipping; no saving is confirmed for this variant. No address was entered, no order was placed and the test item was removed. This check does not establish whether the code works on other models or configurations."
+    ]
+  ],
+  "publishedOn": "2026-10-23",
+  "updatedOn": "2026-10-23",
+  "specsCheckedOn": "2026-10-23",
+  "faqs": [
+    ["Is the HappyRun G300 SE Ultra street legal?", "HappyRun describes the G300 SE Ultra as an electric dirt bike for off-road use on private property, designated trails and OHV areas. Its page claims speeds up to 44 mph and advises checking local rules. Bike Tested does not determine whether it can be registered or used on public roads in your area."],
+    ["How far does the G300 SE Ultra go on one charge?", "HappyRun's FAQ gives a 56–65-mile range, while product highlights and comparison copy say up to 65 miles. These are manufacturer claims, not Bike Tested measurements; speed, terrain, rider load and conditions affect actual range."],
+    ["How heavy is the G300 SE Ultra, and what can it carry?", "HappyRun's page gives conflicting figures: 138 lb excluding the battery, a 140 lb figure, and a 21.8 lb battery. The Shopify variant feed lists 58.967 kg. Payload is listed as both 330 and 350 lb. Ask HappyRun to confirm the delivered bike's weight and payload before planning transport or riding."],
+    ["Does SEBASTIANBASSOL23 discount the G300 SE Ultra?", "On October 23, 2026, checkout rejected SEBASTIANBASSOL23 as an invalid discount code for the Default Title variant (48049109500004; SKU G300se-ult-black). The listed $1,189.00 item price remained unchanged, so no saving is confirmed for this configuration. Other models and variants were not tested."]
+  ],
+  "relatedReviews": [
+    {"slug": "voltrover-m5-electric-dirt-bike", "reason": "Compare another high-power electric dirt bike and check how its speed and motor claims are documented."},
+    {"slug": "ekx-x21-max-electric-dirt-bike", "reason": "Compare the G300 SE Ultra with another off-road electric dirt bike and its exact-variant price evidence."}
+  ],
+  "price": {
+    "amountMinor": 118900,
+    "currency": "USD",
+    "region": "US",
+    "variantId": "48049109500004",
+    "variantLabel": "Default Title (SKU G300se-ult-black)",
+    "source": "https://happyrunsports.com/products/g300se-ultra-electric-dirt-bike?variant=48049109500004",
+    "checkedOn": "2026-10-23",
+    "isSalePrice": true
+  },
+  "eligibility": {
+    "status": "unresolved",
+    "variantId": "48049109500004",
+    "evidence": "docs/evidence/happyrun-g300-se-ultra-electric-dirt-bike.md#exact-variant-checkout"
+  },
+  "codeCheckObservation": {
+    "code": "SEBASTIANBASSOL23",
+    "stage": "checkout",
+    "result": "invalid-code",
+    "variantId": "48049109500004",
+    "baseAmountMinor": 118900,
+    "discountMinor": 0,
+    "afterAmountMinor": 118900,
+    "currency": "USD",
+    "checkedOn": "2026-10-23",
+    "message": "Enter a valid discount code",
+    "exclusions": "Exact Default Title variant 48049109500004 / SKU G300se-ult-black only; checkout rejected the code as invalid and the $1,189.00 item price remained unchanged before shipping. No address was entered and no order was placed; the test cart was cleared."
+  }
 }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
@@ -1318,12 +1423,14 @@ export const offers=partners.map(p=>{
   const codeChecked=codeCheckProductFor(p.slug);
   const discount=p.discount||null;
   const checkoutTestProduct=tested?{slug:tested.slug,name:tested.name,variantId:tested.price.variantId,variantLabel:tested.price.variantLabel,stage:tested.checkoutObservation.stage||null}:null;
-  const codeCheckProduct=codeChecked?{slug:codeChecked.slug,name:codeChecked.name,variantId:codeChecked.codeCheckObservation.variantId,variantLabel:codeChecked.price.variantLabel,checkedOn:codeChecked.codeCheckObservation.checkedOn,discountFormatted:formatMinor(codeChecked.codeCheckObservation.discountMinor,codeChecked.codeCheckObservation.currency)}:null;
+  const codeCheckProduct=codeChecked?{slug:codeChecked.slug,name:codeChecked.name,variantId:codeChecked.codeCheckObservation.variantId,variantLabel:codeChecked.price.variantLabel,stage:codeChecked.codeCheckObservation.stage,result:codeChecked.codeCheckObservation.result,checkedOn:codeChecked.codeCheckObservation.checkedOn,message:codeChecked.codeCheckObservation.message||null,discountFormatted:formatMinor(codeChecked.codeCheckObservation.discountMinor,codeChecked.codeCheckObservation.currency),baseFormatted:formatMinor(codeChecked.codeCheckObservation.baseAmountMinor,codeChecked.codeCheckObservation.currency)}:null;
   const acceptanceLocation=checkoutTestProduct?.stage==='cart'?' in the cart':'';
   const terms=checkoutTestProduct
     ?`Code acceptance${acceptanceLocation} was recorded for ${checkoutTestProduct.name}, ${checkoutTestProduct.variantLabel} only. ${p.stackingObservation||''} Eligibility for other models or variants, minimum spend, exclusions and expiry have not been supplied; confirm the current final total at this storefront.`
     :codeCheckProduct
-      ?`On ${priceDateLabel(codeCheckProduct.checkedOn)}, ${p.code} was entered in the cart for ${codeCheckProduct.name}, ${codeCheckProduct.variantLabel}. The cart allocated ${codeCheckProduct.discountFormatted} off, so no saving is confirmed for that configuration. Other models and variants have not been checked; confirm the current final total at this storefront.`
+      ?codeCheckProduct.result==='invalid-code'
+        ?`On ${priceDateLabel(codeCheckProduct.checkedOn)}, checkout rejected ${p.code} as invalid for ${codeCheckProduct.name}, ${codeCheckProduct.variantLabel}. The ${codeCheckProduct.baseFormatted} item price remained unchanged, so no saving is confirmed for that configuration. Other models and variants have not been checked; confirm the current final total at this storefront.`
+        :`On ${priceDateLabel(codeCheckProduct.checkedOn)}, ${p.code} was entered in the ${codeCheckProduct.stage} for ${codeCheckProduct.name}, ${codeCheckProduct.variantLabel}. The ${codeCheckProduct.stage} allocated ${codeCheckProduct.discountFormatted} off, so no saving is confirmed for that configuration. Other models and variants have not been checked; confirm the current final total at this storefront.`
       :p.terms||'Product eligibility, minimum spend, exclusions, stacking and expiry have not been supplied. Confirm any discount in the final checkout total at this storefront.';
   return {...p,benefit:p.benefit??(discount?discountLabel(discount):null),discount,brand:p.slug,eligibleStore:new URL(p.url).hostname,terms,checkoutTestedOn:tested?.checkoutObservation?.checkedOn||codeCheckProduct?.checkedOn||p.checkoutTestedOn||null,checkoutTestProduct,codeCheckProduct};
 });

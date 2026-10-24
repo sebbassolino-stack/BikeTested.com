@@ -44,8 +44,8 @@ for(const p of products){
     const observation=p.codeCheckObservation,offer=offers.find(o=>o.brand===p.brand);
     assert(offer?.code&&date(observation.checkedOn),`Code check provenance: ${p.slug}`);
     assert.equal(observation.code,offer.code,`Code check scope: ${p.slug}`);
-    assert.equal(observation.stage,'cart',`Code check stage: ${p.slug}`);
-    assert.equal(observation.result,'no-discount',`Code check result: ${p.slug}`);
+    assert(['cart','checkout'].includes(observation.stage),`Code check stage: ${p.slug}`);
+    assert(['no-discount','invalid-code'].includes(observation.result),`Code check result: ${p.slug}`);
     assert.equal(observation.variantId,p.price.variantId,`Code check variant: ${p.slug}`);
     assert.equal(observation.currency,p.price.currency,`Code check currency: ${p.slug}`);
     assert.equal(observation.baseAmountMinor,p.price.amountMinor,`Code check base amount: ${p.slug}`);
