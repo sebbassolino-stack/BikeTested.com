@@ -3348,6 +3348,113 @@ export const products = [
       variantId: '51725417513281',
       evidence: 'docs/evidence/gebike-gt20-fat-tire-electric-bike.md#partner-code-scope'
     }
+  },
+  {
+    slug: 'gebike-g02-hybrid-electric-bike',
+    brand: 'gebike',
+    name: 'GEBIKE G02 Hybrid Electric Bike',
+    model: 'Olive Green / Standard, EU (variant 51947292098881; SKU E001-G02-G-EU)',
+    image: '/images/products/gebike-g02-hybrid-electric-bike.webp',
+    imageAlt: 'Olive Green GEBIKE G02 hybrid electric bike with removable black battery and 26-inch tires, shown in three-quarter side profile',
+    imageWidth: 1200,
+    imageHeight: 1200,
+    category: 'electric-bikes',
+    use: 'commute',
+    label: 'For city commutes and everyday rides',
+    headline: 'A full-size hybrid with a removable battery and familiar five-speed shifting.',
+    description: 'GEBIKE’s G02 pairs a 36V 13Ah removable battery with a 26-inch hybrid layout, front suspension and Shimano five-speed shifting. The seller lists 250W nominal / 750W peak output and a top speed of 25 km/h. Its EU Olive Green / Standard variant was €549.99 on October 24, 2026; range, fit and warranty guidance needs clarification.',
+    verdict: 'We’d consider GEBIKE’s G02 for city commutes and everyday rides when a full-size 26-inch hybrid, removable 36V 13Ah battery, front suspension and Shimano five-speed drivetrain fit the plan. Its 250W listed motor, 25 km/h top-speed claim and 23.85 kg listed weight make the EU Olive Green / Standard configuration specific enough to assess. The seller’s range, fit and warranty notes conflict, so confirm the exact sizing and written support terms before ordering.',
+    strengths: [
+      'The seller lists a removable, lockable 36V 13Ah battery and a 42V 1.5A charger with a six-to-eight-hour charge estimate, giving buyers concrete charging and storage details to plan around.',
+      'A Shimano five-speed transmission, 26 × 1.95-inch tires and front suspension are listed for the G02, a familiar equipment combination for the city and maintained-path use the brand describes.',
+      'The technical specification lists 250W nominal motor output, 750W peak output and a 25 km/h top speed for the EU listing. These are manufacturer figures, not Bike Tested performance results.',
+      'GEBIKE publishes a 23.85 kg weight, 120 kg maximum load and 83–105 cm saddle range, useful starting points for fit, stairs and carrier planning.'
+    ],
+    tradeoffs: [
+      'The specification table lists up to 90 km, while the FAQ says 90–100 km under optimal pedal-assist conditions. Treat both as seller estimates, not a route forecast; ask for the exact test conditions and leave practical range margin.',
+      'Fit guidance conflicts: the chart gives 160–190 cm and translates it to 5 ft 6 in–6 ft 3 in, while the FAQ says 5 ft 3 in–6 ft 2 in. Ask GEBIKE to confirm the applicable range and check reach and saddle position for the actual rider.',
+      'At 23.85 kg / 52.6 lb, this is a substantial bike to carry up stairs or lift onto a rack. The dimension chart lists 171 cm total length, while the technical table gives 1,690 mm; measure tight storage or vehicle spaces with margin.',
+      'Warranty language conflicts: the product highlights say two years, while the specification table lists a one-year limited warranty. Get the covered parts, battery terms and service process for your destination in writing.',
+      'The product page displays “CE Certified EN15194,” but model-specific conformity documents were not reviewed. Confirm the applicable paperwork and local operating requirements instead of treating the seller badge as a complete legal determination.',
+      'The Olive Green / Standard EU listing was €549.99 on October 24, 2026, against a €699.99 compare-at price. The €10 GEBIKE code was accepted on G03 only; G02 eligibility and stacking with this sale price remain untested.'
+    ],
+    specs: {
+      'Selected configuration': 'Olive Green / Standard, EU (variant 51947292098881; SKU E001-G02-G-EU)',
+      'Motor': '250W nominal / 750W peak (manufacturer-listed)',
+      'Claimed top speed': '25 km/h / 15.5 mph (manufacturer-listed)',
+      'Battery': '36V 13Ah; removable and lockable (seller-listed)',
+      'Claimed range': 'Up to 90 km in the technical table; FAQ says up to 90–100 km under optimal pedal-assist conditions. Seller claims, not measured.',
+      'Assist modes': 'Electric, Pedal-assist, Sport and Boost; check the current manual for exact behavior',
+      'Drivetrain': 'Shimano five-speed (manufacturer-listed)',
+      'Tires': '26 × 1.95 in',
+      'Suspension': 'Front fork suspension (manufacturer-listed)',
+      'Brakes': 'Front and rear disc brakes with electronic brake cut-off (manufacturer-listed)',
+      'Recommended rider height': '160–190 cm in the size chart; the printed feet-and-inches guidance conflicts with the FAQ',
+      'Saddle height': '83–105 cm',
+      'Maximum load': '120 kg / 264.6 lb',
+      'Complete-bike weight': '23.85 kg / 52.6 lb',
+      'Dimensions': 'Size chart lists 171 cm overall length and 102 cm handlebar height; technical table lists 1,690 × 700 × 1,040 mm',
+      'Charging': '42V 1.5A charger; six to eight hours (manufacturer-listed)',
+      'Warranty': 'Product highlights say two years; technical table says one-year limited warranty',
+      'Certification label': 'Seller lists CE Certified EN15194; model-specific documentation was not reviewed',
+      'Listed price': '€549.99 EUR; €699.99 compare-at price, checked October 24, 2026'
+    },
+    source: 'https://gebikeglobal.com/de/products/gebikeglobal-g02-hybrid-electric-bike?variant=51947292098881',
+    sourceLinks: [
+      {label: 'GEBIKE G02 Olive Green / Standard EU listing', url: 'https://gebikeglobal.com/de/products/gebikeglobal-g02-hybrid-electric-bike?variant=51947292098881'},
+      {label: 'GEBIKE electric-bike collection', url: 'https://gebikeglobal.com/collections/e-bikes'}
+    ],
+    evidence: 'Manufacturer-specification editorial evaluation. Official EU product page and Shopify variant feed checked October 24, 2026; Olive Green / Standard variant 51947292098881 (SKU E001-G02-G-EU) listed at €549.99 against €699.99. Published height, range, dimension and warranty details conflict. SEBASTIANBASSOL eligibility and sale stacking are unresolved for G02; documented €10 acceptance is for G03 Gray / Standard. No ride, range, fit, braking or conformity test.',
+    sections: [
+      [
+        'A familiar hybrid setup for daily routes',
+        'GEBIKE presents the G02 as a hybrid for city streets, gravel and light off-road riding. Its published equipment includes 26 × 1.95-inch tires, a front suspension fork, Shimano five-speed shifting, front and rear disc brakes and a removable 36V 13Ah battery. That gives a shopper a clearer component list than the GT20, but the listing is still not a ride test. Match its tire, suspension and gearing package to your own route, and confirm the manual’s guidance for the surfaces you plan to use.'
+      ],
+      [
+        'Check the actual fit instead of relying on one height range',
+        'GEBIKE’s size chart recommends 160–190 cm, but prints 5 ft 6 in–6 ft 3 in; its FAQ gives 5 ft 3 in–6 ft 2 in. The page also lists a saddle range of 83–105 cm and a 102 cm handlebar height, while the frame geometry and reach are not spelled out in the same chart. Treat the metric range as a first filter, ask the seller to resolve the conflicting conversion and FAQ, and assess mounting, reach and saddle position on the actual frame.'
+      ],
+      [
+        'Use the battery and range details with realistic margins',
+        'The seller lists a removable, lockable 36V 13Ah battery, a 42V 1.5A charger and a six-to-eight-hour charge estimate. Its technical table advertises up to 90 km, while the FAQ gives 90–100 km under ideal pedal-assist conditions. Those are not the same claim. The page does not provide a complete test protocol, and real distance depends on rider load, route, speed, temperature and assistance. Plan around the lower end and ask for the conditions behind the estimate.'
+      ],
+      [
+        'Plan for the full weight and confirm support terms',
+        'At 23.85 kg / 52.6 lb, the G02 may be difficult to carry on stairs or lift onto a vehicle rack. The size chart gives 171 cm total length, while the technical table says 1,690 mm; leave clearance if storage is tight. The product highlights promise two years of warranty coverage, but its technical table lists one year. Confirm which term applies to the battery, motor, electronics and frame, and ask who handles service in your country.'
+      ],
+      [
+        'Keep the code separate from the Olive Green sale price',
+        'On October 24, 2026, the official EU feed listed the Olive Green / Standard variant at €549.99, with a €699.99 compare-at price. The partner code SEBASTIANBASSOL is a reported €10 benefit and was accepted on the separate G03 Gray / Standard configuration only. G02 eligibility and whether the code stacks with the current sale are untested. Confirm the final item subtotal in the exact G02 checkout; this review does not claim a discounted G02 total.'
+      ]
+    ],
+    publishedOn: '2026-10-24',
+    updatedOn: '2026-10-24',
+    specsCheckedOn: '2026-10-24',
+    faqs: [
+      ['What range does the GEBIKE G02 claim?', 'The technical table lists up to 90 km, while the FAQ says up to 90–100 km under optimal pedal-assist conditions. These are seller estimates with incomplete test conditions, not a Bike Tested range result. Plan with margin and confirm the assumptions for your route.'],
+      ['Can the G02 battery be removed?', 'GEBIKE describes a removable, lockable 36V 13Ah battery. The seller lists a 42V 1.5A charger and a six-to-eight-hour charge time; use the supplied manual for charging and storage instructions.'],
+      ['Who does the G02 fit?', 'The size chart lists 160–190 cm, but its feet-and-inches conversion conflicts with the separate FAQ. Ask GEBIKE to confirm the range for this EU configuration and evaluate reach and saddle position directly.'],
+      ['How long is the G02 warranty?', 'GEBIKE’s product highlights say two years, while its technical table says one-year limited warranty. Ask for the written terms covering the frame, battery, motor and electronics for your destination before purchase.']
+    ],
+    relatedReviews: [
+      {slug: 'gebike-g03-city-commuter-ebike', reason: 'Compare GEBIKE’s G03 step-through city bike if easier mounting and an exact-variant code observation matter more than the G02’s five-speed drivetrain.'},
+      {slug: 'finbike-eb8-electric-bike', reason: 'Compare a folding 20 × 4.0 fat-tire hybrid if storage or wider tires matter more than the G02’s 26-inch wheels.'}
+    ],
+    price: {
+      amountMinor: 54999,
+      currency: 'EUR',
+      region: 'EU',
+      variantId: '51947292098881',
+      variantLabel: 'Olive Green / Standard (SKU E001-G02-G-EU)',
+      source: 'https://gebikeglobal.com/de/products/gebikeglobal-g02-hybrid-electric-bike?variant=51947292098881',
+      checkedOn: '2026-10-24',
+      isSalePrice: true
+    },
+    eligibility: {
+      status: 'unresolved',
+      variantId: '51947292098881',
+      evidence: 'docs/evidence/gebike-g02-hybrid-electric-bike.md#partner-code-scope'
+    }
   }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
