@@ -785,6 +785,22 @@
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-24",
       "nextStep": "Published in review commit 18dc45f; publication-date correction commit 92c3a21; Cloudflare Pages check succeeded (deployment bf8fdb24-f7e9-4a63-88ac-1a7d3573bfc6). Live review, promo and image return 200; image SHA matches local. The exact US T7 variant showed $1,499 and the code did not apply. 375px and 1280px QA passed without overflow; cart was cleared and no address or order was entered. Continue with the next distinct coded partner."
+    },
+    {
+      "brand": "Mooncool",
+      "brandSlug": "mooncool",
+      "category": "electric-bikes",
+      "status": "review-in-progress",
+      "priority": 1,
+      "product": "POP Folding Electric Bike, Cyan Green-Matte / US (variant 46685427564716; SKU POP-QL)",
+      "officialSource": "https://www.mooncool.com/products/pop-folding-electric-bike?variant=46685427564716",
+      "reviewUrl": "/reviews/mooncool-pop-folding-electric-bike",
+      "affiliateUrl": "https://www.mooncool.com/?ref=znnfuofi",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "5% off",
+      "offerDetailNeeded": false,
+      "checkoutTestedOn": "2026-10-24",
+      "nextStep": "Review and transparent exact-product image are ready locally. npm run check and npm run build passed; local review, Mooncool promo and image routes returned 200. Visual browser QA unavailable because the Mac is locked. Push and production verification pending."
     }
   ]
 }

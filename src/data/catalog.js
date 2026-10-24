@@ -2213,6 +2213,140 @@ export const products = [
       checkedOn: '2026-10-24',
       exclusions: 'Exact Peacock Green-Matte US variant only; item subtotal before shipping and tax; no address or order; other variants untested.'
     }
+  },
+  {
+    slug: 'mooncool-pop-folding-electric-bike',
+    brand: 'mooncool',
+    name: 'Mooncool POP Folding Electric Bike',
+    model: 'POP Folding Electric Bike, Cyan Green-Matte / US (variant 46685427564716; SKU POP-QL)',
+    image: '/images/products/mooncool-pop-folding-electric-bike.webp',
+    imageAlt: 'Mooncool POP folding electric bike in Cyan Green-Matte with 20-inch wheels, full fenders and an integrated rear rack',
+    imageWidth: 1200,
+    imageHeight: 1200,
+    category: 'electric-bikes',
+    use: 'commute',
+    label: 'For compact storage and mixed-surface commutes',
+    headline: 'A folding setup with full suspension and a useful carry package.',
+    description: 'The POP pairs 20 × 3.0-inch tires, front and rear suspension, hydraulic brakes and an integrated rear rack on a folding frame. Its 67 lb listed weight and inconsistent speed and range details make storage and exact setup worth checking.',
+    verdict: 'We recommend the Mooncool POP for commuters and errand riders who need a folding bike with full suspension, an integrated rack and a broad manufacturer-listed fit range. A removable 48 V battery, switchable torque and cadence assistance, hydraulic disc brakes and five color options make a versatile equipment list on paper. At 67 lb, it remains a substantial lift; confirm the delivered speed setting and a useful range for your route before buying.',
+    strengths: [
+      'The 20 × 3.0-inch tires, 60 mm front fork, rear coil suspension and hydraulic disc brakes with 180 mm rotors give the POP a substantial equipment list for daily pavement and mixed-surface routes.',
+      'Mooncool lists a removable 48 V 13.6 Ah battery, five pedal-assist levels, a removable thumb throttle and a switchable torque/cadence sensor setup.',
+      'An integrated rear rack, front light, turn-signal and brake-highlight rear light, and a manufacturer-listed 330 lb maximum load support practical errands; the rack has its own 120 lb limit.',
+      'A 16.9-inch listed standover, 29.5–39.4-inch saddle range and recommended rider height of 4 ft 9 in–6 ft 5 in provide useful fit measurements to check in person.',
+      'The exact Cyan Green-Matte US variant accepted SEBASTIANBASSOL in the October 24, 2026 cart check.'
+    ],
+    tradeoffs: [
+      'Mooncool lists the complete bike at 67 lb. Folding reduces its storage footprint, but this is still a substantial bike to lift regularly; compare the folded size with your doorway, trunk or storage space.',
+      'The product page gives a folded length of 34.7 inches in its size table and 34.6 inches in its geometry and parameter sections. Confirm the measurement that matters for your storage plan.',
+      'Mooncool labels the POP Class 2 with a 20 mph top safe speed, while its speed section also lists an adjustable 12–28 mph range. Confirm the delivered US speed setting and check rules for your intended roads and paths.',
+      'Mooncool advertises 30–60 miles of range, but its page gives differing throttle and PAS1 figures across sections. These are manufacturer claims without a comparable Bike Tested route result.',
+      'The Bike Tested code applied in the checked Cyan Green-Matte cart; that exact result does not establish eligibility for other POP variants or Mooncool models.'
+    ],
+    specs: {
+      'Selected configuration': 'Cyan Green-Matte / US; Shopify variant 46685427564716; SKU POP-QL',
+      'Frame': 'Aluminum alloy folding frame (manufacturer-listed)',
+      'Motor': '48 V 750 W hub motor, 1,200 W peak and 85 N·m torque (manufacturer-listed)',
+      'Battery': 'Removable 48 V 13.6 Ah / 652.8 Wh (manufacturer-listed)',
+      'Assistance': 'Five pedal-assist levels; removable thumb throttle; switchable torque/cadence sensor modes',
+      'Speed and class': '20 mph top safe speed and Class 2 label; speed section also lists a 12–28 mph adjustable range',
+      'Claimed range': '30–60 miles in highlights; other product-page sections list 28 or 30 miles throttle and 40 or 60 miles PAS1',
+      'Drivetrain': 'Shimano 7-speed rear derailleur with L-TWOO shifter (manufacturer-listed)',
+      'Brakes': 'Front and rear hydraulic disc brakes; 180 mm rotors (manufacturer-listed)',
+      'Suspension': '60 mm front fork and rear coil suspension (manufacturer-listed)',
+      'Wheels and tires': '20 × 3.0-inch tires (manufacturer-listed)',
+      'Listed weight': '67 lb / 30.4 kg',
+      'Maximum load': '330 lb listed bike load; 120 lb rear-rack capacity',
+      'Fit': 'Recommended rider height 4 ft 9 in–6 ft 5 in; 16.9-inch standover; 29.5–39.4-inch seat height',
+      'Dimensions': '66.5 inches long; folded size listed as 34.6 or 34.7 × 16.9 × 29.5 inches in different page sections',
+      'Lighting': 'Adjustable integrated front LED; rear light with brake highlight and turn signals',
+      'Charging': '2 A charger; about 7 hours listed; 5 A fast-charger option',
+      'Certification claim': 'Mooncool says SGS certified to UL 2849 and UL 2271 standards',
+      'Warranty summary': 'Product page lists lifetime frame, two-year battery and one-year parts coverage; see full terms'
+    },
+    source: 'https://www.mooncool.com/products/pop-folding-electric-bike?variant=46685427564716',
+    sourceLinks: [
+      {label: 'Mooncool POP introduction', url: 'https://www.mooncool.com/blogs/journey/meet-the-mooncool-pop-the-ultimate-folding-electric-bike-for-city-and-trail'},
+      {label: 'Mooncool warranty policy', url: 'https://www.mooncool.com/pages/warranty-policy'}
+    ],
+    evidence: 'Manufacturer-specification editorial evaluation; exact Cyan Green-Matte US variant price and cart code observation recorded October 24, 2026. No Bike Tested ride, speed, braking or range measurement.',
+    sections: [
+      [
+        'A folding bike with a real-size lift',
+        'The POP combines 20-inch wheels and a folding frame with a listed 67 lb complete-bike weight. Its folded size can help with a closet, car or workplace storage plan, but the bike is still a substantial lift for stairs or regular carrying. Mooncool gives 34.6 inches as the folded length in its geometry and parameter sections and 34.7 inches in the size table. Measure your actual storage opening and confirm the figure that matters before ordering.'
+      ],
+      [
+        'Suspension and braking are part of the commuter package',
+        'Mooncool lists a 60 mm front suspension fork, rear coil suspension and hydraulic disc brakes with 180 mm rotors. The 20 × 3.0-inch tires, full fenders, integrated lights and Shimano seven-speed drivetrain add practical detail for a commute that includes imperfect pavement. These are manufacturer specifications, not Bike Tested comfort, braking or traction results; rider fit, tire pressure and the route still matter.'
+      ],
+      [
+        'Confirm the speed and range claims for your setup',
+        'The page describes a 750 W rated hub motor with 1,200 W peak output, 85 N·m torque and a 48 V 13.6 Ah removable battery. Mooncool lists a 20 mph top safe speed and Class 2 classification, but its speed section also gives an adjustable range up to 28 mph. Range is similarly inconsistent: page sections show 30–60 miles, 28 or 30 miles in throttle mode, and 40 or 60 miles for PAS1. Treat these as seller claims and ask Mooncool to confirm the delivered US setup and applicable range figure for the exact bike.'
+      ],
+      [
+        'Check fit and cargo limits before planning errands',
+        'The manufacturer recommends riders from 4 ft 9 in to 6 ft 5 in and lists a 16.9-inch standover plus a 29.5–39.4-inch seat-height range. Use these as screening measurements, then check reach, saddle position and control access for your own fit. Mooncool lists a 330 lb maximum load and a separate 120 lb rack capacity; plan rider, bags and accessories within the applicable limits.'
+      ],
+      [
+        'The current listing and exact code result',
+        'On October 24, 2026, Mooncool listed the Cyan Green-Matte US variant 46685427564716 (SKU POP-QL) for $1,199.99 USD. In the cart, SEBASTIANBASSOL applied $59.99 off, leaving a $1,140.00 subtotal for one bike before shipping and tax. A not-for-sale free-gift package was also in the cart. No address was entered and no order was placed; the cart was cleared afterward. This result applies to the selected variant and date.'
+      ]
+    ],
+    publishedOn: '2026-10-24',
+    updatedOn: '2026-10-24',
+    specsCheckedOn: '2026-10-24',
+    faqs: [
+      [
+        'Is the Mooncool POP easy to carry when folded?',
+        'Mooncool lists the POP at 67 lb and gives folded dimensions of about 34.6–34.7 × 16.9 × 29.5 inches. Folding can reduce storage space, but it does not make the bike light to lift. Check the folded footprint and handling points for your own storage routine.'
+      ],
+      [
+        'How far can the Mooncool POP travel on one charge?',
+        'Mooncool advertises 30–60 miles, but different page sections list 28 or 30 miles for throttle use and 40 or 60 miles for PAS1. These are manufacturer claims, not Bike Tested measurements. Rider and cargo load, route, speed, temperature and assist use affect real distance.'
+      ],
+      [
+        'What speed and class does the Mooncool POP use?',
+        'Mooncool labels the POP Class 2 and lists a 20 mph top safe speed, while its speed section also shows an adjustable range up to 28 mph. Confirm the delivered US setting and check the rules for the roads and paths where you plan to ride.'
+      ],
+      [
+        'How much can the POP carry?',
+        'Mooncool lists a 330 lb maximum load and a separate 120 lb rear-rack capacity. Keep rider, cargo and accessories within the applicable limits, and ask Mooncool how the total-load figure applies to your planned setup.'
+      ],
+      [
+        'Did SEBASTIANBASSOL work on the POP?',
+        'On October 24, 2026, the code was accepted in the cart for the Cyan Green-Matte US variant 46685427564716 / SKU POP-QL. It reduced the $1,199.99 listing by $59.99 to a $1,140.00 one-bike cart subtotal before shipping and tax. Other POP variants and Mooncool models were not tested.'
+      ]
+    ],
+    relatedReviews: [
+      {slug: 'tomofree-t1max-folding-ebike', reason: 'Compare another folding e-bike with a wider 20 × 4-inch setup and its exact-variant code result.'},
+      {slug: 'finbike-eb8-electric-bike', reason: 'Compare a compact folding fat-tire bike and a different battery and fit package.'}
+    ],
+    price: {
+      amountMinor: 119999,
+      currency: 'USD',
+      region: 'US',
+      variantId: '46685427564716',
+      variantLabel: 'Cyan Green-Matte (SKU POP-QL)',
+      source: 'https://www.mooncool.com/products/pop-folding-electric-bike?variant=46685427564716',
+      checkedOn: '2026-10-24',
+      isSalePrice: true
+    },
+    eligibility: {
+      status: 'eligible',
+      variantId: '46685427564716',
+      evidence: 'docs/evidence/mooncool-pop-folding-electric-bike.md#exact-variant-code-observation'
+    },
+    checkoutObservation: {
+      code: 'SEBASTIANBASSOL',
+      stage: 'cart',
+      variantId: '46685427564716',
+      baseAmountMinor: 119999,
+      discountMinor: 5999,
+      afterAmountMinor: 114000,
+      currency: 'USD',
+      checkedOn: '2026-10-24',
+      exclusions: 'Exact Cyan Green-Matte US variant only; one-bike cart subtotal before shipping and tax; one free not-for-sale gift was included; no address or order; other variants untested.'
+    }
   }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
