@@ -929,6 +929,22 @@
       "offerDetailNeeded": false,
       "checkoutTestedOn": null,
       "nextStep": "Review commit 5d2f8f9980d3c6ffc1d4f0b3083dce2480b6a8ad deployed successfully to Cloudflare Pages (check/deployment 4857f138-6627-41c9-871b-e5b7033df9ad). Production review, EUNORAU promo, exact product image and agent feed returned 200; the live image SHA-256 matches local. The exact Orange / US variant is listed at $1,699.00. EUNORSEBASTIAN60 eligibility and stacking for the S1 are untested; agent feed leaves eligibility unresolved and afterCodePrice null. The review flags conflicting height guidance and does not assert road access or classification. Visual browser QA was not completed. Continue with another distinct coded, popular or newer product."
+    },
+    {
+      "brand": "GEBIKE",
+      "brandSlug": "gebike",
+      "category": "electric-bikes",
+      "status": "review-published-live-routes-verified",
+      "priority": 1,
+      "product": "GEBIKE GT20 20-Inch Fat Tire Electric Bike, EU (variant 51725417513281; SKU GT20-EU-1)",
+      "officialSource": "https://gebikeglobal.com/products/gt20-electric-bike?variant=51725417513281",
+      "reviewUrl": "/reviews/gebike-gt20-fat-tire-electric-bike",
+      "affiliateUrl": "https://gebikeglobal.com/?ref=SEBASTIANBASSOLINO",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "€10.00 off",
+      "offerDetailNeeded": false,
+      "checkoutTestedOn": null,
+      "nextStep": "Review commit 02f63543d952fb918289a52a37702f422d4ffb2c deployed successfully to Cloudflare Pages as 7e7d3625-b169-485e-b5c2-45fb88b90dcf. Production review, GEBIKE promo, exact official image and agent feed return 200; live image SHA-256 matches local. The EU variant is listed at €929.00 against a €1,099.00 compare-at price. SEBASTIANBASSOL eligibility and sale stacking are untested for GT20; agent feed keeps eligibility unresolved and afterCodePrice null. Visual browser QA unavailable because CUA timed out and Playwright is not installed."
     }
   ]
 }
