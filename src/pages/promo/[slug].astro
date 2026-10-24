@@ -2,11 +2,11 @@
 import Layout from '../../layouts/Layout.astro';import Faq from '../../components/Faq.astro';import PartnerOffer from '../../components/PartnerOffer.astro';
 import ProductCard from '../../components/ProductCard.astro';
 import {offers,brands,products} from '../../data/catalog';import {guides} from '../../data/guides';
-import {offerAnswer,offerFaq,offerSchema,faqSchema,pathFor,checkoutTests,checkoutTestSummary} from '../../lib/offers';
+import {offerAnswer,offerFaq,offerSchema,faqSchema,pathFor,offerCheckSummary} from '../../lib/offers';
 export function getStaticPaths(){return offers.filter(o=>o.status==='active'&&o.code).map(o=>({params:{slug:o.brand},props:{o}}))};
 const {o}=Astro.props;const brand=brands.find(b=>b.slug===o.brand);const answer=offerAnswer(o,brand.name);const faq=offerFaq(o,brand.name);const path=pathFor(o);
 const reading=guides.filter(g=>path.guides.includes(g.slug));const coverage=products.filter(p=>p.brand===o.brand);
-const productCheck=checkoutTests(o).length?checkoutTestSummary(o):o.codeCheckProduct?`${o.codeCheckProduct.stage} on ${o.checkoutTestedOn} · ${o.codeCheckProduct.name}, ${o.codeCheckProduct.variantLabel}`:'Not recorded';
+const productCheck=offerCheckSummary(o)||'Not recorded';
 const others=offers.filter(x=>x.code&&x.brand!==o.brand&&x.category===o.category).slice(0,3);
 ---
 <Layout title={`${brand.name} discount code ${o.code}${o.benefit?`: ${o.benefit}`:''}`} description={answer} schema={[offerSchema(o,brand.name),faqSchema(faq)]}>

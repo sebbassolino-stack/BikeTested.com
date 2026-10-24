@@ -1,6 +1,6 @@
 import { guides } from '../data/guides';
 import { products, offers, brands } from '../data/catalog';
-import { offerAnswer, offerPath, checkoutTests } from '../lib/offers';
+import { offerAnswer, offerPath, checkoutTests, codeChecks } from '../lib/offers';
 import { priceState } from '../lib/pricing';
 
 const offerForProduct = product => offers.find(offer => offer.brand === product.brand && offer.status === 'active');
@@ -107,6 +107,16 @@ export function GET() {
         checkedOn: offer.codeCheckProduct.checkedOn,
         discount: offer.codeCheckProduct.discountFormatted
       } : null,
+      code_check_products: codeChecks(offer).map(check => ({
+        name: check.name,
+        variantId: check.variantId,
+        variantLabel: check.variantLabel,
+        stage: check.stage,
+        result: check.result,
+        message: check.message,
+        checkedOn: check.checkedOn,
+        discount: check.discountFormatted
+      })),
       eligibility: null,
       expiry: null,
       permanent: null,

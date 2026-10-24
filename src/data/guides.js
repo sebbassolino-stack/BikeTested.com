@@ -227,6 +227,7 @@ export const guides = [
     "topics": [
       "cycling-technology"
     ],
+    "products": ["cycplus-t7-smart-bike"],
     "related": [
       "ebike-range-explained",
       "commuter-gear-checklist",

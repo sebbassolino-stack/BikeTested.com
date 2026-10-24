@@ -3,7 +3,7 @@ import {existsSync} from 'node:fs';
 import {products,brands,offers,comparisons,categories} from '../src/data/catalog.js';
 import {guides} from '../src/data/guides.js';
 import {sectionsFor,sectionId,guideGroups} from '../src/lib/guides.js';
-import {pathFor} from '../src/lib/offers.js';
+import {pathFor,checkoutTests} from '../src/lib/offers.js';
 import {discountAmountMinor,discountLabel,formatMinor,priceState} from '../src/lib/pricing.js';
 
 const date=value=>typeof value==='string'&&/^\d{4}-\d{2}-\d{2}$/.test(value)&&!Number.isNaN(Date.parse(`${value}T00:00:00Z`));
@@ -72,9 +72,12 @@ for(const o of offers){
   assert.equal(new URL(o.url).protocol,'https:');assert.equal(o.eligibleStore,new URL(o.url).hostname,'Offer storefront');
   assert(o.benefit===null||typeof o.benefit==='string');if(o.code)assert(o.eligibleStore&&o.terms,'Code needs exact store and terms');
   if(o.discount){assert(['percent','fixed'].includes(o.discount.type)&&Number.isFinite(o.discount.value)&&o.discount.value>0&&o.discount.scope,`Structured discount: ${o.brand}`);if(o.discount.type==='fixed')assert(/^[A-Z]{3}$/.test(o.discount.currency),`Fixed discount currency: ${o.brand}`);assert.equal(o.benefit,discountLabel(o.discount),`Discount label derives from canonical value: ${o.brand}`);}
-  assert.equal(o.checkoutTestedOn!==null,Boolean(o.checkoutTestProduct||o.codeCheckProduct),`Checkout date and test scope agree: ${o.brand}`);
-  if(o.checkoutTestProduct){const p=products.find(x=>x.slug===o.checkoutTestProduct.slug);assert(p?.checkoutObservation&&p.checkoutObservation.checkedOn===o.checkoutTestedOn,`Offer test points to exact product evidence: ${o.brand}`);}
-  if(o.codeCheckProduct){const p=products.find(x=>x.slug===o.codeCheckProduct.slug);assert(p?.codeCheckObservation&&p.codeCheckObservation.checkedOn===o.checkoutTestedOn,`No-discount test points to exact product evidence: ${o.brand}`);}
+  const offerCodeChecks=Array.isArray(o.codeCheckProducts)?o.codeCheckProducts:(o.codeCheckProduct?[o.codeCheckProduct]:[]);
+  const offerCheckDates=[...checkoutTests(o).map(test=>test.checkedOn),...offerCodeChecks.map(test=>test.checkedOn)].sort();
+  assert.equal(o.checkoutTestedOn||null,offerCheckDates.at(-1)||null,`Latest checkout date and test scope agree: ${o.brand}`);
+  if(o.checkoutTestProduct){const p=products.find(x=>x.slug===o.checkoutTestProduct.slug);assert(p?.checkoutObservation&&p.checkoutObservation.checkedOn===o.checkoutTestProduct.checkedOn,`Offer test points to exact product evidence: ${o.brand}`);}
+  for(const check of offerCodeChecks){const p=products.find(x=>x.slug===check.slug);assert(p?.codeCheckObservation&&p.codeCheckObservation.checkedOn===check.checkedOn,`Code check points to exact product evidence: ${o.brand}`);}
+  if(o.codeCheckProduct)assert.equal(o.codeCheckProduct.slug,offerCodeChecks.at(-1)?.slug,`Singular code check is the latest retained check: ${o.brand}`);
   for(const slug of pathFor(o).guides)assert(guides.some(g=>g.slug===slug),`Unknown partner guide: ${slug}`);
 }
 

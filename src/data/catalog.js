@@ -1730,31 +1730,121 @@ export const products = [
       checkedOn: '2026-10-24',
       exclusions: 'US Default Title variant only; before shipping and tax; no address entered or order.'
     }
+  },
+  {
+    slug: 'cycplus-t7-smart-bike',
+    brand: 'cycplus',
+    name: 'CYCPLUS T7 Smart Bike',
+    model: 'T7, US (variant 45853562110110; SKU T7)',
+    image: '/images/products/cycplus-t7-smart-bike.webp',
+    imageAlt: 'Black and orange CYCPLUS T7 smart indoor bike with integrated resistance unit',
+    imageWidth: 1200,
+    imageHeight: 1200,
+    category: 'cycling-technology',
+    use: 'recreation',
+    label: 'For connected indoor training',
+    headline: 'An integrated smart bike with broad fit adjustment and a premium price.',
+    description: 'The T7 combines electronic shifting, app and computer connectivity, and eight selectable crank lengths in a dedicated indoor-bike format. Its $1,499 listing, 28 kg weight and large floor footprint make space, fit and budget part of the decision.',
+    verdict: 'We recommend the CYCPLUS T7 for riders planning a dedicated indoor-training setup who want an integrated bike with broad fit adjustment and support for common training connections. Its eight crank-length settings and adjustable stack and reach offer useful setup range on paper, while the product page lists BLE, ANT+, ANT+ FE-C and FTMS. At $1,499 and 28 kg, it calls for a considered space and budget plan. The supplied code did not apply to the exact US cart variant, and the power, gradient and noise figures remain manufacturer claims rather than Bike Tested measurements.',
+    strengths: [
+      'The listed 150–175 mm crank range offers eight selectable lengths, alongside adjustable stack, reach and saddle height. That gives riders several fit points to check before choosing a permanent indoor bike.',
+      'BLE 5.0, ANT+, ANT+ FE-C and FTMS support connection to a range of training apps and cycling computers. CYCPLUS lists power, cadence and speed outputs, with left-right balance and pedal smoothness available through compatible devices when the T7 is used as a power meter.',
+      'Electronic shifting offers 24 virtual gear combinations and three speed settings, with Shimano and SRAM shifting logic listed. The handlebar buttons are also described as Zwift steering controls.',
+      'The dedicated smart-bike format does not require removing a rear wheel or mounting a separate bicycle on a trainer, according to CYCPLUS. The package includes pedals, a phone holder, cycling-computer mount, cushioning mat and setup tools.'
+    ],
+    tradeoffs: [
+      'At 28 kg and 1,065 × 717 mm across its floor dimensions, the T7 needs a planned training spot. Transport wheels help reposition it, but it is not a compact trainer to lift and store after every ride.',
+      'Check the listed stack, reach, saddle range and 700 mm minimum inseam against your own fit before ordering. CYCPLUS also says it fits riders 155 cm and taller; that height guidance cannot replace checking the contact points and adjustment limits.',
+      'CYCPLUS lists up to 2,200 W sprint output, ±1% power accuracy and 52 dB at 200 W and 90 rpm. These are manufacturer specifications and a stated noise condition, not measurements by Bike Tested.',
+      'The $1,499 US cart did not accept the supplied SEBASTIANBASSOL code for variant 45853562110110. The brand-level 5% offer was accepted on two other exact CYCPLUS variants, but that does not establish T7 eligibility.'
+    ],
+    specs: {
+      'Sprint output': 'Up to 2,200 W (manufacturer-listed; not independently measured)',
+      'Power accuracy': '±1% claimed; CYCPLUS says no spindown calibration is required',
+      'Simulated gradient': '−10% to +20% (manufacturer-listed)',
+      'Torque figures': '244 N·m maximum bottom-bracket torque and 85 N·m motor peak torque, listed separately by CYCPLUS',
+      'Noise claim': '52 dB at 200 W and 90 rpm (manufacturer-stated condition; not measured by Bike Tested)',
+      'Connectivity': 'BLE 5.0, ANT+, ANT+ FE-C and FTMS',
+      'Data outputs': 'Power, cadence, speed, left-right balance and pedal smoothness; balance and smoothness require a compatible computer or app with the T7 connected as a power meter',
+      'Electronic shifting': '24 virtual gear combinations, three speed settings, Shimano/SRAM shifting logic and handlebar controls listed for Zwift steering',
+      'Cranks and Q-factor': 'Eight selectable crank lengths from 150–175 mm; 149 mm Q-factor',
+      'Fit adjustment': 'Stack 485–680 mm; reach 365–480 mm; saddle height 565–880 mm; minimum inseam 700 mm; CYCPLUS recommends riders 155 cm and taller',
+      'Maximum rider weight': '120 kg (manufacturer-listed)',
+      'Weight and dimensions': '28 kg; 1,065 × 717 × 875 mm; listed floor footprint 0.77 m²',
+      'Warranty': 'Two-year full-device warranty listed by CYCPLUS',
+      'Included': 'T7 with seat post and steerer, handlebar assembly, front support with transport wheels, rear support, power adapter and cable, pedals, Z7 phone holder, cycling-computer mount, cushioning mat, hex wrenches, 15 mm open wrench and four M8 screws'
+    },
+    source: 'https://www.cycplus.com/products/t7-smart-bike?variant=45853562110110',
+    sourceLinks: [],
+    evidence: 'Manufacturer-specification evaluation; official US product listing and exact-variant cart observation; no Bike Tested performance testing.',
+    sections: [
+      ['An indoor bike that keeps the fit adjustments on the bike', 'The T7 gives indoor riders a purpose-built frame rather than asking them to mount an outdoor bike on a separate trainer. CYCPLUS lists eight crank-length options from 150 to 175 mm, plus stack from 485 to 680 mm, reach from 365 to 480 mm and saddle height from 565 to 880 mm. Those ranges make the adjustment chart a central part of the purchase: compare your current position, inseam and handlebar reach before committing to a heavy indoor setup.'],
+      ['Connect it to the training system you already use', 'CYCPLUS lists BLE 5.0, ANT+, ANT+ FE-C and FTMS. The page says the bike can send power, cadence and speed, while left-right balance and pedal smoothness depend on a compatible computer or app and the T7 being connected as a power meter. Confirm your preferred software and computer support the needed profile before buying; a list of connection standards does not by itself establish every app feature or data display.'],
+      ['Treat the power and noise numbers as listing claims', 'The manufacturer lists up to 2,200 W sprint output, ±1% power accuracy, no spindown calibration, and simulated gradients from −10% to +20%. It also lists 52 dB at 200 W and 90 rpm. Those figures describe CYCPLUS’s product claims and stated noise condition, not Bike Tested testing. The page gives both 244 N·m maximum bottom-bracket torque and 85 N·m motor peak torque; they are separate specifications and should not be compared as if they describe the same measurement.'],
+      ['Plan the space and complete package', 'The listed 28 kg frame measures 1,065 × 717 × 875 mm and occupies 0.77 m². The front support has transport wheels, but the bike still needs a stable place to live and enough room for a fan, screen and safe movement around the pedals. The listed box includes pedals, a phone holder, a computer mount, a mat and basic tools, so check the included-item list against any extra setup accessories you want.'],
+      ['The code result is specific to the T7 cart', 'CYCPLUS listed the US T7 variant 45853562110110 (SKU T7) at $1,499 on October 24, 2026. In the cart, SEBASTIANBASSOL showed “Discount code cannot be applied to your cart”; the item remained $1,499. The brand’s supplied 5% code has separate accepted cart observations for AS2 Pro Max and AS2 Ultra, but neither establishes T7 eligibility. The cart was cleared without an address or order, so use the listed T7 price and check any current merchant promotion directly.']
+    ],
+    faqs: [
+      ['Does the CYCPLUS T7 work with indoor-training apps?', 'CYCPLUS lists BLE 5.0, ANT+, ANT+ FE-C and FTMS. It lists power, cadence and speed output, with balance and pedal-smoothness data dependent on a compatible app or computer and a power-meter connection. Confirm the profile and features supported by your own training app.'],
+      ['How should I check the T7 fit?', 'Compare your position with the listed stack (485–680 mm), reach (365–480 mm), saddle height (565–880 mm), 700 mm minimum inseam and eight crank options from 150 to 175 mm. CYCPLUS recommends riders 155 cm and taller, but your contact points and inseam are the more useful checks.'],
+      ['How loud is the CYCPLUS T7?', 'CYCPLUS lists 52 dB at 200 W and 90 rpm. That is the manufacturer’s stated condition, not an independent Bike Tested measurement; room acoustics and riding conditions can change perceived noise.'],
+      ['Does the CYCPLUS code apply to the T7?', 'The exact US T7 cart at $1,499 did not apply SEBASTIANBASSOL on October 24, 2026. The code has been accepted on two other exact CYCPLUS pump variants, which does not establish eligibility for the T7.']
+    ],
+    price: {
+      amountMinor: 149900,
+      currency: 'USD',
+      region: 'US',
+      variantId: '45853562110110',
+      variantLabel: 'Default Title / US (SKU T7)',
+      source: 'https://www.cycplus.com/products/t7-smart-bike?variant=45853562110110',
+      checkedOn: '2026-10-24',
+      isSalePrice: false
+    },
+    eligibility: {
+      status: 'unresolved',
+      variantId: '45853562110110',
+      evidence: 'docs/evidence/cycplus-t7-smart-bike.md#exact-variant-cart-check'
+    },
+    codeCheckObservation: {
+      code: 'SEBASTIANBASSOL',
+      stage: 'cart',
+      result: 'no-discount',
+      variantId: '45853562110110',
+      baseAmountMinor: 149900,
+      discountMinor: 0,
+      afterAmountMinor: 149900,
+      currency: 'USD',
+      checkedOn: '2026-10-24',
+      message: 'Discount code cannot be applied to your cart',
+      exclusions: 'Exact US variant 45853562110110 / SKU T7 only; shipping/tax not calculated; no address or order; test cart cleared.'
+    }
   }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
 const checkoutProductsFor=brand=>products.filter(p=>p.brand===brand&&p.checkoutObservation);
-const codeCheckProductFor=brand=>products.find(p=>p.brand===brand&&p.codeCheckObservation);
+const codeCheckProductsFor=brand=>products.filter(p=>p.brand===brand&&p.codeCheckObservation).sort((a,b)=>a.codeCheckObservation.checkedOn.localeCompare(b.codeCheckObservation.checkedOn));
 export const offers=partners.map(p=>{
   const testedProducts=checkoutProductsFor(p.slug).sort((a,b)=>a.checkoutObservation.checkedOn.localeCompare(b.checkoutObservation.checkedOn));
   const tested=testedProducts.at(-1)||null;
-  const codeChecked=codeCheckProductFor(p.slug);
+  const codeCheckedProducts=codeCheckProductsFor(p.slug);
   const discount=p.discount||null;
   const checkoutTestProducts=testedProducts.map(t=>({slug:t.slug,name:t.name,variantId:t.price.variantId,variantLabel:t.price.variantLabel,stage:t.checkoutObservation.stage||null,checkedOn:t.checkoutObservation.checkedOn}));
   const checkoutTestProduct=checkoutTestProducts.at(-1)||null;
-  const codeCheckProduct=codeChecked?{slug:codeChecked.slug,name:codeChecked.name,variantId:codeChecked.codeCheckObservation.variantId,variantLabel:codeChecked.price.variantLabel,stage:codeChecked.codeCheckObservation.stage,result:codeChecked.codeCheckObservation.result,checkedOn:codeChecked.codeCheckObservation.checkedOn,message:codeChecked.codeCheckObservation.message||null,discountFormatted:formatMinor(codeChecked.codeCheckObservation.discountMinor,codeChecked.codeCheckObservation.currency),baseFormatted:formatMinor(codeChecked.codeCheckObservation.baseAmountMinor,codeChecked.codeCheckObservation.currency)}:null;
+  const codeCheckProducts=codeCheckedProducts.map(codeChecked=>({slug:codeChecked.slug,name:codeChecked.name,variantId:codeChecked.codeCheckObservation.variantId,variantLabel:codeChecked.price.variantLabel,stage:codeChecked.codeCheckObservation.stage,result:codeChecked.codeCheckObservation.result,checkedOn:codeChecked.codeCheckObservation.checkedOn,message:codeChecked.codeCheckObservation.message||null,discountFormatted:formatMinor(codeChecked.codeCheckObservation.discountMinor,codeChecked.codeCheckObservation.currency),baseFormatted:formatMinor(codeChecked.codeCheckObservation.baseAmountMinor,codeChecked.codeCheckObservation.currency)}));
+  const codeCheckProduct=codeCheckProducts.at(-1)||null;
   const acceptanceLocation=checkoutTestProducts.length&&checkoutTestProducts.every(t=>t.stage==='cart')?' in the cart':'';
   const acceptanceSummary=checkoutTestProducts.map(t=>`${t.name}, ${t.variantLabel} (${t.stage||'checkout'} on ${t.checkedOn})`).join('; ');
-  const terms=checkoutTestProducts.length
-    ?`Code acceptance${acceptanceLocation} was recorded for ${acceptanceSummary}. ${p.stackingObservation||''} Eligibility for other models or variants, minimum spend, exclusions and expiry have not been supplied; confirm the current final total at this storefront.`
-    :codeCheckProduct
-      ?codeCheckProduct.result==='invalid-code'
-        ?`On ${priceDateLabel(codeCheckProduct.checkedOn)}, checkout rejected ${p.code} as invalid for ${codeCheckProduct.name}, ${codeCheckProduct.variantLabel}. The ${codeCheckProduct.baseFormatted} item price remained unchanged, so no saving is confirmed for that configuration. Other models and variants have not been checked; confirm the current final total at this storefront.`
-        :codeCheckProduct.result==='accepted-order-discount'
-          ?`On ${priceDateLabel(codeCheckProduct.checkedOn)}, checkout accepted ${p.code} for ${codeCheckProduct.name}, ${codeCheckProduct.variantLabel}, and applied ${codeCheckProduct.discountFormatted} as an order-level discount to a cart containing the bike and an automatically added $0 helmet. The discount was not allocated to an item, so no after-code bike price is reported. Other models and variants have not been checked; confirm the current final total at this storefront.`
-        :`On ${priceDateLabel(codeCheckProduct.checkedOn)}, ${p.code} was entered in the ${codeCheckProduct.stage} for ${codeCheckProduct.name}, ${codeCheckProduct.variantLabel}. The ${codeCheckProduct.stage} allocated ${codeCheckProduct.discountFormatted} off, so no saving is confirmed for that configuration. Other models and variants have not been checked; confirm the current final total at this storefront.`
-      :p.terms||'Product eligibility, minimum spend, exclusions, stacking and expiry have not been supplied. Confirm any discount in the final checkout total at this storefront.';
-  return {...p,benefit:p.benefit??(discount?discountLabel(discount):null),discount,brand:p.slug,eligibleStore:new URL(p.url).hostname,terms,checkoutTestedOn:tested?.checkoutObservation?.checkedOn||codeCheckProduct?.checkedOn||p.checkoutTestedOn||null,checkoutTestProduct,checkoutTestProducts,codeCheckProduct};
+  const codeCheckSummaries=codeCheckProducts.map(check=>{
+    const surface=check.stage==='checkout'?'checkout':'cart';
+    if(check.result==='invalid-code')return `On ${priceDateLabel(check.checkedOn)}, ${surface} rejected ${p.code} as invalid for ${check.name}, ${check.variantLabel}. The ${check.baseFormatted} item price remained unchanged, so no saving is confirmed for that configuration.`;
+    if(check.result==='accepted-order-discount')return `On ${priceDateLabel(check.checkedOn)}, ${surface} accepted ${p.code} for ${check.name}, ${check.variantLabel}, and applied ${check.discountFormatted} as an order-level discount to a cart containing the bike and an automatically added $0 helmet. The discount was not allocated to an item, so no after-code bike price is reported.`;
+    return `On ${priceDateLabel(check.checkedOn)}, ${surface} did not apply ${p.code} to ${check.name}, ${check.variantLabel}. The ${check.baseFormatted} item price remained unchanged, so no saving is confirmed for that configuration.`;
+  });
+  const terms=checkoutTestProducts.length||codeCheckProducts.length
+    ?[checkoutTestProducts.length?`Code acceptance${acceptanceLocation} was recorded for ${acceptanceSummary}.`:null,...codeCheckSummaries,p.stackingObservation||null,'Eligibility for other models or variants, minimum spend, exclusions and expiry have not been supplied; confirm the current final total at this storefront.'].filter(Boolean).join(' ')
+    :p.terms||'Product eligibility, minimum spend, exclusions, stacking and expiry have not been supplied. Confirm any discount in the final checkout total at this storefront.';
+  const checkedDates=[...testedProducts.map(t=>t.checkoutObservation.checkedOn),...codeCheckedProducts.map(t=>t.codeCheckObservation.checkedOn)].sort();
+  return {...p,benefit:p.benefit??(discount?discountLabel(discount):null),discount,brand:p.slug,eligibleStore:new URL(p.url).hostname,terms,checkoutTestedOn:checkedDates.at(-1)||p.checkoutTestedOn||null,checkoutTestProduct,checkoutTestProducts,codeCheckProduct,codeCheckProducts};
 });
 export const comparisons=[{slug:'aventon-pace-5-rec-vs-ride1up-roadster-v3',a:products[0].slug,b:products[1].slug,title:'Pace 5 REC vs Roadster V3',description:'Relaxed cruiser or pared-back city bike? Start with how you want to ride.'},{slug:'lectric-xpress2-vs-ride1up-roadster-v3',a:products[2].slug,b:products[1].slug,title:'XPress2 vs Roadster V3',description:'A suspension-equipped commuter or a simpler urban setup: where each makes sense.'}];
 export const categories=[{slug:'electric-bikes',name:'Electric bikes',text:'A little assistance. A lot more possibility.',guide:'choose-your-first-ebike'},{slug:'traditional-bikes',name:'Traditional bikes',text:'Road, gravel, hybrid, or mountain. Start with your route.',guide:'road-gravel-or-hybrid'},{slug:'electric-mobility',name:'Electric mobility',text:'Think through your last mile before choosing your next ride.',guide:'bike-or-electric-scooter'},{slug:'gear-and-tech',name:'Gear & tech',text:'The essentials that make every ride work better.',guide:'commuter-gear-checklist'},{slug:'components',name:'Components & upgrades',text:'Compatibility first. Better upgrades follow.',guide:'plan-your-bike-upgrades'},{slug:'cycling-technology',name:'Cycling technology',text:'Useful data, without losing sight of the ride.',guide:'choose-a-cycling-computer'}];

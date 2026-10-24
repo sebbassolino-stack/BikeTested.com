@@ -737,6 +737,22 @@
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-24",
       "nextStep": "Published in review commit 453c134; Cloudflare Pages deployment 3a87178a-c383-495e-a1d6-2aef29c2e002 succeeded. The live review, promo and exact transparent product image return 200; the live image SHA-256 matches local. Exact US variant 45372870623390 (SKU AS2 Ultra) showed $94.99 and accepted SEBASTIANBASSOL for $4.74 off, leaving a $90.25 item subtotal before shipping and tax. Local 375px QA passed; no address or order. Continue with another coded or newly launched product."
+    },
+    {
+      "brand": "Cycplus",
+      "brandSlug": "cycplus",
+      "category": "cycling-technology",
+      "status": "ready-for-release",
+      "priority": 1,
+      "product": "CYCPLUS T7 Smart Bike, US Default Title (variant 45853562110110; SKU T7)",
+      "officialSource": "https://www.cycplus.com/products/t7-smart-bike?variant=45853562110110",
+      "reviewUrl": "/reviews/cycplus-t7-smart-bike",
+      "affiliateUrl": "https://www.cycplus.com/?ref=ygsauvdr",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "5% off",
+      "offerDetailNeeded": false,
+      "checkoutTestedOn": "2026-10-24",
+      "nextStep": "Review, official-image cutout and exact-cart disclosure are prepared. The $1,499 T7 cart did not apply the supplied code; AS2 acceptance does not establish T7 eligibility. Build, release and verify the review, promo disclosure and image."
     }
   ]
 }
