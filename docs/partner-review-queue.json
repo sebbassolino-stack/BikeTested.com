@@ -961,6 +961,22 @@
       "offerDetailNeeded": false,
       "checkoutTestedOn": null,
       "nextStep": "Review commit 3daa9dd deployed successfully to Cloudflare Pages as 8089ddb2-8eda-4b49-ac18-457bc01b9225. Production review, GEBIKE promo, exact official image and agent feed return 200; live image SHA-256 matches local. The exact EU variant is listed at €549.99 against €699.99 compare-at. SEBASTIANBASSOL eligibility and sale stacking are untested for G02; agent feed leaves eligibility unresolved and afterCodePrice null. The review flags conflicting range, fit, dimension and warranty details. Visual browser QA unavailable because CUA timed out and Playwright is not installed."
+    },
+    {
+      "brand": "Cycplus",
+      "brandSlug": "cycplus",
+      "category": "cycling-technology",
+      "status": "review-published-live-routes-verified",
+      "priority": 1,
+      "product": "CYCPLUS A8 Electric Air Pump, Grey / US (variant 39714726215838; SKU 气筒A8灰色)",
+      "officialSource": "https://www.cycplus.com/products/cycplus-a8-electric-air-pump?variant=39714726215838",
+      "reviewUrl": "/reviews/cycplus-a8-electric-air-pump",
+      "affiliateUrl": "https://www.cycplus.com/?ref=ygsauvdr",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "5% off",
+      "offerDetailNeeded": false,
+      "checkoutTestedOn": null,
+      "nextStep": "Review commit b6f111925ae28960366b3039876e542df9b17011 was pushed to main. Production review, CYCPLUS promo, exact official image and agent feed return 200; live image SHA-256 matches local. The exact Grey / US variant is listed at $39.99 against a $49.99 compare-at price, checked 2026-10-24. SEBASTIANBASSOL eligibility and sale stacking remain untested for A8; the feed keeps eligibility unresolved and afterCodePrice null. No A8 cart check. Browser visual QA unavailable after the Chrome render timed out. Continue with another coded, popular or newer product."
     }
   ]
 }
