@@ -470,7 +470,7 @@
       "brand": "Lankeleisi",
       "brandSlug": "lankeleisi",
       "category": "electric-bikes",
-      "status": "review-in-progress",
+      "status": "review-published-live-routes-verified",
       "priority": 2,
       "product": "Lankeleisi MG740Plus Dual Motor Electric Bike, Grey / US (variant 43058170495175; SKU MG740-Grey / US)",
       "officialSource": "https://lankeleisi.com/products/mg740plus-dual-motor-electric-bike?variant=43058170495175",
@@ -480,7 +480,7 @@
       "reportedBenefit": null,
       "offerDetailNeeded": true,
       "checkoutTestedOn": null,
-      "nextStep": "Official page and geometry research are complete. Product page lists the Grey and Blue US variants as sold out; partner registry supplies SEBASTIANBASSOL but no benefit amount. Exact-variant code eligibility remains unconfirmed. Finish the review build and release without claiming a saving; keep the current availability as a dated source observation."
+      "nextStep": "Live review, promo and transparent official product image verified on commit 78a8b2f; Cloudflare Pages deployment c4c1244e-6f5a-44a2-a427-d6067cf9a598 succeeded. The US Grey and Blue variants were listed sold out on 2026-10-23; the supplied code has no reported benefit amount or exact-model eligibility, so no saving is claimed. Recheck exact-variant terms if it becomes orderable; continue with the next coded brand."
     },
     {
       "brand": "Levy Electric",
