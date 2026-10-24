@@ -499,6 +499,22 @@
       "nextStep": "Live review, promo and transparent official product image verified on commit 78a8b2f; Cloudflare Pages deployment c4c1244e-6f5a-44a2-a427-d6067cf9a598 succeeded. The US Grey and Blue variants were listed sold out on 2026-10-23; the supplied code has no reported benefit amount or exact-model eligibility, so no saving is claimed. Recheck exact-variant terms if it becomes orderable; continue with the next coded brand."
     },
     {
+      "brand": "Lankeleisi",
+      "brandSlug": "lankeleisi",
+      "category": "electric-bikes",
+      "status": "review-published-live-routes-verified",
+      "priority": 2,
+      "product": "Lankeleisi X3000 MAX Dual-Motor Folding Electric Bike, Orange / US (variant 43318691659975; SKU X3000 MAX-US / Orange)",
+      "officialSource": "https://lankeleisi.com/products/lankeleisi-x3000-max-front-and-rear-dual-motor-samsung-battery-electric-mountain-bike-new-in-2024?variant=43318691659975",
+      "reviewUrl": "/reviews/lankeleisi-x3000-max-dual-motor-electric-bike",
+      "affiliateUrl": "https://lankeleisi.com/?ref=dfncwdan",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": null,
+      "offerDetailNeeded": true,
+      "checkoutTestedOn": null,
+      "nextStep": "Review commit b6dd60c was pushed to origin/main; Cloudflare Pages check 121015840486 succeeded for deployment 2838f2d6-3e2c-4c22-9639-b2fdd0323217. Production review, Lankeleisi promo, agent feed and exact official image return 200 on biketested.com and biketested.pages.dev; live image SHA-256 matches local. The exact Orange / US variant 43318691659975 (SKU X3000 MAX-US / Orange) was listed at $2,399 on October 24, 2026 and marked sold out, so SEBASTIANBASSOL acceptance and exact-model eligibility were not tested; no savings or after-code price is claimed. The feed keeps eligibility unresolved and afterCodePrice null. Product-page conflicts in motor, torque, speed, range and payload are documented. Browser viewport QA was not completed. Continue with another distinct coded, popular or newer product."
+    },
+    {
       "brand": "Levy Electric",
       "brandSlug": "levy-electric",
       "category": "electric-mobility",
