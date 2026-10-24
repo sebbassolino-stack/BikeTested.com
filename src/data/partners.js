@@ -204,14 +204,19 @@ export const partners = [
     "name": "Tomofree",
     "url": "https://tomofree.com/?ref=uhifvbyw",
     "code": "SEBASTIANBASSOL",
-    "benefit": null,
+    "benefit": "6% off",
+    "discount": {
+      "type": "percent",
+      "value": 6,
+      "scope": "Accepted for the T1MAX Folding Ebike, US 20Ah variant 51294483775628 / SKU T1MAX-20AH on 2026-10-23; other products and variants untested."
+    },
     "category": "electric-bikes",
     "platform": "GoAffPro",
     "reportedOn": "2026-10-22",
     "status": "active",
     "evidence": "Owner-confirmed live Bike Tested partner roster, October 22, 2026",
-    "checkoutTestedOn": null,
-    "description": "Explore Tomofree electric bikes and scooters with our reader code. Check which product type, frame and variant matches the listing you intend to order."
+    "checkoutTestedOn": "2026-10-23",
+    "description": "Use the Tomofree reader code on the tested T1MAX 20Ah configuration; check eligibility for other bikes, scooters and variants at checkout."
   },
   {
     "slug": "ridstar",

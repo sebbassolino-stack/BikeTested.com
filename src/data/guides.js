@@ -783,7 +783,7 @@ export const guides = [
     ],
     "image": "/images/lifestyle.webp",
     "publishedOn": "2026-10-21",
-    "updatedOn": "2026-10-22",
+    "updatedOn": "2026-10-23",
     "answer": "Choose a folding e-bike when its actual folded dimensions and handling solve a storage or transport problem. Choose a full-size bike when you have convenient parking and prefer a simpler daily setup. A folding frame reduces size; it does not automatically make a bike light or easy to carry.",
     "sections": [
       {
@@ -878,7 +878,7 @@ export const guides = [
       "panniers-vs-backpack",
       "bike-or-electric-scooter"
     ],
-    "products": ["finbike-eb8-electric-bike", "hiboy-ex6f-foldable-electric-bike"]
+    "products": ["finbike-eb8-electric-bike", "hiboy-ex6f-foldable-electric-bike", "tomofree-t1max-folding-ebike"]
   },
   {
     "slug": "bike-tire-pressure",

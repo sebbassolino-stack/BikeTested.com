@@ -11,9 +11,9 @@ const feed=JSON.parse(fs.readFileSync('dist/agent.json','utf8'));
 const llms=fs.readFileSync('dist/llms.txt','utf8');
 const deals=fs.readFileSync('dist/deals.html','utf8');
 const sitemap=fs.readFileSync('dist/sitemap-0.xml','utf8');
-assert.equal(offers.length,44);assert.equal(offers.filter(o=>o.code).length,24);assert.equal(offers.filter(o=>o.benefit).length,19);assert.equal(new Set(offers.map(o=>o.brand)).size,44);
+assert.equal(offers.length,44);assert.equal(offers.filter(o=>o.code).length,24);assert.equal(offers.filter(o=>o.benefit).length,20);assert.equal(new Set(offers.map(o=>o.brand)).size,44);
 assert.equal(feed.offers.length,44);
-const exact={eunorau:['EUNORSEBASTIAN60','2% off','https://eunorau-ebike.com/?ref=gowithsebastian&utm_medium=affiliate&utm_source=goaffpro'],actbest:['SEBASTIAN3%','3% off','https://actbestbike.com/81054420bg'],gebike:['SEBASTIANBASSOL','€10.00 off','https://gebikeglobal.com/?ref=SEBASTIANBASSOLINO'],eahora:['SEBASTIANBASSOL','$400 off','https://eahoraescooter.com/?ref=vymoetrs'],happyrun:['SEBASTIANBASSOL23',null,'https://happyrunsports.com/?ref=hhyssezj'],mooncool:['SEBASTIANBASSOL','5% off','https://www.mooncool.com/?ref=znnfuofi']};
+const exact={eunorau:['EUNORSEBASTIAN60','2% off','https://eunorau-ebike.com/?ref=gowithsebastian&utm_medium=affiliate&utm_source=goaffpro'],actbest:['SEBASTIAN3%','3% off','https://actbestbike.com/81054420bg'],gebike:['SEBASTIANBASSOL','€10.00 off','https://gebikeglobal.com/?ref=SEBASTIANBASSOLINO'],eahora:['SEBASTIANBASSOL','$400 off','https://eahoraescooter.com/?ref=vymoetrs'],happyrun:['SEBASTIANBASSOL23',null,'https://happyrunsports.com/?ref=hhyssezj'],mooncool:['SEBASTIANBASSOL','5% off','https://www.mooncool.com/?ref=znnfuofi'],tomofree:['SEBASTIANBASSOL','6% off','https://tomofree.com/?ref=uhifvbyw']};
 for(const [slug,expected]of Object.entries(exact)){const o=offers.find(x=>x.brand===slug);assert.deepEqual([o.code,o.benefit,o.url],expected,`Exact owner offer: ${slug}`);}
 for(const o of offers){
   const name=brands.find(b=>b.slug===o.brand).name,answer=offerAnswer(o,name),item=feed.offers.find(x=>x.slug===o.brand);
@@ -42,6 +42,10 @@ const reviewed=products.find(p=>p.slug==='mooncool-tk2-folding-electric-trike'),
 assert(reviewFeed&&reviewFeed.price.amountMinor===149999&&reviewFeed.price.variantId===reviewed.price.variantId,`Exact public product price ${reviewed.slug}`);
 assert.equal(reviewFeed.eligibility.status,'confirmed-for-exact-variant');assert.equal(reviewFeed.afterCodePrice.amountMinor,142500);assert.equal(reviewState.kind,'observed');
 assert(llms.includes('$1,425.00')&&/Other variants and models have not been checked/.test(llms),`Crawler price and eligibility scope ${reviewed.slug}`);
+const tomofreeProduct=products.find(p=>p.slug==='tomofree-t1max-folding-ebike'),tomofreeFeed=feed.products.find(p=>p.name===tomofreeProduct.name),tomofreeState=priceState(tomofreeProduct,offers.find(o=>o.brand==='tomofree'));
+assert(tomofreeFeed&&tomofreeFeed.price.amountMinor===49900&&tomofreeFeed.price.variantId==='51294483775628',`Exact public product price ${tomofreeProduct.slug}`);
+assert.equal(tomofreeFeed.eligibility.status,'confirmed-for-exact-variant');assert.equal(tomofreeFeed.afterCodePrice.amountMinor,46906);assert.equal(tomofreeState.kind,'observed');
+assert(llms.includes('$469.06')&&llms.includes('Other variants and models have not been checked'),`Crawler price and eligibility scope ${tomofreeProduct.slug}`);
 const walk=p=>fs.readdirSync(p,{withFileTypes:true}).flatMap(x=>x.isDirectory()?walk(`${p}/${x.name}`):[`${p}/${x.name}`]);
 for(const file of walk('dist').filter(x=>/\.(html|json|txt|js)$/.test(x))){const content=fs.readFileSync(file,'utf8');assert(!content.includes('PERSON'+'SEBASTIAN84'),`Personal-use code leaked: ${file}`);}
 const queue=JSON.parse(fs.readFileSync('docs/partner-review-queue.json','utf8'));

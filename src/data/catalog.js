@@ -1086,6 +1086,119 @@ export const products = [
     "checkedOn": "2026-10-23",
     "exclusions": "Exact Navy / US SKU EX6F-N-20080013 only; no shipping or tax was calculated, no address was entered, and no order was placed. The test cart was cleared."
   }
+},
+{
+  "slug": "tomofree-t1max-folding-ebike",
+  "brand": "tomofree",
+  "name": "Tomofree T1MAX Folding E-Bike",
+  "model": "T1MAX",
+  "image": "/images/products/tomofree-t1max-folding-ebike.webp",
+  "imageAlt": "Black Tomofree T1MAX folding electric bike with compact folded frame and wide tires",
+  "imageWidth": 1200,
+  "imageHeight": 1200,
+  "category": "electric-bikes",
+  "use": "commute",
+  "label": "For short trips and measured storage",
+  "headline": "A feature-rich folder with a very small package.",
+  "description": "The 16 × 3-inch T1MAX folds to a listed footprint around 33 × 16 × 24 inches, with a removable battery, suspension and turn signals. Its 68–70 lb listing makes the fold more useful for storage than carrying.",
+  "verdict": "We recommend the Tomofree T1MAX Folding E-Bike for riders who want a compact folded footprint, wide tires, a removable battery and a broad feature set for neighborhood trips. The $499 20Ah configuration is compelling when measured storage—not stair carrying—is the problem. Its three-step fold, suspension listing, lights and turn signals make the appeal clear, while the roughly 70-pound listing points to roll-in storage. Confirm the speed, voltage and weight details for your exact bike before ordering.",
+  "strengths": [
+    "The three-step fold has a listed footprint of about 33.1 × 15.7 × 24.4 inches, a useful size to compare against a closet, vehicle opening or apartment storage space.",
+    "Tomofree lists 16 × 3-inch tires, full suspension, dual mechanical disc brakes, a headlight, rear lighting and turn signals in one compact-wheel package.",
+    "The removable battery is offered in 20Ah and 22.5Ah versions; the exact 20Ah configuration we checked was listed at $499 and accepted the Bike Tested code.",
+    "The manufacturer lists a 330 lb maximum load and a recommended rider-height range of 5 ft to 6 ft 3 in; check fit and how the load limit applies to your riding setup.",
+    "The official return and warranty pages make the support terms available before purchase, including one-year coverage for the battery and motor."
+  ],
+  "tradeoffs": [
+    "The complete-bike weight is listed as 70.11 lb in the specification section and 68 lb in the comparison table. Either figure makes this a roll-in storage choice, not a practical regular stair carry.",
+    "The product-page body says 28 mph while its title says 30 mph. The only linked manual is identified as T1PRO, so request current T1MAX documentation and its exact road-use classification before relying on the speed or certification claims.",
+    "Tomofree lists 48V in one section and 48.1V in another; folded width also varies slightly between sections. Confirm the exact configuration and dimensions if either figure affects your buying decision.",
+    "The page advertises a 1,000W peak motor but does not identify rated output, pedal-assist sensor type or a conventional drivetrain specification. Ask the seller if those details matter to your route or control preferences."
+  ],
+  "specs": {
+    "Selected configuration": "US 20Ah; Shopify variant 51294483775628; SKU T1MAX-20AH",
+    "Motor": "1,000W peak (manufacturer-listed); rated output not stated",
+    "Battery": "Removable; 20Ah or 22.5Ah options. Product sections list 48V and 48.1V",
+    "Claimed range": "20–40 miles with pedal assist (manufacturer claim)",
+    "Speed": "28 mph in product details; 30 mph in page title (conflict)",
+    "Assistance": "Twist throttle with PAS button; sensor type and drivetrain not specified",
+    "Suspension and brakes": "Full suspension; dual mechanical disc brakes (manufacturer-listed)",
+    "Wheels and tires": "16 × 3.0-inch integrated tires",
+    "Frame": "High-carbon steel in specifications; Shopify feed description says stainless steel",
+    "Listed weight": "70.11 lb in specifications; 68 lb in comparison table",
+    "Maximum load": "330 lb (manufacturer-listed); confirm how rider and cargo are counted",
+    "Folded dimensions": "33.1 × 15.75 × 24.41 in in product overview; geometry section lists width as 15.72 in",
+    "Assembled dimensions": "57 × 23.6 × 46.5 in (manufacturer comparison table)",
+    "Suggested rider height": "5 ft–6 ft 3 in (manufacturer-listed)",
+    "Charger and charge time": "54.6V / 2A; 7–8 hours in comparison table, 8 hours in specifications"
+  },
+  "source": "https://tomofree.com/products/t1max-ebike?variant=51294483775628",
+  "sourceLinks": [
+    {"label": "Tomofree warranty policy", "url": "https://tomofree.com/pages/warranty-policy"},
+    {"label": "Tomofree return and refund policy", "url": "https://tomofree.com/pages/return-refund"}
+  ],
+  "evidence": "Manufacturer-specification editorial evaluation; exact-variant checkout observation; no ride test",
+  "sections": [
+    [
+      "A broad equipment list in a small-wheel package",
+      "The T1MAX combines 16 × 3-inch integrated tires with a removable battery, suspension, mechanical disc brakes, lighting and turn signals. Tomofree describes a three-step fold, and the published measurements put the folded bike at roughly 33 inches long and 24 inches high. That gives the design a clear role for apartment storage, a vehicle or an RV when a full-size bike takes too much room. The equipment list is broad, but the small wheels and tall adjustable setup are choices to assess in person; specifications alone cannot tell you whether the riding position or handling will suit your routes."
+    ],
+    [
+      "Use the fold to solve storage, not frequent lifting",
+      "Tomofree publishes a 70.11 lb weight in its specification section and 68 lb in the comparison table. The difference is unresolved, so plan around a roughly 70 lb bike. The battery is removable, but the seller does not state its separate weight; removing it cannot be assumed to make the remaining frame manageable on stairs. The listed folded width also varies between 15.72 and 15.75 inches. Measure the whole path into your storage space—including doors, vehicle openings and corners—and confirm the exact folded package before treating it as a compact carry-on option."
+    ],
+    [
+      "Choose the battery size and read the performance claims carefully",
+      "The selected 20Ah version is the lower-priced configuration; a 22.5Ah option is also listed. Tomofree advertises 20–40 miles with pedal assist, but that is a seller range claim rather than a Bike Tested ride result. The product details list a 1,000W peak motor, twist throttle and PAS button without identifying rated output, sensor type or a conventional drivetrain. The page describes a 28 mph maximum in its body while its title says 30 mph. It also lists both 48V and 48.1V battery figures. Ask for the current exact-variant specifications if speed, operating class or battery details are important to your decision."
+    ],
+    [
+      "Get T1MAX documentation and fit details for your use",
+      "Tomofree recommends riders from 5 ft to 6 ft 3 in and lists a 330 lb maximum load. Treat that as a published maximum, not evidence that the bike is approved for a passenger or that cargo can be added on top; ask how the figure is defined. The product page calls the bike TÜV Standard Certified but does not link a model-specific certificate there. Its manual download is labeled T1PRO, so it does not resolve T1MAX speed, assembly or classification questions. Confirm the exact documentation and local rules for your intended route. Tomofree's policy lists 12 months for the battery and motor, three months for the display, and shorter coverage for some wear parts."
+    ],
+    [
+      "The 20Ah offer and our buying advice",
+      "The exact 20Ah variant (SKU T1MAX-20AH) was listed at $499 on October 23, 2026. In the merchant checkout, SEBASTIANBASSOL was accepted for $29.94 off, leaving a $469.06 bike-item subtotal before shipping and tax. That observation applies only to this variant; the 22.5Ah option and other Tomofree products have not been checked. No address was entered, no order was placed, and the test cart was cleared. The product page showed Sold out while the Shopify feed marked the variant available, so check current pricing and availability on the official listing. A 30-day change-of-mind return carries a 12% restocking fee and customer-paid shipping under the published policy."
+    ]
+  ],
+  "publishedOn": "2026-10-23",
+  "updatedOn": "2026-10-23",
+  "specsCheckedOn": "2026-10-23",
+  "faqs": [
+    ["How small does the Tomofree T1MAX fold?", "Tomofree lists a folded size of 33.1 × 15.75 × 24.41 inches in one section and a 15.72-inch width in its geometry section. The full bike weighs about 70 lb according to its own conflicting listings, so folding is more useful for storage than repeated carrying."],
+    ["Does the T1MAX reach 28 or 30 mph?", "Tomofree's product details say 28 mph, while the page title says 30 mph. The linked manual identifies itself as T1PRO rather than T1MAX. Ask Tomofree for the exact T1MAX speed and classification documentation, then check the rules where you plan to ride."],
+    ["What range does the T1MAX 20Ah claim?", "Tomofree lists 20–40 miles with pedal assist. That is a manufacturer claim, not a Bike Tested route measurement. Rider load, hills, speed, assistance, temperature, tire pressure and stops can change actual distance."],
+    ["What support terms apply to the T1MAX?", "Tomofree's warranty page lists 12 months for the battery and motor, three months for the display, and one month for tires and several other parts. Its return policy allows 30-day change-of-mind returns with a 12% restocking fee and customer-paid shipping. Confirm the current terms for your exact order before buying."]
+  ],
+  "relatedReviews": [
+    {"slug": "hiboy-ex6f-foldable-electric-bike", "reason": "Compare the T1MAX with another folding e-bike, the Hiboy EX6F, and its exact configuration and equipment."},
+    {"slug": "ancheer-hummer-electric-bike", "reason": "For another compact fat-tire folder, compare the ANCHEER Hummer review and its US configuration."}
+  ],
+  "price": {
+    "amountMinor": 49900,
+    "currency": "USD",
+    "region": "US",
+    "variantId": "51294483775628",
+    "variantLabel": "20Ah (SKU T1MAX-20AH)",
+    "source": "https://tomofree.com/products/t1max-ebike?variant=51294483775628",
+    "checkedOn": "2026-10-23",
+    "isSalePrice": true
+  },
+  "eligibility": {
+    "status": "eligible",
+    "variantId": "51294483775628",
+    "evidence": "docs/evidence/tomofree-t1max-folding-ebike.md#exact-variant-checkout"
+  },
+  "checkoutObservation": {
+    "code": "SEBASTIANBASSOL",
+    "stage": "checkout",
+    "variantId": "51294483775628",
+    "baseAmountMinor": 49900,
+    "discountMinor": 2994,
+    "afterAmountMinor": 46906,
+    "currency": "USD",
+    "checkedOn": "2026-10-23",
+    "exclusions": "Exact US 20Ah variant 51294483775628 / SKU T1MAX-20AH only; $499.00 bike-item price before shipping and tax. No address was entered and no order was placed; the test cart was cleared."
+  }
 }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
