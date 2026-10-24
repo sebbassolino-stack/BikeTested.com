@@ -710,7 +710,7 @@
       "brand": "Actbest",
       "brandSlug": "actbest",
       "category": "electric-bikes",
-      "status": "review-in-progress",
+      "status": "review-published-live-routes-verified",
       "priority": 1,
       "product": "Cozy Wide-Tire Step-Through Electric Bike, Dark Gray / US (variant 52286186291482; SKU AT21US00HP-V)",
       "officialSource": "https://actbestbike.com/products/cozy-wide-tire-step-through-commuter-electric-bike?variant=52286186291482",
@@ -720,7 +720,7 @@
       "reportedBenefit": "3% off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-23",
-      "nextStep": "Research and checkout are complete. Finish the local build, then push and verify the review, promo and image routes. Exact Dark Gray variant accepted SEBASTIAN3% for $22.47 off $749.00, leaving $726.53 before shipping and tax; no address or order."
+      "nextStep": "Published in commit 9f80b56; Cloudflare Pages completed successfully. The live review, promo, and exact transparent product image return 200; the live image SHA-256 matches local. Exact Dark Gray US variant 52286186291482 (SKU AT21US00HP-V) showed $749.00 and accepted SEBASTIAN3% for $22.47 off, leaving a $726.53 item subtotal before shipping and tax. 375px live QA passed with no overflow; no address or order. Continue with a distinct coded partner."
     }
   ]
 }
