@@ -2092,6 +2092,84 @@ export const products = [
     }
   },
   {
+    slug: 'cycplus-a8-electric-air-pump',
+    brand: 'cycplus',
+    name: 'CYCPLUS A8 Electric Air Pump',
+    model: 'A8 Grey / US (variant 39714726215838)',
+    image: '/images/products/cycplus-a8-electric-air-pump.webp',
+    imageAlt: 'Grey CYCPLUS A8 electric air pump with its pressure display and controls visible',
+    imageWidth: 1200,
+    imageHeight: 1200,
+    publishedOn: '2026-10-24',
+    updatedOn: '2026-10-24',
+    specsCheckedOn: '2026-10-24',
+    category: 'cycling-technology',
+    use: 'utility',
+    label: 'For a rechargeable pump in a larger repair kit',
+    headline: 'A larger electric pump with presets and auto-stop, built for more than a jersey pocket.',
+    description: 'The A8 combines four preset modes, a digital pressure display and automatic shutoff with a manufacturer-listed 150 PSI ceiling and dual 2,600mAh battery cells. At 461g, it fits a home shelf, pannier or vehicle kit better than a minimal saddle pack.',
+    verdict: 'We recommend the CYCPLUS A8 for riders who want an electric pump for a bike, home or vehicle kit, with four preset modes, a readable pressure display and automatic shutoff. Its 150 PSI ceiling and dual 2,600mAh cells suit a fuller-featured setup, while the 461g weight makes it a better match for a pannier, backpack or home shelf than a jersey pocket. Choose it if clear pressure control matters more than the smallest carry.',
+    strengths: [
+      'The screen shows pressure while the pump can stop at a selected target and remember the last setting, reducing repeated adjustments between top-ups.',
+      'Four preset modes, an LED light and a manufacturer-listed maximum of 150 PSI cover a broad range of routine inflation needs.',
+      'The A8 uses two 2,600mAh 18650 lithium cells and recharges over Type-C; the manual lists a charging cable in the package.',
+      'The A8 manual lists an air hose, valve converter, ball needle, carry bag and charging cable with the inflator.'
+    ],
+    tradeoffs: [
+      'At 461g, the A8 is substantially heavier than a pocket pump. It is easier to justify in a pannier, backpack, car or home kit than on a minimalist road ride.',
+      'The 150 PSI figure is a pump ceiling, not a recommended tire target. Set pressure from the tire and rim makers’ guidance for your setup and load.',
+      'CYCPLUS claims sensor accuracy within 0.1 bar, but that is a manufacturer figure rather than an independent Bike Tested calibration check.',
+      'The product page does not give a tire-by-tire inflation count or a pump water-resistance rating. Keep it charged for the intended ride and do not treat the included carry bag as proof of waterproofing.'
+    ],
+    specs: {
+      'Maximum pressure': 'Up to 150 PSI (manufacturer-listed)',
+      'Display and controls': 'Digital live-pressure display; four preset modes; target-pressure automatic shutoff and last-setting memory',
+      'Pressure sensor': 'Accuracy within 0.1 bar (manufacturer claim; not independently calibrated by Bike Tested)',
+      'Weight': '461g (manufacturer-listed)',
+      'Battery': 'Two 2,600mAh 18650 lithium cells (manufacturer-listed)',
+      'Charging': 'Type-C; CYCPLUS claims a two-hour full charge',
+      'Valve setup': 'Air hose and valve converter listed in the A8 manual; the diagrams show common bicycle valve connections',
+      'Included': 'Inflator, carry bag, air hose, valve converter, ball needle and Type-C charging cable (A8 manual)'
+    },
+    source: 'https://www.cycplus.com/products/cycplus-a8-electric-air-pump?variant=39714726215838',
+    sourceLinks: [
+      { label: 'CYCPLUS A8 user manual', url: 'https://cdn.shopify.com/s/files/1/0413/9597/8398/files/A8_2.pdf?v=1647483080' }
+    ],
+    evidence: 'Manufacturer specification editorial evaluation; official A8 manual for valve setup and included items; exact-variant US price checked; A8 code eligibility not confirmed',
+    sections: [
+      ['A readable target and automatic stop for routine top-ups', 'CYCPLUS lists four preset modes, a digital pressure display, automatic shutoff at the selected target and memory for the previous setting. That combination makes the A8 straightforward to use when you want the pump to stop without watching the display through the full inflation. Its 150 PSI maximum is a capability limit, not a pressure recommendation. Start with the tire and rim makers’ guidance for your wheel, casing, rider load and riding surface, then set the target on the pump.'],
+      ['Match the hose and converter to your valve', 'The A8 is a larger compressor-style pump with a separate air hose. Its manual’s package list includes a valve converter, and the illustrations show common bicycle valve connections alongside the hose. That gives the package a more complete bike setup, but it is still important to learn the right connection before a roadside repair. Confirm the converter is in the box, identify your valve, and follow the manual’s matching diagram rather than forcing a fitting onto the stem.'],
+      ['Choose where you will carry 461 grams', 'CYCPLUS lists the A8 at 461g and equips it with two 2,600mAh 18650 cells. It makes more sense when you want a larger electric pump with a readable display than when every gram in a jersey pocket matters. A pannier, backpack, car or home repair shelf is a more natural fit. CYCPLUS advertises a two-hour full charge over Type-C; the manual lists a charging cable in the package. The product page does not state a bicycle tire count per charge, so keep the pump charged and avoid planning a long ride around an unverified number of fills.'],
+      ['Keep the gauge claim in perspective', 'The product page says the sensor measures within 0.1 bar. That is a CYCPLUS accuracy claim, not a Bike Tested calibration result. The screen helps you set and monitor pressure, but the correct number still comes from your tire and wheel setup. The same 150 PSI ceiling does not make 150 PSI suitable for every tire; use the component makers’ limits and a pressure recommendation that reflects your load and riding conditions.'],
+      ['Check the exact variant and code terms', 'The CYCPLUS US page listed the Grey A8, variant 39714726215838 (SKU 气筒A8灰色), at $39.99 against a $49.99 compare-at price on October 24, 2026. Bike Tested’s CYCPLUS code is SEBASTIANBASSOL for a supplied 5% benefit, but exact eligibility and sale-price stacking for the A8 have not been confirmed. The shop block keeps the code and price visible while asking you to check eligibility at checkout; it does not calculate an A8 after-code price.']
+    ],
+    relatedReviews: [
+      { slug: 'cycplus-as2-ultra-tiny-e-pump', reason: 'Compare the 461g A8 and its larger battery package with an 87g pump designed for a pocket-sized ride kit.' },
+      { slug: 'cycplus-as2-pro-max-tiny-e-pump', reason: 'The AS2 Pro Max is another CYCPLUS option when a smaller roadside carry matters more than the A8’s larger body.' }
+    ],
+    faqs: [
+      ['Can the A8 connect to common bicycle valves?', 'CYCPLUS’s A8 manual lists a valve converter and air hose in the package and illustrates common bicycle valve connections. Identify your valve and follow the matching diagram before inflating; do not force a fitting onto the stem.'],
+      ['What comes with the CYCPLUS A8?', 'The A8 manual lists the inflator, carry bag, air hose, valve converter, ball needle and Type-C charging cable. Check the selected listing and delivered package for the current contents.'],
+      ['How long does the A8 take to recharge?', 'CYCPLUS claims a two-hour full charge over Type-C. The actual time depends on the charging source and battery condition; the manual lists a Type-C cable in the box.'],
+      ['Is the A8 small enough for a jersey pocket?', 'CYCPLUS lists the A8 at 461g. It is better suited to a pannier, backpack, car or home kit than a jersey pocket or minimalist saddle bag.']
+    ],
+    price: {
+      amountMinor: 3999,
+      currency: 'USD',
+      region: 'US',
+      variantId: '39714726215838',
+      variantLabel: 'Grey / US (variant 39714726215838)',
+      source: 'https://www.cycplus.com/products/cycplus-a8-electric-air-pump?variant=39714726215838',
+      checkedOn: '2026-10-24',
+      isSalePrice: true
+    },
+    eligibility: {
+      status: 'unresolved',
+      variantId: '39714726215838',
+      evidence: 'docs/evidence/cycplus-a8-electric-air-pump.md#code-scope'
+    }
+  },
+  {
     slug: 'cycplus-t7-smart-bike',
     brand: 'cycplus',
     name: 'CYCPLUS T7 Smart Bike',
