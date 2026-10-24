@@ -166,7 +166,7 @@
       "brand": "Gyroor",
       "brandSlug": "gyroor",
       "category": "electric-mobility",
-      "status": "review-implemented-pending-release",
+      "status": "review-published-live-routes-verified",
       "priority": 1,
       "product": "Gyroor C5 Electric Trike, Black (variant 54135309304101; SKU Trike-C5-Black)",
       "officialSource": "https://gyroorboard.com/products/gyroor-c5-electric-trike-with-removable-dual-baskets-1000wpeak-30miles?variant=54135309304101",
@@ -176,7 +176,7 @@
       "reportedBenefit": "5% off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-23",
-      "nextStep": "Implementation and build validation complete. The exact Black C5 variant was listed at $899.99 USD and accepted SEBASTIANBASSOL in the US cart for $44.99 off ($855 item subtotal before shipping and tax); no address or order. Exact official image cutout and source are recorded. Push and verify exact deployment, review/promo routes and image."
+      "nextStep": "Pushed in commit 22638d6. Production review and promo routes and the exact transparent official image return 200; the live image SHA-256 matches local. The US cart accepted SEBASTIANBASSOL on Black variant 54135309304101, reducing $899.99 by $44.99 to an $855 item subtotal before shipping and tax. No address or order. Live 375px review shows the code and price before the image, no horizontal overflow and copy success. Cloudflare deployment ID unavailable; production content reflects the pushed commit. Continue with another coded brand."
     },
     {
       "brand": "Hiknight",
