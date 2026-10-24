@@ -993,6 +993,22 @@
       "offerDetailNeeded": false,
       "checkoutTestedOn": null,
       "nextStep": "Published in review commit 79263cb, pushed to origin/main. Production review, Tomofree promo, agent feed and exact official image return 200 on biketested.com and biketested.pages.dev. The live review shows the exact R700 20Ah / disc-brake variant, $599 listed price, partner code and unresolved R700 eligibility; the feed records afterCodePrice null. Live image SHA-256 matches local. The official page said Sold out while the variant feed said available, so no availability claim is made. No R700 cart check. Browser visual QA unavailable; deployment ID/status metadata unavailable."
+    },
+    {
+      "brand": "Cycplus",
+      "brandSlug": "cycplus",
+      "category": "cycling-technology",
+      "status": "review-published-live-routes-verified",
+      "priority": 1,
+      "product": "CYCPLUS A4 Mini Air Pump, US Default Title (variant 67561506898078; SKU AS300PRO)",
+      "officialSource": "https://www.cycplus.com/products/a4-mini-electric-tire-pump?variant=67561506898078",
+      "reviewUrl": "/reviews/cycplus-a4-mini-electric-air-pump",
+      "affiliateUrl": "https://www.cycplus.com/?ref=ygsauvdr",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "5% off; A4 Mini eligibility and sale stacking unconfirmed",
+      "offerDetailNeeded": false,
+      "checkoutTestedOn": null,
+      "nextStep": "Review commit 49640df was pushed to main. Production review, CYCPLUS promo page, agent feed and exact transparent official image return 200 on biketested.com and biketested.pages.dev. The exact US variant is listed at $59.99; the code and partner destination are present, eligibility is unresolved, and agent feed afterCodePrice is null. Live image SHA-256 matches local. Browser visual QA was not completed; deployment ID/status metadata unavailable."
     }
   ]
 }
