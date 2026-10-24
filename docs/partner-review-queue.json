@@ -1121,6 +1121,22 @@
       "offerDetailNeeded": true,
       "checkoutTestedOn": "2026-10-24",
       "nextStep": "Review commit 0fd0e2c was pushed to origin/main; Cloudflare Pages check 121013762327 succeeded for deployment cf97ed60-b499-4634-b1ae-4b1213e2f76c. The production review, HappyRun promo, agent feed and exact transparent image return 200 on both biketested.com and biketested.pages.dev; live image SHA-256 matches local. Exact Black / US variant 45639455637604 / SKU G100pro-black was listed at $2,099.00. SEBASTIANBASSOL23 produced no cart discount; eligibility remains unresolved and no savings is claimed. No address or order. Browser viewport QA was not completed."
+    },
+    {
+      "brand": "HiKNiGHT",
+      "brandSlug": "hiknight",
+      "category": "electric-bikes",
+      "status": "review-published-live-routes-verified",
+      "priority": 1,
+      "product": "GTX2 Electric Dirt Bike, Silver-Black / US (variant 52273751130332; SKU HKN-GTX2-BO-US)",
+      "officialSource": "https://hiknightebike.com/products/hiknight-gtx2-electric-dirt-bike?variant=52273751130332",
+      "reviewUrl": "/reviews/hiknight-gtx2-electric-dirt-bike",
+      "affiliateUrl": "https://hiknightebike.com/?ref=SEBASTIANBASSOLINO",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "$100 off reported; accepted only on H2 Pro Grey / US; exact GTX2 Silver-Black / US cart showed no discount; eligibility unresolved and no GTX2 saving claimed",
+      "offerDetailNeeded": false,
+      "checkoutTestedOn": "2026-10-24",
+      "nextStep": "Review commit e7c6664 was pushed to main. The live review, Hiknight promo, agent feed, mid-drive guide, and exact product image were verified on biketested.com and biketested.pages.dev; image SHA-256 matches local. The exact variant 52273751130332 / SKU HKN-GTX2-BO-US was listed at $799.00; applying SEBASTIANBASSOL produced no discount in the fresh cart. The $100 partner benefit is supported only for H2 Pro Grey / US. No address or order. Cloudflare Pages check 121021572841 remains in progress with no confirmed deployment ID. Owner requested pausing after review 50; do not begin the next review until resumed."
     }
   ]
 }
