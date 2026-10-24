@@ -833,6 +833,22 @@
       "offerDetailNeeded": false,
       "checkoutTestedOn": null,
       "nextStep": "Published in review commit 481fd8e; Cloudflare Pages deployment eb4dabb5-8df5-450f-8bff-d088270d3afa succeeded. Live review, Ausom promo, image and agent feed return 200; production review shows the exact $869 USD price, partner code, and unresolved exact-variant eligibility. Live image SHA-256 matches the local WebP. No after-code price claimed; visual browser QA unavailable because the Mac is locked."
+    },
+    {
+      "brand": "GEBIKE",
+      "brandSlug": "gebike",
+      "category": "electric-bikes",
+      "status": "review-in-progress",
+      "priority": 1,
+      "product": "GEBIKE G01 Compact Folding Electric Bike, Gray / Standard Edition (EU; variant 52002247475521; SKU E001-G01-G-EU)",
+      "officialSource": "https://gebikeglobal.com/products/g01-compact-folding-electric-bike?variant=52002247475521",
+      "reviewUrl": "/reviews/gebike-g01-compact-folding-electric-bike",
+      "affiliateUrl": "https://gebikeglobal.com/?ref=SEBASTIANBASSOLINO",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "\u20ac10.00 off",
+      "offerDetailNeeded": false,
+      "checkoutTestedOn": null,
+      "nextStep": "Official GEBIKE page and Shopify feed checked October 24, 2026; exact EU Gray / Standard Edition is listed at \u20ac349.99. npm run check and npm run build passed with 35 reviews and 147 HTML pages. The public agent feed marks exact-variant eligibility unresolved and afterCodePrice null; route, sitemap, guide links and transparent product asset are present. Push, deploy and verify production review, GEBIKE promo, image and feed. Visual browser QA unavailable because the Mac is locked."
     }
   ]
 }

@@ -423,6 +423,124 @@ export const products = [
     "checkoutObservation":{"code":"SEBASTIANBASSOL","variantId":"45170442535120","baseAmountMinor":66999,"discountMinor":1500,"afterAmountMinor":65499,"currency":"USD","checkedOn":"2026-10-23","exclusions":"Shipping was not calculated because no address was entered; checkout displayed a $43.39 estimated tax before address details; no order placed."}
   },
   {
+    "slug": "gebike-g01-compact-folding-electric-bike",
+    "brand": "gebike",
+    "name": "GEBIKE G01 Compact Folding Electric Bike",
+    "model": "G01 Gray / Standard Edition (EU)",
+    "image": "/images/products/gebike-g01-compact-folding-electric-bike.webp",
+    "imageAlt": "Gray GEBIKE G01 compact folding electric bike with orange accents, 14-inch wheels and black saddle",
+    "imageWidth": 1200,
+    "imageHeight": 1200,
+    "category": "electric-bikes",
+    "use": "commute",
+    "label": "For compact city commutes",
+    "headline": "A small-wheel folder with fit and storage details to check.",
+    "description": "GEBIKE lists 14 × 2.1-inch tires, a 36V 13.5Ah battery, and a 52 lb complete-bike weight. The seller calls the G01 compact and folding but does not publish a folded footprint.",
+    "verdict": "We recommend considering the G01 for short city trips when a compact folding format solves a real storage problem and you can park it without carrying it far. Its 36V 13.5Ah battery, 14 × 2.1-inch wheels and advertised 250W rated motor suit a modest utility brief on paper, with a manufacturer-listed 30–70 km range. At 23.7 kg / 52 lb it is too heavy for many stair-carry routines, and the listing gives no folded dimensions or rider-height range. Get those measurements and check the one-size fit before ordering; GEBIKE’s €10 code was tested on the G03 only, so exact G01 eligibility and sale-price stacking remain unconfirmed.",
+    "strengths": [
+      "The 14 × 2.1-inch wheels and folding format give the G01 a smaller-format option to compare for city storage and short trips; ask for its exact folded footprint before measuring a space.",
+      "The seller lists a 36V 13.5Ah battery, 42V 2A charger and five-to-six-hour charge time, making the charging arrangement straightforward to plan.",
+      "A 30–33.5-inch saddle-height range, 120 kg maximum load and overall dimensions give buyers useful starting points for fit and storage checks.",
+      "GEBIKE describes a front shock and soft-tail rear suspension, and lists a 250W rated motor with 750W peak output."
+    ],
+    "tradeoffs": [
+      "At a listed 23.7 kg (52 lb), the G01 may be awkward to carry up stairs or lift into a car even when its folding design helps with storage.",
+      "The page does not give the folded length, width and height or a rider-height range. It lists a 30–33.5-inch saddle height; check reach and folded clearance with the seller before buying.",
+      "GEBIKE’s dimension graphic gives an inconsistent width conversion, while its technical table lists 120 × 58 × 100 cm. Confirm measurements if a doorway, vehicle or storage space is tight.",
+      "The advertised 30–70 km range depends on assist setting, rider weight, terrain and wind; Bike Tested has not measured the G01’s range.",
+      "The listing markets the 250W / 25 km/h configuration as EU/UK compliant, but destination-specific paperwork and local rules still need to be checked. The page also leaves the assist-sensor type and drivetrain details unspecified.",
+      "The GEBIKE reader code is reported as €10 off, but the recorded checkout observation is for the G03 Gray / Standard only. G01 eligibility and stacking with its sale price are unresolved; do not assume a discounted G01 total."
+    ],
+    "specs": {
+      "Configuration / SKU": "Gray / Standard Edition (EU); variant 52002247475521; SKU E001-G01-G-EU",
+      "Motor": "250 W rated / 750 W peak (manufacturer-listed)",
+      "Top speed": "25 km/h (15.5 mph; manufacturer-listed)",
+      "Battery": "36 V, 13.5 Ah removable (manufacturer-listed)",
+      "Claimed range": "30–70 km (18–43 mi), depending on pedal-assist setting, rider weight, terrain and wind (seller estimate)",
+      "Wheels / tires": "14 × 2.1 in (manufacturer-listed)",
+      "Bike weight": "23.7 kg / 52 lb (manufacturer-listed)",
+      "Maximum load": "120 kg / 265 lb (manufacturer-listed)",
+      "Saddle height": "30–33.5 in / 76.2–85.1 cm; no rider-height range listed",
+      "Overall dimensions": "47.24 × 22.83 × 39.37 in / 120 × 58 × 100 cm (manufacturer-listed; dimension graphic conflicts on width conversion)",
+      "Folded dimensions": "Not published on the official product page",
+      "Assist / drivetrain": "Pedal-assist range claim; assist-sensor type and drivetrain details not specified",
+      "Suspension": "Front shock and soft-tail rear suspension (seller-described)",
+      "Charging": "42 V, 2 A charger; 5–6 hours (manufacturer-listed)",
+      "Water rating": "IPX4 (seller-listed)",
+      "Warranty": "Two-year limited coverage advertised; confirm written terms for your destination"
+    },
+    "source": "https://gebikeglobal.com/products/g01-compact-folding-electric-bike?variant=52002247475521",
+    "sourceLinks": [
+      {
+        "label": "GEBIKE shipping policy",
+        "url": "https://gebikeglobal.com/policies/shipping-policy"
+      },
+      {
+        "label": "GEBIKE return and refund policy",
+        "url": "https://gebikeglobal.com/policies/refund-policy"
+      }
+    ],
+    "evidence": "Manufacturer-specification editorial evaluation; exact EU Gray / Standard Edition feed variant and official listing price checked; G01 code eligibility and sale stacking untested; no Bike Tested ride or range test",
+    "sections": [
+      [
+        "A compact format needs a real folded measurement",
+        "GEBIKE markets the G01 as a compact folding bike and publishes overall dimensions of 120 × 58 × 100 cm, but the product page does not provide a folded footprint. Its measurement graphic also pairs a 22.8-inch width with an inconsistent 7.91 cm conversion; the technical table lists 58 cm. Before treating it as a closet, car or transit option, ask for the folded length, width and height and measure the tightest point on your storage route."
+      ],
+      [
+        "Check the one-size fit at the saddle and bars",
+        "The listing gives a saddle-height range of 30 to 33.5 inches and no rider-height chart. That range is useful, but it does not tell you whether the handlebar reach and standing position will suit you. The small 14-inch wheels make it a different-feeling option from a full-size commuter; confirm the cockpit position and how the bike behaves at the speeds and surfaces you expect to ride."
+      ],
+      [
+        "Plan around the battery, not the top of the range band",
+        "GEBIKE lists a 36V 13.5Ah battery, a 42V 2A charger and a five-to-six-hour charge time. The 30–70 km range is a seller estimate whose conditions include pedal-assist level, rider weight, terrain and wind. Plan for your complete return route with margin rather than treating 70 km as a dependable daily distance; we have not measured G01 range."
+      ],
+      [
+        "Ask for the paperwork and service details for your area",
+        "The product page lists 250W rated power, 750W peak output and a 25 km/h top speed, and markets the configuration as EU/UK compliant. Check the manual and conformity documents for the exact bike supplied to your destination, along with who can service its electrical system and what the two-year limited warranty covers. The page does not identify the assist sensor or drivetrain details."
+      ],
+      [
+        "Confirm the G01 code before relying on a saving",
+        "The Bike Tested partner roster reports `SEBASTIANBASSOL` for €10 off at GEBIKE. Our recorded checkout result applies only to the G03 Gray / Standard variant; we have not tested the code on the G01 or confirmed that it stacks with this G01 sale price. Ask GEBIKE to confirm the exact Gray / Standard EU variant at checkout. We show the listed €349.99 price and the code, without a lower after-code amount."
+      ]
+    ],
+    "publishedOn": "2026-10-24",
+    "updatedOn": "2026-10-24",
+    "specsCheckedOn": "2026-10-24",
+    "faqs": [
+      [
+        "What folded dimensions does the GEBIKE G01 have?",
+        "GEBIKE describes the G01 as a compact folding bike and lists overall dimensions of 47.24 × 22.83 × 39.37 inches, but the official page does not give a folded footprint. Ask for folded length, width and height before checking a car, closet or transit space."
+      ],
+      [
+        "How much does the GEBIKE G01 weigh?",
+        "The seller lists the Gray / Standard Edition at 23.7 kg (52 lb). Folding can help with storage, but plan around the complete-bike weight if you need to carry it."
+      ],
+      [
+        "What range does GEBIKE claim for the G01?",
+        "The product page lists 30–70 km (about 18–43 miles), depending on pedal-assist level, rider weight, terrain and wind. This is a seller estimate, not a Bike Tested range measurement."
+      ],
+      [
+        "What rider size does the G01 fit?",
+        "GEBIKE lists a 30–33.5-inch saddle-height range but no rider-height chart. Check the handlebar reach and your riding position with the exact bike before ordering."
+      ]
+    ],
+    "price": {
+      "amountMinor": 34999,
+      "currency": "EUR",
+      "region": "EU",
+      "variantId": "52002247475521",
+      "variantLabel": "Gray / Standard Edition (EU)",
+      "source": "https://gebikeglobal.com/products/g01-compact-folding-electric-bike?variant=52002247475521",
+      "checkedOn": "2026-10-24",
+      "isSalePrice": true
+    },
+    "eligibility": {
+      "status": "unresolved",
+      "variantId": "52002247475521",
+      "evidence": "docs/evidence/gebike-g01-compact-folding-electric-bike.md#partner-offer"
+    }
+  },
+  {
     "slug":"gebike-g03-city-commuter-ebike",
     "brand":"gebike",
     "name":"GEBIKE G03 City Commuter & Everyday E-Bike",
