@@ -961,7 +961,7 @@
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-24",
       "nextStep": "Review commit ee719ae was pushed to origin/main; Cloudflare Pages check 121018760403 succeeded for deployment 3426467a-f3fd-4e42-b308-d81a0d4315e4. Production review, EUNORAU promo, agent feed and exact official image return 200 on biketested.com and biketested.pages.dev. The exact Deep Crimson / US variant 46324682260736 (SKU TRKE2018RD2US) was listed at $1,999.00 against a $2,499.00 compare-at price; EUNORSEBASTIAN60 applied $39.98 off in an isolated cart, leaving $1,959.02 before shipping and tax. Feed eligibility is confirmed only for this variant and afterCodePrice is observed. The collection card showed Sold Out while the product feed and cart accepted the variant, so no future stock claim is made. No address or order. Live image SHA-256 matches local. Browser viewport QA was not completed after the browser automation timed out. Continue with another distinct coded, popular or newer product."
-    }
+    },
     {
       "brand": "GEBIKE",
       "brandSlug": "gebike",
