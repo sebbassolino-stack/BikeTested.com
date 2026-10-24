@@ -1443,6 +1443,107 @@ export const products = [
     "checkedOn": "2026-10-23",
     "exclusions": "Exact US 20Ah variant 51294483775628 / SKU T1MAX-20AH only; $499.00 bike-item price before shipping and tax. No address was entered and no order was placed; the test cart was cleared."
   }
+},{
+  "slug": "tomofree-r700-electric-bike",
+  "brand": "tomofree",
+  "name": "Tomofree R700 Electric Bike",
+  "model": "R700",
+  "image": "/images/products/tomofree-r700-electric-bike.webp",
+  "imageAlt": "Black Tomofree R700 electric bike in a full side profile with both fat-tire wheels and red rear spring",
+  "imageWidth": 1200,
+  "imageHeight": 1200,
+  "category": "electric-bikes",
+  "use": "commute",
+  "label": "For ground-level storage and local trips",
+  "headline": "Full suspension and wide tires, with a substantial bike to store.",
+  "description": "The R700 pairs a removable 48V 20Ah battery with 20 × 4-inch tires, front and rear suspension, and dual mechanical disc brakes. Tomofree lists the bike at 84.7 lb and gives conflicting range and speed figures, so plan for its weight and confirm the exact setup for your routes.",
+  "verdict": "We recommend the Tomofree R700 for riders who want a full-suspension, 20 × 4-inch electric bike for errands and relaxed paved or light-gravel routes, and have ground-level storage. Its removable 48V 20Ah battery and integrated lighting support an everyday setup, while the 84.7 lb listing makes regular carrying a poor fit. We would confirm fit, range, speed and the seller’s road-use label before planning a commute around its claims.",
+  "strengths": [
+    "Tomofree combines 20 × 4-inch tires, an adjustable front fork and a rear spring suspension for a comfort-oriented setup on uneven streets and paths.",
+    "The removable 48V 20Ah battery can be charged away from the bike; Tomofree separately lists the battery at 9.92 lb, a useful handling detail for home charging.",
+    "The R700 configuration lists dual mechanical disc brakes, a full-twist throttle, pedal assist and integrated headlight, brake light and turn signals.",
+    "The exact R700 option is listed as 20Ah with disc brakes; the separate R700 PRO option uses a 30Ah battery and oil brakes, so the selected model is clear at the variant level.",
+    "Tomofree publishes fit dimensions, a 330 lb maximum load and battery-charge details, giving shoppers useful starting points to compare with their space and route."
+  ],
+  "tradeoffs": [
+    "At a listed 84.7 lb, the R700 is a ground-level storage choice. The battery is removable, but the bike is not presented as a folding model and no folded dimensions are supplied.",
+    "Tomofree’s page lists a 20–40 mile range in its highlights and specifications, while its Shopify product description says 30 miles. Both are seller figures, not measured Bike Tested range.",
+    "Speed is listed as 20/28 mph in the page highlights and specifications, while the motor copy says 25 mph. Treat the seller’s Class 2/3 road-use label as unverified until the exact configuration and local rules are confirmed.",
+    "The feed suggests riders 154–184 cm tall while the product table says 5–6 ft; the page lists a 34.6-inch seat height but no standover figure. Check fit in person or request a current geometry guide.",
+    "The product page says a manual is included, but Tomofree’s public downloads page does not list an R700 manual. The change-of-mind return policy also lists a 12% restocking fee and customer-paid shipping."
+  ],
+  "specs": {
+    "Selected configuration": "US R700 (20Ah + disc brakes); Shopify variant 63424761397388; SKU R700",
+    "Motor": "750W nominal; 70 N·m torque (manufacturer-listed)",
+    "Battery": "48V 20Ah removable; 9.92 lb listed separately",
+    "Claimed range": "20–40 miles in page sections; 30 miles in Shopify product description (conflict)",
+    "Speed": "20/28 mph in page highlights/specs; 25 mph in motor copy (conflict)",
+    "Assist and controls": "Full-twist throttle and five-level PAS in the Shopify description; page describes four riding modes; PAS sensor type and gearing are not specified",
+    "Suspension and brakes": "Adjustable front fork; rear spring suspension; dual mechanical disc brakes",
+    "Wheels and tires": "20 × 4.0-inch tires",
+    "Frame": "High-carbon steel (manufacturer-listed)",
+    "Listed weight": "84.7 lb e-bike; battery also listed at 9.92 lb",
+    "Fit guidance": "154–184 cm in Shopify description; 5–6 ft in product table; listed seat height 34.6 in",
+    "Assembled dimensions": "63.3 × 28.7 × 42.9 in in geometry; 63.6 × 28.7 × 42.9 in in specification comparison",
+    "Maximum load": "330 lb (manufacturer-listed)",
+    "Charger and charge time": "54.6V, 3.0A; 6–7 hours (manufacturer-listed)"
+  },
+  "source": "https://tomofree.com/products/r700-electric-bike?variant=63424761397388",
+  "sourceLinks": [
+    {"label": "Tomofree manuals and user guides", "url": "https://tomofree.com/pages/downloads"},
+    {"label": "Tomofree warranty policy", "url": "https://tomofree.com/pages/warranty-policy"},
+    {"label": "Tomofree return and refund policy", "url": "https://tomofree.com/pages/return-refund"}
+  ],
+  "evidence": "Manufacturer-specification editorial evaluation; exact variant and price checked on the US listing; no ride test",
+  "sections": [
+    [
+      "A comfort-minded full-suspension setup",
+      "The R700 brings together 20 × 4-inch tires, an adjustable front fork, a rear spring and dual mechanical disc brakes. Tomofree also lists a 750W nominal hub motor with 70 N·m of torque, integrated lighting and a removable battery. That gives the model a clear appeal for local errands, paved commutes and relaxed detours where a large, cushioned format is more attractive than a light bike that lifts easily. Compare the tire size, suspension layout and service access with your route rather than choosing on the motor number alone."
+    ],
+    [
+      "Measure the fit and plan for the full bike weight",
+      "Tomofree’s product description suggests riders from 154 to 184 cm, while its specification table says 5 to 6 ft. The page lists a 34.6-inch seat height and 38.5-inch handlebar-to-seat distance, but not a standover measurement. Overall length also appears as both 63.3 and 63.6 inches. Check the actual riding position and the space around the bike before buying. At 84.7 lb, it is a poor match for regular stair carrying or a rack that one person cannot safely load; the 9.92 lb battery figure is listed separately."
+    ],
+    [
+      "Confirm the assist behavior and road-use details",
+      "Tomofree lists a 750W nominal motor, 70 N·m torque, full-twist throttle and five-level pedal assist in its product feed. The product page separately describes four riding modes without explaining how those settings correspond to the PAS levels. It also lists 20/28 mph in the highlights and specification table, but the motor copy says 25 mph. The page calls the R700 Class 2/3 and street legal; we would not treat that seller label as a local approval. Ask Tomofree for the current R700 manual and exact speed/class configuration, then check the rules for the roads and paths you use."
+    ],
+    [
+      "Treat the range as a seller estimate",
+      "Tomofree lists a removable 48V 20Ah battery, a 6–7 hour charge time and a 20–40 mile range in the page highlights and specifications. The Shopify product description gives a separate 30-mile figure. Neither is a Bike Tested measurement, and the source does not say what assist level, speed, rider load, route or temperature produced the range. The removable pack can be brought to an indoor outlet, but its listed 9.92 lb weight is still something to account for. For a fixed commute, plan around a conservative range and ask the seller which exact setup the estimate covers."
+    ],
+    [
+      "Price, code and ownership terms for the R700",
+      "On October 24, 2026, Tomofree’s US product feed listed the R700 (20Ah + disc brakes) variant 63424761397388 / SKU R700 at $599, against a $899 compare-at price. The product page displayed Sold out while the feed marked the variant available, so check current price and availability on the official listing. Bike Tested’s partner code is SEBASTIANBASSOL. Tomofree accepted it for the T1MAX 20Ah variant, but the R700 has not been checked and code eligibility or sale stacking is unresolved; no R700 after-code price is shown. The warranty policy lists 12 months for the battery and motor, three months for the display and one month for tires and several other parts. A change-of-mind return within 30 days carries a 12% restocking fee and customer-paid shipping."
+    ]
+  ],
+  "publishedOn": "2026-10-24",
+  "updatedOn": "2026-10-24",
+  "specsCheckedOn": "2026-10-24",
+  "faqs": [
+    ["Which Tomofree R700 version is this review about?", "This review covers the US R700 (20Ah + disc brakes), Shopify variant 63424761397388 / SKU R700. The separate R700 PRO option lists a 30Ah battery and oil brakes; it is not the configuration reviewed here."],
+    ["How far does the Tomofree R700 go on a charge?", "Tomofree lists 20–40 miles in the product page highlights and specifications, while its Shopify product description says 30 miles. These are conflicting manufacturer claims, not Bike Tested measurements. Actual range depends on rider load, assistance, speed, route, temperature and tire pressure."],
+    ["Is the Tomofree R700 legal to ride on public roads?", "Tomofree labels the R700 Class 2/3 and street legal, but the product page gives conflicting speed figures and the public downloads page does not list an R700 manual. Confirm the exact configuration and check current rules for your location before riding on public roads or paths."],
+    ["How heavy is the Tomofree R700?", "Tomofree lists the e-bike at 84.7 lb and the removable battery at 9.92 lb separately. The listing does not clarify whether the bike figure includes the battery, so plan for a heavy bike and verify the measured weight if your rack or storage limit is close."]
+  ],
+  "relatedReviews": [
+    {"slug": "tomofree-t1max-folding-ebike", "reason": "Compare the R700’s 20 × 4-inch setup and full-size footprint with Tomofree’s smaller-wheel folding T1MAX configuration."}
+  ],
+  "price": {
+    "amountMinor": 59900,
+    "currency": "USD",
+    "region": "US",
+    "variantId": "63424761397388",
+    "variantLabel": "R700 (20Ah + disc brakes; SKU R700)",
+    "source": "https://tomofree.com/products/r700-electric-bike?variant=63424761397388",
+    "checkedOn": "2026-10-24",
+    "isSalePrice": true
+  },
+  "eligibility": {
+    "status": "unresolved",
+    "variantId": "63424761397388",
+    "evidence": "docs/evidence/tomofree-r700-electric-bike.md#reader-code"
+  }
 },
 {
   "slug": "zwheel-d3-d-electric-scooter",

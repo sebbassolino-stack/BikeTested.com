@@ -874,7 +874,7 @@ export const guides = [
       "panniers-vs-backpack",
       "bike-or-electric-scooter"
     ],
-    "products": ["finbike-eb8-electric-bike", "hiboy-ex6f-foldable-electric-bike", "tomofree-t1max-folding-ebike", "mooncool-pop-folding-electric-bike", "gebike-g01-compact-folding-electric-bike"]
+    "products": ["finbike-eb8-electric-bike", "hiboy-ex6f-foldable-electric-bike", "tomofree-t1max-folding-ebike", "tomofree-r700-electric-bike", "mooncool-pop-folding-electric-bike", "gebike-g01-compact-folding-electric-bike"]
   },
   {
     "slug": "bike-tire-pressure",
