@@ -3143,6 +3143,111 @@ export const products = [
       variantId: '48220380856576',
       evidence: 'docs/evidence/eunorau-urus-2-electric-mountain-bike.md#partner-code-scope'
     }
+  },
+  {
+    slug: 'eunorau-s1-electric-dirt-bike',
+    brand: 'eunorau',
+    name: 'EUNORAU S1 Electric Dirt Bike',
+    model: 'S1 Dirt Bike, Orange / US (variant 47529200910592; SKU DBS11BKWD)',
+    image: '/images/products/eunorau-s1-electric-dirt-bike.webp',
+    imageAlt: 'Orange EUNORAU S1 electric dirt bike in side profile',
+    imageWidth: 1200,
+    imageHeight: 1200,
+    category: 'electric-mobility',
+    use: 'private',
+    label: 'For supervised off-road riding',
+    headline: 'A high-power youth dirt bike that calls for careful fit and riding plans.',
+    description: 'EUNORAU lists a 60V 4,800W peak mid motor, a 30Ah battery and a 43.4 mph maximum for the S1. Its 152 lb listed vehicle weight and youth-focused fit guidance make adult handling, rider readiness and permitted off-road access central purchase checks.',
+    verdict: 'We would consider the EUNORAU S1 only for an experienced young rider with adult supervision, a confirmed fit and a controlled place where this vehicle may be ridden. EUNORAU describes it as a kids-and-teens electric dirt bike and lists a 60V 4,800W peak motor, twist throttle and 43.4 mph maximum speed; this is far beyond an ordinary pedal-assist bicycle. Confirm the vehicle classification, permitted riding locations and operating requirements with the seller and relevant local authority before buying. The 152 lb listed weight, seller-claimed range and conflicting height guidance are material constraints. Budget for appropriate protective equipment and adult-managed transport. The EUNORAU code has not been checked on this exact S1 variant.',
+    strengths: [
+      'EUNORAU lists a 60V 30Ah lithium battery, a 60V 4,800W peak mid motor and a 4.58-inch display with speed, battery and riding-mode information.',
+      'The component list includes an inverted aluminum suspension fork, an adjustable rear air shock and hydraulic disc brakes with a 190mm rotor. These are manufacturer-listed parts, not Bike Tested suspension or braking results.',
+      'The listed equipment includes a front LED headlight, integrated tail light and turn signals, an electric horn, and off-road tires sized 60/100-14 front and 80/100-12 rear.',
+      'EUNORAU lists a 220 lb / 100 kg load limit and 710mm seat height, providing reference points to check against the intended rider and equipment.'
+    ],
+    tradeoffs: [
+      'The seller lists speeds up to 43.4 mph and a 4,800W peak motor for a model marketed to kids and teens. Do not assume this is suitable for a first-time rider, public streets, bike paths or ordinary e-bike rules; verify rider requirements and lawful access for the exact vehicle and location.',
+      'At a listed 152 lb / 69 kg, it is a heavy machine to move, unload or store. Measure the route from delivery to storage and check any vehicle carrier against its actual load limit.',
+      'The product copy recommends a rider height of 4 ft 9 in–5 ft 9 in, while the specification lists 4 ft 9 in–5 ft 10 in and the geometry chart lists 145–175 cm. Ask EUNORAU to confirm which measurement applies to the exact bike and assess reach and control access in person.',
+      'EUNORAU advertises up to 24.8 miles and around seven hours to charge, but the page does not supply complete range-test conditions. Treat both as seller figures, not a route or charging guarantee.',
+      'The Orange / US listing is $1,699. EUNORSEBASTIAN60 is reported as 2% off and was accepted on a different EUNORAU model only; S1 eligibility and any after-code amount are unconfirmed.'
+    ],
+    specs: {
+      'Selected configuration': 'Orange / US; variant 47529200910592; SKU DBS11BKWD',
+      'Vehicle type': 'Manufacturer-described electric dirt bike for kids and teens; classification and permitted use should be confirmed for the exact vehicle and location',
+      'Motor': '60V 4,800W peak mid motor; 150 N·m maximum torque (manufacturer-listed)',
+      'Battery': '60V 30Ah lithium battery',
+      'Claimed range': 'Up to 24.8 miles / 40 km; complete test conditions are not supplied on the product page',
+      'Claimed maximum speed': '43.4 mph / 70 km/h (manufacturer-listed)',
+      'Charging': 'Approximately seven hours (manufacturer-listed)',
+      'Controls and display': 'Twist throttle; 4.58-inch digital display',
+      'Suspension': 'Inverted aluminum suspension fork and adjustable aluminum air shock',
+      'Brakes': 'Hydraulic disc brakes; 190mm rotor listed',
+      'Tires': 'Front 60/100-14; rear 80/100-12',
+      'Rider fit': '710mm seat height; manufacturer guidance conflicts between 4 ft 9 in–5 ft 9 in, 4 ft 9 in–5 ft 10 in and 145–175 cm',
+      'Maximum load': '220 lb / 100 kg',
+      'Listed vehicle weight': '152 lb / 69 kg',
+      'Lighting and signals': 'LED headlight, integrated tail light and turn signals, and electric horn (manufacturer-listed)',
+      'Dimensions': '1,570mm length; 1,080mm wheelbase; 650mm handlebar width'
+    },
+    source: 'https://eunorau-ebike.com/products/s1-dirt-bike?variant=47529200910592',
+    sourceLinks: [
+      {label: 'EUNORAU S1 listing and specifications', url: 'https://eunorau-ebike.com/products/s1-dirt-bike?variant=47529200910592'},
+      {label: 'EUNORAU warranty policy', url: 'https://eunorau-ebike.com/pages/warranty'},
+      {label: 'EUNORAU return policy', url: 'https://eunorau-ebike.com/pages/return-policy'}
+    ],
+    evidence: 'Manufacturer-specification editorial evaluation; exact Orange / US listing and price checked; EUNORSEBASTIAN60 eligibility untested for the S1; no ride, speed, range, braking, fit or safety test.',
+    sections: [
+      [
+        'Treat it as an electric dirt bike, not a commuter e-bike',
+        'EUNORAU markets the S1 to kids and teens, but its listed 60V 4,800W peak mid motor, twist throttle and 43.4 mph maximum make rider experience and the place of use central decisions. The product page lists full suspension and hydraulic disc brakes, but those specifications are not test results and do not establish that a particular rider can control the machine. Confirm its classification, operating requirements and permitted riding locations for your area before purchase. Do not assume public-road, bike-path or neighborhood access.'
+      ],
+      [
+        'Resolve the fit guidance before choosing a rider',
+        'The product description suggests 4 ft 9 in–5 ft 9 in, the specification extends that to 5 ft 10 in, and the geometry chart says 145–175 cm. Those ranges do not align. The listed seat height is 710mm, but height alone cannot establish reach, stand-over or access to the controls. Ask EUNORAU to confirm the fit guidance for the exact S1 configuration and make sure the rider can manage the vehicle while stationary and at low speed before relying on a height range.'
+      ],
+      [
+        'Plan around the full vehicle weight',
+        'EUNORAU lists the S1 at 152 lb / 69 kg, with a 220 lb / 100 kg maximum load. At this weight, unloading, delivery access, storage and recovery after a tip-over need an adult plan. Measure doorways and storage space, and confirm that a vehicle carrier is rated for the bike and any accessories. The listed 1,570mm length and 1,080mm wheelbase also call for more room than a standard bicycle.'
+      ],
+      [
+        'Read the range and charging numbers as seller estimates',
+        'The 60V 30Ah battery is a substantial listed capacity, while the advertised 24.8-mile range does not include a full rider, terrain, speed, temperature or riding-mode test protocol on the product page. The approximate seven-hour charging time is also a manufacturer figure. Plan for a shorter practical distance when conditions are demanding, charge with the supplied instructions and do not treat either number as a guaranteed outcome.'
+      ],
+      [
+        'Keep the reader code separate from the S1 price',
+        'On October 24, 2026, EUNORAU’s US product feed listed the Orange S1, variant 47529200910592 / SKU DBS11BKWD, at $1,699.00 with no compare-at price. EUNORSEBASTIAN60 is reported as a 2% code and was accepted on the META275 2.0, L / Deep Crimson variant only. S1 eligibility and any code stacking have not been checked, so this review does not claim a saving or after-code total.'
+      ]
+    ],
+    publishedOn: '2026-10-24',
+    updatedOn: '2026-10-24',
+    specsCheckedOn: '2026-10-24',
+    faqs: [
+      ['What is the EUNORAU S1’s top speed?', 'EUNORAU lists a maximum of 43.4 mph / 70 km/h. This is a manufacturer claim, not a Bike Tested speed result. Confirm the vehicle’s delivered settings, rider requirements and permitted use with EUNORAU and the relevant local authority.'],
+      ['How far can the S1 travel on a charge?', 'EUNORAU advertises up to 24.8 miles / 40 km. The product page does not provide complete rider, terrain, speed, weather or riding-mode conditions, so use it as a seller estimate rather than a route forecast.'],
+      ['Who does the S1 fit?', 'EUNORAU’s product description says 4 ft 9 in–5 ft 9 in, its specification says 4 ft 9 in–5 ft 10 in, and its geometry chart gives 145–175 cm. Ask the seller to confirm the correct range for your configuration, then assess the rider’s reach and control access directly.'],
+      ['Can the S1 be ridden on public roads or bike paths?', 'The manufacturer calls it an electric dirt bike and publishes a 43.4 mph maximum. This review does not establish its legal classification or access rights. Check with EUNORAU and the relevant local authority before riding; do not assume it can use public roads or bicycle facilities.'],
+      ['Does EUNORSEBASTIAN60 apply to the S1?', 'The code is reported as 2% off and was accepted on the META275 2.0, L / Deep Crimson variant 47313067737344. EUNORAU S1 eligibility and sale stacking have not been checked. Confirm the code and final item total in the S1 checkout; no discount amount is claimed.']
+    ],
+    relatedReviews: [
+      {slug: 'voltrover-m5-electric-dirt-bike', reason: 'Compare another youth-focused electric dirt bike with different listed power, battery and fit considerations.'},
+      {slug: 'ekx-x21-max-electric-dirt-bike', reason: 'Compare an off-road electric dirt bike with a different motor and battery setup; neither listing establishes public-road access.'}
+    ],
+    price: {
+      amountMinor: 169900,
+      currency: 'USD',
+      region: 'US',
+      variantId: '47529200910592',
+      variantLabel: 'Orange (SKU DBS11BKWD)',
+      source: 'https://eunorau-ebike.com/products/s1-dirt-bike?variant=47529200910592',
+      checkedOn: '2026-10-24',
+      isSalePrice: false
+    },
+    eligibility: {
+      status: 'unresolved',
+      variantId: '47529200910592',
+      evidence: 'docs/evidence/eunorau-s1-electric-dirt-bike.md#partner-code-scope'
+    }
   }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
