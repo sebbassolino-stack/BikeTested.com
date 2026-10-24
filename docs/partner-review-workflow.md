@@ -1,6 +1,6 @@
 # Partner review intake
 
-Prepared October 22, 2026. The live owner roster is recorded in `src/data/partners.js`. The 44-entry queue is `docs/partner-review-queue.json`; 19 coded partners with a stated saving receive first research priority. An affiliate agreement does not establish a product test or product recommendation.
+Prepared October 22, 2026. The 44-partner owner roster is recorded in `src/data/partners.js`. The product and review queue is `docs/partner-review-queue.json`; its entry count can grow as substitutions and additional product work are recorded. Nineteen coded partners have a stated saving and receive first research priority. An affiliate agreement does not establish a product test or product recommendation.
 
 ## Move one exact product into coverage
 

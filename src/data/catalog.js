@@ -1504,7 +1504,141 @@ export const products = [
     "message": "Checkout accepted the code and applied a $15.00 order-level discount to a cart containing the $1,299.00 bike and an automatically added $0 helmet. The $1,284.00 cart subtotal is not treated as a bike line-item price because the checkout did not allocate the order discount to an item.",
     "exclusions": "Exact Black / Bike(5500W，60V 30Ah) variant 58555389149558 / SKU NOVA-RR-BK only; shipping was uncalculated because no delivery address was entered. A provisional New Jersey tax estimate appeared before address details. No order was placed; the test cart was cleared."
   }
-}
+  },
+  {
+    "slug": "actbest-cozy-wide-tire-step-through-electric-bike",
+    "brand": "actbest",
+    "name": "Actbest Cozy Wide-Tire Step-Through Electric Bike",
+    "model": "Cozy, Dark Gray / US (variant 52286186291482; SKU AT21US00HP-V)",
+    "image": "/images/products/actbest-cozy-wide-tire-step-through-electric-bike.webp",
+    "imageAlt": "Dark Gray Actbest Cozy step-through electric bike with wide tires, front suspension, fenders, and a rear rack",
+    "imageWidth": 1200,
+    "imageHeight": 1200,
+    "category": "electric-bikes",
+    "use": "commute",
+    "label": "For low-step, comfort-first commutes",
+    "headline": "Easy access and wide tires, with 72 lb to handle.",
+    "description": "The Cozy pairs a low step-through frame, adjustable handlebar, 24 × 3.0-inch tires, removable battery and rear rack. Its 72.2 lb listed weight and unusually high speed claim deserve a close look before you choose it for daily city riding.",
+    "verdict": "We recommend the Cozy for riders who want an easy step-through, an adjustable upright cockpit and 24 × 3.0-inch tires for errands and comfort-first paved routes. Its removable 48V 15.6Ah battery, adjustable front fork, fenders, lights and rear rack make the equipment list practical for everyday use. At 72.2 lb, it is heavy to lift or store; its 35+ mph claim also sits beside a Class 3 label, so confirm the delivered speed setting, local rules, fit and load limit before buying.",
+    "strengths": [
+      "The 17.32-inch step-through height and seller-suggested 5 ft 1 in–6 ft 2 in rider range give shoppers useful starting points for fit; the low opening can make frequent mounting and dismounting easier.",
+      "The handlebar angle adjusts from 10° to 40°, so riders can tune reach and posture instead of being locked into one cockpit position.",
+      "The 24 × 3.0-inch tires, adjustable front fork with lockout, front and rear lights, fenders and Shimano 7-speed drivetrain make a useful everyday equipment package on paper.",
+      "The removable 48V 15.6Ah battery, LCD/app display and 120 lb rated rear rack support a practical commute and errand setup; Actbest lists five pedal-assist levels.",
+      "Actbest's exact Dark Gray US configuration accepted the supplied 3% Bike Tested code in checkout, with the item-level reduction recorded below."
+    ],
+    "tradeoffs": [
+      "At 72.2 lb and 70.47 inches long, the Cozy takes real space and is a substantial bike to lift. Measure storage access and plan how you will move it before ordering.",
+      "The specification table labels it Class 3 while also claiming a 35+ mph top speed. Those statements do not tell you the delivered configuration's speed limit or local classification; confirm both with Actbest and check the rules for your route.",
+      "Actbest lists 360 lb total payload and a separate 120 lb rear-rack capacity. Confirm how the seller defines total load and whether your rider, cargo and accessories fit within its limits.",
+      "The up-to-80-mile pedal-assist range is a manufacturer claim, not a Bike Tested ride result. Plan with a margin for hills, speed, assist level, cargo, temperature and tire pressure.",
+      "The Cozy manual download linked from Actbest's manuals page returned 404 when checked. The product listing says a manual is included in the box; ask for a current copy and delivered speed-setting details before relying on the missing download."
+    ],
+    "specs": {
+      "Configuration / SKU": "Dark Gray / US; variant 52286186291482; SKU AT21US00HP-V",
+      "Motor": "1,800 W peak; 110 N·m torque (manufacturer-listed)",
+      "Class / top-speed claims": "Class 3 and 35+ mph are both listed by Actbest; confirm the delivered setup and applicable local rules",
+      "Battery": "Removable 48 V / 15.6 Ah (manufacturer-listed)",
+      "Claimed range": "Up to 80 miles with pedal assist (manufacturer claim; not independently measured)",
+      "Pedal assist": "Five levels; LCD display with app connectivity (manufacturer-listed)",
+      "Drivetrain and brakes": "Shimano 7-speed drivetrain; disc brakes (brake type not specified)",
+      "Tires and fork": "24 × 3.0-inch tires; adjustable front suspension with lockout",
+      "Listed weight": "72.2 lb",
+      "Rider height and seat": "Seller suggests 5 ft 1 in–6 ft 2 in; seat height 29.5–38.58 in",
+      "Step-through height": "17.32 in",
+      "Dimensions": "70.47 × 26.69 × 45.98 in; 44.09 in wheelbase",
+      "Load limits": "360 lb total payload; 120 lb rear rack capacity (manufacturer-listed)",
+      "Charger / charging time": "54.6 V / 2 A; 7–8 hours (manufacturer-listed)",
+      "Water rating": "IPX5 (manufacturer-listed)"
+    },
+    "source": "https://actbestbike.com/products/cozy-wide-tire-step-through-commuter-electric-bike?variant=52286186291482",
+    "sourceLinks": [
+      {
+        "label": "Actbest user manuals",
+        "url": "https://actbestbike.com/pages/user-manuals"
+      }
+    ],
+    "evidence": "Manufacturer-specification editorial evaluation; exact Dark Gray US variant and code observed at checkout; no Bike Tested ride, range, speed or fit test",
+    "sections": [
+      [
+        "An easy step-through with room to adjust your reach",
+        "The Cozy's 17.32-inch step-through height is its clearest everyday fit feature. Actbest suggests riders from 5 ft 1 in to 6 ft 2 in and lists a 29.5–38.58-inch seat-height range. The handlebar angle adjusts from 10° to 40°, which gives you more choice in hand position and posture. Use those figures to screen the bike, then confirm that the actual saddle height, reach and control position work for you; a published rider range cannot settle personal fit on its own."
+      ],
+      [
+        "Wide tires and a useful commuter equipment list",
+        "The 24 × 3.0-inch tires, adjustable front fork with lockout and front/rear lighting point toward pavement, neighborhood roads and rougher paths. A Shimano 7-speed drivetrain gives you gearing choices, while disc brakes and full fenders round out the listed equipment. The LCD connects to Actbest's app for ride data and settings. These are seller specifications; they do not establish how the bike rides, brakes or handles on a particular route."
+      ],
+      [
+        "Plan for the size and load before you bring it home",
+        "Actbest lists the Cozy at 72.2 lb and 70.47 inches long. That is a full-size bike to store and move, even with a removable battery. Measure doorways, storage space and any vehicle rack, and confirm the carrier's approved load. The seller lists a 360 lb total payload and a 120 lb rear rack, but the bike's own documentation should clarify how those limits apply to the rider, accessories and cargo you plan to carry."
+      ],
+      [
+        "Treat the long-range and speed figures as seller claims",
+        "The removable 48V 15.6Ah battery is listed for up to 80 miles of pedal-assist range. That is an advertised maximum, not a Bike Tested measurement; speed, hills, assist level, rider and cargo load, temperature, wind and tire pressure can change actual distance. The same specification table labels Cozy Class 3 and gives a 35+ mph top speed. Ask Actbest to confirm the speed limit and delivered configuration, then check the rules for your route instead of assuming the label resolves the difference."
+      ],
+      [
+        "The exact Dark Gray code result and Cozy manual",
+        "On October 23, 2026, Actbest listed the Dark Gray US Cozy (variant 52286186291482; SKU AT21US00HP-V) at $749.00. Checkout accepted SEBASTIAN3% and reduced the single-bike amount by $22.47 to a $726.53 item subtotal before shipping and tax. A provisional tax estimate appeared before address details; no delivery address was entered and no order was placed. Actbest lists a Cozy manual as included in the package, but the manual-download link returned 404 when checked. Request a current copy and exact speed-setting details before ordering if those documents will affect your decision."
+      ]
+    ],
+    "publishedOn": "2026-10-23",
+    "updatedOn": "2026-10-23",
+    "specsCheckedOn": "2026-10-23",
+    "faqs": [
+      [
+        "Is the Actbest Cozy easy to step onto?",
+        "Actbest lists a 17.32-inch step-through height and suggests a rider-height range of 5 ft 1 in–6 ft 2 in. The seat adjusts from 29.5 to 38.58 inches. Treat those as screening measurements and confirm reach, stand-over clearance and control access for your own fit."
+      ],
+      [
+        "Can the Cozy really travel 80 miles on a charge?",
+        "Actbest advertises up to 80 miles with pedal assist. That is a manufacturer estimate, not a Bike Tested measurement. Speed, assist level, hills, rider and cargo weight, temperature, wind and tire pressure affect actual range, so plan with a margin."
+      ],
+      [
+        "Is the Cozy a Class 3 e-bike?",
+        "Actbest labels the Cozy Class 3 and also lists a 35+ mph top speed. The product page does not resolve that difference for every regional configuration. Confirm the delivered speed limit and model labeling with Actbest, then check local rules for the roads or paths you plan to use."
+      ],
+      [
+        "How much can the Cozy carry?",
+        "Actbest lists a 360 lb total payload and a 120 lb rear-rack capacity. Ask the seller how the total payload applies to rider, cargo and accessories, and keep every load within the published limits for the exact configuration."
+      ]
+    ],
+    "relatedReviews": [
+      {
+        "slug": "gebike-g03-city-commuter-ebike",
+        "reason": "Compare another step-through city bike with narrower tires and a lower listed weight."
+      },
+      {
+        "slug": "burchda-u8-step-thru-electric-bike",
+        "reason": "Compare a different step-through fat-tire setup, battery size and exact-variant code result."
+      }
+    ],
+    "price": {
+      "amountMinor": 74900,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "52286186291482",
+      "variantLabel": "Dark Gray (SKU AT21US00HP-V)",
+      "source": "https://actbestbike.com/products/cozy-wide-tire-step-through-commuter-electric-bike?variant=52286186291482",
+      "checkedOn": "2026-10-23",
+      "isSalePrice": true
+    },
+    "eligibility": {
+      "status": "eligible",
+      "variantId": "52286186291482",
+      "evidence": "docs/evidence/actbest-cozy-wide-tire-step-through-electric-bike.md#exact-variant-checkout"
+    },
+    "checkoutObservation": {
+      "code": "SEBASTIAN3%",
+      "stage": "checkout",
+      "variantId": "52286186291482",
+      "baseAmountMinor": 74900,
+      "discountMinor": 2247,
+      "afterAmountMinor": 72653,
+      "currency": "USD",
+      "checkedOn": "2026-10-23",
+      "exclusions": "Dark Gray / US variant only; before shipping and tax; no delivery address or order."
+    }
+  }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
 const checkoutProductFor=brand=>products.find(p=>p.brand===brand&&p.checkoutObservation);

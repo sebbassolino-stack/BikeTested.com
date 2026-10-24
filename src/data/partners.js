@@ -547,7 +547,7 @@ export const partners = [
     "reportedOn": "2026-10-22",
     "status": "active",
     "evidence": "Owner-confirmed live Bike Tested partner roster, October 22, 2026",
-    "checkoutTestedOn": null,
+    "checkoutTestedOn": "2026-10-23",
     "description": "Explore Actbest electric bikes with our reader code. Copy the complete code including the percent symbol, then compare fit and equipment for your selected bike."
   },
   {

@@ -53,7 +53,9 @@ assert(llms.includes('$659.99')&&llms.toLowerCase().includes('other variants and
 const walk=p=>fs.readdirSync(p,{withFileTypes:true}).flatMap(x=>x.isDirectory()?walk(`${p}/${x.name}`):[`${p}/${x.name}`]);
 for(const file of walk('dist').filter(x=>/\.(html|json|txt|js)$/.test(x))){const content=fs.readFileSync(file,'utf8');assert(!content.includes('PERSON'+'SEBASTIAN84'),`Personal-use code leaked: ${file}`);}
 const queue=JSON.parse(fs.readFileSync('docs/partner-review-queue.json','utf8'));
-assert.equal(queue.queue.length,44);
+const queuedBrands=new Set(queue.queue.map(q=>q.brandSlug));
+assert.equal(queuedBrands.size,offers.length);
+for(const offer of offers)assert(queuedBrands.has(offer.brand),`Partner queue coverage ${offer.brand}`);
 for(const q of queue.queue){assert.equal(q.affiliateUrl,offers.find(o=>o.brand===q.brandSlug).url);}
 const luckeep=queue.queue.find(q=>q.brandSlug==='luckeep'),mooncool=queue.queue.find(q=>q.brandSlug==='mooncool');
 assert.equal(luckeep.status,'product-unavailable-after-bounded-research');assert(luckeep.nextStep.includes('M5 Max')&&luckeep.nextStep.includes('C23'));
