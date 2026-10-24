@@ -902,7 +902,7 @@
       "brand": "Eunorau",
       "brandSlug": "eunorau",
       "category": "electric-bikes",
-      "status": "review-in-progress",
+      "status": "published",
       "priority": 1,
       "product": "EUNORAU URUS 2.0 Electric Mountain Bike, Amethyst / 19-inch (variant 48220380856576; SKU EBURUS21PP19WD)",
       "officialSource": "https://eunorau-ebike.com/products/urus?variant=48220380856576",
@@ -912,7 +912,7 @@
       "reportedBenefit": "2% off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": null,
-      "nextStep": "The official Shopify feed lists the Amethyst / 19-inch US variant at $3,999.00 and publishes the product on May 10, 2026. EUNORAU lists a 500W Bafang M600 mid-drive, 48V 17.5Ah battery, RockShox suspension, SRAM NX gearing, TEKTRO four-piston brakes and 27.5 × 2.8-inch MAXXIS tires. EUNORSEBASTIAN60 is reported as 2% off and was accepted on META275 2.0 variant 47313067737344 only; URUS eligibility is untested. Draft with no after-code price claim and use the exact official Amethyst image with a transparent background."
+      "nextStep": "Review commit 2ef99099dcc9bf8f6382466a3fadacd8683a9701 deployed successfully to Cloudflare Pages (check/deployment e15727c4-c9a3-428a-99e2-1b7081e0a0f7). Production review, EUNORAU promo, exact product image and agent feed returned 200; the live image SHA-256 matches local. The exact Amethyst / 19-inch US variant remains listed at $3,999.00. EUNORSEBASTIAN60 eligibility and sale-price stacking for URUS 2.0 are untested; agent feed leaves eligibility unresolved and afterCodePrice null. Visual browser QA was not completed. Continue with another distinct coded, popular or newer product."
     }
   ]
 }
