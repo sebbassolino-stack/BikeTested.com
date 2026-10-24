@@ -982,7 +982,7 @@
       "brand": "Tomofree",
       "brandSlug": "tomofree",
       "category": "electric-bikes",
-      "status": "validated-release-pending",
+      "status": "review-published-live-routes-verified",
       "priority": 1,
       "product": "Tomofree R700 Electric Bike, US R700 20Ah + disc brakes (variant 63424761397388; SKU R700)",
       "officialSource": "https://tomofree.com/products/r700-electric-bike?variant=63424761397388",
@@ -992,7 +992,7 @@
       "reportedBenefit": "6% off accepted only for the T1MAX 20Ah configuration; R700 eligibility unconfirmed",
       "offerDetailNeeded": false,
       "checkoutTestedOn": null,
-      "nextStep": "Exact variant, code scope and source conflicts are documented; npm run check, npm run build and git diff --check passed (44 reviews, 156 HTML pages, 7,112 internal references). The local review, partner promo, canonical, affiliate destination and agent feed show the listed $599 price and unresolved R700 code eligibility with afterCodePrice null; the transparent product image is 1,200 \u00d7 1,200 and its build copy matches the source SHA-256. Browser visual QA unavailable; push and verify production routes."
+      "nextStep": "Published in review commit 79263cb, pushed to origin/main. Production review, Tomofree promo, agent feed and exact official image return 200 on biketested.com and biketested.pages.dev. The live review shows the exact R700 20Ah / disc-brake variant, $599 listed price, partner code and unresolved R700 eligibility; the feed records afterCodePrice null. Live image SHA-256 matches local. The official page said Sold out while the variant feed said available, so no availability claim is made. No R700 cart check. Browser visual QA unavailable; deployment ID/status metadata unavailable."
     }
   ]
 }
