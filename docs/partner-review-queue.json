@@ -1041,6 +1041,22 @@
       "offerDetailNeeded": false,
       "checkoutTestedOn": null,
       "nextStep": "Review commit d406c75 was pushed to origin/main and the exact-commit Cloudflare Pages check succeeded. Production review, ANCHEER promo page, exact official image, and agent feed return 200 on biketested.com and biketested.pages.dev. The exact Black / One Size variant 48857041338610 / SKU US01+AMAK00015_P00_US_B is listed at $419.99 USD as of 2026-10-24. SEBASTIANBASSOL reports a 5% ANCHEER benefit, but StreetRider eligibility and sale stacking are untested; agent feed eligibility is unresolved with checkoutObservation, codeCheckObservation, and afterCodePrice null. Live image SHA-256 matches local. Browser visual QA not completed."
+    },
+    {
+      "brand": "Hiboy",
+      "brandSlug": "hiboy",
+      "category": "electric-mobility",
+      "status": "review-published-live-routes-verified",
+      "priority": 1,
+      "product": "S2 Pro Electric Scooter, Basic / US (variant 42041508135161; SKU 044LK)",
+      "officialSource": "https://www.hiboy.com/products/hiboy-s2pro-electric-scooter-for-daily-commuting?variant=42041508135161",
+      "reviewUrl": "/reviews/hiboy-s2-pro-electric-scooter",
+      "affiliateUrl": "https://hiboy.com/?ref=SEBASTIANBASSOLINO",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "No amount supplied; exact S2 Pro Basic eligibility and sale stacking untested; no saving or after-code price claimed",
+      "offerDetailNeeded": false,
+      "checkoutTestedOn": null,
+      "nextStep": "Review commit 63a0641ceadd686eaa410a67de81e04e7b5c9973 was pushed to main; Cloudflare Pages check 121008366002 succeeded for deployment b106f143-5666-411d-95a4-049bcac512fd. The exact US Basic variant 42041508135161 / SKU 044LK was listed at $422.99 on 2026-10-24. SEBASTIANBASSOL has no supplied discount amount and exact S2 Pro eligibility remains unresolved; agent feed has no checkout/code observation or afterCodePrice. The live review, Hiboy promo, agent feed, and exact official image return 200 on biketested.com and biketested.pages.dev; live image SHA-256 matches local. Browser viewport QA was unavailable after CUA timed out."
     }
   ]
 }
