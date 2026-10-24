@@ -34,7 +34,7 @@ export const guides = [
     "topics": [
       "electric-bikes"
     ],
-    "products": ["mooncool-tk2-folding-electric-trike","finbike-eb8-electric-bike","hiknight-h2-pro-off-road-ebike","ancheer-hummer-electric-bike","burchda-u8-step-thru-electric-bike"],
+    "products": ["mooncool-tk2-folding-electric-trike","finbike-eb8-electric-bike","hiknight-h2-pro-off-road-ebike","ancheer-hummer-electric-bike","burchda-u8-step-thru-electric-bike","eunorau-meta275-2-electric-bike"],
     "related": [
       "torque-sensor-vs-cadence-sensor",
       "mid-drive-vs-hub-motor",
@@ -343,7 +343,8 @@ export const guides = [
     "products": [
       "ride1up-roadster-v3",
       "lectric-xpress2",
-      "finbike-eb8-electric-bike"
+      "finbike-eb8-electric-bike",
+      "eunorau-meta275-2-electric-bike"
     ]
   },
   {
@@ -1303,7 +1304,7 @@ export const guides = [
       "torque-sensor-vs-cadence-sensor",
       "fat-tire-vs-regular-tire-ebikes"
     ],
-    "products": ["aventon-pace-5-rec","ride1up-roadster-v3","lectric-xpress2","finbike-eb8-electric-bike","hiknight-h2-pro-off-road-ebike"]
+    "products": ["aventon-pace-5-rec","ride1up-roadster-v3","lectric-xpress2","finbike-eb8-electric-bike","hiknight-h2-pro-off-road-ebike","eunorau-meta275-2-electric-bike"]
   },
   {
     "slug": "cost-to-charge-an-ebike",

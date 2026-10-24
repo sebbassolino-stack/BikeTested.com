@@ -650,6 +650,82 @@ export const products = [
     "price":{"amountMinor":128900,"currency":"EUR","region":"DE","variantId":"50464726483219","variantLabel":"Champagne Gold / 1000W / 48V31.5Ah","source":"https://www.burchda-ebike.com/products/burchda-u8-step-thru-electric-bike?variant=50464726483219","checkedOn":"2026-10-23","isSalePrice":true},
     "eligibility":{"status":"eligible","variantId":"50464726483219","evidence":"docs/evidence/burchda-u8-step-thru-electric-bike.md#checkout-observation"},
     "checkoutObservation":{"code":"SEBASTIANBASSOL","variantId":"50464726483219","baseAmountMinor":128900,"discountMinor":3867,"afterAmountMinor":125033,"currency":"EUR","checkedOn":"2026-10-23","exclusions":"exact bike only, no delivery address or order; shipping not calculated; product page marks price tax included; code did not apply while the automatic free riding-package promotion was active; code applied after package removal."}
+  },
+  {
+    "slug":"eunorau-meta275-2-electric-bike",
+    "brand":"eunorau",
+    "name":"Eunorau META275 2.0 Electric Bike",
+    "model":"META275 2.0",
+    "image":"/images/products/eunorau-meta275-2-electric-bike.webp",
+    "imageAlt":"Deep Crimson Eunorau META275 2.0 electric commuter bike with front suspension and rear rack",
+    "imageWidth":1200,
+    "imageHeight":1200,
+    "category":"electric-bikes",
+    "use":"commute",
+    "label":"For torque-sensing daily rides",
+    "headline":"A commuter with a torque sensor and a battery bundle.",
+    "description":"The META275 2.0 pairs a 500W rear hub, torque sensing and 27.5 × 2.6-inch tires with a removable 48V 15Ah battery. The current listing includes a separate 5Ah battery as a free gift.",
+    "verdict":"We would shortlist the Eunorau META275 2.0 for riders who want a full-size commuter with torque-sensing assist, front suspension, hydraulic brakes and everyday fittings. The 48V 15Ah battery, 27.5 × 2.6-inch tires and adjustable stem make a practical starting point for mixed city routes. At a listed 68.4 lb, it needs a ground-level storage plan, and the seller’s 100-mile claim depends on a larger second battery than the free 5Ah gift. The October 23 cart accepted the reader code on the Large / Deep Crimson configuration.",
+    "strengths":[
+      "A torque sensor is listed with the 500W rear hub motor, hydraulic disc brakes and front suspension.",
+      "The removable 48V 15Ah LG battery works out to about 720Wh from the manufacturer’s nominal values; a thumb throttle, fenders and lights are also listed.",
+      "The current product cart included a separate 48V 5Ah secondary battery as a free gift, and the reader code remained accepted with that gift in the cart.",
+      "The store lists a 10-year frame warranty and 24 months for the battery, motor and electrical components, subject to registration and exclusions."
+    ],
+    "tradeoffs":[
+      "At 68.4 lb, the listed bike is heavy to carry up stairs or load onto a vehicle; plan storage and transport before ordering.",
+      "The up-to-100-mile range claim is tied to dual batteries, and the detailed specification names a 17Ah second battery. The included gift is 5Ah, so do not treat the headline range as the expected result with the free gift.",
+      "The component list says the Shimano shifter is seven-speed but separately calls the freewheel nine-speed. Confirm the delivered drivetrain and usable gear count.",
+      "Eunorau recommends the L frame for riders around 5 ft 6 in to 6 ft 1 in; the page does not provide the complete fit measurements needed to judge reach and stand-over.",
+      "Returns must be requested within seven calendar days and the bike must remain unused, unassembled and resellable in its original packaging. The policy assigns return freight to the buyer for customer-requested returns."
+    ],
+    "specs":{
+      "Selected configuration":"L / Deep Crimson; variant 47313067737344",
+      "Motor":"48V 500W rear hub, up to 55Nm (manufacturer-listed)",
+      "Sensor":"Torque sensor",
+      "Battery":"48V 15Ah LG lithium-ion, removable (about 720Wh from listed nominal values)",
+      "Second battery":"Optional 15Ah or 17Ah; current cart gift is a separate 48V 5Ah battery",
+      "Claimed range":"Up to 100 miles with dual batteries; detailed specification pairs the 15Ah main battery with a 17Ah second battery",
+      "Seller class and speed":"Listed as Class 2, speed-limited and unlockable; maximum speed 20mph",
+      "Tires":"27.5 × 2.6 inches",
+      "Brakes":"Hydraulic disc, 180mm rotors",
+      "Drivetrain":"Page lists Shimano 7-speed shifter and 9-speed freewheel; confirm exact delivered gearing",
+      "Suspension":"Front suspension fork",
+      "Controls and fittings":"Thumb throttle, adjustable stem, BC182 LCD with EUNORAU GO app support, front and rear lights, fenders, tool",
+      "Listed rider height":"5 ft 6 in–6 ft 1 in",
+      "Listed maximum payload":"286 lb",
+      "Listed bike weight":"68.4 lb",
+      "Charging time":"5–7 hours with the listed US 2.0A charger"
+    },
+    "source":"https://eunorau-ebike.com/products/meta275-2?variant=47313067737344",
+    "sourceLinks":[
+      {"label":"Eunorau warranty policy","url":"https://eunorau-ebike.com/pages/warranty"},
+      {"label":"Eunorau return policy","url":"https://eunorau-ebike.com/pages/return-policy"}
+    ],
+    "evidence":"Manufacturer-specification editorial review; exact L / Deep Crimson cart and code observation",
+    "sections":[
+      ["Torque sensing in an everyday setup","The META275 2.0 brings a torque sensor to a conventional commuter layout. Eunorau lists a 48V 500W rear hub motor with up to 55Nm, a thumb throttle and an adjustable stem. The sensor should make rider effort part of the assist input, while the controller and chosen mode still shape how power arrives. Front suspension, hydraulic discs, 27.5 × 2.6-inch tires, fenders and lights give it a broad everyday brief. These are listed components, not results from a Bike Tested ride or braking test."],
+      ["Separate the free battery from the range headline","The selected product page lists a removable 48V 15Ah LG battery, about 720Wh using the nominal voltage and capacity. Eunorau advertises up to 100 miles with two batteries; its detailed specification describes the combination as the main 15Ah pack plus a 17Ah second battery. The cart’s free gift was a different 48V 5Ah battery. It may add capacity, but the store’s 100-mile figure does not establish the distance available with that smaller gift. Treat every range figure as a seller estimate, match it to the actual pack you receive and plan a route with a reserve."],
+      ["Check the drivetrain and fit before choosing the L frame","The current component list names a Shimano seven-speed shifter and, separately, a Shimano nine-speed freewheel. That mismatch leaves the actual gear count unclear, so ask Eunorau to confirm the delivered drivetrain. The selected L frame is within the seller’s suggested 5 ft 6 in–6 ft 1 in range, but height alone cannot establish reach, stand-over or control access. Request the geometry for the exact frame size and compare it with a bike that already fits. The listed 68.4 lb weight also makes stairs and vehicle loading a meaningful part of the decision."],
+      ["Understand the purchase terms and code scope","Eunorau’s policy gives the original purchaser a 10-year frame warranty and 24 months for the battery, motor and electrical parts. It requires product registration and excludes labor and ordinary wear items. The return policy allows a request within seven calendar days, provided the bike is unused, unassembled, resellable and returned in its original packaging; buyer-requested returns carry a shipping deduction. On October 23, 2026, EUNORSEBASTIAN60 was accepted in the cart with the free 48V 5Ah battery still included. It reduced the selected bike’s $1,699.00 price by $33.98 to a $1,665.02 bike item subtotal. No delivery address, shipping or tax was calculated, and no order was placed. The result applies only to L / Deep Crimson, variant 47313067737344."]
+    ],
+    "publishedOn":"2026-10-23",
+    "updatedOn":"2026-10-23",
+    "specsCheckedOn":"2026-10-23",
+    "faqs":[
+      ["How far can the Eunorau META275 2.0 go on one charge?","Eunorau advertises up to 100 miles with two batteries. Its detailed specification ties that claim to a 48V 15Ah main battery and a 17Ah second battery. The current cart gift is a smaller 5Ah battery, so the published maximum should not be read as the expected range with that gift. These are seller estimates, not Bike Tested measurements."],
+      ["How much does the META275 2.0 weigh, and who does it fit?","Eunorau lists 68.4 lb and recommends rider heights from 5 ft 6 in to 6 ft 1 in. Height is only a starting point. Ask for reach, stand-over and saddle-height measurements for the L frame, and plan for the weight if your storage involves stairs."],
+      ["Does the META275 2.0 have seven or nine gears?","The product component list names a Shimano seven-speed shifter and also a Shimano nine-speed freewheel. Because the listing conflicts, confirm the exact drivetrain supplied with the bike."],
+      ["Did EUNORSEBASTIAN60 work on the META275 2.0?","Yes. In the October 23, 2026 cart observation it took $33.98 off the $1,699.00 L / Deep Crimson variant (47313067737344), leaving a $1,665.02 bike item subtotal. The free 48V 5Ah gift remained in the cart. Shipping and tax were not calculated and no order was placed. Other variants and models were not checked."],
+      ["What are the META275 2.0 warranty and return terms?","Eunorau lists a 10-year frame warranty and 24 months for the battery, motor and electrical components, with registration required and labor and normal wear excluded. Its return policy requires a request within seven calendar days; the bike must remain unused, unassembled and resellable in its original packaging. The policy assigns return shipping costs to the customer for customer-attributable returns. Read the linked policies before ordering."]
+    ],
+    "relatedReviews":[
+      {"slug":"ride1up-roadster-v3","reason":"Compare the Ride1Up Roadster V3 if you want a lighter, more minimalist commuter with torque-sensing assistance and a different fork setup."},
+      {"slug":"gebike-g03-city-commuter-ebike","reason":"Compare the GEBIKE G03 if you prefer a low-step city bike and want to weigh its frame layout and listed storage weight against the META275."}
+    ],
+    "price":{"amountMinor":169900,"currency":"USD","region":"US","variantId":"47313067737344","variantLabel":"L / Deep Crimson","source":"https://eunorau-ebike.com/products/meta275-2?variant=47313067737344","checkedOn":"2026-10-23","isSalePrice":false},
+    "eligibility":{"status":"eligible","variantId":"47313067737344","evidence":"docs/evidence/eunorau-meta275-2-electric-bike.md#checkout-observation"},
+    "checkoutObservation":{"code":"EUNORSEBASTIAN60","variantId":"47313067737344","baseAmountMinor":169900,"discountMinor":3398,"afterAmountMinor":166502,"currency":"USD","checkedOn":"2026-10-23","exclusions":"Bike item subtotal only. Code applied with the free 48V 5Ah battery gift still in the cart. No delivery address, shipping or tax calculation, or order. Exact L / Deep Crimson variant only; other models and variants are untested."}
   }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}

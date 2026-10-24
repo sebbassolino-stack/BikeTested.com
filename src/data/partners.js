@@ -7,13 +7,18 @@ export const partners = [
     "url": "https://eunorau-ebike.com/?ref=gowithsebastian&utm_medium=affiliate&utm_source=goaffpro",
     "code": "EUNORSEBASTIAN60",
     "benefit": "2% off",
+    "discount": {
+      "type": "percent",
+      "value": 2,
+      "scope": "Accepted on the META275 2.0, L / Deep Crimson variant 47313067737344 on October 23, 2026; other variants and models are untested."
+    },
     "category": "electric-bikes",
     "platform": "GoAffPro",
     "reportedOn": "2026-10-22",
     "status": "active",
     "evidence": "Owner-confirmed live Bike Tested partner roster, October 22, 2026",
-    "checkoutTestedOn": null,
-    "description": "Explore Eunorau electric bikes with the public Bike Tested reader code. Compare the exact frame, motor configuration and service arrangements before choosing your ride."
+    "checkoutTestedOn": "2026-10-23",
+    "description": "Use the Eunorau reader code on the META275 2.0 configuration checked at checkout. Confirm frame fit, battery contents and final delivery terms for your order."
   },
   {
     "slug": "niu",

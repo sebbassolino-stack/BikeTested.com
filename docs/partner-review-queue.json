@@ -118,17 +118,17 @@
       "brand": "Eunorau",
       "brandSlug": "eunorau",
       "category": "electric-bikes",
-      "status": "ready-for-product-research",
+      "status": "review-in-progress",
       "priority": 1,
-      "product": null,
-      "officialSource": null,
-      "reviewUrl": null,
+      "product": "Eunorau META275 2.0 Electric Bike, L / Deep Crimson (variant 47313067737344)",
+      "officialSource": "https://eunorau-ebike.com/products/meta275-2?variant=47313067737344",
+      "reviewUrl": "/reviews/eunorau-meta275-2-electric-bike",
       "affiliateUrl": "https://eunorau-ebike.com/?ref=gowithsebastian&utm_medium=affiliate&utm_source=goaffpro",
       "code": "EUNORSEBASTIAN60",
       "reportedBenefit": "2% off",
       "offerDetailNeeded": false,
-      "checkoutTestedOn": null,
-      "nextStep": "Choose one exact current SKU from this storefront; record model, variant, primary specifications and official image provenance before drafting."
+      "checkoutTestedOn": "2026-10-23",
+      "nextStep": "Review draft and official image cutout are in progress; exact L / Deep Crimson cart accepted EUNORSEBASTIAN60 for $33.98 off, with the free 48V 5Ah battery gift still in cart."
     },
     {
       "brand": "FinBike",
