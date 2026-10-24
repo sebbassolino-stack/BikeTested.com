@@ -3837,6 +3837,110 @@ export const products = [
       variantId: '43866362839212',
       evidence: 'docs/evidence/mooncool-tk-pro-electric-trike.md#offer-scope'
     }
+  },
+  {
+    slug: 'ancheer-streetrider-electric-bike',
+    brand: 'ancheer',
+    name: 'ANCHEER StreetRider Electric Bike',
+    model: 'Black / One Size (variant 48857041338610; SKU US01+AMAK00015_P00_US_B)',
+    image: '/images/products/ancheer-streetrider-electric-bike.webp',
+    imageAlt: 'Black ANCHEER StreetRider mini folding electric bike, Black / One Size',
+    imageWidth: 1200,
+    imageHeight: 1200,
+    publishedOn: '2026-10-24',
+    updatedOn: '2026-10-24',
+    specsCheckedOn: '2026-10-24',
+    category: 'electric-bikes',
+    use: 'commute',
+    label: 'For compact local rides and measured storage',
+    headline: 'A small-wheel folder that still weighs 48.5 pounds.',
+    description: 'The StreetRider pairs 14-inch wheels and a 374Wh battery with a folding frame and suspension. Its 48.5 lb weight, incomplete folded-size detail, and conflicting seller claims deserve a careful fit and storage check.',
+    verdict: 'We recommend the ANCHEER StreetRider for riders who want a compact, small-wheel e-bike for errands and short commutes and can roll it into storage. Its listed 14 × 2.125-inch tires, 374Wh battery, front suspension fork, and shock-absorbing seatpost give this mini folding model a comfort-oriented setup. Check fit carefully—the one-size chart is broad—and plan around its 48.5 lb weight. ANCHEER’s range and speed statements conflict across the product page.',
+    strengths: [
+      'The 14-inch wheels and folding design give the StreetRider a small-bike profile for neighborhood trips and storage where a full-size bike is awkward.',
+      'The seller lists a 48V 7.8Ah battery (374Wh) with a throttle and three-level pedal assist.',
+      'A front suspension fork, shock-absorbing seatpost, and wide saddle are included in the manufacturer’s comfort-focused feature list.',
+      'ANCHEER publishes a recommended rider-height range of 4 ft 7 in to 5 ft 11 in and a 265 lb maximum load, giving buyers useful first-pass fit and payload checks.'
+    ],
+    tradeoffs: [
+      'At 48.5 lb, this is a roll-in storage bike rather than an easy regular stair carry, despite its compact wheels and folding design.',
+      'The product page calls the StreetRider foldable but does not clearly label a complete folded length, width, and height. Its 49.2 × 28.7-inch “profile” is not enough to confirm a trunk or closet fit; measure the actual folded bike.',
+      'ANCHEER lists a 45-mile maximum range and also says 45+ miles, without matching route, load, assist, or weather conditions. Treat those numbers as seller estimates, not a trip-planning guarantee.',
+      'The page gives 20 mph in one feature section and 22 mph in its highlights. It also describes three riding modes in one place and four in another.',
+      'The listing does not identify the pedal-assist sensor, drivetrain, brake system, or charging time. Ask for the exact delivered specification and manual if those details matter to your ride or local service options.',
+      'ANCHEER’s return page states a general 30-day request window and also says sale items are non-refundable. Because this variant is listed at a sale price, confirm its return eligibility with the seller before ordering.'
+    ],
+    specs: {
+      'Selected configuration': 'Black / One Size; variant 48857041338610; SKU US01+AMAK00015_P00_US_B',
+      'Motor': '500W peak brushless motor (manufacturer-listed); rated output not stated',
+      'Battery': '48V 7.8Ah lithium-ion; 374Wh (manufacturer-listed)',
+      'Claimed range': '45 miles in product highlights and 45+ miles in feature copy; test conditions not stated',
+      'Speed': '20 mph in feature copy; 22 mph in product highlights (conflict)',
+      'Assist and controls': 'Throttle, three-level pedal assist, and LCD display are described; another panel says four riding modes; sensor type not stated',
+      'Wheels and tires': '14 × 2.125 inches',
+      'Suspension': 'Front suspension fork and shock-absorbing seatpost (manufacturer-listed)',
+      'Listed weight': '48.5 lb',
+      'Fit and load': 'One Size; geometry chart recommends 4 ft 7 in to 5 ft 11 in; 265 lb maximum load',
+      'Frame and storage': 'Step-through, folding design; page lists a 49.2 × 28.7-inch profile without a clearly labeled full folded measurement',
+      'Drivetrain and brakes': 'Not identified in the selected product listing; confirm exact components with ANCHEER'
+    },
+    source: 'https://www.ancheer.shop/products/ancheer-streetrider-ebike?variant=48857041338610',
+    sourceLinks: [
+      { label: 'ANCHEER StreetRider geometry chart', url: 'https://www.ancheer.shop/cdn/shop/files/AMAK00015_Ebike_Geometry_1.png?v=1777536385&width=2928' },
+      { label: 'ANCHEER return and refund policy', url: 'https://www.ancheer.shop/pages/return-and-refund-policy' },
+      { label: 'ANCHEER warranty policy', url: 'https://www.ancheer.shop/pages/warranty-policy' }
+    ],
+    evidence: 'Manufacturer-specification editorial evaluation; exact Black / One Size US variant and price checked October 24, 2026. The ANCHEER code has been accepted only for the Hummer variant; StreetRider eligibility is unresolved. No Bike Tested ride, range, speed, braking, or handling measurements.',
+    sections: [
+      [
+        'A mini folder for nearby rides',
+        'The StreetRider’s appeal is its small-wheel layout: 14 × 2.125-inch tires, a step-through frame, and a folding design in a package ANCHEER presents for urban commuting. That combination can make sense for errands, short neighborhood trips, and storage-constrained homes when the bike can be rolled into place. The 500W peak motor and 48V 7.8Ah battery are seller specifications; they make the bike look capable on paper, but the listing does not establish how assistance feels on a rider’s route. We would choose it for a compact setup, not for an unverified long-distance promise.'
+      ],
+      [
+        'Check the rider fit and the whole storage path',
+        'ANCHEER’s geometry chart recommends riders from 4 ft 7 in to 5 ft 11 in. That is a starting range rather than a complete fit result: the product page does not explain reach or how the bike will feel for a particular rider. Its page calls the bike foldable and lists a 49.2 × 28.7-inch profile, but it does not clearly identify a full folded three-dimensional measurement. Measure the closet, doorway, vehicle opening, and route between them, then ask ANCHEER for the packed dimensions if the fit is close. The listed weight is 48.5 lb, so a small frame does not make this a convenient stair-carry bike.'
+      ],
+      [
+        'Use the battery capacity, not the range headline',
+        'The listing identifies a 48V 7.8Ah lithium-ion battery and calls it 374Wh. ANCHEER advertises a 45-mile maximum range in its highlights and 45+ miles in the feature copy, without giving a common test setup. Those figures are not a Bike Tested measurement, so plan around your actual route and charging options rather than budgeting every trip against the maximum. The page describes a throttle and three-level pedal assist, while a separate section refers to four riding modes. Confirm the delivered display and assist behavior if that choice matters to your riding routine.'
+      ],
+      [
+        'Comfort features are listed; service details need a check',
+        'ANCHEER lists a front suspension fork, shock-absorbing seatpost, and wide saddle. Those features suit the StreetRider’s short-trip comfort pitch, but the product page does not identify the assist sensor, drivetrain, brake type, or charging time. The selected page also states 20 mph in its motor section and 22 mph in the highlights. We would ask the seller for the exact US manual and component list before relying on a specific speed, control, maintenance, or route assumption. The seller’s specifications remain distinct from Bike Tested ride or component testing.'
+      ],
+      [
+        'Listed price and the ANCHEER code',
+        'On October 24, 2026, ANCHEER’s US variant feed listed the Black / One Size StreetRider, variant 48857041338610 (SKU US01+AMAK00015_P00_US_B), at $419.99 USD. Bike Tested’s ANCHEER partner listing reports a 5% reader benefit for code SEBASTIANBASSOL, but the recorded code observation covers the Hummer variant only. StreetRider eligibility and sale stacking have not been checked, so this review shows no model-specific saving or after-code amount. Use the code at checkout and confirm the final price. ANCHEER’s policy gives a general 30-day return request window but also excludes sale items from refunds; confirm how that applies to this discounted listing before buying.'
+      ]
+    ],
+    publishedOn: '2026-10-24',
+    updatedOn: '2026-10-24',
+    specsCheckedOn: '2026-10-24',
+    faqs: [
+      ['Who is the ANCHEER StreetRider best for?', 'It suits riders seeking a compact 14-inch folding e-bike for short errands and local trips, with storage space that can be measured before purchase. The seller recommends rider heights from 4 ft 7 in to 5 ft 11 in; check the geometry chart and confirm reach for your own fit.'],
+      ['How much does the StreetRider weigh?', 'ANCHEER lists the Black / One Size StreetRider at 48.5 lb with a 265 lb maximum load. That weight is substantial for repeated stair carrying, even though the bike has a compact folding design.'],
+      ['How large is the StreetRider when folded?', 'The product page calls it foldable and gives a 49.2 × 28.7-inch profile, but it does not clearly identify a complete folded length, width, and height. Ask ANCHEER for the exact folded dimensions and compare them with your storage opening.'],
+      ['What range does the StreetRider provide?', 'ANCHEER lists a 45-mile maximum in the highlights and 45+ miles in the feature copy. It does not provide matching test conditions for those figures, so treat them as seller claims rather than a Bike Tested range result.']
+    ],
+    relatedReviews: [
+      { slug: 'ancheer-hummer-electric-bike', reason: 'Compare the StreetRider’s 14-inch compact format with ANCHEER’s Hummer, a 27.5-inch-wheel bike with a different frame and drivetrain setup.' },
+      { slug: 'tomofree-r700-electric-bike', reason: 'Compare another compact-wheel folder with 20-inch wheels and its own exact US configuration.' }
+    ],
+    price: {
+      amountMinor: 41999,
+      currency: 'USD',
+      region: 'US',
+      variantId: '48857041338610',
+      variantLabel: 'Black / One Size (SKU US01+AMAK00015_P00_US_B)',
+      source: 'https://www.ancheer.shop/products/ancheer-streetrider-ebike?variant=48857041338610',
+      checkedOn: '2026-10-24',
+      isSalePrice: true
+    },
+    eligibility: {
+      status: 'unresolved',
+      variantId: '48857041338610',
+      evidence: 'docs/evidence/ancheer-streetrider-electric-bike.md#offer-scope'
+    }
   }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}

@@ -34,7 +34,7 @@ export const guides = [
     "topics": [
       "electric-bikes"
     ],
-    "products": ["mooncool-tk2-folding-electric-trike", "mooncool-ft1-fat-tire-electric-trike", "mooncool-pop-folding-electric-bike", "mooncool-tk-pro-electric-trike", "finbike-eb8-electric-bike", "hiknight-h2-pro-off-road-ebike", "ancheer-hummer-electric-bike", "burchda-u8-step-thru-electric-bike", "eunorau-meta275-2-electric-bike", "actbest-cozy-wide-tire-step-through-electric-bike", "lankeleisi-mg740plus-dual-motor-electric-bike", "gebike-g01-compact-folding-electric-bike", "hiboy-ex11-full-suspension-electric-bike", "young-electric-e-scout-pro-electric-bike", "eunorau-urus-2-electric-mountain-bike", "gebike-gt20-fat-tire-electric-bike", "gebike-g02-hybrid-electric-bike"],
+    "products": ["mooncool-tk2-folding-electric-trike", "mooncool-ft1-fat-tire-electric-trike", "mooncool-pop-folding-electric-bike", "mooncool-tk-pro-electric-trike", "finbike-eb8-electric-bike", "hiknight-h2-pro-off-road-ebike", "ancheer-hummer-electric-bike", "burchda-u8-step-thru-electric-bike", "eunorau-meta275-2-electric-bike", "actbest-cozy-wide-tire-step-through-electric-bike", "lankeleisi-mg740plus-dual-motor-electric-bike", "gebike-g01-compact-folding-electric-bike", "hiboy-ex11-full-suspension-electric-bike", "young-electric-e-scout-pro-electric-bike", "eunorau-urus-2-electric-mountain-bike", "gebike-gt20-fat-tire-electric-bike", "gebike-g02-hybrid-electric-bike", "ancheer-streetrider-electric-bike"],
     "related": [
       "torque-sensor-vs-cadence-sensor",
       "mid-drive-vs-hub-motor",
@@ -567,7 +567,7 @@ export const guides = [
     ],
     "image": "/images/lifestyle.webp",
     "publishedOn": "2026-10-21",
-    "updatedOn": "2026-10-23",
+    "updatedOn": "2026-10-24",
     "answer": "A step-through frame reduces the height you need to step over when mounting; a step-over frame has a higher top tube. We recommend choosing by comfortable mounting, fit, and the actual bike’s load and rack compatibility. Frame style alone does not determine quality, rider gender, or riding position.",
     "sections": [
       {
@@ -658,7 +658,7 @@ export const guides = [
       "folding-vs-full-size-ebike",
       "choose-your-first-ebike"
     ],
-    "products": ["aventon-pace-5-rec","mooncool-tk2-folding-electric-trike","hiknight-h2-pro-off-road-ebike","gebike-g03-city-commuter-ebike","burchda-u8-step-thru-electric-bike","actbest-cozy-wide-tire-step-through-electric-bike"]
+    "products": ["aventon-pace-5-rec","mooncool-tk2-folding-electric-trike","hiknight-h2-pro-off-road-ebike","gebike-g03-city-commuter-ebike","burchda-u8-step-thru-electric-bike","actbest-cozy-wide-tire-step-through-electric-bike","ancheer-streetrider-electric-bike"]
   },
   {
     "slug": "fat-tire-vs-regular-tire-ebikes",
@@ -779,7 +779,7 @@ export const guides = [
     ],
     "image": "/images/lifestyle.webp",
     "publishedOn": "2026-10-21",
-    "updatedOn": "2026-10-23",
+    "updatedOn": "2026-10-24",
     "answer": "Choose a folding e-bike when its actual folded dimensions and handling solve a storage or transport problem. Choose a full-size bike when you have convenient parking and prefer a simpler daily setup. A folding frame reduces size; it does not automatically make a bike light or easy to carry.",
     "sections": [
       {
@@ -874,7 +874,7 @@ export const guides = [
       "panniers-vs-backpack",
       "bike-or-electric-scooter"
     ],
-    "products": ["finbike-eb8-electric-bike", "hiboy-ex6f-foldable-electric-bike", "tomofree-t1max-folding-ebike", "tomofree-r700-electric-bike", "mooncool-pop-folding-electric-bike", "gebike-g01-compact-folding-electric-bike"]
+    "products": ["finbike-eb8-electric-bike", "hiboy-ex6f-foldable-electric-bike", "tomofree-t1max-folding-ebike", "tomofree-r700-electric-bike", "mooncool-pop-folding-electric-bike", "gebike-g01-compact-folding-electric-bike", "ancheer-streetrider-electric-bike"]
   },
   {
     "slug": "bike-tire-pressure",
@@ -1210,7 +1210,7 @@ export const guides = [
     ],
     "image": "/images/lifestyle.webp",
     "publishedOn": "2026-10-21",
-    "updatedOn": "2026-10-22",
+    "updatedOn": "2026-10-24",
     "answer": "E-bike range has no single reliable miles-per-charge answer. Battery energy, assistance, rider and luggage load, terrain, speed, weather, and battery condition all matter. Compare watt-hours and the stated test conditions, then plan your own route with a reserve rather than treating an advertised maximum as a guarantee.",
     "sections": [
       {
@@ -1304,7 +1304,7 @@ export const guides = [
       "torque-sensor-vs-cadence-sensor",
       "fat-tire-vs-regular-tire-ebikes"
     ],
-    "products": ["aventon-pace-5-rec", "ride1up-roadster-v3", "lectric-xpress2", "finbike-eb8-electric-bike", "hiknight-h2-pro-off-road-ebike", "eunorau-meta275-2-electric-bike", "lankeleisi-mg740plus-dual-motor-electric-bike", "mooncool-tk-pro-electric-trike"]
+    "products": ["aventon-pace-5-rec", "ride1up-roadster-v3", "lectric-xpress2", "finbike-eb8-electric-bike", "hiknight-h2-pro-off-road-ebike", "eunorau-meta275-2-electric-bike", "lankeleisi-mg740plus-dual-motor-electric-bike", "mooncool-tk-pro-electric-trike", "ancheer-streetrider-electric-bike"]
   },
   {
     "slug": "cost-to-charge-an-ebike",
