@@ -1915,6 +1915,99 @@ export const products = [
       checkedOn: '2026-10-24',
       exclusions: 'Exact US variant 55761854169256 / SKU MSK1172 only; shipping/tax not calculated; no address or order; isolated test cart cleared.'
     }
+  },
+  {
+    slug: 'mooncool-tk2-pro-electric-trike',
+    brand: 'mooncool',
+    name: 'Mooncool TK2 Pro Electric Trike',
+    model: 'TK2 PRO, Burgundy-Matte / US (variant 46361523617964; SKU TP2-20JH)',
+    image: '/images/products/mooncool-tk2-pro-electric-trike.webp',
+    imageAlt: 'Burgundy Mooncool TK2 Pro electric trike with front and rear cargo baskets, shown in side profile',
+    imageWidth: 1200,
+    imageHeight: 1200,
+    publishedOn: '2026-10-24',
+    updatedOn: '2026-10-24',
+    specsCheckedOn: '2026-10-24',
+    category: 'electric-bikes',
+    use: 'utility',
+    label: 'For low-step cargo trips and roll-in storage',
+    headline: 'A folding, basket-ready trike with a full-size footprint.',
+    description: 'The TK2 Pro pairs a low-step folding frame, two cargo baskets and a 48V 20Ah battery. At 45 kg and 29 inches wide when assembled, it is easier to plan as a roll-in utility trike than as a lift-and-carry folder.',
+    verdict: 'We recommend the Mooncool TK2 Pro to riders who want a low-step electric trike with front and rear baskets and have a practical route into storage. The 750W motor, torque and cadence sensing, parking brake and folding frame give it a useful everyday feature set on paper. Its 45 kg weight and 29-inch assembled width still call for a measured parking and maneuvering plan. Mooncool’s page gives different range figures, and the exact Burgundy-Matte cart accepted SEBASTIANBASSOL for $99.99 off the listed $1,999.99 sale price, leaving a $1,900.00 cart item subtotal before shipping and tax.',
+    strengths: [
+      'A low-step frame, 20 × 3-inch tires and a front basket plus a larger rear basket suit errands that need stable cargo space.',
+      'The 48V 20Ah battery pairs with a 750W motor rated at 90 N·m and a torque and cadence sensor; Mooncool lists five pedal-assist levels and a half-twist throttle.',
+      'Hydraulic disc brakes, a parking brake, reverse, a differential, turn signals and a horn are listed for low-speed utility riding.',
+      'The frame folds to a listed 39.4 × 28.7 × 26.8 inches, which can help with storage when the space and access route are wide enough.'
+    ],
+    tradeoffs: [
+      'At 45 kg (about 99 lb) and 29 inches wide assembled, folding does not make this trike convenient to lift. Measure doorways, turning space, ramp width and the route to its parking spot.',
+      'Mooncool’s product description says 45–75 miles, while its highlights and specifications say up to 100 miles. The page gives no shared test conditions for the higher figure, so treat range as an unverified manufacturer estimate.',
+      'The page lists a 3A charger and 6–8 hours to charge, while describing a 5A fast charger as an option. Confirm which charger is included with the selected listing if charging time matters.',
+      'The 450 lb maximum load is a manufacturer limit; confirm how Mooncool defines rider, passenger and cargo loading for the exact configuration. Three-wheel handling differs from a two-wheel bicycle, so practice turns and braking in a clear area before carrying a load.'
+    ],
+    specs: {
+      'Motor': '750W rated, 1,310W peak, 90 N·m (manufacturer-listed)',
+      'Battery': '48V 20Ah (manufacturer-listed)',
+      'Advertised range': '45–75 miles in the product description; up to 100 miles in highlights and specifications; no test conditions supplied for the higher figure',
+      'Top speed and class': '15.5 mph top safe speed; Mooncool labels the trike Class 2',
+      'Weight and load': '45 kg / about 99 lb; 450 lb maximum load (manufacturer-listed)',
+      'Assembled dimensions': '66 in long × 29 in wide; 30.3–39 in seat height; recommended rider height 5 ft–6 ft 3 in',
+      'Folded dimensions': '39.4 × 28.7 × 26.8 in',
+      'Wheels and tires': '20 × 3.0 in CST tires',
+      'Assistance and drivetrain': 'Torque and cadence sensor; five pedal-assist levels; half-twist throttle; Shimano 6-speed Tourney drivetrain',
+      'Brakes': 'Hydraulic disc brakes with 180 mm rotors; parking brake and motor cutoff listed',
+      'Utility features': 'Front and rear baskets, reverse, differential, turn signals, horn and lights',
+      'Charging': '3A charger listed with 6–8 hour charge time; 5A fast charger described as an option',
+      'Certification claim': 'Mooncool says SGS certified to UL 2849 and UL 2271; not independently verified by Bike Tested',
+      'Warranty': 'Lifetime frame, two-year battery and one-year parts coverage listed; check full exclusions and terms'
+    },
+    source: 'https://www.mooncool.com/products/tk2-pro-electric-trike?variant=46361523617964',
+    sourceLinks: [],
+    evidence: 'Manufacturer-specification evaluation; official US product listing and exact-variant cart observation; no Bike Tested ride or range testing.',
+    relatedReviews: [
+      { slug: 'mooncool-tk2-folding-electric-trike', reason: 'Compare the separately listed TK2 model; confirm the exact feature and battery differences with Mooncool.' }
+    ],
+    sections: [
+      ['A utility trike for buyers who want three wheels', 'The TK2 Pro is built around a low-step frame, front and rear baskets, 20 × 3-inch tires and a folding structure. Mooncool lists a 750W motor, 90 N·m torque and a torque and cadence sensor, with five pedal-assist levels and a six-speed Shimano Tourney drivetrain. These are manufacturer specifications; Bike Tested has not ridden the trike or measured its handling, braking, range or hill performance. Start with whether a three-wheel layout and the full-width cargo format suit your route.'],
+      ['Check the complete path into storage', 'The trike measures 66 inches long and 29 inches wide assembled. Mooncool lists a folded size of 39.4 × 28.7 × 26.8 inches and a net weight of 45 kg (about 99 lb). Folding may help it fit a planned space, but does not make it easy to carry. Measure the narrowest doorway, turning area, ramp, lift or vehicle opening on the way to storage. Its 450 lb maximum load is a manufacturer limit; ask Mooncool how that limit applies to the rider and the cargo you plan to carry.'],
+      ['Read the range claim as a wide estimate', 'Mooncool’s product description says 45–75 miles per charge, while the highlights and technical section give up to 100 miles. The page does not state matching rider-load, speed, terrain, temperature or assistance conditions for the highest figure. Treat both as manufacturer estimates rather than a Bike Tested result. For a regular route, confirm the assumptions behind the figure and plan with a reserve rather than relying on the 100-mile headline.'],
+      ['Plan charging and controls around the listed package', 'The product page lists a 3A charger and a 6–8-hour charging time, then describes a 5A fast charger as an option. Confirm whether the optional charger is part of the selected package. Mooncool also lists reverse, a differential, turn signals, a horn and a parking brake. Learn the reverse and brake controls in an open area and practice turns at low speed before carrying cargo. The page labels the trike Class 2 and lists a 15.5 mph top safe speed; confirm the rules for your location and route.'],
+      ['The code result is specific to Burgundy-Matte', 'On October 24, 2026, the official US listing showed the Burgundy-Matte variant 46361523617964 (SKU TP2-20JH) at $1,999.99, marked down from $2,599.99. In a cart containing only that trike, SEBASTIANBASSOL was accepted and the cart showed $99.99 off, leaving a $1,900.00 item subtotal before shipping and tax. This is an exact-variant cart observation, not a completed order; no delivery address was entered, and the cart was cleared. Other colors and Mooncool models were not checked by this observation.']
+    ],
+    faqs: [
+      ['How far can the Mooncool TK2 Pro travel on a charge?', 'Mooncool’s product description says 45–75 miles, while its highlights and specifications say up to 100 miles. The page does not provide comparable test conditions for the higher number. Treat the range as an estimate, not a Bike Tested measurement, and ask which rider, speed and route conditions the estimate assumes.'],
+      ['How much space does the TK2 Pro need?', 'Mooncool lists an assembled footprint of 66 inches long by 29 inches wide and a folded size of 39.4 × 28.7 × 26.8 inches. Measure the whole route to storage, including turns and ramps; the listed weight is 45 kg (about 99 lb).'],
+      ['What is the Mooncool TK2 Pro weight limit?', 'Mooncool lists a 450 lb maximum load. Confirm with the seller how the limit applies to rider and cargo for your selected configuration, and leave margin for any accessories or carried items.'],
+      ['Which charger comes with the TK2 Pro?', 'The product page lists a 3A charger and a 6–8-hour charge time, while describing a 5A fast charger as an option. Check the package attached to your exact order and ask whether the optional charger is included.'],
+      ['Does the Mooncool code apply to the TK2 Pro?', 'The Burgundy-Matte US variant 46361523617964 (SKU TP2-20JH) was listed at $1,999.99 on October 24, 2026. In a cart containing one trike, SEBASTIANBASSOL was accepted for $99.99 off, leaving a $1,900.00 item subtotal before shipping and tax. No address or order was entered; other variants were not checked.']
+    ],
+    price: {
+      amountMinor: 199999,
+      currency: 'USD',
+      region: 'US',
+      variantId: '46361523617964',
+      variantLabel: 'Burgundy-Matte / US (SKU TP2-20JH)',
+      source: 'https://www.mooncool.com/products/tk2-pro-electric-trike?variant=46361523617964',
+      checkedOn: '2026-10-24',
+      isSalePrice: true
+    },
+    eligibility: {
+      status: 'eligible',
+      variantId: '46361523617964',
+      evidence: 'docs/evidence/mooncool-tk2-pro-electric-trike.md#exact-variant-cart-check'
+    },
+    checkoutObservation: {
+      code: 'SEBASTIANBASSOL',
+      stage: 'cart',
+      variantId: '46361523617964',
+      baseAmountMinor: 199999,
+      discountMinor: 9999,
+      afterAmountMinor: 190000,
+      currency: 'USD',
+      checkedOn: '2026-10-24',
+      exclusions: 'Exact Burgundy-Matte US variant 46361523617964 / SKU TP2-20JH only; cart showed $99.99 off and $1,900.00 item subtotal before shipping and tax; no address or order; test cart cleared.'
+    }
   }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}

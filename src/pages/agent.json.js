@@ -34,6 +34,7 @@ const publicProduct = product => {
     } : null,
     checkoutObservation: product.checkoutObservation ? {
       code: product.checkoutObservation.code,
+      stage: product.checkoutObservation.stage || null,
       variantId: product.checkoutObservation.variantId,
       baseAmountMinor: product.checkoutObservation.baseAmountMinor,
       discountMinor: product.checkoutObservation.discountMinor,

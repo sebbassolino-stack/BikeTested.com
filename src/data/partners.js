@@ -370,7 +370,7 @@ export const partners = [
     "discount": {
       "type": "percent",
       "value": 5,
-      "scope": "5% reader code; exact TK2 Cyan Green-Matte eligibility and stacking observed at US checkout."
+      "scope": "5% reader code; accepted for TK2 Cyan Green-Matte variant 46144887226540 in a US cart on October 22, 2026, and TK2 PRO Burgundy-Matte variant 46361523617964 in a US cart on October 24, 2026. Other models and variants are untested."
     }
   },
   {

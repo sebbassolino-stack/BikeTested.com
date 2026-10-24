@@ -246,17 +246,17 @@
       "brand": "Mooncool",
       "brandSlug": "mooncool",
       "category": "electric-bikes",
-      "status": "ready-for-product-research",
+      "status": "ready-for-release",
       "priority": 1,
-      "product": null,
-      "officialSource": null,
-      "reviewUrl": null,
+      "product": "TK2 PRO Electric Trike, Burgundy-Matte / US (variant 46361523617964; SKU TP2-20JH)",
+      "officialSource": "https://www.mooncool.com/products/tk2-pro-electric-trike?variant=46361523617964",
+      "reviewUrl": "/reviews/mooncool-tk2-pro-electric-trike",
       "affiliateUrl": "https://www.mooncool.com/?ref=znnfuofi",
       "code": "SEBASTIANBASSOL",
       "reportedBenefit": "5% off",
       "offerDetailNeeded": false,
-      "checkoutTestedOn": null,
-      "nextStep": "Choose one exact current SKU from this storefront; record model, variant, primary specifications and official image provenance before drafting."
+      "checkoutTestedOn": "2026-10-24",
+      "nextStep": "Review prepared for the official Burgundy-Matte US variant. The exact cart accepted SEBASTIANBASSOL for $99.99 off the $1,999.99 sale price; the cart item subtotal was $1,900.00 before shipping and tax. No address or order. The official source image already had transparency and is recorded with its provenance; release after build and production verification."
     },
     {
       "brand": "Voltrover",
