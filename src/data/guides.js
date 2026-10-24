@@ -354,14 +354,15 @@ export const guides = [
     ],
     "image": "/images/lifestyle.webp",
     "publishedOn": "2026-10-21",
-    "updatedOn": "2026-10-22",
+    "updatedOn": "2026-10-24",
     "answer": "A hub motor drives a wheel; a mid-drive sends power through the bike’s drivetrain. We would compare mid-drives closely for sustained climbing and changing loads, and include hub-drive bikes for straightforward everyday riding. Choose using the complete bike, local service, and your route rather than motor wattage alone.",
     "sections": [
       {
         "heading": "Where the power enters the bike",
         "paragraphs": [
           "With a hub-drive bike, the motor is located in a wheel. The rider still uses the bicycle’s gears, but those gears do not change the hub motor’s own gearing. With a conventional mid-drive layout, the motor adds power near the cranks and passes it through the drivetrain.",
-          "A mid-drive therefore makes gear choice part of managing motor assistance. This is a reason to compare the systems on the route you expect to ride, rather than assuming that a bigger advertised watt figure tells the whole story."
+          "A mid-drive therefore makes gear choice part of managing motor assistance. This is a reason to compare the systems on the route you expect to ride, rather than assuming that a bigger advertised watt figure tells the whole story.",
+          "The HiKNiGHT GTX2 is a separate high-output electric dirt-bike example: its seller lists a 5,000W peak mid-drive and a 45 mph maximum. It is not a like-for-like commuter comparison; check rider requirements and permitted off-road access before weighing it against an ordinary e-bike."
         ]
       },
       {
@@ -449,7 +450,7 @@ export const guides = [
       "ebike-range-explained",
       "choose-your-first-ebike"
     ],
-    "products": ["ride1up-roadster-v3", "lectric-xpress2", "hiknight-h2-pro-off-road-ebike", "lankeleisi-mg740plus-dual-motor-electric-bike", "lankeleisi-x3000-max-dual-motor-electric-bike", "mooncool-tk-pro-electric-trike"]
+    "products": ["ride1up-roadster-v3", "lectric-xpress2", "hiknight-h2-pro-off-road-ebike", "lankeleisi-mg740plus-dual-motor-electric-bike", "lankeleisi-x3000-max-dual-motor-electric-bike", "mooncool-tk-pro-electric-trike", "hiknight-gtx2-electric-dirt-bike"]
   },
   {
     "slug": "belt-drive-vs-chain-drive",

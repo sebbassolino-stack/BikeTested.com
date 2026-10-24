@@ -144,6 +144,86 @@ export const products = [
     "checkoutObservation":{"code":"SEBASTIANBASSOL","variantId":"46697841885404","baseAmountMinor":134900,"discountMinor":10000,"afterAmountMinor":124900,"currency":"USD","checkedOn":"2026-10-22","exclusions":"Before shipping and tax; no delivery address entered; checkout displayed an estimated tax that was not final."}
   },
   {
+    "slug":"hiknight-gtx2-electric-dirt-bike",
+    "brand":"hiknight",
+    "name":"HiKNiGHT GTX2 Electric Dirt Bike",
+    "model":"Silver-Black / US (variant 52273751130332; SKU HKN-GTX2-BO-US)",
+    "image":"/images/products/hiknight-gtx2-electric-dirt-bike.webp",
+    "imageAlt":"Silver, black and orange HiKNiGHT GTX2 electric dirt bike with 14-inch front and 12-inch rear off-road tires",
+    "imageWidth":1200,
+    "imageHeight":1200,
+    "category":"electric-mobility",
+    "use":"private",
+    "label":"For experienced off-road riders",
+    "headline":"High output, with important weight and use checks.",
+    "description":"HiKNiGHT lists a 5,000W-peak mid-drive, removable 52V 27Ah battery and a 45 mph maximum. Weight, charging-time and certification details differ across the seller’s pages, so confirm the exact build and permitted riding area before ordering.",
+    "verdict":"We recommend the HiKNiGHT GTX2 only for a rider seeking an electric dirt bike for a permitted off-road setting, with the experience, storage and transport plan for a machine the seller lists at roughly 115–121 lb. HiKNiGHT advertises a 5,000W peak mid-drive, a removable 52V 27Ah battery and a 45 mph maximum; those are manufacturer claims, not Bike Tested measurements. This is not an ordinary commuter-bike recommendation. The seller’s weight and charging-time figures conflict, and the supplied SEBASTIANBASSOL code produced no discount on the Silver-Black US variant we checked.",
+    "strengths":[
+      "The removable 52V 27Ah battery is listed at 1,404Wh, calculated from the seller’s voltage and capacity figures.",
+      "HiKNiGHT lists a 5,000W peak mid-drive with up to 255 N·m of torque, a three-speed transmission and a 45 mph maximum.",
+      "The seller lists dual hydraulic suspension, 200mm of front travel and hydraulic disc brakes with 190mm discs, paired with 14-inch front and 12-inch rear off-road tires.",
+      "The seller provides a seat height, overall dimensions and a rider-height band as starting points for checking whether this compact-wheel dirt-bike layout suits the intended rider."
+    ],
+    "tradeoffs":[
+      "HiKNiGHT advertises speeds up to 45 mph. Confirm the vehicle’s classification, rider requirements and permitted routes with the seller and relevant local authority; do not assume it is an ordinary street-legal e-bike.",
+      "The product description gives an approximate weight of 114.6 lb / 52 kg, while the specification table lists 121 lb / 55 kg. Plan for the heavier figure until HiKNiGHT confirms the exact delivered configuration.",
+      "Charging time is listed as both 4–6 hours in the description and 6–8 hours in the specification table. Ask which figure applies to the included charger and exact US build.",
+      "The seller advertises up to 52 miles without complete test conditions. This is not a Bike Tested range result or a route guarantee.",
+      "The GTX2 page says UL2272 certified, while other HiKNiGHT site pages display UL2849 language; no GTX2-specific certificate was verified for this review. Ask for documentation that identifies the exact model.",
+      "The brand advertises a two-year warranty, but its component schedule lists 12 months for the frame, battery, motor and controller, with shorter periods for many other parts. Its change-of-mind return terms list a $100 restocking fee and $150 return freight within 14 days, subject to condition and odometer limits.",
+      "SEBASTIANBASSOL is reported as $100 off and was accepted on the H2 Pro Grey US variant, but the GTX2 Silver-Black cart showed no discount. No GTX2 saving or after-code price is claimed."
+    ],
+    "specs":{
+      "Selected configuration":"Silver-Black / US; Shopify variant 52273751130332; SKU HKN-GTX2-BO-US",
+      "Motor":"5,000W peak mid-drive; up to 255 N·m torque (manufacturer-listed)",
+      "Battery":"52V 27Ah removable lithium; 1,404Wh calculated from listed voltage and capacity",
+      "Claimed top speed":"Up to 45 mph (manufacturer claim)",
+      "Claimed range":"Up to 52 miles; full test conditions not supplied",
+      "Wheels and tires":"14-inch front / 12-inch rear off-road tires",
+      "Suspension":"Dual hydraulic suspension; 200mm front travel (manufacturer-listed)",
+      "Brakes":"Hydraulic disc; 190mm discs (manufacturer-listed)",
+      "Transmission":"Three-speed",
+      "Charging time":"4–6 hours in product description; 6–8 hours in specification table",
+      "Listed weight":"114.6 lb / 52 kg in product description; 121 lb / 55 kg in specification table",
+      "Maximum payload":"265 lb / 120 kg (manufacturer-listed)",
+      "Rider-height guidance":"3 ft 11 in–6 ft 1 in / 120–185 cm (manufacturer-listed; confirm fit directly)",
+      "Seat height":"29.1 in / 74 cm (manufacturer-listed)",
+      "Dimensions":"65 × 39.8 in / 165 × 101 cm (manufacturer-listed)",
+      "Water resistance":"IP65 (manufacturer-listed)",
+      "Certification language":"GTX2 product page lists UL2272; other brand pages display UL2849. Exact-model certification was not verified."
+    },
+    "source":"https://hiknightebike.com/products/hiknight-gtx2-electric-dirt-bike?variant=52273751130332",
+    "sourceLinks":[
+      {"label":"HiKNiGHT warranty policy","url":"https://hiknightebike.com/pages/warranty-technical-support"},
+      {"label":"HiKNiGHT return and refund policy","url":"https://hiknightebike.com/pages/return-refund"}
+    ],
+    "evidence":"Manufacturer specification evaluation; exact Silver-Black US variant price and cart code check; no Bike Tested riding, speed, range, braking or fit test.",
+    "sections":[
+      ["A focused electric dirt-bike brief","The GTX2 is listed with a 5,000W peak mid-drive, up to 255 N·m of torque, a three-speed transmission and 14-inch front / 12-inch rear off-road tires. HiKNiGHT also lists dual hydraulic suspension and hydraulic disc brakes. Those specifications outline a high-output dirt-bike setup; they do not establish how it accelerates, corners or stops. Bike Tested has not ridden or measured this model."],
+      ["Treat speed and access as first-order questions","HiKNiGHT advertises a 45 mph maximum and describes the GTX2 as an electric dirt bike. Confirm its classification, operating requirements and the routes where it may be used with the seller and relevant local authority. Do not assume that the seller’s terminology, a pedal set or a safety-mark claim automatically makes it suitable for public roads, bicycle facilities or a first-time rider. Plan for appropriate protective equipment and experienced supervision where required."],
+      ["Resolve weight and fit before arranging delivery","The product description gives 52 kg / 114.6 lb, while the specification table gives 55 kg / 121 lb. Use the heavier number for storage and transport planning until HiKNiGHT confirms the exact configuration. The listed 29.1-inch seat height and broad 3 ft 11 in–6 ft 1 in rider-height band are only starting points; assess reach, control access, stand-over and low-speed balance for the intended rider. Measure the route from delivery to ground-level storage and check any carrier against the complete bike’s weight."],
+      ["Keep the range and charging claims in context","The removable 52V 27Ah battery works out to 1,404Wh from the seller’s stated values. HiKNiGHT advertises up to 52 miles, but the reviewed product copy does not give a complete test protocol for rider load, speed, terrain, temperature or riding mode. Charging time is also inconsistent: 4–6 hours in the description versus 6–8 hours in the specification table. Treat both as seller figures and confirm the charger and instructions for the exact US model."],
+      ["Check written support terms and the exact code result","HiKNiGHT advertises a two-year warranty, while its component schedule gives 12 months for the frame, battery, motor and controller and shorter coverage for many parts. Its return policy lists a $100 restocking fee and $150 return freight for eligible buyer-remorse returns within 14 days, with condition and odometer restrictions. Read the full current terms before ordering. The Silver-Black US variant was listed at $799 in the product feed and fresh cart on October 24, 2026; confirm the current item total and availability before buying. SEBASTIANBASSOL did not reduce the cart price; the $100 benefit is confirmed only on a different H2 Pro configuration. No shipping address was entered and no order was placed."]
+    ],
+    "faqs":[
+      ["How fast and how far does the HiKNiGHT GTX2 go?","HiKNiGHT lists a top speed of up to 45 mph and range up to 52 miles. The range conditions are not fully stated on the reviewed page. These are manufacturer claims, not Bike Tested speed or range results."],
+      ["Is the GTX2 a regular street e-bike?","HiKNiGHT markets the GTX2 as an electric dirt bike and advertises speeds up to 45 mph. This review does not determine its vehicle class or local access rights. Confirm rider requirements and permitted roads or trails with the seller and relevant local authority before riding."],
+      ["How heavy is the GTX2, and who does it fit?","The product description lists 52 kg / 114.6 lb, while its specification table says 55 kg / 121 lb. HiKNiGHT lists a 29.1-inch seat height and rider guidance from 3 ft 11 in to 6 ft 1 in. Confirm the exact weight and assess reach, control access and low-speed balance for the intended rider."],
+      ["How long does the GTX2 take to charge?","The product description says 4–6 hours, but its specification table says 6–8 hours. Ask HiKNiGHT which estimate matches the included charger and the exact US variant."],
+      ["What warranty and return terms apply?","HiKNiGHT advertises a two-year warranty, but its component schedule lists 12 months for the frame, battery, motor and controller and shorter terms for many parts. Its return policy lists a $100 restocking fee plus $150 US return freight for eligible non-quality returns within 14 days, subject to condition and odometer restrictions. Read the current policies and confirm GTX2 coverage before ordering."]
+    ],
+    "relatedReviews":[
+      {"slug":"hiknight-h2-pro-off-road-ebike","reason":"Compare HiKNiGHT’s step-through 26 × 4-inch H2 Pro with an accepted code on one exact Grey US variant; it is a different frame and use case."},
+      {"slug":"ekx-x21-max-electric-dirt-bike","reason":"Compare another electric dirt bike with larger 19-inch off-road tires and a different listed battery, motor and fit profile."}
+    ],
+    "publishedOn":"2026-10-24",
+    "updatedOn":"2026-10-24",
+    "specsCheckedOn":"2026-10-24",
+    "price":{"amountMinor":79900,"currency":"USD","region":"US","variantId":"52273751130332","variantLabel":"Silver-Black (SKU HKN-GTX2-BO-US)","source":"https://hiknightebike.com/products/hiknight-gtx2-electric-dirt-bike?variant=52273751130332","checkedOn":"2026-10-24","isSalePrice":true},
+    "eligibility":{"status":"unresolved","variantId":"52273751130332","evidence":"docs/evidence/hiknight-gtx2-electric-dirt-bike.md#exact-variant-cart-code-check"},
+    "codeCheckObservation":{"code":"SEBASTIANBASSOL","stage":"cart","result":"no-discount","variantId":"52273751130332","baseAmountMinor":79900,"discountMinor":0,"afterAmountMinor":79900,"currency":"USD","checkedOn":"2026-10-24","message":"After the exact Silver-Black / US variant was added to a fresh cart, the SEBASTIANBASSOL discount route redirected to the cart, but cart.js showed no discount applications and the $799.00 item price remained unchanged.","exclusions":"Exact Silver-Black / US variant 52273751130332 only; cart evidence, not completed checkout; no address or order; test cart cleared."}
+  },
+  {
     "slug":"ekx-x21-max-electric-dirt-bike",
     "brand":"ekx",
     "name":"EKX X21 Max Electric Dirt Bike",

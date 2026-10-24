@@ -428,13 +428,13 @@ export const partners = [
     "url": "https://hiknightebike.com/?ref=SEBASTIANBASSOLINO",
     "code": "SEBASTIANBASSOL",
     "benefit": "$100.00 off",
-    "discount": {"type":"fixed","value":100,"currency":"USD","scope":"Accepted on the H2 Pro Grey US variant (SKU HKN-H2PRO-Bag-GR-US) on October 22, 2026; other models and colors are untested."},
+    "discount": {"type":"fixed","value":100,"currency":"USD","scope":"Accepted on the H2 Pro Grey US variant (SKU HKN-H2PRO-Bag-GR-US) on October 22, 2026. The GTX2 Silver-Black US cart check on October 24, 2026 showed no discount; eligibility on other models and colors remains untested."},
     "category": "electric-bikes",
     "platform": "GoAffPro",
     "reportedOn": "2026-10-22",
     "status": "active",
     "evidence": "Owner-confirmed live Bike Tested partner roster, October 22, 2026",
-    "checkoutTestedOn": null,
+    "checkoutTestedOn": "2026-10-24",
     "description": "Explore Hiknight electric bikes with our reader code. Separate off-road product positioning from permission to ride on your particular roads and trails."
   },
   {
