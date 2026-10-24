@@ -1413,6 +1413,97 @@ export const products = [
     "message": "Enter a valid discount code",
     "exclusions": "Exact Default Title variant 48049109500004 / SKU G300se-ult-black only; checkout rejected the code as invalid and the $1,189.00 item price remained unchanged before shipping. No address was entered and no order was placed; the test cart was cleared."
   }
+},
+{
+  "slug": "eskute-nova-rr-5500w-electric-dirt-bike",
+  "brand": "eskute",
+  "name": "Eskute NOVA RR 5500W Electric Dirt Bike",
+  "model": "NOVA RR 5500W",
+  "image": "/images/products/eskute-nova-rr-5500w-electric-dirt-bike.webp",
+  "imageAlt": "Black Eskute NOVA RR 5500W electric dirt bike, side view",
+  "imageWidth": 1200,
+  "imageHeight": 1200,
+  "category": "electric-mobility",
+  "use": "private",
+  "label": "For off-road riding with private-ground access",
+  "headline": "A full-size dirt-bike setup with one fit detail to confirm.",
+  "description": "The NOVA RR pairs a seller-listed 60V 30Ah battery and 5,500W peak output with full suspension and hydraulic brakes. Its high-speed dirt-bike format calls for a suitable route, measured storage, and a fit check before purchase.",
+  "verdict": "We recommend the Eskute NOVA RR for riders seeking a full-size electric dirt bike for off-road use on a suitable private property or permitted course. Eskute lists a 5,500W peak output, 60V 30Ah battery, full suspension and hydraulic brakes, giving the build a clear performance brief. The product page claims speeds up to 50 mph, so treat it as a dirt-bike platform rather than a commuter bicycle. Confirm rider fit and local access before ordering.",
+  "strengths": [
+    "The 60V 30Ah battery stores 1,800Wh by calculation from Eskute's listed voltage and capacity, a substantial specification for an off-road machine.",
+    "Full suspension, dual hydraulic brakes and staggered 17 × 3.0-inch front / 14 × 3.0-inch rear tires suit the dirt-bike format on paper.",
+    "Eskute lists a 350 lb maximum payload and a recommended rider-height range, giving buyers useful starting points for a fit conversation.",
+    "SEBASTIANBASSOL was accepted in checkout for the exact Black / 5500W / 60V 30Ah variant; the cart showed a $15 order-level discount."
+  ],
+  "tradeoffs": [
+    "The seller lists a 35–50 mph speed range. Confirm where this exact vehicle may be ridden and what registration, equipment and access rules apply locally; the page does not establish road legality.",
+    "At a listed 143 lb, the bike needs ground-level storage and a realistic plan for moving, loading and servicing it.",
+    "The recommended 5 ft 6 in–6 ft 7 in rider range conflicts with a sizing widget that displays `5.7`, so ask Eskute to confirm the geometry and rider fit for this configuration.",
+    "One visible seller-hosted review entry is a template prompt requesting `30 authentic-sounding` comments. We do not use that widget as independent rider-use evidence."
+  ],
+  "specs": {
+    "Selected configuration": "Black / Bike(5500W，60V 30Ah); variant 58555389149558; SKU NOVA-RR-BK",
+    "Motor listing": "5,500W peak; product page field is labeled `Hub MotorPeak`, so placement/rating terminology is unclear",
+    "Battery": "60V 30Ah (1,800Wh calculated from listed voltage and capacity)",
+    "Claimed range": "40–60 miles in specifications; up to 60 miles in product highlights",
+    "Claimed top speed": "35–50 mph (manufacturer-listed; not measured by Bike Tested)",
+    "Suspension": "Full suspension; heavy-duty front fork and hydraulic rear suspension (manufacturer-listed)",
+    "Brakes": "Dual hydraulic brakes with 185mm rotors (manufacturer-listed)",
+    "Wheels and tires": "17 × 3.0-inch front / 14 × 3.0-inch rear off-road tires",
+    "Maximum payload": "350 lb (manufacturer-listed)",
+    "Listed weight": "143 lb (manufacturer-listed; not weighed by Bike Tested)",
+    "Recommended rider height": "5 ft 6 in–6 ft 7 in on product page; sizing widget also displays `5.7`, which needs seller clarification"
+  },
+  "source": "https://eskute.com/products/eskute%C2%AE-nova-rr-5500w-electric-dirt-bike?variant=58555389149558",
+  "evidence": "Manufacturer-specification editorial evaluation; exact-variant checkout code-acceptance observation; no ride testing",
+  "sections": [
+    ["A dirt-bike brief, not a city e-bike setup", "Eskute lists a 5,500W peak output and speeds from 35 to 50 mph, with a 60V 30Ah battery. The product page calls the NOVA RR an electric dirt bike and presents motorcycle-style equipment rather than a conventional commuter layout. Those are seller specifications, not Bike Tested speed or range measurements. Choose a permitted riding area first, then confirm local classification and access for this exact vehicle; the listing does not establish street legality."],
+    ["Suspension and braking are specified for rougher ground", "The listing pairs full suspension with a heavy-duty front fork, hydraulic rear suspension, dual hydraulic brakes and 185mm rotors. Eskute also lists 17 × 3.0-inch front and 14 × 3.0-inch rear off-road tires. That is a coherent equipment list for buyers comparing dirt-bike formats. It does not establish traction, comfort, stopping distance or durability in use, so treat each performance figure as a manufacturer claim and plan an appropriate introduction to the machine."],
+    ["Confirm fit and storage before you commit", "Eskute lists a 143 lb bike, a 350 lb maximum payload and a recommended rider-height range of 5 ft 6 in to 6 ft 7 in. The same page's sizing widget displays `5.7`, which does not resolve to a clear rider-height range. Ask the seller to confirm the measurement, seat height and reach for the exact NOVA RR, then compare those details with the rider and protective equipment. The weight also favors a roll-in storage and loading plan over frequent lifting."],
+    ["The reader code was accepted, but checkout showed an order discount", "On October 23, 2026, checkout accepted SEBASTIANBASSOL for the Black / Bike(5500W，60V 30Ah) variant (58555389149558; SKU NOVA-RR-BK). The cart contained one $1,299.00 bike and an automatically added $0 helmet; checkout applied a $15 order-level discount and showed a $1,284.00 subtotal. Because the reduction was allocated at cart level, we do not present $1,284.00 as a line-item bike price. No delivery address was entered, shipping was not calculated, and the checkout's New Jersey tax estimate was provisional. No order was placed; the test cart was cleared."],
+    ["Read the seller-hosted comments cautiously", "One entry visible in Eskute's review widget reads like a prompt asking for 30 `authentic-sounding` comments based on the product page. We therefore do not use that widget as independent rider testimony or as evidence of reliability. The listed specifications can help narrow a comparison, but ask Eskute for written fit, warranty and service details before purchase."]
+  ],
+  "publishedOn": "2026-10-23",
+  "updatedOn": "2026-10-23",
+  "specsCheckedOn": "2026-10-23",
+  "faqs": [
+    ["Is the Eskute NOVA RR street legal?", "Eskute presents the NOVA RR as an electric dirt bike and lists speeds up to 50 mph. Its product page does not establish road legality or permission in a particular location. Confirm the vehicle's classification, registration and route requirements with local authorities before riding outside a permitted private area or course."],
+    ["What range does the NOVA RR claim?", "Eskute's specifications list 40–60 miles, while product highlights say up to 60 miles. These are manufacturer estimates, not Bike Tested range measurements. Rider load, speed, terrain, temperature and riding mode affect actual distance."],
+    ["How heavy is the NOVA RR, and who does it fit?", "Eskute lists 143 lb, a 350 lb maximum payload and a recommended rider-height range of 5 ft 6 in–6 ft 7 in. The sizing widget also displays `5.7`, so ask the seller to clarify the measurement and confirm seat height and reach for the exact configuration."],
+    ["Was SEBASTIANBASSOL accepted for the NOVA RR?", "Checkout accepted SEBASTIANBASSOL on October 23, 2026, for Black / Bike(5500W，60V 30Ah), variant 58555389149558 (SKU NOVA-RR-BK). It applied a $15 order-level discount to a cart with the $1,299 bike and an automatically added $0 helmet. The $1,284 subtotal is not reported as a bike line price because checkout did not allocate the discount to an item. Shipping was uncalculated; no address or order was entered, and the test cart was cleared."]
+  ],
+  "relatedReviews": [
+    {"slug": "voltrover-m5-electric-dirt-bike", "reason": "Compare another compact electric dirt bike with a lower seller-listed top speed and different fit details; check its off-road access and current store terms."},
+    {"slug": "ekx-x21-max-electric-dirt-bike", "reason": "Compare another high-output electric dirt bike and review how its manufacturer documents speed, range and exact-variant checkout."}
+  ],
+  "price": {
+    "amountMinor": 129900,
+    "currency": "USD",
+    "region": "US",
+    "variantId": "58555389149558",
+    "variantLabel": "Black / Bike(5500W，60V 30Ah) (SKU NOVA-RR-BK)",
+    "source": "https://eskute.com/products/eskute%C2%AE-nova-rr-5500w-electric-dirt-bike?variant=58555389149558",
+    "checkedOn": "2026-10-23",
+    "isSalePrice": true
+  },
+  "eligibility": {
+    "status": "eligible",
+    "variantId": "58555389149558",
+    "evidence": "docs/evidence/eskute-nova-rr-5500w-electric-dirt-bike.md#exact-variant-checkout"
+  },
+  "codeCheckObservation": {
+    "code": "SEBASTIANBASSOL",
+    "stage": "checkout",
+    "result": "accepted-order-discount",
+    "variantId": "58555389149558",
+    "baseAmountMinor": 129900,
+    "discountMinor": 1500,
+    "afterAmountMinor": 128400,
+    "currency": "USD",
+    "checkedOn": "2026-10-23",
+    "message": "Checkout accepted the code and applied a $15.00 order-level discount to a cart containing the $1,299.00 bike and an automatically added $0 helmet. The $1,284.00 cart subtotal is not treated as a bike line-item price because the checkout did not allocate the order discount to an item.",
+    "exclusions": "Exact Black / Bike(5500W，60V 30Ah) variant 58555389149558 / SKU NOVA-RR-BK only; shipping was uncalculated because no delivery address was entered. A provisional New Jersey tax estimate appeared before address details. No order was placed; the test cart was cleared."
+  }
 }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
@@ -1430,6 +1521,8 @@ export const offers=partners.map(p=>{
     :codeCheckProduct
       ?codeCheckProduct.result==='invalid-code'
         ?`On ${priceDateLabel(codeCheckProduct.checkedOn)}, checkout rejected ${p.code} as invalid for ${codeCheckProduct.name}, ${codeCheckProduct.variantLabel}. The ${codeCheckProduct.baseFormatted} item price remained unchanged, so no saving is confirmed for that configuration. Other models and variants have not been checked; confirm the current final total at this storefront.`
+        :codeCheckProduct.result==='accepted-order-discount'
+          ?`On ${priceDateLabel(codeCheckProduct.checkedOn)}, checkout accepted ${p.code} for ${codeCheckProduct.name}, ${codeCheckProduct.variantLabel}, and applied ${codeCheckProduct.discountFormatted} as an order-level discount to a cart containing the bike and an automatically added $0 helmet. The discount was not allocated to an item, so no after-code bike price is reported. Other models and variants have not been checked; confirm the current final total at this storefront.`
         :`On ${priceDateLabel(codeCheckProduct.checkedOn)}, ${p.code} was entered in the ${codeCheckProduct.stage} for ${codeCheckProduct.name}, ${codeCheckProduct.variantLabel}. The ${codeCheckProduct.stage} allocated ${codeCheckProduct.discountFormatted} off, so no saving is confirmed for that configuration. Other models and variants have not been checked; confirm the current final total at this storefront.`
       :p.terms||'Product eligibility, minimum spend, exclusions, stacking and expiry have not been supplied. Confirm any discount in the final checkout total at this storefront.';
   return {...p,benefit:p.benefit??(discount?discountLabel(discount):null),discount,brand:p.slug,eligibleStore:new URL(p.url).hostname,terms,checkoutTestedOn:tested?.checkoutObservation?.checkedOn||codeCheckProduct?.checkedOn||p.checkoutTestedOn||null,checkoutTestProduct,codeCheckProduct};

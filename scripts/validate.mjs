@@ -45,13 +45,18 @@ for(const p of products){
     assert(offer?.code&&date(observation.checkedOn),`Code check provenance: ${p.slug}`);
     assert.equal(observation.code,offer.code,`Code check scope: ${p.slug}`);
     assert(['cart','checkout'].includes(observation.stage),`Code check stage: ${p.slug}`);
-    assert(['no-discount','invalid-code'].includes(observation.result),`Code check result: ${p.slug}`);
+    assert(['no-discount','invalid-code','accepted-order-discount'].includes(observation.result),`Code check result: ${p.slug}`);
     assert.equal(observation.variantId,p.price.variantId,`Code check variant: ${p.slug}`);
     assert.equal(observation.currency,p.price.currency,`Code check currency: ${p.slug}`);
     assert.equal(observation.baseAmountMinor,p.price.amountMinor,`Code check base amount: ${p.slug}`);
-    assert.equal(observation.discountMinor,0,`No-discount observation: ${p.slug}`);
-    assert.equal(observation.afterAmountMinor,observation.baseAmountMinor,`No-discount arithmetic: ${p.slug}`);
-    assert.equal(p.eligibility?.status,'unresolved',`No-discount check cannot confirm eligibility: ${p.slug}`);
+    if(observation.result==='accepted-order-discount'){
+      assert(observation.discountMinor>0&&observation.afterAmountMinor===observation.baseAmountMinor-observation.discountMinor,`Order-level discount arithmetic: ${p.slug}`);
+      assert.equal(p.eligibility?.status,'eligible',`Accepted exact variant: ${p.slug}`);
+    }else{
+      assert.equal(observation.discountMinor,0,`No-discount observation: ${p.slug}`);
+      assert.equal(observation.afterAmountMinor,observation.baseAmountMinor,`No-discount arithmetic: ${p.slug}`);
+      assert.equal(p.eligibility?.status,'unresolved',`No-discount check cannot confirm eligibility: ${p.slug}`);
+    }
     assert(p.eligibility.evidence&&existsSync(p.eligibility.evidence.split('#')[0]),`Code check evidence: ${p.slug}`);
   }
   if(p.slug==='mooncool-tk2-folding-electric-trike'){

@@ -357,18 +357,18 @@
     {
       "brand": "Eskute",
       "brandSlug": "eskute",
-      "category": "electric-bikes",
-      "status": "ready-for-product-research",
+      "category": "electric-mobility",
+      "status": "review-in-progress",
       "priority": 2,
-      "product": null,
-      "officialSource": null,
-      "reviewUrl": null,
+      "product": "Eskute NOVA RR 5500W Electric Dirt Bike, Black / Bike(5500W，60V 30Ah) (variant 58555389149558; SKU NOVA-RR-BK)",
+      "officialSource": "https://eskute.com/products/eskute%C2%AE-nova-rr-5500w-electric-dirt-bike?variant=58555389149558",
+      "reviewUrl": "/reviews/eskute-nova-rr-5500w-electric-dirt-bike",
       "affiliateUrl": "https://eskute.com/?ref=zrjrdlrv",
       "code": "SEBASTIANBASSOL",
       "reportedBenefit": null,
       "offerDetailNeeded": true,
-      "checkoutTestedOn": null,
-      "nextStep": "Choose one exact current SKU from this storefront; record model, variant, primary specifications and official image provenance before drafting."
+      "checkoutTestedOn": "2026-10-23",
+      "nextStep": "The local build and 375px review/promo QA passed. Checkout accepted SEBASTIANBASSOL for this exact variant and showed a $15 order-level discount in a cart with the bike and an automatically added $0 helmet; no item-level after-code price is claimed. Commit, deployment and live verification remain."
     },
     {
       "brand": "eWheels",
