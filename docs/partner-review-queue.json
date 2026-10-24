@@ -790,7 +790,7 @@
       "brand": "Mooncool",
       "brandSlug": "mooncool",
       "category": "electric-bikes",
-      "status": "review-in-progress",
+      "status": "review-published-live-routes-verified",
       "priority": 1,
       "product": "POP Folding Electric Bike, Cyan Green-Matte / US (variant 46685427564716; SKU POP-QL)",
       "officialSource": "https://www.mooncool.com/products/pop-folding-electric-bike?variant=46685427564716",
@@ -800,7 +800,7 @@
       "reportedBenefit": "5% off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-24",
-      "nextStep": "Review and transparent exact-product image are ready locally. npm run check and npm run build passed; local review, Mooncool promo and image routes returned 200. Visual browser QA unavailable because the Mac is locked. Push and production verification pending."
+      "nextStep": "Published in review commit 90b6e1f; Cloudflare Pages check succeeded (deployment ec39cd5d-7892-4bae-a003-e00fd059c3cb). Live review, promo and exact official image return 200; live/local image SHA-256 matches; live review and agent feed include the exact partner URL, code and supported price states. Visual browser QA unavailable because the Mac is locked; no address or order was entered."
     }
   ]
 }
