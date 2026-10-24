@@ -3634,6 +3634,102 @@ export const products = [
       variantId: '51947292098881',
       evidence: 'docs/evidence/gebike-g02-hybrid-electric-bike.md#partner-code-scope'
     }
+  },
+  {
+    slug: 'cycplus-a4-mini-electric-air-pump',
+    brand: 'cycplus',
+    name: 'CYCPLUS A4 Mini Air Pump',
+    model: 'A4 Mini, US Default Title (variant 67561506898078; SKU AS300PRO)',
+    image: '/images/products/cycplus-a4-mini-electric-air-pump.webp',
+    imageAlt: 'Black CYCPLUS A4 Mini electric bicycle pump with integrated hose, digital display and controls',
+    imageWidth: 1200,
+    imageHeight: 1200,
+    category: 'cycling-technology',
+    use: 'utility',
+    label: 'For a compact pump with a hose built in',
+    headline: 'A small electric inflator with an integrated rotating hose and clear pressure readout.',
+    description: 'At a manufacturer-listed 0.46 lb and about 4.02 × 1.97 × 1.77 inches, the A4 Mini pairs a built-in 180° rotating hose with a digital pressure display and a 120 PSI ceiling. CYCPLUS advertises 19 fills of a 700 × 25c tire on one charge, without publishing the starting pressure or test conditions.',
+    verdict: 'We recommend the CYCPLUS A4 Mini for road and everyday riders who want a compact electric top-up pump without carrying a separate hose. Its 0.46 lb listed weight and integrated 180° rotating hose suit a small ride kit, while the digital pressure display and 120 PSI ceiling cover common bicycle inflation needs. The main buying check is the manufacturer’s full-charge tire-count claim: CYCPLUS shows 19 fills of a 700 × 25c tire but does not publish the starting pressure or test conditions. Choose it if portability matters and set pressure to your tire-and-rim guidance.',
+    strengths: [
+      'At a manufacturer-listed 0.46 lb and about 4.02 × 1.97 × 1.77 inches, the A4 Mini takes less space than a larger compressor-style pump.',
+      'The integrated hose rotates 180°, giving the pump more positioning flexibility at the valve than a rigid direct connection.',
+      'A digital pressure readout and CYCPLUS-claimed ±1 PSI accuracy give riders a visible reference during inflation.',
+      'CYCPLUS lists a 2,000mAh battery and advertises up to 19 700 × 25c tire fills per charge; its product image identifies the tire-size scenario.',
+      'The product package image shows a charging cable and Presta valve converter, and CYCPLUS says Schrader valves connect without an additional adapter.'
+    ],
+    tradeoffs: [
+      'The 120 PSI figure is the pump’s listed maximum, not a recommended pressure for every tire or rim. Use the applicable tire and wheel guidance for your setup.',
+      'CYCPLUS does not publish a starting pressure or test conditions for the advertised 19-fill count, so treat it as a manufacturer claim rather than a guaranteed ride result.',
+      'The current public manual directory lists the A3 Mini but not the A4 Mini. Confirm current operating and charging instructions with CYCPLUS before relying on the pump for a ride.'
+    ],
+    specs: {
+      'Selected configuration': 'A4 Mini, US Default Title; variant 67561506898078; SKU AS300PRO',
+      'Maximum pressure': '120 PSI (manufacturer-listed)',
+      'Pressure display': 'Digital display; CYCPLUS-claimed ±1 PSI accuracy',
+      'Hose': 'Integrated all-in-one hose with 180° rotation (manufacturer-listed)',
+      'Dimensions': 'About 4.02 × 1.97 × 1.77 inches (manufacturer-listed)',
+      'Weight': '0.46 lb (manufacturer-listed)',
+      'Battery': '2,000mAh; CYCPLUS advertises up to 19 fills for a 700 × 25c tire without publishing starting pressure or test conditions',
+      'Valve setup': 'Schrader connection without an added adapter; Presta valve converter shown in the package (CYCPLUS)',
+      'Included': 'Inflator, charging cable and Presta valve converter shown in the CYCPLUS product package image',
+      'Listed US price': '$59.99 USD on October 24, 2026; no lower compare-at price in the official variant feed'
+    },
+    source: 'https://www.cycplus.com/products/a4-mini-electric-tire-pump?variant=67561506898078',
+    sourceLinks: [
+      { label: 'CYCPLUS pumps FAQ', url: 'https://www.cycplus.com/pages/pumps-faq' },
+      { label: 'CYCPLUS instruction manual directory', url: 'https://www.cycplus.com/pages/instruction-manuals' }
+    ],
+    evidence: 'Manufacturer-specification editorial evaluation based on the official A4 Mini page, variant feed and product gallery, plus the CYCPLUS pump FAQ; no Bike Tested inflation or pressure-accuracy measurement.',
+    sections: [
+      [
+        'A compact carry with the hose attached',
+        'CYCPLUS lists the A4 Mini at 0.46 lb and shows a body about 4.02 inches tall. That makes it easier to plan for a small saddle bag or everyday repair kit than a larger compressor-style pump, while the attached hose avoids packing a separate line. The hose turns through 180 degrees, which gives riders more freedom to position the body while connecting it at the wheel. Check your bag opening and valve access before deciding where it will live.'
+      ],
+      [
+        'A pressure readout with a clear upper limit',
+        'The digital display gives you a visible pressure reading, and CYCPLUS claims ±1 PSI accuracy. The listed 120 PSI ceiling is a pump capability, not a target for your tire. Use the tire and rim makers’ guidance for the exact combination, load and riding conditions, and stay within the lowest applicable limit. If your target is near the pump’s maximum, check that your wheel and tire allow it before inflating.'
+      ],
+      [
+        'Match the valve and prepare the charger',
+        'CYCPLUS says its pump FAQ’s Schrader connection needs no separate attachment and that Presta inflation requires the valve adapter; the A4 package image shows a Presta converter and charging cable. Identify your valve and practice the connection before a ride. The current public instruction directory lists an A3 Mini manual but not an A4 Mini manual, and the A4 product materials do not state a charging interface or recharge time. Confirm the latest instructions and cable details with CYCPLUS.'
+      ],
+      [
+        'Treat the tire-count figure as a claim to confirm',
+        'The A4 gallery advertises a 2,000mAh battery and shows up to 19 fills for a 700 × 25c tire on one charge. It does not state the starting pressure, ending pressure or conditions for that figure. Actual use depends on how much air the tire needs and the selected target, so the stated count should not be treated as a promise for a particular ride. Charge the pump before setting out and keep a backup plan for longer routes.'
+      ],
+      [
+        'Current price and code eligibility',
+        'On October 24, 2026, the official US variant feed listed the A4 Mini, variant 67561506898078 / SKU AS300PRO, at $59.99. Bike Tested’s CYCPLUS partner offer supplies the code SEBASTIANBASSOL for a reported 5% discount, but recorded acceptance is limited to AS2 Pro Max and AS2 Ultra variants. A4 Mini eligibility and sale stacking have not been confirmed, so check the current final total at checkout; this review does not calculate an A4 after-code price.'
+      ]
+    ],
+    publishedOn: '2026-10-24',
+    updatedOn: '2026-10-24',
+    specsCheckedOn: '2026-10-24',
+    faqs: [
+      ['Can the CYCPLUS A4 Mini connect to Presta and Schrader valves?', 'CYCPLUS says its pump connects directly to Schrader valves and requires a valve adapter for Presta. The A4 package image shows a Presta converter. Identify your valve and follow the current A4 instructions before inflating.'],
+      ['How much pressure can the A4 Mini provide?', 'CYCPLUS lists a 120 PSI maximum and claims ±1 PSI accuracy for the display. The maximum is not a recommended target. Use the tire and rim makers’ guidance for your exact setup and stay below every applicable limit.'],
+      ['How many tires can the A4 Mini inflate on one charge?', 'CYCPLUS advertises up to 19 fills of a 700 × 25c tire from its 2,000mAh battery, but the product gallery does not state the starting pressure or test conditions. Treat the count as a manufacturer claim; it is not a Bike Tested measurement.'],
+      ['What comes with the A4 Mini?', 'The CYCPLUS package image shows the inflator, charging cable and Presta valve converter. Check the current listing and package instructions for the contents supplied with your order.']
+    ],
+    relatedReviews: [
+      { slug: 'cycplus-as2-ultra-tiny-e-pump', reason: 'Compare the A4 Mini’s built-in hose and larger listed weight with a smaller 87 g pocket pump and its manual-documented valve setup.' },
+      { slug: 'cycplus-a8-electric-air-pump', reason: 'Compare a larger 461 g CYCPLUS pump with a higher listed pressure ceiling and a more detailed manual.' }
+    ],
+    price: {
+      amountMinor: 5999,
+      currency: 'USD',
+      region: 'US',
+      variantId: '67561506898078',
+      variantLabel: 'A4 Mini, US Default Title (SKU AS300PRO)',
+      source: 'https://www.cycplus.com/products/a4-mini-electric-tire-pump?variant=67561506898078',
+      checkedOn: '2026-10-24',
+      isSalePrice: false
+    },
+    eligibility: {
+      status: 'unresolved',
+      variantId: '67561506898078',
+      evidence: 'docs/evidence/cycplus-a4-mini-electric-air-pump.md#code-scope'
+    }
   }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}

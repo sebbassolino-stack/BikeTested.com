@@ -990,6 +990,7 @@ export const guides = [
       "cycplus-as2-pro-max-tiny-e-pump",
       "cycplus-as2-ultra-tiny-e-pump",
       "cycplus-a8-electric-air-pump",
+      "cycplus-a4-mini-electric-air-pump",
       "hycline-code-bones-fat-tire-set"
     ]
   },
@@ -1110,7 +1111,7 @@ export const guides = [
       "commuter-gear-checklist",
       "plan-your-bike-upgrades"
     ],
-    "products": ["cycplus-as2-ultra-tiny-e-pump", "cycplus-a8-electric-air-pump"]
+    "products": ["cycplus-as2-ultra-tiny-e-pump", "cycplus-a8-electric-air-pump", "cycplus-a4-mini-electric-air-pump"]
   },
   {
     "slug": "how-to-clean-lube-bike-chain",
