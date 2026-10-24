@@ -726,7 +726,7 @@
       "brand": "Cycplus",
       "brandSlug": "cycplus",
       "category": "cycling-technology",
-      "status": "review-ready-for-release",
+      "status": "review-published-live-routes-verified",
       "priority": 1,
       "product": "AS2 Ultra Tiny E-Pump for Bike, US (variant 45372870623390; SKU AS2 Ultra)",
       "officialSource": "https://www.cycplus.com/products/as2ultra?variant=45372870623390",
@@ -736,7 +736,7 @@
       "reportedBenefit": "5% off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-24",
-      "nextStep": "Review, official image cutout, evidence record, build and local 375px QA are complete. Commit, Pages deployment and production route/image verification are pending. Exact US variant 45372870623390 (SKU AS2 Ultra) showed $94.99 and accepted SEBASTIANBASSOL for $4.74 off, leaving a $90.25 item subtotal before shipping and tax; no address or order. Code acceptance is separately recorded for the AS2 Pro Max variant only."
+      "nextStep": "Published in review commit 453c134; Cloudflare Pages deployment 3a87178a-c383-495e-a1d6-2aef29c2e002 succeeded. The live review, promo and exact transparent product image return 200; the live image SHA-256 matches local. Exact US variant 45372870623390 (SKU AS2 Ultra) showed $94.99 and accepted SEBASTIANBASSOL for $4.74 off, leaving a $90.25 item subtotal before shipping and tax. Local 375px QA passed; no address or order. Continue with another coded or newly launched product."
     }
   ]
 }
