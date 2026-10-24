@@ -34,7 +34,7 @@ export const guides = [
     "topics": [
       "electric-bikes"
     ],
-    "products": ["mooncool-tk2-folding-electric-trike","finbike-eb8-electric-bike","hiknight-h2-pro-off-road-ebike","ancheer-hummer-electric-bike","burchda-u8-step-thru-electric-bike","eunorau-meta275-2-electric-bike","actbest-cozy-wide-tire-step-through-electric-bike"],
+    "products": ["mooncool-tk2-folding-electric-trike", "finbike-eb8-electric-bike", "hiknight-h2-pro-off-road-ebike", "ancheer-hummer-electric-bike", "burchda-u8-step-thru-electric-bike", "eunorau-meta275-2-electric-bike", "actbest-cozy-wide-tire-step-through-electric-bike", "lankeleisi-mg740plus-dual-motor-electric-bike"],
     "related": [
       "torque-sensor-vs-cadence-sensor",
       "mid-drive-vs-hub-motor",
@@ -340,12 +340,7 @@ export const guides = [
       "ebike-range-explained",
       "choose-your-first-ebike"
     ],
-    "products": [
-      "ride1up-roadster-v3",
-      "lectric-xpress2",
-      "finbike-eb8-electric-bike",
-      "eunorau-meta275-2-electric-bike"
-    ]
+    "products": ["ride1up-roadster-v3", "lectric-xpress2", "finbike-eb8-electric-bike", "eunorau-meta275-2-electric-bike", "lankeleisi-mg740plus-dual-motor-electric-bike"]
   },
   {
     "slug": "mid-drive-vs-hub-motor",
@@ -453,7 +448,7 @@ export const guides = [
       "ebike-range-explained",
       "choose-your-first-ebike"
     ],
-    "products": ["ride1up-roadster-v3","lectric-xpress2","hiknight-h2-pro-off-road-ebike"]
+    "products": ["ride1up-roadster-v3", "lectric-xpress2", "hiknight-h2-pro-off-road-ebike", "lankeleisi-mg740plus-dual-motor-electric-bike"]
   },
   {
     "slug": "belt-drive-vs-chain-drive",
@@ -770,7 +765,7 @@ export const guides = [
       "folding-vs-full-size-ebike",
       "ebike-range-explained"
     ],
-    "products": ["finbike-eb8-electric-bike","hiknight-h2-pro-off-road-ebike","young-electric-tire-press-2-ebike-rack","burchda-u8-step-thru-electric-bike","hycline-code-bones-fat-tire-set","actbest-cozy-wide-tire-step-through-electric-bike"]
+    "products": ["finbike-eb8-electric-bike", "hiknight-h2-pro-off-road-ebike", "young-electric-tire-press-2-ebike-rack", "burchda-u8-step-thru-electric-bike", "hycline-code-bones-fat-tire-set", "actbest-cozy-wide-tire-step-through-electric-bike", "lankeleisi-mg740plus-dual-motor-electric-bike"]
   },
   {
     "slug": "folding-vs-full-size-ebike",
@@ -1305,7 +1300,7 @@ export const guides = [
       "torque-sensor-vs-cadence-sensor",
       "fat-tire-vs-regular-tire-ebikes"
     ],
-    "products": ["aventon-pace-5-rec","ride1up-roadster-v3","lectric-xpress2","finbike-eb8-electric-bike","hiknight-h2-pro-off-road-ebike","eunorau-meta275-2-electric-bike"]
+    "products": ["aventon-pace-5-rec", "ride1up-roadster-v3", "lectric-xpress2", "finbike-eb8-electric-bike", "hiknight-h2-pro-off-road-ebike", "eunorau-meta275-2-electric-bike", "lankeleisi-mg740plus-dual-motor-electric-bike"]
   },
   {
     "slug": "cost-to-charge-an-ebike",
