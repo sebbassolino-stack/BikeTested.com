@@ -2456,6 +2456,114 @@ export const products = [
       variantId: '45979103527070',
       evidence: 'docs/evidence/cycplus-r200-smart-trainer.md#code-eligibility'
     }
+  },
+
+  {
+    slug: 'ausom-l2-max-dual-electric-scooter',
+    brand: 'ausom',
+    name: 'Ausom L2 Max Dual Motor Electric Scooter',
+    model: 'L2 Max Dual Motor',
+    image: '/images/products/ausom-l2-max-dual-electric-scooter.webp',
+    imageAlt: 'Ausom L2 Max Dual Motor electric scooter in side profile',
+    imageWidth: 1200,
+    imageHeight: 1200,
+    category: 'electric-mobility',
+    use: 'private',
+    label: 'For spacious private-property routes',
+    headline: 'Two motors for a full-size, open-route setup.',
+    description: 'The L2 Max pairs dual motors with a 48V 20.8Ah battery, adjustable swingarm suspension and 10 × 3-inch tubeless tires. The selected US variant has a 38 mph preset and deserves a measured route and storage plan.',
+    verdict: 'We recommend the Ausom L2 Max Dual Motor for experienced riders with a spacious private-property route, room to store a full-size scooter and a reason to use its dual-motor hardware. The 998.4Wh battery, adjustable suspension and 10 × 3-inch tires give it a substantial feature set. Its 73.4 lb listed weight and 38 mph US preset are decisive fit conditions; Ausom states that the scooter is for private-property use only.',
+    strengths: [
+      'Two brushless motors and a manufacturer-listed 2,688W combined peak output suit a larger, performance-focused scooter brief.',
+      'The 48V 20.8Ah (998.4Wh) battery, dual swingarm suspension and 10 × 3-inch tubeless tires are a well-equipped package for private-property routes.',
+      'Front and rear disc brakes with E-ABS, turn signals, an NFC lock and USB-A / USB-C outputs add useful built-in equipment.',
+      'A folding stem and a listed 50.4 × 27.1 × 22-inch folded size help define a storage footprint before purchase.'
+    ],
+    tradeoffs: [
+      'At a listed 73.4 lb, this is not a convenient scooter to carry up stairs or lift into a vehicle; folding changes its shape, not its weight.',
+      'Ausom says the L2 Max is for private-property use only. The selected US version is preset to 38 mph, so confirm that your intended route and storage setting fit the manufacturer’s stated use.',
+      'The 56-mile maximum is tied to low-speed, single-motor, flat-road test conditions; one included charger takes about 12 hours for a full charge.'
+    ],
+    specs: {
+      'Selected configuration': 'US Version, preset maximum speed 38 mph (variant 50223037219095; SKU 1297492)',
+      'Motor system': 'Two 1,000W brushless motors; manufacturer lists 1,344W × 2 peak output / 2,688W combined peak',
+      'Top speed': 'Up to 38 mph for this selected US preset',
+      'Battery': '48V, 20.8Ah, 998.4Wh (manufacturer-listed)',
+      'Claimed range': 'Up to 56 miles under the manufacturer’s specified single-motor, 9.3 mph test conditions',
+      'Brakes': 'E-ABS plus front and rear disc brakes',
+      'Tires': '10 × 3-inch tubeless; Ausom lists 50 PSI as the best tire pressure',
+      'Suspension': 'Adjustable dual swingarm suspension',
+      'Maximum load': '287 lb (manufacturer-listed)',
+      'Listed weight': '73.4 lb',
+      'Folded dimensions': '50.4 × 27.1 × 22 inches',
+      'Unfolded dimensions': '50.4 × 27.1 × 56.5 inches',
+      'Charging': '54.6V, 2A; about 12 hours with one included charger or 5.5 hours with two 2A chargers; second charger sold separately',
+      'Water-resistance listing': 'IP54 (manufacturer-listed); no wet-weather performance was assessed',
+      'Manufacturer use note': 'For private-property use only; follow applicable local laws and regulations'
+    },
+    source: 'https://ausomstore.com/products/ausom-l2-max-dual-electric-scooter?variant=50223037219095',
+    evidence: 'Manufacturer-specification editorial evaluation; exact variant code eligibility untested; no ride testing',
+    sections: [
+      [
+        'A dual-motor setup for a defined route',
+        'The L2 Max has a clear appeal for riders who have room to use a wide, powerful scooter on private property. Ausom lists two 1,000W brushless motors and describes 1,344W peak output per motor, or 2,688W combined. Its page also advertises climbs up to 34%. These are manufacturer figures, not Bike Tested measurements of power, speed, braking or hill performance. The same product page says the scooter is for private-property use only. Treat that stated use as part of the buying decision and verify your intended setting before ordering; the speed claim, lighting and turn signals do not establish public-road permission.'
+      ],
+      [
+        'Put the maximum range in context',
+        'Ausom advertises up to 56 miles, but its stated test conditions are unusually specific: a fully charged battery, a 165 lb load, single-motor mode, steady 9.3 mph speed, mild 68–77°F temperatures, low wind, correctly inflated tires and a dry, flat, paved route longer than 0.6 mile. That is a manufacturer maximum, not a Bike Tested range result or an expectation for dual-motor riding. If your route uses higher speed, repeated stops, hills or a heavier load, plan around the route and ask the seller for realistic guidance rather than relying on the headline figure.'
+      ],
+      [
+        'Measure the folded scooter and charging routine',
+        'The published folded footprint is 50.4 × 27.1 × 22 inches, and the listed weight is 73.4 lb. Measure doorways, storage bays and vehicle openings, then decide how the scooter will move between them. A fold can help it fit a space while still being awkward to lift. The standard package lists one 2A charger: Ausom estimates about 12 hours for a full charge with one, or about 5.5 hours with two 2A chargers. The second charger is sold separately. Ausom lists 50 PSI as the tire-pressure target; check pressure regularly and confirm which replacement tires and brake parts fit this version. A seat is also an optional purchase rather than standard equipment.'
+      ],
+      [
+        'The checked price and Ausom reader code',
+        'On October 24, 2026, Ausom’s US product feed listed the selected 38 mph preset variant, 50223037219095 / SKU 1297492, at $869.00, with shipping calculated at checkout. The supplied Bike Tested code is SEBASTIANBASSOL for a partner-reported $50 off, but eligibility for this exact L2 Max variant has not been checked. The listing is a sale price, and code stacking is unconfirmed, so we do not calculate a discounted L2 Max price. Check the variant, code and final item total at checkout.'
+      ]
+    ],
+    publishedOn: '2026-10-24',
+    updatedOn: '2026-10-24',
+    specsCheckedOn: '2026-10-24',
+    faqs: [
+      [
+        'Can the L2 Max travel 56 miles on one charge?',
+        'Ausom advertises up to 56 miles under a specific test using a 165 lb load, single-motor mode, steady 9.3 mph speed, mild temperatures, low wind and dry, flat pavement. It is a manufacturer maximum, not a Bike Tested range measurement; higher speed, dual-motor use, hills and stops change the conditions.'
+      ],
+      [
+        'How large and heavy is the Ausom L2 Max when folded?',
+        'Ausom lists a 73.4 lb weight and folded dimensions of 50.4 × 27.1 × 22 inches. The fold can reduce the footprint, but it remains heavy to lift; check your full storage and transport path.'
+      ],
+      [
+        'What top-speed version is covered in this review?',
+        'This review covers the US variant with the 38 mph preset, SKU 1297492. Ausom’s feed also lists a separate US version with a 15 mph preset. Confirm the exact option shown in the product selector before ordering; the two variants are not treated as interchangeable here.'
+      ],
+      [
+        'Does the L2 Max include a seat and a fast charger?',
+        'Ausom says a seat is not included by default. The standard package lists one 2A charger; the seller estimates about 12 hours to charge with one or 5.5 hours with two, and the second charger is sold separately.'
+      ],
+      [
+        'Is the Ausom L2 Max intended for public roads?',
+        'Ausom’s product page says the scooter is for private-property use only and tells buyers to follow applicable local laws. Check the rules for your exact location and planned setting; the product’s speed or lighting claims do not establish permission to use it on public roads.'
+      ]
+    ],
+    relatedReviews: [
+      {slug: 'ausom-gosoul-2-electric-scooter', reason: 'Prefer a single-motor Ausom scooter with a lower listed top speed and weight? Compare the Gosoul 2 review; Ausom also states that model is for private-property use only.'}
+    ],
+    price: {
+      amountMinor: 86900,
+      currency: 'USD',
+      region: 'US',
+      variantId: '50223037219095',
+      variantLabel: 'US 38 mph preset (SKU 1297492)',
+      source: 'https://ausomstore.com/products/ausom-l2-max-dual-electric-scooter?variant=50223037219095',
+      checkedOn: '2026-10-24',
+      isSalePrice: true
+    },
+    eligibility: {
+      status: 'unresolved',
+      variantId: '50223037219095',
+      evidence: 'docs/evidence/ausom-l2-max-dual-electric-scooter.md#code-eligibility'
+    }
   }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
