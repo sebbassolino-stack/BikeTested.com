@@ -886,7 +886,7 @@
       "brand": "Young Electric",
       "brandSlug": "young-electric",
       "category": "electric-bikes",
-      "status": "review-in-progress",
+      "status": "published",
       "priority": 1,
       "product": "Young Electric E-Scout Pro, Matte Gun Metal (variant 44484400840912; SKU 12803011YE054)",
       "officialSource": "https://youngelectricbikes.com/products/young-electric-e-scout-pro-750w-long-range-electric-hunting-bike-960wh-lg-battery-up-to-80-miles-28-mph-26-all-terrain-ebike-new?variant=44484400840912",
@@ -896,7 +896,7 @@
       "reportedBenefit": "$15.00 USD off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": null,
-      "nextStep": "Official Shopify feed shows a May 8, 2026 product publication and lists the exact Matte Gun Metal US variant at $1,399.00 against a $2,599.00 compare-at price. Young Electric's specification page lists a 750W Bafang Sutto motor, 960Wh battery, 80-mile claimed maximum and 82 lb net weight. SEBASTIANBASSOL was accepted on the Tire-Press 2 rack only; E-Scout Pro eligibility and sale-price stacking are untested. Draft, validate and release without claiming an after-code bike price."
+      "nextStep": "Review commit e01b804dd2d7ef348bed3e4fc7519c462a5cdc32 deployed successfully to Cloudflare Pages (check/deployment 38b976ee-667d-49a0-96e8-0698ba9d0604). Production review, Young Electric promo, exact product image and agent feed returned 200; the live image SHA-256 matches local. The exact US Matte Gun Metal variant remains listed at $1,399.00 against a $2,599.00 compare-at price. SEBASTIANBASSOL eligibility and sale-price stacking for E-Scout Pro are untested; agent feed leaves eligibility unresolved and afterCodePrice null. Visual browser QA was not completed. Continue with another distinct coded, popular or newer product."
     }
   ]
 }
