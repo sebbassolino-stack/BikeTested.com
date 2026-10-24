@@ -294,7 +294,7 @@
       "brand": "ZWheel",
       "brandSlug": "zwheel",
       "category": "electric-mobility",
-      "status": "review-implemented-pending-live-verification",
+      "status": "review-published-live-routes-verified",
       "priority": 1,
       "product": "Zwheel D3-D (ZSB2) Dual-Motor Electric Scooter, US Red (variant 48219169783962)",
       "officialSource": "https://zwheelsport.com/products/zwheel-d3-d?variant=48219169783962",
@@ -304,7 +304,7 @@
       "reportedBenefit": "$20.00 off on tested Red variant",
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-23",
-      "nextStep": "The exact Red variant accepted SEBASTIANBASSOL for $20.00 off $679.99 to $659.99 before shipping; the test cart was cleared. Review, product-page image cutout, evidence note, and electric-mobility guide link are implemented. Build and verify the production review, promo, and image routes. The listing conflicts on motor, range, speed, model markings, and stock indicators; do not claim current availability."
+      "nextStep": "Commit a2fb395 is live in Cloudflare Pages deployment f1a30df5-b58a-4f7a-aef8-28831c4206da (dashboard status success). The custom-domain review, promo, and image routes were verified; the live 1200×1200 WebP SHA-256 matches local. At 375px, review and promo showed no horizontal overflow; the promo copy control returned Copied and the exact affiliate URL was preserved. The Red variant accepted SEBASTIANBASSOL for $20.00 off $679.99 to $659.99 before shipping; no address or order, and the test item was removed. The product listing conflicts on motor, range, speed, model markings, and stock indicators, so no availability claim is made. GitHub Cloudflare check run 120741011071 still showed in progress at the latest read."
     },
     {
       "brand": "Bezior",
