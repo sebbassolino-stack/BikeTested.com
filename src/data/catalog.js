@@ -2347,6 +2347,115 @@ export const products = [
       checkedOn: '2026-10-24',
       exclusions: 'Exact Cyan Green-Matte US variant only; one-bike cart subtotal before shipping and tax; one free not-for-sale gift was included; no address or order; other variants untested.'
     }
+  },
+  {
+    slug: 'cycplus-r200-smart-trainer',
+    brand: 'cycplus',
+    name: 'CYCPLUS R200 Smart Trainer',
+    model: 'R200 Smart Trainer, HG freehub (variant 45979103527070; SKU R200 (HG))',
+    image: '/images/products/cycplus-r200-smart-trainer.webp',
+    imageAlt: 'CYCPLUS R200 direct-drive smart trainer with a dark circular resistance housing, carry arch and support feet',
+    imageWidth: 1200,
+    imageHeight: 1200,
+    category: 'cycling-technology',
+    use: 'recreation',
+    label: 'For indoor training with a compatible road bike',
+    headline: 'A self-powered direct-drive trainer with drivetrain checks to settle first.',
+    description: 'The CYCPLUS R200 adds direct-drive resistance and app connectivity to a compact 13.6 kg frame. Its self-powered mode can remove the wall outlet from ordinary sessions, but the listing limits downhill simulation to plug-in use and offers a single HG freehub configuration.',
+    verdict: 'We recommend the R200 for riders who already own a compatible road bike and want direct-drive indoor training without a wall outlet for ordinary sessions. CYCPLUS lists up to 2,200 W output, simulated grades to 19%, ±1% power accuracy, and ANT+ FE-C and BLE FTMS connections. Those are manufacturer specifications, not Bike Tested measurements. The 13.6 kg trainer is easier to place than a full indoor bike, but its HG freehub, cassette requirements and plug-in-only downhill simulation need to match your setup. CYCPLUS’s 5% Bike Tested code has not been checked on this exact R200 variant, so we do not show a code-adjusted price.',
+    strengths: [
+      'CYCPLUS says the R200 generates its operating power while pedaling, so ordinary training does not need a wall outlet.',
+      'The product listing specifies up to 2,200 W output, an 80 N·m maximum torque and simulated gradients up to 19%, with factory calibration and no manual spindown claimed by the manufacturer.',
+      'Listed frame standards cover 130/135 mm quick release and 12 × 142 / 12 × 148 mm thru-axle spacing, making the fit check clear for many road-bike setups.',
+      'ANT+ FE-C and BLE FTMS provide two common smart-trainer connection profiles to check against your preferred training app or computer.',
+      'At 517 × 520 × 465 mm and 13.6 kg, the R200 has a compact listed footprint and an integrated carry arch.'
+    ],
+    tradeoffs: [
+      'The current listing offers an HG freehub configuration. CYCPLUS lists Shimano 8–12 speed and SRAM 8–11 speed cassette compatibility; SRAM 12-speed XDR requires a separately sold hub. Confirm which cassette and adapters are included before ordering.',
+      'The trainer weighs 13.6 kg. Its carry arch helps with handling, but it is still a substantial item to move between floors or pack for frequent travel.',
+      'CYCPLUS says downhill simulation works in plug-in mode only, so the self-powered setup does not cover every listed training feature without an outlet.',
+      'The 2,200 W, 19% grade and ±1% accuracy figures are manufacturer specifications, not Bike Tested power or gradient measurements.',
+      'The Bike Tested 5% code is part of the CYCPLUS partner offer, but its eligibility for the R200 HG variant has not been verified. No after-code saving is claimed.'
+    ],
+    specs: {
+      'Selected configuration': 'HG freehub; variant 45979103527070; SKU R200 (HG)',
+      'Trainer type': 'Direct-drive magnetic resistance (manufacturer-listed)',
+      'Power output': 'Up to 2,200 W (manufacturer-listed)',
+      'Power accuracy': '±1% with factory calibration claimed by CYCPLUS; not independently measured',
+      'Simulated grade': 'Up to 19% (manufacturer-listed)',
+      'Maximum torque': '80 N·m (manufacturer-listed)',
+      'Power source': 'Self-powered while pedaling for ordinary operation; downhill simulation is listed for plug-in mode only',
+      'Frame spacing': '130/135 mm quick release; 12 × 142 mm and 12 × 148 mm thru-axle',
+      'Cassette compatibility': 'Shimano 8–12 speed; SRAM 8–11 speed; SRAM 12-speed XDR hub sold separately',
+      'Connectivity': 'ANT+ FE-C and BLE FTMS',
+      'Weight and dimensions': '13.6 kg / 30 lb; 517 × 520 × 465 mm',
+      'Listed price': '$399 USD on the CYCPLUS storefront, checked October 24, 2026; shipping calculated at checkout',
+      'Partner offer': 'SEBASTIANBASSOL is the supplied CYCPLUS 5% Bike Tested code; R200 HG eligibility is unconfirmed'
+    },
+    source: 'https://www.cycplus.com/products/r200-smart-trainer?variant=45979103527070',
+    sourceLinks: [],
+    evidence: 'Manufacturer-specification editorial evaluation; official R200 listing and product feed checked October 24, 2026. No exact R200 cart test or Bike Tested performance test was performed.',
+    sections: [
+      [
+        'A direct-drive trainer for a bike you already own',
+        'The R200 replaces the rear wheel with a direct-drive resistance unit, so its usefulness starts with your current bike and its rear-end standards. CYCPLUS lists 130/135 mm quick release and 12 × 142 / 12 × 148 mm thru-axle compatibility. Check your frame, axle and drivetrain against the exact trainer configuration before ordering; the published standards do not confirm clearance for every frame or accessory.'
+      ],
+      [
+        'Self-powered for ordinary sessions, with one plug-in exception',
+        'CYCPLUS says the trainer generates its operating power while you pedal, which can simplify a warmup or a home setup without an outlet beside the bike. The same page says downhill simulation works in plug-in mode only. If that feature matters to your training plan, include a nearby outlet and power cable in the layout.'
+      ],
+      [
+        'Match the cassette and freehub before buying',
+        'The product page shows one HG freehub variant and lists Shimano 8–12 speed plus SRAM 8–11 speed cassette compatibility. It says SRAM 12-speed XDR needs a separately sold hub. The page does not establish that your cassette is included in the $399 configuration, so confirm the package contents and any extra parts for your drivetrain.'
+      ],
+      [
+        'Treat the power and grade figures as product claims',
+        'CYCPLUS lists up to 2,200 W, 80 N·m maximum torque, simulated grades up to 19%, and ±1% accuracy with factory calibration. These are manufacturer specifications; Bike Tested has not measured the R200’s power, calibration, noise or road feel. ANT+ FE-C and BLE FTMS are listed, but check whether your chosen training app uses the profile and features you need.'
+      ],
+      [
+        'The listing price and CYCPLUS code status',
+        'On October 24, 2026, CYCPLUS listed the R200 HG variant 45979103527070 / SKU R200 (HG) for $399 USD, with shipping calculated at checkout. The Bike Tested partner code SEBASTIANBASSOL carries a supplied 5% benefit, but its eligibility for this trainer variant has not been checked. We do not quote a reduced R200 price.'
+      ]
+    ],
+    publishedOn: '2026-10-24',
+    updatedOn: '2026-10-24',
+    specsCheckedOn: '2026-10-24',
+    faqs: [
+      [
+        'Does the CYCPLUS R200 need a power outlet?',
+        'CYCPLUS says the R200 generates power as you pedal for ordinary operation. Its product page lists downhill simulation as available in plug-in mode only, so plan for an outlet if you want that feature.'
+      ],
+      [
+        'Will the R200 fit my bike?',
+        'CYCPLUS lists 130/135 mm quick release and 12 × 142 / 12 × 148 mm thru-axle standards. Confirm your bike’s rear spacing, axle and frame clearance with the seller before ordering.'
+      ],
+      [
+        'Which cassette works with the R200?',
+        'CYCPLUS lists Shimano 8–12 speed and SRAM 8–11 speed cassettes. SRAM 12-speed XDR needs a separately sold hub. The live product listing shows an HG freehub option, so confirm whether your cassette is included or needs to be purchased separately.'
+      ],
+      [
+        'Does SEBASTIANBASSOL apply to the R200?',
+        'The supplied CYCPLUS code is listed as a 5% Bike Tested partner offer, but it was not tested on the R200 HG variant 45979103527070. We do not claim eligibility or a discounted price for this model.'
+      ]
+    ],
+    relatedReviews: [
+      {slug: 'cycplus-t7-smart-bike', reason: 'Compare the R200 wheel-off trainer with CYCPLUS’s dedicated indoor smart-bike setup.'}
+    ],
+    price: {
+      amountMinor: 39900,
+      currency: 'USD',
+      region: 'US',
+      variantId: '45979103527070',
+      variantLabel: 'HG freehub (SKU R200 (HG))',
+      source: 'https://www.cycplus.com/products/r200-smart-trainer?variant=45979103527070',
+      checkedOn: '2026-10-24',
+      isSalePrice: false
+    },
+    eligibility: {
+      status: 'unresolved',
+      variantId: '45979103527070',
+      evidence: 'docs/evidence/cycplus-r200-smart-trainer.md#code-eligibility'
+    }
   }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
