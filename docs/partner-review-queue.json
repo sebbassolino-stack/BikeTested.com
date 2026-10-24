@@ -864,7 +864,7 @@
       "reportedBenefit": null,
       "offerDetailNeeded": true,
       "checkoutTestedOn": null,
-      "nextStep": "Official Hiboy page and Shopify feed checked October 24, 2026. The exact Navy Blue US variant is listed at $1,299.99. The partner code has no stated amount; the existing $0 EX6F cart observation does not establish EX11 eligibility. No after-code price is shown. Build and verify route, promo, image and public feed before release."
+      "nextStep": "Review commit ce134b5 deployed successfully to Cloudflare Pages as cc454bbe-695f-4afd-a570-6423471a1192. Production review, Hiboy promo, transparent product image and agent feed return 200; canonical, exact partner destination, listed price and code verified. The live image SHA-256 matches local. Exact Navy Blue US variant 47395627794681 is listed at $1,299.99; EX11 code eligibility and any saving remain unresolved, with afterCodePrice null. Visual browser QA unavailable because the Mac is locked."
     }
   ]
 }
