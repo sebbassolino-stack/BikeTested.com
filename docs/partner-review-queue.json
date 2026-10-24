@@ -822,7 +822,7 @@
       "brand": "Ausom",
       "brandSlug": "ausom",
       "category": "electric-mobility",
-      "status": "review-in-progress",
+      "status": "review-published-live-routes-verified",
       "priority": 1,
       "product": "L2 Max Dual Motor Electric Scooter, US Version (Preset Max Speed: 38 mph), variant 50223037219095; SKU 1297492",
       "officialSource": "https://ausomstore.com/products/ausom-l2-max-dual-electric-scooter?variant=50223037219095",
@@ -832,7 +832,7 @@
       "reportedBenefit": "$50.00 USD off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": null,
-      "nextStep": "Official product feed and exact US 38 mph preset confirmed October 24, 2026 at $869 USD. npm run check and npm run build passed with 34 reviews and 146 HTML pages; local review, Ausom promo, image and agent feed output are valid. Exact variant code eligibility and sale stacking remain untested; no after-code price is shown. Build and image gates passed; push, deploy and verify production routes, feed and image hash. Visual browser QA unavailable because the Mac is locked."
+      "nextStep": "Published in review commit 481fd8e; Cloudflare Pages deployment eb4dabb5-8df5-450f-8bff-d088270d3afa succeeded. Live review, Ausom promo, image and agent feed return 200; production review shows the exact $869 USD price, partner code, and unresolved exact-variant eligibility. Live image SHA-256 matches the local WebP. No after-code price claimed; visual browser QA unavailable because the Mac is locked."
     }
   ]
 }
