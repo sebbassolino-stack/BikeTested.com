@@ -40,6 +40,20 @@ for(const p of products){
     assert.equal(observation.baseAmountMinor-observation.discountMinor,observation.afterAmountMinor,`Checkout amount arithmetic: ${p.slug}`);
     assert.equal(priceState(p,offer).kind,'observed',`Observed price state: ${p.slug}`);
   }
+  if(p.codeCheckObservation){
+    const observation=p.codeCheckObservation,offer=offers.find(o=>o.brand===p.brand);
+    assert(offer?.code&&date(observation.checkedOn),`Code check provenance: ${p.slug}`);
+    assert.equal(observation.code,offer.code,`Code check scope: ${p.slug}`);
+    assert.equal(observation.stage,'cart',`Code check stage: ${p.slug}`);
+    assert.equal(observation.result,'no-discount',`Code check result: ${p.slug}`);
+    assert.equal(observation.variantId,p.price.variantId,`Code check variant: ${p.slug}`);
+    assert.equal(observation.currency,p.price.currency,`Code check currency: ${p.slug}`);
+    assert.equal(observation.baseAmountMinor,p.price.amountMinor,`Code check base amount: ${p.slug}`);
+    assert.equal(observation.discountMinor,0,`No-discount observation: ${p.slug}`);
+    assert.equal(observation.afterAmountMinor,observation.baseAmountMinor,`No-discount arithmetic: ${p.slug}`);
+    assert.equal(p.eligibility?.status,'unresolved',`No-discount check cannot confirm eligibility: ${p.slug}`);
+    assert(p.eligibility.evidence&&existsSync(p.eligibility.evidence.split('#')[0]),`Code check evidence: ${p.slug}`);
+  }
   if(p.slug==='mooncool-tk2-folding-electric-trike'){
     const words=p.verdict.trim().split(/\s+/).length;
     assert(words>=50&&words<=90,`Quick verdict must be 50-90 words: ${p.slug}`);
@@ -53,8 +67,9 @@ for(const o of offers){
   assert.equal(new URL(o.url).protocol,'https:');assert.equal(o.eligibleStore,new URL(o.url).hostname,'Offer storefront');
   assert(o.benefit===null||typeof o.benefit==='string');if(o.code)assert(o.eligibleStore&&o.terms,'Code needs exact store and terms');
   if(o.discount){assert(['percent','fixed'].includes(o.discount.type)&&Number.isFinite(o.discount.value)&&o.discount.value>0&&o.discount.scope,`Structured discount: ${o.brand}`);if(o.discount.type==='fixed')assert(/^[A-Z]{3}$/.test(o.discount.currency),`Fixed discount currency: ${o.brand}`);assert.equal(o.benefit,discountLabel(o.discount),`Discount label derives from canonical value: ${o.brand}`);}
-  assert.equal(o.checkoutTestedOn!==null,Boolean(o.checkoutTestProduct),`Checkout date and test scope agree: ${o.brand}`);
+  assert.equal(o.checkoutTestedOn!==null,Boolean(o.checkoutTestProduct||o.codeCheckProduct),`Checkout date and test scope agree: ${o.brand}`);
   if(o.checkoutTestProduct){const p=products.find(x=>x.slug===o.checkoutTestProduct.slug);assert(p?.checkoutObservation&&p.checkoutObservation.checkedOn===o.checkoutTestedOn,`Offer test points to exact product evidence: ${o.brand}`);}
+  if(o.codeCheckProduct){const p=products.find(x=>x.slug===o.codeCheckProduct.slug);assert(p?.codeCheckObservation&&p.codeCheckObservation.checkedOn===o.checkoutTestedOn,`No-discount test points to exact product evidence: ${o.brand}`);}
   for(const slug of pathFor(o).guides)assert(guides.some(g=>g.slug===slug),`Unknown partner guide: ${slug}`);
 }
 

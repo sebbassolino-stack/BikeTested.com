@@ -1,5 +1,5 @@
 import { partners } from './partners.js';
-import { discountLabel } from '../lib/pricing.js';
+import { discountLabel, formatMinor, priceDateLabel } from '../lib/pricing.js';
 export const updated = '2026-10-23';
 const editorialBrands = [
  {slug:'aventon',name:'Aventon',url:'https://www.aventon.com',description:'Comfort-focused electric bikes with connected features and a broad range of riding styles.'},
@@ -956,11 +956,155 @@ export const products = [
     "checkedOn": "2026-10-23",
     "exclusions": "exact 20×4 two-pack-with-tubes variant only, before shipping and tax; no address was entered or order placed, and the isolated test cart was cleared."
   }
+},
+{
+  "slug": "hiboy-ex6f-foldable-electric-bike",
+  "brand": "hiboy",
+  "name": "Hiboy EX6F Low-Step Foldable Electric Bike",
+  "model": "EX6F",
+  "image": "/images/products/hiboy-ex6f-foldable-electric-bike.webp",
+  "imageAlt": "Hiboy EX6F Navy low-step folding e-bike with 20 × 4-inch tires and rear rack",
+  "imageWidth": 1200,
+  "imageHeight": 1200,
+  "category": "electric-bikes",
+  "use": "commute",
+  "label": "For folding-bike commuters",
+  "headline": "Low-step access and fat tires, with a heavy-bike fold.",
+  "description": "A low-step 20 × 4-inch folder with a removable 48V battery, front suspension, hydraulic brakes, and a rear rack. Its 71.43 lb listed weight makes folding a storage aid rather than a frequent-carry solution.",
+  "verdict": "We recommend the Hiboy EX6F to riders who want a low-step, fat-tire e-bike with a removable battery, front suspension, rack, and folding frame for a more flexible storage plan. Its 20 × 4-inch tires, hydraulic discs, and Shimano 7-speed drivetrain make a useful everyday package, while two distinct assistance modes suit mixed commutes and weekend loops. At 71.43 lb, folding is a storage aid rather than a carrying solution; measure the space and confirm the load limit before ordering. Our cart check showed no savings from the supplied Bike Tested code on the Navy variant.",
+  "strengths": [
+    "The low-step frame and adjustable cockpit give riders more setup options than a fixed-height commuter layout; check the listed standover and your own fit before ordering.",
+    "A removable 48V 14.5Ah battery can be taken indoors for charging, while the manufacturer lists both throttle and pedal-assist riding modes.",
+    "Front suspension, 20 × 4-inch tires, and front and rear hydraulic disc brakes give the equipment package a clear comfort-and-control brief for everyday routes.",
+    "A Shimano 7-speed drivetrain, front and rear lighting, fenders, and a rear rack arrive in the listed commuter configuration; confirm exact contents for the selected variant.",
+    "The three-point folding design can help when the bike needs a smaller storage footprint, provided the actual folded dimensions fit the space you have."
+  ],
+  "tradeoffs": [
+    "Hiboy lists the complete bike at 71.43 lb. Removing the battery helps with charging but does not make the remaining bike a light stair carry.",
+    "The product page gives 41 miles in pure-electric mode and up to 75 miles with pedal assist at a 143 lb rider weight. These are manufacturer claims, not Bike Tested range measurements.",
+    "The product specifications list a 265 lb / 120 kg maximum load, while the geometry section lists 330 lb total effective load. Confirm the written limit for the exact bike and how it counts rider and cargo.",
+    "The seller describes the bike as foldable but does not publish a folded-size measurement on the product page. Do not treat the shipping-box dimensions as the folded-bike footprint."
+  ],
+  "specs": {
+    "Selected configuration": "Navy / US; Shopify variant 46519631053049; SKU EX6F-N-20080013",
+    "Motor": "500W rated / 750W peak (manufacturer-listed)",
+    "Battery": "48V 14.5Ah removable",
+    "Claimed range": "41 miles pure electric; up to 75 miles pedal assist, both at 143 lb rider weight (manufacturer-listed)",
+    "Assistance and speed": "Throttle up to 20 mph; pedal assist up to 25 mph (manufacturer-listed). Sensor type is not identified on the product page.",
+    "Drivetrain": "Shimano 7-speed",
+    "Wheels and tires": "20 × 4.0 inches",
+    "Brakes": "Front and rear hydraulic disc brakes",
+    "Fork": "50mm front suspension (manufacturer-listed)",
+    "Frame and fit": "Low-step frame; listed standover 21.06 inches; recommended rider height 4 ft 9 in–6 ft 5 in",
+    "Listed weight": "71.43 lb / 32 kg",
+    "Maximum load": "265 lb / 120 kg in specification table; 330 lb total effective load in geometry section (conflicting manufacturer figures)",
+    "Rear rack": "110 lb maximum listed on product graphic; confirm rack and total-bike limits before carrying cargo",
+    "Folded dimensions": "Not provided on the product page",
+    "Shipping-box dimensions": "52.7 × 11.81 × 28.78 inches; not the folded-bike dimensions",
+    "Other listed equipment": "Front headlight, rear light, fenders, kickstand, adjustable handlebar and seat"
+  },
+  "source": "https://www.hiboy.com/products/hiboy-ex6f-foldable-low-step-electric-bike?variant=46519631053049",
+  "sourceLinks": [
+    {"label": "Hiboy warranty policy", "url": "https://www.hiboy.com/pages/warranty"},
+    {"label": "Hiboy return policy", "url": "https://www.hiboy.com/pages/return-refund"}
+  ],
+  "evidence": "Manufacturer specification evaluation; exact-variant US cart observation",
+  "sections": [
+    [
+      "A step-through folder built around everyday equipment",
+      "The EX6F combines a low-step frame, 20 × 4-inch tires, a front suspension fork, hydraulic disc brakes, full fenders, lighting, and a rear rack. That is a broad commuter kit for riders who want an upright, practical e-bike for errands, mixed pavement, and recreational loops. A step-through opening can make getting on and off easier, but the manufacturer’s 4 ft 9 in–6 ft 5 in recommendation is only a starting point. Hiboy also lists a 21.06-inch standover measurement in its geometry section; check reach, saddle adjustment, handlebar position, and clearance for your own body rather than treating the low-step label as a fit guarantee."
+    ],
+    [
+      "Measure the storage job before relying on the fold",
+      "Hiboy describes a three-point folding mechanism, but the product page does not give a folded length, width, and height. Its 52.7 × 11.81 × 28.78-inch figure is the shipping-box size, not a measurement of the folded bike. The complete bike is listed at 71.43 lb, so the folding joints may help you move it into a closet or vehicle only if that footprint works; they do not solve frequent carrying up stairs. The removable battery is useful for indoor charging, but it does not remove most of the bike’s weight. Measure your doorway, trunk opening, elevator, and storage space, and ask Hiboy for the folded dimensions of the exact Navy build before ordering."
+    ],
+    [
+      "Read the motor and range claims by riding mode",
+      "The listed system pairs a 500W rated, 750W peak motor with a removable 48V 14.5Ah battery and a Shimano 7-speed drivetrain. Hiboy separates its range table into 41 miles in pure-electric mode and up to 75 miles with pedal assist, both under a stated 143 lb rider weight. Those are manufacturer claims, not a Bike Tested route result; load, hills, temperature, tire pressure, assist selection, stops, and wind can change real distance. The product page lists throttle speed up to 20 mph and pedal-assist speed up to 25 mph, but does not identify the pedal-assist sensor type. If sensor response or local vehicle classification is important to your ride, get the exact US configuration details from Hiboy and check the rules for your route."
+    ],
+    [
+      "Resolve the load limit and support terms",
+      "The manufacturer’s specification table sets a 265 lb / 120 kg maximum load, while its geometry section says 330 lb total effective load. A product graphic separately labels the rear rack for up to 110 lb. These figures are not interchangeable; ask Hiboy for the written rider-plus-cargo limit for this exact bike before relying on the rack. Hiboy’s current policy pages also differ on battery and motor warranty duration, and the return page lists substantial shipping deductions for no-longer-needed e-bikes. Read the current terms and confirm the cost of a return and the support path for replacement parts before you buy a 71 lb machine."
+    ],
+    [
+      "Our buying advice for the EX6F",
+      "The EX6F belongs on a shortlist when low-step access, fat tires, a removable battery, and a folding frame solve a real daily need. It is a poor match for regular stair carries or storage plans that depend on an unverified folded footprint. Confirm the frame fit, the exact load limit, local service, and written return and warranty terms. The US Navy item was listed at $949.99 on October 23, 2026. We entered the supplied Bike Tested code in an isolated cart for that exact variant and saw $0.00 allocated, so we show no after-code price. Hiboy also displayed a separate store code on its product page, but that code did not change the cart total in our check; confirm any promotion in the final checkout total."
+    ]
+  ],
+  "publishedOn": "2026-10-23",
+  "updatedOn": "2026-10-23",
+  "specsCheckedOn": "2026-10-23",
+  "faqs": [
+    [
+      "Is the Hiboy EX6F easy to carry when folded?",
+      "Hiboy lists the complete bike at 71.43 lb and does not provide folded dimensions on the product page. Folding can reduce its storage footprint, but it does not make the bike light to carry. Measure your space and ask Hiboy for the exact folded size before relying on it for a car trunk, stairwell, or transit plan."
+    ],
+    [
+      "How far can the EX6F travel on one charge?",
+      "Hiboy lists 41 miles in pure-electric mode and up to 75 miles with pedal assist, both at a 143 lb rider weight. Those are manufacturer claims, not Bike Tested measurements. Route, hills, cargo, temperature, tire pressure, speed, and assist use can change real distance."
+    ],
+    [
+      "What is the EX6F maximum load?",
+      "Hiboy’s product specification table says 265 lb / 120 kg, while its geometry section lists 330 lb total effective load. The rear-rack graphic separately lists 110 lb. Confirm the written rider-plus-cargo limit for your exact bike before ordering or carrying cargo."
+    ],
+    [
+      "Does the Hiboy EX6F use a cadence or torque sensor?",
+      "The product page describes pedal-assist modes and a Shimano 7-speed drivetrain but does not identify the pedal-assist sensor type. Ask Hiboy to confirm the exact US configuration if sensor response is important to your ride."
+    ],
+    [
+      "What warranty and return terms apply to the EX6F?",
+      "Hiboy’s warranty page describes a 12-month warranty for new e-bikes, while its return page lists 12 months for scooters and 6 months for batteries and motors. The return page also says unused, undamaged bikes may be returned within 30 days, with return shipping or deductions that can be substantial. Confirm the exact battery coverage and return cost with Hiboy before ordering."
+    ]
+  ],
+  "relatedReviews": [
+    {"slug": "ancheer-hummer-electric-bike", "reason": "For another folding 20 × 4-inch e-bike, compare the ANCHEER Hummer review and its exact US configuration."}
+  ],
+  "price": {
+    "amountMinor": 94999,
+    "currency": "USD",
+    "region": "US",
+    "variantId": "46519631053049",
+    "variantLabel": "Navy / US (SKU EX6F-N-20080013)",
+    "source": "https://www.hiboy.com/products/hiboy-ex6f-foldable-low-step-electric-bike?variant=46519631053049",
+    "checkedOn": "2026-10-23",
+    "isSalePrice": true
+  },
+  "eligibility": {
+    "status": "unresolved",
+    "variantId": "46519631053049",
+    "evidence": "docs/evidence/hiboy-ex6f-foldable-electric-bike.md#partner-code-cart-check"
+  },
+  "codeCheckObservation": {
+    "code": "SEBASTIANBASSOL",
+    "stage": "cart",
+    "result": "no-discount",
+    "variantId": "46519631053049",
+    "baseAmountMinor": 94999,
+    "discountMinor": 0,
+    "afterAmountMinor": 94999,
+    "currency": "USD",
+    "checkedOn": "2026-10-23",
+    "exclusions": "Exact Navy / US SKU EX6F-N-20080013 only; no shipping or tax was calculated, no address was entered, and no order was placed. The test cart was cleared."
+  }
 }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
 const checkoutProductFor=brand=>products.find(p=>p.brand===brand&&p.checkoutObservation);
-export const offers=partners.map(p=>{const tested=checkoutProductFor(p.slug);const discount=p.discount||null;const checkoutTestProduct=tested?{slug:tested.slug,name:tested.name,variantId:tested.price.variantId,variantLabel:tested.price.variantLabel,stage:tested.checkoutObservation.stage||null}:null;const acceptanceLocation=checkoutTestProduct?.stage==='cart'?' in the cart':'';const terms=checkoutTestProduct?`Code acceptance${acceptanceLocation} was recorded for ${checkoutTestProduct.name}, ${checkoutTestProduct.variantLabel} only. ${p.stackingObservation||''} Eligibility for other models or variants, minimum spend, exclusions and expiry have not been supplied; confirm the current final total at this storefront.`:p.terms||'Product eligibility, minimum spend, exclusions, stacking and expiry have not been supplied. Confirm any discount in the final checkout total at this storefront.';return {...p,benefit:p.benefit??(discount?discountLabel(discount):null),discount,brand:p.slug,eligibleStore:new URL(p.url).hostname,terms,checkoutTestedOn:tested?.checkoutObservation?.checkedOn||p.checkoutTestedOn||null,checkoutTestProduct};});
+const codeCheckProductFor=brand=>products.find(p=>p.brand===brand&&p.codeCheckObservation);
+export const offers=partners.map(p=>{
+  const tested=checkoutProductFor(p.slug);
+  const codeChecked=codeCheckProductFor(p.slug);
+  const discount=p.discount||null;
+  const checkoutTestProduct=tested?{slug:tested.slug,name:tested.name,variantId:tested.price.variantId,variantLabel:tested.price.variantLabel,stage:tested.checkoutObservation.stage||null}:null;
+  const codeCheckProduct=codeChecked?{slug:codeChecked.slug,name:codeChecked.name,variantId:codeChecked.codeCheckObservation.variantId,variantLabel:codeChecked.price.variantLabel,checkedOn:codeChecked.codeCheckObservation.checkedOn,discountFormatted:formatMinor(codeChecked.codeCheckObservation.discountMinor,codeChecked.codeCheckObservation.currency)}:null;
+  const acceptanceLocation=checkoutTestProduct?.stage==='cart'?' in the cart':'';
+  const terms=checkoutTestProduct
+    ?`Code acceptance${acceptanceLocation} was recorded for ${checkoutTestProduct.name}, ${checkoutTestProduct.variantLabel} only. ${p.stackingObservation||''} Eligibility for other models or variants, minimum spend, exclusions and expiry have not been supplied; confirm the current final total at this storefront.`
+    :codeCheckProduct
+      ?`On ${priceDateLabel(codeCheckProduct.checkedOn)}, ${p.code} was entered in the cart for ${codeCheckProduct.name}, ${codeCheckProduct.variantLabel}. The cart allocated ${codeCheckProduct.discountFormatted} off, so no saving is confirmed for that configuration. Other models and variants have not been checked; confirm the current final total at this storefront.`
+      :p.terms||'Product eligibility, minimum spend, exclusions, stacking and expiry have not been supplied. Confirm any discount in the final checkout total at this storefront.';
+  return {...p,benefit:p.benefit??(discount?discountLabel(discount):null),discount,brand:p.slug,eligibleStore:new URL(p.url).hostname,terms,checkoutTestedOn:tested?.checkoutObservation?.checkedOn||codeCheckProduct?.checkedOn||p.checkoutTestedOn||null,checkoutTestProduct,codeCheckProduct};
+});
 export const comparisons=[{slug:'aventon-pace-5-rec-vs-ride1up-roadster-v3',a:products[0].slug,b:products[1].slug,title:'Pace 5 REC vs Roadster V3',description:'Relaxed cruiser or pared-back city bike? Start with how you want to ride.'},{slug:'lectric-xpress2-vs-ride1up-roadster-v3',a:products[2].slug,b:products[1].slug,title:'XPress2 vs Roadster V3',description:'A suspension-equipped commuter or a simpler urban setup: where each makes sense.'}];
 export const categories=[{slug:'electric-bikes',name:'Electric bikes',text:'A little assistance. A lot more possibility.',guide:'choose-your-first-ebike'},{slug:'traditional-bikes',name:'Traditional bikes',text:'Road, gravel, hybrid, or mountain. Start with your route.',guide:'road-gravel-or-hybrid'},{slug:'electric-mobility',name:'Electric mobility',text:'Think through your last mile before choosing your next ride.',guide:'bike-or-electric-scooter'},{slug:'gear-and-tech',name:'Gear & tech',text:'The essentials that make every ride work better.',guide:'commuter-gear-checklist'},{slug:'components',name:'Components & upgrades',text:'Compatibility first. Better upgrades follow.',guide:'plan-your-bike-upgrades'},{slug:'cycling-technology',name:'Cycling technology',text:'Useful data, without losing sight of the ride.',guide:'choose-a-cycling-computer'}];
 export const brandFor=p=>brands.find(b=>b.slug===p.brand);
