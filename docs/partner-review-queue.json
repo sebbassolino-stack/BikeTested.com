@@ -913,6 +913,22 @@
       "offerDetailNeeded": false,
       "checkoutTestedOn": null,
       "nextStep": "Review commit 2ef99099dcc9bf8f6382466a3fadacd8683a9701 deployed successfully to Cloudflare Pages (check/deployment e15727c4-c9a3-428a-99e2-1b7081e0a0f7). Production review, EUNORAU promo, exact product image and agent feed returned 200; the live image SHA-256 matches local. The exact Amethyst / 19-inch US variant remains listed at $3,999.00. EUNORSEBASTIAN60 eligibility and sale-price stacking for URUS 2.0 are untested; agent feed leaves eligibility unresolved and afterCodePrice null. Visual browser QA was not completed. Continue with another distinct coded, popular or newer product."
+    },
+    {
+      "brand": "Eunorau",
+      "brandSlug": "eunorau",
+      "category": "electric-mobility",
+      "status": "published",
+      "priority": 1,
+      "product": "EUNORAU S1 Electric Dirt Bike, Orange / US (variant 47529200910592; SKU DBS11BKWD)",
+      "officialSource": "https://eunorau-ebike.com/products/s1-dirt-bike?variant=47529200910592",
+      "reviewUrl": "/reviews/eunorau-s1-electric-dirt-bike",
+      "affiliateUrl": "https://eunorau-ebike.com/?ref=gowithsebastian&utm_medium=affiliate&utm_source=goaffpro",
+      "code": "EUNORSEBASTIAN60",
+      "reportedBenefit": "2% off",
+      "offerDetailNeeded": false,
+      "checkoutTestedOn": null,
+      "nextStep": "Review commit 5d2f8f9980d3c6ffc1d4f0b3083dce2480b6a8ad deployed successfully to Cloudflare Pages (check/deployment 4857f138-6627-41c9-871b-e5b7033df9ad). Production review, EUNORAU promo, exact product image and agent feed returned 200; the live image SHA-256 matches local. The exact Orange / US variant is listed at $1,699.00. EUNORSEBASTIAN60 eligibility and stacking for the S1 are untested; agent feed leaves eligibility unresolved and afterCodePrice null. The review flags conflicting height guidance and does not assert road access or classification. Visual browser QA was not completed. Continue with another distinct coded, popular or newer product."
     }
   ]
 }
