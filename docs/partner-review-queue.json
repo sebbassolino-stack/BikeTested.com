@@ -1078,7 +1078,7 @@
       "brand": "HappyRun",
       "brandSlug": "happyrun",
       "category": "electric-bikes",
-      "status": "review-ready-for-publish",
+      "status": "review-published-live-routes-verified",
       "priority": 1,
       "product": "G100 Pro 6000W Dual-Battery Electric Bike, Black / US (variant 45639455637604; SKU G100pro-black)",
       "officialSource": "https://www.happyrunsports.com/products/happyrun-g100-pro-6000w-electric-bike?variant=45639455637604",
@@ -1088,7 +1088,7 @@
       "reportedBenefit": "No amount supplied; exact Black / US cart showed no discount; no after-code price claimed",
       "offerDetailNeeded": true,
       "checkoutTestedOn": "2026-10-24",
-      "nextStep": "Review draft and image are ready for build and publication. The exact Black / US variant 45639455637604 / SKU G100pro-black was listed at $2,099.00; SEBASTIANBASSOL23 produced no cart discount. HappyRun's product page displayed HALLO100, but that separate promotion and stacking were not tested. The manual and product page differ on speed, and the page/geometry/manual differ on seat height. Verify production routes after deploy; no address or order."
+      "nextStep": "Review commit 0fd0e2c was pushed to origin/main; Cloudflare Pages check 121013762327 succeeded for deployment cf97ed60-b499-4634-b1ae-4b1213e2f76c. The production review, HappyRun promo, agent feed and exact transparent image return 200 on both biketested.com and biketested.pages.dev; live image SHA-256 matches local. Exact Black / US variant 45639455637604 / SKU G100pro-black was listed at $2,099.00. SEBASTIANBASSOL23 produced no cart discount; eligibility remains unresolved and no savings is claimed. No address or order. Browser viewport QA was not completed."
     }
   ]
 }
