@@ -838,7 +838,7 @@
       "brand": "GEBIKE",
       "brandSlug": "gebike",
       "category": "electric-bikes",
-      "status": "review-in-progress",
+      "status": "review-published-live-routes-verified",
       "priority": 1,
       "product": "GEBIKE G01 Compact Folding Electric Bike, Gray / Standard Edition (EU; variant 52002247475521; SKU E001-G01-G-EU)",
       "officialSource": "https://gebikeglobal.com/products/g01-compact-folding-electric-bike?variant=52002247475521",
@@ -848,7 +848,7 @@
       "reportedBenefit": "\u20ac10.00 off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": null,
-      "nextStep": "Official GEBIKE page and Shopify feed checked October 24, 2026; exact EU Gray / Standard Edition is listed at \u20ac349.99. npm run check and npm run build passed with 35 reviews and 147 HTML pages. The public agent feed marks exact-variant eligibility unresolved and afterCodePrice null; route, sitemap, guide links and transparent product asset are present. Push, deploy and verify production review, GEBIKE promo, image and feed. Visual browser QA unavailable because the Mac is locked."
+      "nextStep": "Review commit c1f50bb deployed successfully to Cloudflare Pages as a11050ef-15a3-4819-a424-b212267d94be. Production review, GEBIKE promo, transparent product image and agent feed return 200; review canonical, exact partner destination and both related guide links are correct. The live image SHA-256 matches local. Exact Gray / Standard EU variant 52002247475521 is listed at \u20ac349.99; G01 code eligibility and sale stacking remain untested, so no after-code price is claimed. Visual browser QA unavailable because the Mac is locked."
     }
   ]
 }
