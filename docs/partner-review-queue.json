@@ -742,7 +742,7 @@
       "brand": "Cycplus",
       "brandSlug": "cycplus",
       "category": "cycling-technology",
-      "status": "ready-for-release",
+      "status": "review-published-live-routes-verified",
       "priority": 1,
       "product": "CYCPLUS T7 Smart Bike, US Default Title (variant 45853562110110; SKU T7)",
       "officialSource": "https://www.cycplus.com/products/t7-smart-bike?variant=45853562110110",
@@ -752,7 +752,7 @@
       "reportedBenefit": "5% off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-24",
-      "nextStep": "Review, official-image cutout and exact-cart disclosure are prepared. The $1,499 T7 cart did not apply the supplied code; AS2 acceptance does not establish T7 eligibility. Build, release and verify the review, promo disclosure and image."
+      "nextStep": "Published in review commit 18dc45f; publication-date correction commit 92c3a21; Cloudflare Pages check succeeded (deployment bf8fdb24-f7e9-4a63-88ac-1a7d3573bfc6). Live review, promo and image return 200; image SHA matches local. The exact US T7 variant showed $1,499 and the code did not apply. 375px and 1280px QA passed without overflow; cart was cleared and no address or order was entered. Continue with the next distinct coded partner."
     }
   ]
 }
