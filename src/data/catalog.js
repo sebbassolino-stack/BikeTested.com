@@ -726,11 +726,136 @@ export const products = [
     "price":{"amountMinor":169900,"currency":"USD","region":"US","variantId":"47313067737344","variantLabel":"L / Deep Crimson","source":"https://eunorau-ebike.com/products/meta275-2?variant=47313067737344","checkedOn":"2026-10-23","isSalePrice":false},
     "eligibility":{"status":"eligible","variantId":"47313067737344","evidence":"docs/evidence/eunorau-meta275-2-electric-bike.md#checkout-observation"},
     "checkoutObservation":{"code":"EUNORSEBASTIAN60","variantId":"47313067737344","baseAmountMinor":169900,"discountMinor":3398,"afterAmountMinor":166502,"currency":"USD","checkedOn":"2026-10-23","exclusions":"Bike item subtotal only. Code applied with the free 48V 5Ah battery gift still in the cart. No delivery address, shipping or tax calculation, or order. Exact L / Deep Crimson variant only; other models and variants are untested."}
+  },
+{
+  "slug": "gyroor-c5-electric-trike",
+  "brand": "gyroor",
+  "name": "Gyroor C5 Electric Trike",
+  "model": "C5 Electric Trike",
+  "image": "/images/products/gyroor-c5-electric-trike.webp",
+  "imageAlt": "Gyroor C5 Black electric trike with front and rear cargo baskets",
+  "imageWidth": 1200,
+  "imageHeight": 1200,
+  "category": "electric-mobility",
+  "use": "utility",
+  "label": "For steady neighborhood errands",
+  "headline": "A basket-ready trike with a sizeable footprint.",
+  "description": "The C5 pairs a seated three-wheel layout and dual removable baskets with reverse and a 48V battery. Gyroor lists about 30 miles of range under ideal conditions; the battery is not removable.",
+  "verdict": "We recommend the Gyroor C5 for riders who want a seated, three-wheel electric runabout with useful basket capacity and reverse for errands. Its listed 650W motor, rear suspension, 12-inch pneumatic tires, and front disc / rear drum brakes make an equipment-rich short-trip package. The Black variant accepted our partner code in the cart. At 84 lb, with a non-removable battery and a 300 lb combined rider-and-cargo limit, the C5 is better suited to roll-in storage than frequent lifting. Its sale-item return terms also need clarification before ordering.",
+  "strengths": [
+    "Front and rear removable baskets give groceries and everyday cargo a dedicated place, while reverse helps reposition the trike in close quarters.",
+    "A front disc brake, rear drum brake, hill-hold, headlight, and taillight are included in the listed equipment.",
+    "The folding frame, 12-inch pneumatic tires, rear suspension, and seated format target neighborhood errands and short paved trips.",
+    "The exact Black variant accepted SEBASTIANBASSOL: $44.99 off the $899.99 sale price, leaving an $855.00 item subtotal before tax and shipping."
+  ],
+  "tradeoffs": [
+    "At 84 lb and 53.46 × 26.45 × 43.30 inches unfolded, it is a large vehicle to lift or fit into a small storage area; folding does not make it light.",
+    "The battery is not removable, so charging and service planning need to account for the whole trike.",
+    "The 300 lb maximum includes rider and cargo together. Check your actual combined load, especially when carrying groceries or a pet.",
+    "Gyroor’s page advertises a 30-day return window but its sales-item terms say sale items cannot be refunded. The current listing is on sale, so get the applicable return terms in writing.",
+    "The manufacturer’s roughly 30-mile range is a conditional estimate, not a Bike Tested measurement; terrain, temperature, rider weight, and riding habits affect distance."
+  ],
+  "specs": {
+    "Selected configuration": "Black; variant 54135309304101 (SKU Trike-C5-Black)",
+    "Motor": "650W nominal, 1,000W peak (manufacturer-listed)",
+    "Battery": "48V 13.5Ah; manufacturer FAQ says it is not removable",
+    "Claimed range": "About 30 miles; manufacturer estimate under favorable conditions",
+    "Top speed": "About 15 mph (manufacturer-listed)",
+    "Wheels": "12-inch pneumatic tires",
+    "Brakes": "Front disc; rear drum (manufacturer-listed)",
+    "Suspension": "Rear suspension (manufacturer-listed)",
+    "Controls and features": "Reverse mode, hill-hold, headlight, taillight",
+    "Frame": "Folding; seller says 90% assembled",
+    "Dimensions": "53.46 × 26.45 × 43.30 inches unfolded",
+    "Listed weight": "84 lb",
+    "Recommended rider height": "4 ft 9 in–6 ft 1 in",
+    "Maximum combined load": "300 lb including rider and cargo",
+    "Water rating": "Mainframe IPX4 (manufacturer-listed)",
+    "Charging time": "About 5 hours (manufacturer-listed)",
+    "Warranty": "6 months for battery; 1 year for other parts (manufacturer-listed)"
+  },
+  "source": "https://gyroorboard.com/products/gyroor-c5-electric-trike-with-removable-dual-baskets-1000wpeak-30miles?variant=54135309304101",
+  "evidence": "Manufacturer-specification editorial evaluation; exact Black-variant cart observation",
+  "sections": [
+    [
+      "Cargo and reverse suit short local trips",
+      "Gyroor gives the C5 front and rear removable baskets, a reverse mode, hill-hold, and a seated three-wheel layout. The listed 650W nominal / 1,000W peak motor, 12-inch pneumatic tires, rear suspension, front disc brake, and rear drum brake make it a purpose-built errand trike rather than a compact carry-on scooter. These are manufacturer-listed parts and functions; Bike Tested did not perform a ride, braking, range, or load test."
+    ],
+    [
+      "Make a storage and charging plan first",
+      "The seller lists the C5 at 84 lb and 53.46 × 26.45 × 43.30 inches in its unfolded form. The frame folds, but the listing does not give folded dimensions, and the weight still makes lifting a substantial job. Measure the route through doors and the actual storage spot before ordering. Gyroor’s FAQ says the 48V 13.5Ah battery is not removable, so plan to charge the complete trike near an outlet. Its height guide is 4 ft 9 in to 6 ft 1 in, and the 300 lb maximum is for rider plus cargo together."
+    ],
+    [
+      "Use the range claim as a planning reference",
+      "Gyroor lists about 30 miles and says actual range depends on rider weight, terrain, weather, and riding habits; its FAQ describes the figure under ideal conditions. Treat it as a seller estimate and leave a reserve for hills, cold weather, cargo, and aging battery capacity. Gyroor recommends smooth roads and says the trike is not intended for off-road riding."
+    ],
+    [
+      "Confirm the return rule and check the exact code",
+      "Gyroor’s product page shows a 30-day return period for unused items in original packaging and says the buyer pays return shipping for non-defective returns. A separate sales-item clause says sale items cannot be refunded, which conflicts with the broad return language. Because the C5 is listed at a sale price, ask the seller to confirm the terms for this exact order. The same page lists a one-year warranty on parts and six months on the battery; its warranty terms make coverage for the original purchaser and assign shipping costs to the customer. On October 23, 2026, SEBASTIANBASSOL was accepted for the Black C5, variant 54135309304101, reducing the $899.99 item price by $44.99 to $855.00. Shipping and tax were not calculated, no address was entered, and no order was placed. The result applies to this exact variant only."
+    ]
+  ],
+  "publishedOn": "2026-10-23",
+  "updatedOn": "2026-10-23",
+  "specsCheckedOn": "2026-10-23",
+  "faqs": [
+    [
+      "How far can the Gyroor C5 go on one charge?",
+      "Gyroor lists about 30 miles under favorable conditions. It says actual distance changes with rider weight, terrain, weather, and riding habits. This is a manufacturer estimate, not a Bike Tested range measurement."
+    ],
+    [
+      "Can I remove the C5 battery to charge it indoors?",
+      "Gyroor’s product FAQ says the 48V 13.5Ah battery is not removable. Plan to charge the complete trike near a suitable outlet."
+    ],
+    [
+      "What rider and cargo weight does the C5 support?",
+      "Gyroor lists a maximum combined load of 300 lb for the rider and cargo together, and recommends rider heights from 4 ft 9 in to 6 ft 1 in. Check the load you intend to carry against the combined limit."
+    ],
+    [
+      "Did SEBASTIANBASSOL work on the Black C5?",
+      "Yes. In the October 23, 2026 cart observation, the code took $44.99 off the $899.99 sale price for Black variant 54135309304101, leaving an $855.00 item subtotal before shipping and tax. No address or order was entered. Other models and variants were not tested."
+    ],
+    [
+      "Can a sale-priced C5 be returned?",
+      "Gyroor’s product page gives a 30-day return window for unused goods in original packaging and says buyers pay return shipping for non-defective returns. A separate sales-item clause says sale items cannot be refunded. The C5 is listed at a sale price, so ask Gyroor to confirm the exact return terms in writing before ordering."
+    ]
+  ],
+  "relatedReviews": [
+    {
+      "slug": "mooncool-tk2-folding-electric-trike",
+      "reason": "Compare the Mooncool TK2 if you want a pedal-assist folding trike with a removable battery and a higher listed payload; its cycling layout and storage needs differ from the C5."
+    }
+  ],
+  "price": {
+    "amountMinor": 89999,
+    "currency": "USD",
+    "region": "US",
+    "variantId": "54135309304101",
+    "variantLabel": "Black",
+    "source": "https://gyroorboard.com/products/gyroor-c5-electric-trike-with-removable-dual-baskets-1000wpeak-30miles?variant=54135309304101",
+    "checkedOn": "2026-10-23",
+    "isSalePrice": true
+  },
+  "eligibility": {
+    "status": "eligible",
+    "variantId": "54135309304101",
+    "evidence": "docs/evidence/gyroor-c5-electric-trike.md#exact-variant-cart-observation"
+  },
+  "checkoutObservation": {
+    "code": "SEBASTIANBASSOL",
+    "stage": "cart",
+    "variantId": "54135309304101",
+    "baseAmountMinor": 89999,
+    "discountMinor": 4499,
+    "afterAmountMinor": 85500,
+    "currency": "USD",
+    "checkedOn": "2026-10-23",
+    "exclusions": "Exact Black C5 variant only. Item subtotal before shipping and tax; no delivery address entered and no order placed."
   }
+}
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
 const checkoutProductFor=brand=>products.find(p=>p.brand===brand&&p.checkoutObservation);
-export const offers=partners.map(p=>{const tested=checkoutProductFor(p.slug);const discount=p.discount||null;const checkoutTestProduct=tested?{slug:tested.slug,name:tested.name,variantId:tested.price.variantId,variantLabel:tested.price.variantLabel}:null;const terms=checkoutTestProduct?`Checkout acceptance was observed for ${checkoutTestProduct.name}, ${checkoutTestProduct.variantLabel} only. ${p.stackingObservation||''} Eligibility for other models or variants, minimum spend, exclusions and expiry have not been supplied; confirm the current final total at this storefront.`:p.terms||'Product eligibility, minimum spend, exclusions, stacking and expiry have not been supplied. Confirm any discount in the final checkout total at this storefront.';return {...p,benefit:p.benefit??(discount?discountLabel(discount):null),discount,brand:p.slug,eligibleStore:new URL(p.url).hostname,terms,checkoutTestedOn:tested?.checkoutObservation?.checkedOn||p.checkoutTestedOn||null,checkoutTestProduct};});
+export const offers=partners.map(p=>{const tested=checkoutProductFor(p.slug);const discount=p.discount||null;const checkoutTestProduct=tested?{slug:tested.slug,name:tested.name,variantId:tested.price.variantId,variantLabel:tested.price.variantLabel,stage:tested.checkoutObservation.stage||null}:null;const acceptanceLocation=checkoutTestProduct?.stage==='cart'?' in the cart':'';const terms=checkoutTestProduct?`Code acceptance${acceptanceLocation} was recorded for ${checkoutTestProduct.name}, ${checkoutTestProduct.variantLabel} only. ${p.stackingObservation||''} Eligibility for other models or variants, minimum spend, exclusions and expiry have not been supplied; confirm the current final total at this storefront.`:p.terms||'Product eligibility, minimum spend, exclusions, stacking and expiry have not been supplied. Confirm any discount in the final checkout total at this storefront.';return {...p,benefit:p.benefit??(discount?discountLabel(discount):null),discount,brand:p.slug,eligibleStore:new URL(p.url).hostname,terms,checkoutTestedOn:tested?.checkoutObservation?.checkedOn||p.checkoutTestedOn||null,checkoutTestProduct};});
 export const comparisons=[{slug:'aventon-pace-5-rec-vs-ride1up-roadster-v3',a:products[0].slug,b:products[1].slug,title:'Pace 5 REC vs Roadster V3',description:'Relaxed cruiser or pared-back city bike? Start with how you want to ride.'},{slug:'lectric-xpress2-vs-ride1up-roadster-v3',a:products[2].slug,b:products[1].slug,title:'XPress2 vs Roadster V3',description:'A suspension-equipped commuter or a simpler urban setup: where each makes sense.'}];
 export const categories=[{slug:'electric-bikes',name:'Electric bikes',text:'A little assistance. A lot more possibility.',guide:'choose-your-first-ebike'},{slug:'traditional-bikes',name:'Traditional bikes',text:'Road, gravel, hybrid, or mountain. Start with your route.',guide:'road-gravel-or-hybrid'},{slug:'electric-mobility',name:'Electric mobility',text:'Think through your last mile before choosing your next ride.',guide:'bike-or-electric-scooter'},{slug:'gear-and-tech',name:'Gear & tech',text:'The essentials that make every ride work better.',guide:'commuter-gear-checklist'},{slug:'components',name:'Components & upgrades',text:'Compatibility first. Better upgrades follow.',guide:'plan-your-bike-upgrades'},{slug:'cycling-technology',name:'Cycling technology',text:'Useful data, without losing sight of the ride.',guide:'choose-a-cycling-computer'}];
 export const brandFor=p=>brands.find(b=>b.slug===p.brand);

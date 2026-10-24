@@ -4,7 +4,7 @@ const {product,offer,compact=false}=Astro.props;const state=priceState(product,o
 ---
 {state.base&&<div class:list={['product-price',{compact}]} data-price-state={state.kind}>
   <p class="product-price-base">{state.base.label} · listed {priceDateLabel(state.base.checkedOn)}: <strong>{state.base.formatted}</strong></p>
-  {state.kind==='observed'&&<><p class="product-price-result"><span>Code {state.code} observed at checkout</span><strong>{state.afterFormatted}</strong></p><p class="product-price-note">Item subtotal after {state.discountFormatted} off on {priceDateLabel(state.checkedOn)}; {state.exclusions.toLowerCase()}</p></>}
+  {state.kind==='observed'&&<><p class="product-price-result"><span>Code {state.code} accepted for this variant</span><strong>{state.afterFormatted}</strong></p><p class="product-price-note">Item subtotal after {state.discountFormatted} off on {priceDateLabel(state.checkedOn)}; {state.exclusions.toLowerCase()}</p></>}
   {state.kind==='estimated'&&<><p class="product-price-result"><span>Estimated with code {state.code}</span><strong>{state.afterFormatted}</strong></p><p class="product-price-note">Estimated {state.discountFormatted} off before tax and shipping. Confirm eligibility and the final item total at checkout.</p></>}
   {state.kind!=='observed'&&state.kind!=='estimated'&&<p class="product-price-note">{state.message}</p>}
 </div>}

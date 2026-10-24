@@ -40,12 +40,17 @@ export const partners = [
     "url": "https://gyroorboard.com/?ref=020394&utm_source=affiliate",
     "code": "SEBASTIANBASSOL",
     "benefit": "5% off",
+    "discount": {
+      "type": "percent",
+      "value": 5,
+      "scope": "Accepted on the Gyroor C5 Electric Trike, Black variant 54135309304101, on October 23, 2026; other models and variants are untested."
+    },
     "category": "electric-mobility",
     "platform": "GoAffPro",
     "reportedOn": "2026-10-22",
     "status": "active",
     "evidence": "Owner-confirmed live Bike Tested partner roster, October 22, 2026",
-    "checkoutTestedOn": null,
+    "checkoutTestedOn": "2026-10-23",
     "description": "Explore Gyroor scooters, trikes and hoverboards with our reader code. Choose the vehicle type first, then check the model’s rider limits and intended use."
   },
   {
