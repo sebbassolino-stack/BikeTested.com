@@ -198,7 +198,7 @@
       "brand": "Hycline",
       "brandSlug": "hycline",
       "category": "components",
-      "status": "product-and-offer-verified",
+      "status": "review-published-live-routes-verified",
       "priority": 1,
       "product": "Hycline Code: Bones 20×4 Fat Tire Set (variant 44651812684001; SKU SHP-EbFT905_204BLK_2TR2TB)",
       "officialSource": "https://hyclinebike.com/products/code-bones-all-terrain-fat-tire-20-x-4-0?variant=44651812684001",
@@ -208,7 +208,7 @@
       "reportedBenefit": "5% off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-23",
-      "nextStep": "Exact US 20×4 two-pack-with-tubes variant accepted SEBASTIANBASSOL in the cart: $105.99 less $5.29, to $100.70 before shipping and tax. Official bundle image was background-removed and inspected. Review is implemented and locally validated; verify the live review, promo and image routes after release."
+      "nextStep": "Published in commit 616f59e. Live review, promo and transparent official image return 200; the live image SHA-256 matches the local file. Desktop review and 375px review/promo QA passed with no horizontal overflow or browser warnings/errors, and promo copy feedback succeeded. The exact US 20×4 two-pack-with-tubes variant accepted SEBASTIANBASSOL for $5.29 off $105.99, leaving $100.70 before shipping and tax; no address or order. Continue with the next coded product."
     },
     {
       "brand": "Leoout",
