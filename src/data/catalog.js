@@ -4267,6 +4267,109 @@ export const products = [
       message: 'After the exact Black / US variant was added to a fresh cart, the SEBASTIANBASSOL23 discount route redirected to the cart, but cart.js showed no discount applications and the $2,099.00 item price remained unchanged.',
       exclusions: 'Black / US variant 45639455637604 only; cart evidence, not completed checkout; no address or order. HappyRun displayed HALLO100 on its product page, but that separate promotion and stacking were not tested. The test cart was cleared.'
     }
+  },
+  {
+    slug: 'lankeleisi-x3000-max-dual-motor-electric-bike',
+    brand: 'lankeleisi',
+    name: 'Lankeleisi X3000 MAX Dual-Motor Folding Electric Bike',
+    model: 'X3000 MAX, Orange / US (variant 43318691659975; SKU X3000 MAX-US / Orange)',
+    image: '/images/products/lankeleisi-x3000-max-dual-motor-electric-bike.webp',
+    imageAlt: 'Orange and black Lankeleisi X3000 MAX folding electric bike with dual hub motors, 20 by 4 inch tires, full suspension and rear rack',
+    imageWidth: 1200,
+    imageHeight: 1200,
+    category: 'electric-bikes',
+    use: 'weekend',
+    label: 'For riders comparing a folding dual-motor fat-tire bike',
+    headline: 'A large battery and folding frame, with power and range claims to reconcile.',
+    description: 'The X3000 MAX pairs 20 × 4-inch tires with two hub motors, a 48V 20Ah Samsung battery, front fork and rear air shock. Lankeleisi’s own page conflicts on motor output, torque, speed and range; at 37kg, its folding frame helps with storage but not frequent carrying.',
+    verdict: 'We recommend the Lankeleisi X3000 MAX for riders comparing a foldable fat-tire e-bike with a large battery, dual hub motors and a rear rack. The format makes the most sense if you have a roll-in storage plan for an 81.6 lb bike and can confirm which motor and speed configuration applies to the Orange / US version. Lankeleisi’s page gives conflicting power, torque, range and speed details, and it does not state a US e-bike class. The October 24, 2026 listing showed $2,399 and marked the Orange / US variant sold out. The supplied SEBASTIANBASSOL code has no stated amount or confirmed X3000 MAX eligibility.',
+    strengths: [
+      'The listed 48V 20Ah Samsung battery works out to 960Wh from nominal voltage and capacity, a useful number for comparing battery size without treating the manufacturer’s range claims as a promise.',
+      'A folding frame, 20 × 4.0-inch tires, front suspension and an adjustable rear air shock give the X3000 MAX a broad equipment set for riders considering a compact-storing fat-tire format.',
+      'The specification table lists front and rear hydraulic brakes, a Shimano seven-speed drivetrain, a 4.5-inch LED headlight, and a rear rack with its own 24kg load limit.',
+      'The geometry diagram gives a 170–190cm recommended rider-height range and 34.6–38.5-inch saddle adjustment as fit starting points; it also shows folded dimensions and a 71.2-inch assembled length.'
+    ],
+    tradeoffs: [
+      'At a listed 37kg (81.57lb), the X3000 MAX remains heavy to lift even after folding. The geometry image shows a 39.3-inch folded length and 27.5-inch folded height, so measure the route into storage as well as the available space.',
+      'The manufacturer’s page calls the bike a 2,000W dual-motor model and its specification table lists 1,000W front and rear motors, but a separate heading says 500W. The same page gives 95Nm in one section and 45Nm in another. Confirm the exact Orange / US motor and torque specifications before comparing it with other bikes.',
+      'Lankeleisi labels maximum speed as 46km/h on the product page while its collection page lists 51km/h. The US product page does not state an e-bike class; ask which speed configuration ships and check the rules for your intended route.',
+      'Range figures differ across the page: the table lists 55–70km in pure-electric mode and 100–130km with pedal assist, while other highlights summarize 70–130km per charge. The table describes a 60kg load, 25°C and a 20km/h average on flat ground. These are seller claims, not Bike Tested range results.',
+      'The specification table says maximum load is 180kg and rounds it to 400lb; the geometry diagram gives 396lb. Lankeleisi separately rates the rear rack at 24kg (55lb), so do not treat total payload as the rack limit.',
+      'On October 24, 2026, the official feed marked both Orange and Grey US variants sold out. The partner roster supplies SEBASTIANBASSOL but no discount amount or exact X3000 MAX eligibility, so code acceptance and any after-code price remain unconfirmed.'
+    ],
+    specs: {
+      'Configuration / SKU': 'Orange / US; variant 43318691659975; SKU X3000 MAX-US / Orange',
+      'Motor': 'Product title: 2,000W dual motor; specification table: 1,000W front plus 1,000W rear; separate feature heading: 500W. Confirm the exact build.',
+      'Torque': '95Nm in the product description; a separate feature callout says 45Nm.',
+      'Battery': '48V 20Ah Samsung lithium battery using 21700 cells; 960Wh calculated from nominal voltage and capacity.',
+      'Top-speed claims': 'Product page highlights 46km/h; the collection page lists 51km/h. The US product page does not state an e-bike class.',
+      'Claimed range': 'Specification table: 55–70km pure electric and 100–130km pedal assist; its stated conditions are 60kg load, 25°C and 20km/h average on flat ground.',
+      'Tires and suspension': '20 × 4.0-inch tires; 120mm hydraulic front fork and adjustable rear air shock, up to 200psi (manufacturer-listed).',
+      'Brakes and drivetrain': '180mm ZOOM G202 four-piston hydraulic brakes and Shimano seven-speed drivetrain (manufacturer-listed).',
+      'Listed weight': '37kg (81.57lb).',
+      'Dimensions and fit': '71.2in assembled length; 48.4in wheelbase; 39.3in height. Geometry diagram: 39.3in folded length, 27.5in folded height, 170–190cm suggested rider height and 34.6–38.5in saddle height.',
+      'Load limits': '180kg maximum load (about 396lb); product table rounds this to 400lb. Rear rack limit 24kg (55lb).',
+      'Charging and water rating': '48V 3A charger; manufacturer-listed 6–7 hour charge time and IP54 rating.'
+    },
+    source: 'https://lankeleisi.com/products/lankeleisi-x3000-max-front-and-rear-dual-motor-samsung-battery-electric-mountain-bike-new-in-2024?variant=43318691659975',
+    sourceLinks: [
+      { label: 'X3000 MAX Orange / US product listing feed', url: 'https://lankeleisi.com/products/lankeleisi-x3000-max-front-and-rear-dual-motor-samsung-battery-electric-mountain-bike-new-in-2024.js' },
+      { label: 'X3000 MAX geometry diagram', url: 'https://lankeleisi.com/cdn/shop/files/x3000max_291692a8-4361-40e9-9201-2b4f2359c31a_2.jpg?v=1763710617' },
+      { label: 'X3000 MAX English user manual', url: 'https://cdn.shopify.com/s/files/1/0621/3704/1095/files/X3000MAX_English_User_Manual.pdf?v=1763720347' },
+      { label: 'Lankeleisi warranty terms', url: 'https://lankeleisi.com/pages/warranty' }
+    ],
+    evidence: 'Manufacturer-specification editorial evaluation; Orange / US variant and $2,399 listed price checked October 24, 2026. The official feed marked Orange / US sold out, so code acceptance and exact-model eligibility were not tested. The product page contains conflicting motor, torque, speed, range and payload figures; the linked owner manual is a general user manual, not independent performance evidence. No Bike Tested ride, speed, range, braking or hill test.',
+    sections: [
+      [
+        'Folding saves space, not lifting effort',
+        'Lankeleisi lists the X3000 MAX at 37kg (81.57lb) and 71.2 inches long when assembled. Its geometry diagram shows a 39.3-inch folded length and 27.5-inch folded height, but no folded width. That can help with a measured storage opening while still leaving a heavy bike to lift. Check the complete route into a car, closet or apartment and plan ground-level, roll-in storage if you do not regularly lift this much weight.'
+      ],
+      [
+        'Compare battery capacity before relying on range',
+        'The listed 48V 20Ah Samsung pack works out to 960Wh using nominal voltage and capacity. Lankeleisi’s specification table gives 55–70km in pure-electric mode and 100–130km with pedal assist; it describes a 60kg load, 25°C and a 20km/h average on flat ground. Other page highlights condense the range to 70–130km per charge. Those are manufacturer figures, not Bike Tested measurements. Plan around your route, load, speed, temperature and assist level, and leave a charging margin.'
+      ],
+      [
+        'Ask which motor and torque figures describe this bike',
+        'The product title calls the X3000 MAX a 2,000W dual-motor bike, and the specification table lists 1,000W front and rear motors. Elsewhere, a feature heading says 500W. The description states 95Nm maximum torque, while a separate callout says 45Nm. These details do not resolve to one clear configuration on the same official page. Confirm the Orange / US build and written specifications rather than using the title alone to predict hill speed or acceleration.'
+      ],
+      [
+        'Resolve the speed setting, fit and load',
+        'Lankeleisi lists 46km/h on the product page and 51km/h in the collection. The US product page does not identify an e-bike class, so ask which speed setup ships and check the rules for your intended route. The geometry diagram recommends riders 170–190cm tall and shows 34.6–38.5 inches of saddle adjustment. It gives maximum load as 396lb (180kg), while the specification table rounds this to 400lb; the rear rack has its own 55lb limit.'
+      ],
+      [
+        'Listed price, code eligibility and warranty terms are separate questions',
+        'On October 24, 2026, the official Shopify feed listed Orange / US variant 43318691659975 (SKU X3000 MAX-US / Orange) at $2,399.00 and marked it sold out. Bike Tested’s partner roster supplies SEBASTIANBASSOL but gives no discount amount or X3000 MAX eligibility. Since the exact variant could not be ordered from the listed state, code acceptance and stacking were not checked; this review does not claim a saving or after-code price. Lankeleisi’s warranty page lists one year for specified components, two years for motors and battery, and three years for the frame, with original-owner restrictions and exclusions; that page says it was last updated in September 2023, so confirm current terms.'
+      ]
+    ],
+    publishedOn: '2026-10-24',
+    updatedOn: '2026-10-24',
+    specsCheckedOn: '2026-10-24',
+    faqs: [
+      ['How much motor power does the X3000 MAX have?', 'Lankeleisi’s product title says 2,000W dual motor and its specification table lists 1,000W front and rear motors, but a separate feature heading says 500W. Confirm the exact Orange / US configuration with the seller; the listing does not resolve the conflict.'],
+      ['How far can the X3000 MAX travel on a charge?', 'The specification table lists 55–70km in pure-electric mode and 100–130km with pedal assist, under its stated 60kg, 25°C and 20km/h flat-ground conditions. Other highlights summarize 70–130km per charge. These are manufacturer claims, not Bike Tested measurements.'],
+      ['Is the X3000 MAX easy to carry because it folds?', 'It folds, but Lankeleisi lists the complete bike at 37kg (81.57lb). The geometry diagram shows a 39.3-inch folded length and 27.5-inch folded height, with folded width unspecified. Measure your storage route and plan for the actual lifting weight.'],
+      ['What speed does the Orange / US version reach?', 'The US product page highlights 46km/h, while Lankeleisi’s collection page says 51km/h. The product page does not state a US e-bike class. Confirm the shipped setting and check rules for the route you intend to ride.'],
+      ['Does the SEBASTIANBASSOL code apply to the X3000 MAX?', 'The Bike Tested partner roster supplies SEBASTIANBASSOL but no discount amount or X3000 MAX variant eligibility. The Orange / US variant was listed sold out on October 24, 2026, so the code was not tested on this configuration and no saving is claimed.']
+    ],
+    relatedReviews: [
+      { slug: 'lankeleisi-mg740plus-dual-motor-electric-bike', reason: 'Compare another Lankeleisi dual-hub-motor e-bike with a larger 26 × 4.0-inch wheel setup and a non-folding frame.' },
+      { slug: 'gebike-g02-hybrid-electric-bike', reason: 'Compare a lower-output hybrid with narrower tires if most of your route is paved.' }
+    ],
+    price: {
+      amountMinor: 239900,
+      currency: 'USD',
+      region: 'US',
+      variantId: '43318691659975',
+      variantLabel: 'Orange / US (SKU X3000 MAX-US / Orange)',
+      source: 'https://lankeleisi.com/products/lankeleisi-x3000-max-front-and-rear-dual-motor-samsung-battery-electric-mountain-bike-new-in-2024?variant=43318691659975',
+      checkedOn: '2026-10-24',
+      isSalePrice: true
+    },
+    eligibility: {
+      status: 'unresolved',
+      variantId: '43318691659975',
+      evidence: 'docs/evidence/lankeleisi-x3000-max-dual-motor-electric-bike.md#partner-code-eligibility-and-availability'
+    }
   }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
