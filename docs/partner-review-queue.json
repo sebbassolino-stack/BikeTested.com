@@ -157,10 +157,10 @@
       "reviewUrl": "/reviews/gebike-g03-city-commuter-ebike",
       "affiliateUrl": "https://gebikeglobal.com/?ref=SEBASTIANBASSOLINO",
       "code": "SEBASTIANBASSOL",
-      "reportedBenefit": "€10.00 off",
+      "reportedBenefit": "\u20ac10.00 off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-23",
-      "nextStep": "Published in commit 1469ef8. Live review, promo and transparent official cutout return 200; review/promo show the exact Gray / Standard checkout result (€599.99 less €10 = €589.99), and the live image SHA-256 matches the local file. Desktop content checked; 375px not verified. Shipping/tax were uncalculated without an address and no order was placed."
+      "nextStep": "Published in commit 1469ef8. Live review, promo and transparent official cutout return 200; review/promo show the exact Gray / Standard checkout result (\u20ac599.99 less \u20ac10 = \u20ac589.99), and the live image SHA-256 matches the local file. Desktop content checked; 375px not verified. Shipping/tax were uncalculated without an address and no order was placed."
     },
     {
       "brand": "Gyroor",
@@ -200,7 +200,7 @@
       "category": "components",
       "status": "review-published-live-routes-verified",
       "priority": 1,
-      "product": "Hycline Code: Bones 20×4 Fat Tire Set (variant 44651812684001; SKU SHP-EbFT905_204BLK_2TR2TB)",
+      "product": "Hycline Code: Bones 20\u00d74 Fat Tire Set (variant 44651812684001; SKU SHP-EbFT905_204BLK_2TR2TB)",
       "officialSource": "https://hyclinebike.com/products/code-bones-all-terrain-fat-tire-20-x-4-0?variant=44651812684001",
       "reviewUrl": "/reviews/hycline-code-bones-fat-tire-set",
       "affiliateUrl": "https://hyclinebike.com/?ref=zcmvdskp",
@@ -208,7 +208,7 @@
       "reportedBenefit": "5% off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-23",
-      "nextStep": "Published in commit 616f59e. Live review, promo and transparent official image return 200; the live image SHA-256 matches the local file. Desktop review and 375px review/promo QA passed with no horizontal overflow or browser warnings/errors, and promo copy feedback succeeded. The exact US 20×4 two-pack-with-tubes variant accepted SEBASTIANBASSOL for $5.29 off $105.99, leaving $100.70 before shipping and tax; no address or order. Continue with the next coded product."
+      "nextStep": "Published in commit 616f59e. Live review, promo and transparent official image return 200; the live image SHA-256 matches the local file. Desktop review and 375px review/promo QA passed with no horizontal overflow or browser warnings/errors, and promo copy feedback succeeded. The exact US 20\u00d74 two-pack-with-tubes variant accepted SEBASTIANBASSOL for $5.29 off $105.99, leaving $100.70 before shipping and tax; no address or order. Continue with the next coded product."
     },
     {
       "brand": "Leoout",
@@ -320,7 +320,7 @@
       "reportedBenefit": "$20.00 off on tested Red variant",
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-23",
-      "nextStep": "Commit a2fb395 is live in Cloudflare Pages deployment f1a30df5-b58a-4f7a-aef8-28831c4206da (dashboard status success). The custom-domain review, promo, and image routes were verified; the live 1200×1200 WebP SHA-256 matches local. At 375px, review and promo showed no horizontal overflow; the promo copy control returned Copied and the exact affiliate URL was preserved. The Red variant accepted SEBASTIANBASSOL for $20.00 off $679.99 to $659.99 before shipping; no address or order, and the test item was removed. The product listing conflicts on motor, range, speed, model markings, and stock indicators, so no availability claim is made. GitHub Cloudflare check run 120741011071 still showed in progress at the latest read."
+      "nextStep": "Commit a2fb395 is live in Cloudflare Pages deployment f1a30df5-b58a-4f7a-aef8-28831c4206da (dashboard status success). The custom-domain review, promo, and image routes were verified; the live 1200\u00d71200 WebP SHA-256 matches local. At 375px, review and promo showed no horizontal overflow; the promo copy control returned Copied and the exact affiliate URL was preserved. The Red variant accepted SEBASTIANBASSOL for $20.00 off $679.99 to $659.99 before shipping; no address or order, and the test item was removed. The product listing conflicts on motor, range, speed, model markings, and stock indicators, so no availability claim is made. GitHub Cloudflare check run 120741011071 still showed in progress at the latest read."
     },
     {
       "brand": "Bezior",
@@ -376,7 +376,7 @@
       "category": "electric-mobility",
       "status": "review-published-live-routes-verified",
       "priority": 2,
-      "product": "Eskute NOVA RR 5500W Electric Dirt Bike, Black / Bike(5500W，60V 30Ah) (variant 58555389149558; SKU NOVA-RR-BK)",
+      "product": "Eskute NOVA RR 5500W Electric Dirt Bike, Black / Bike(5500W\uff0c60V 30Ah) (variant 58555389149558; SKU NOVA-RR-BK)",
       "officialSource": "https://eskute.com/products/eskute%C2%AE-nova-rr-5500w-electric-dirt-bike?variant=58555389149558",
       "reviewUrl": "/reviews/eskute-nova-rr-5500w-electric-dirt-bike",
       "affiliateUrl": "https://eskute.com/?ref=zrjrdlrv",
@@ -384,7 +384,7 @@
       "reportedBenefit": null,
       "offerDetailNeeded": true,
       "checkoutTestedOn": "2026-10-23",
-      "nextStep": "Published in commit df5fa9b. Cloudflare Pages check 120748785643 succeeded (deployment 60aa24bd-61ba-4282-b73d-f4c2b0a437ed). Review, promo and image routes return 200; live review and promo verified at 375px with no horizontal overflow, exact sponsored destination/canonical and code-copy success. The 1200×1200 transparent official image loads and its SHA-256 matches local. The exact variant code was accepted for a $15 order-level discount with an auto-added $0 helmet; no after-code bike price, address, order or attribution is claimed."
+      "nextStep": "Published in commit df5fa9b. Cloudflare Pages check 120748785643 succeeded (deployment 60aa24bd-61ba-4282-b73d-f4c2b0a437ed). Review, promo and image routes return 200; live review and promo verified at 375px with no horizontal overflow, exact sponsored destination/canonical and code-copy success. The 1200\u00d71200 transparent official image loads and its SHA-256 matches local. The exact variant code was accepted for a $15 order-level discount with an auto-added $0 helmet; no after-code bike price, address, order or attribution is claimed."
     },
     {
       "brand": "eWheels",
@@ -448,7 +448,7 @@
       "reportedBenefit": null,
       "offerDetailNeeded": true,
       "checkoutTestedOn": "2026-10-23",
-      "nextStep": "Published in commit 3a3c9c5; Cloudflare Pages deployment 36dce695-451f-4749-9a31-f7cef12ce717 succeeded. Live review and promo return 200; the official 1200×1200 transparent product image returns 200 and matches the local SHA-256. Exact Navy / US variant 46519631053049 (SKU EX6F-N-20080013) listed at $949.99; SEBASTIANBASSOL allocated $0.00 in the cart, so no saving or after-code price is claimed. Desktop and 375px live review/promo QA passed with no horizontal overflow; both copy controls showed success. npm run build and git diff --check passed. No address, shipping/tax calculation, or order."
+      "nextStep": "Published in commit 3a3c9c5; Cloudflare Pages deployment 36dce695-451f-4749-9a31-f7cef12ce717 succeeded. Live review and promo return 200; the official 1200\u00d71200 transparent product image returns 200 and matches the local SHA-256. Exact Navy / US variant 46519631053049 (SKU EX6F-N-20080013) listed at $949.99; SEBASTIANBASSOL allocated $0.00 in the cart, so no saving or after-code price is claimed. Desktop and 375px live review/promo QA passed with no horizontal overflow; both copy controls showed success. npm run build and git diff --check passed. No address, shipping/tax calculation, or order."
     },
     {
       "brand": "HX Happy Relax",
@@ -640,7 +640,7 @@
       "reportedBenefit": "6% off on tested T1MAX 20Ah variant",
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-23",
-      "nextStep": "Commit 6049c89 is live: the review and promo routes display the exact 20Ah variant and offer, and the live 1200×1200 product image SHA-256 matches local. Review was checked at 375px; promo route and image were also opened live. No stock claim. GitHub Cloudflare Pages check run 120738068784 remained in progress at the latest check; record its final state separately."
+      "nextStep": "Commit 6049c89 is live: the review and promo routes display the exact 20Ah variant and offer, and the live 1200\u00d71200 product image SHA-256 matches local. Review was checked at 375px; promo route and image were also opened live. No stock claim. GitHub Cloudflare Pages check run 120738068784 remained in progress at the latest check; record its final state separately."
     },
     {
       "brand": "TsTescooter",
@@ -806,7 +806,7 @@
       "brand": "Cycplus",
       "brandSlug": "cycplus",
       "category": "cycling-technology",
-      "status": "review-in-progress",
+      "status": "review-published-live-routes-verified",
       "priority": 1,
       "product": "R200 Smart Trainer, HG freehub (variant 45979103527070; SKU R200 (HG))",
       "officialSource": "https://www.cycplus.com/products/r200-smart-trainer?variant=45979103527070",
@@ -816,7 +816,7 @@
       "reportedBenefit": "5% off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": null,
-      "nextStep": "Official R200 listing and HG variant confirmed October 24, 2026 at $399 USD. Manufacturer specifications and exact official image are recorded; the white background was removed and the trainer preserved. R200 code eligibility was not tested; no after-code price is claimed. npm run check and npm run build passed with 33 reviews and 145 HTML pages; local review, CYCPLUS promo and image routes return 200. Push and production verification pending; visual browser QA unavailable because the Mac is locked."
+      "nextStep": "Published in review commit 0ee3a6d; Cloudflare Pages check succeeded (deployment 4ab595dd-e2c4-4e75-bc84-42860ead78be). Production review, CYCPLUS promo, exact image and agent feed return 200; review includes canonical, partner URL, code and listed price; live image SHA-256 matches local. Exact HG variant code was not tested; no after-code price is claimed. Visual browser QA unavailable because the Mac is locked."
     }
   ]
 }
