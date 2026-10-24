@@ -742,7 +742,7 @@
       "brand": "Actbest",
       "brandSlug": "actbest",
       "category": "electric-mobility",
-      "status": "ready-for-release",
+      "status": "review-published-live-routes-verified",
       "priority": 1,
       "product": "Striker Max AWD Dual-Motor Moped-Style E-Bike, Red / US (variant 51857948770586; SKU AT59MaxUS01HP-11)",
       "officialSource": "https://actbestbike.com/products/striker-max?variant=51857948770586",
@@ -752,7 +752,7 @@
       "reportedBenefit": "3% off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-24",
-      "nextStep": "Exact Red / US cart line added. The SEBASTIAN3% route redirected to an empty cart, so exact-model eligibility and sale-price stacking remain unconfirmed. Do not calculate savings; proceed with the review and verify production routes."
+      "nextStep": "Published in review commit 12c10a4; Cloudflare Pages check succeeded (deployment 686ffbeb-d884-4907-85eb-da8fd54e0c2c). Live review, Actbest promo, agent feed and exact transparent product image return 200; live image SHA-256 matches local. Exact Red / US variant 51857948770586 (SKU AT59MaxUS01HP-11) listed at $1,499.00 USD. SEBASTIAN3% did not produce an exact-model acceptance or usable discount result, so eligibility and sale-price stacking remain unconfirmed and no savings are claimed. Live 375px and 1280px review/promo QA passed with no overflow; exact affiliate destination and canonical verified; production copy test succeeded. Cart cleared; no address or order."
     },
     {
       "brand": "Cycplus",
