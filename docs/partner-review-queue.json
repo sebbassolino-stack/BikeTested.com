@@ -1136,7 +1136,7 @@
       "reportedBenefit": "$100 off reported; accepted only on H2 Pro Grey / US; exact GTX2 Silver-Black / US cart showed no discount; eligibility unresolved and no GTX2 saving claimed",
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-24",
-      "nextStep": "Review commit e7c6664 was pushed to main. The live review, Hiknight promo, agent feed, mid-drive guide, and exact product image were verified on biketested.com and biketested.pages.dev; image SHA-256 matches local. The exact variant 52273751130332 / SKU HKN-GTX2-BO-US was listed at $799.00; applying SEBASTIANBASSOL produced no discount in the fresh cart. The $100 partner benefit is supported only for H2 Pro Grey / US. No address or order. Cloudflare Pages check 121021572841 remains in progress with no confirmed deployment ID. Owner requested pausing after review 50; do not begin the next review until resumed."
+      "nextStep": "Review commit e7c6664 was pushed to main. The live review, Hiknight promo, agent feed, mid-drive guide, and exact product image were verified on biketested.com and biketested.pages.dev; image SHA-256 matches local. The exact variant 52273751130332 / SKU HKN-GTX2-BO-US was listed at $799.00; applying SEBASTIANBASSOL produced no discount in the fresh cart. The $100 partner benefit is supported only for H2 Pro Grey / US. No address or order. Cloudflare Pages check 121021673835 succeeded (deployment 19c00d98-d95d-44e8-8558-30744fe4a95f). Owner requested pausing after review 50; do not begin the next review until resumed."
     }
   ]
 }
