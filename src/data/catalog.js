@@ -3248,6 +3248,107 @@ export const products = [
       variantId: '47529200910592',
       evidence: 'docs/evidence/eunorau-s1-electric-dirt-bike.md#partner-code-scope'
     }
+  },
+  {
+    slug: 'gebike-gt20-fat-tire-electric-bike',
+    brand: 'gebike',
+    name: 'GEBIKE GT20 20-Inch Fat Tire Electric Bike',
+    model: '20-Inch Fat Tire, EU (variant 51725417513281; SKU GT20-EU-1)',
+    image: '/images/products/gebike-gt20-fat-tire-electric-bike.webp',
+    imageAlt: 'Black GEBIKE GT20 20-inch fat-tire electric bike with a brown saddle, shown in side profile',
+    imageWidth: 1200,
+    imageHeight: 1200,
+    category: 'electric-bikes',
+    use: 'commute',
+    label: 'For compact city errands',
+    headline: 'A 20-inch fat-tire format with useful fit and load references.',
+    description: 'GEBIKE positions the GT20 as a compact 20-inch fat-tire electric bike for city rides and everyday use. The listing names a 250W motor, 750W peak output and dual-sensor control, while its size chart gives a rider-height range and load limit. Battery capacity, weight, brakes, drivetrain and the exact sensor behavior are not stated in the current product details.',
+    verdict: 'We’d consider the GEBIKE GT20 for a rider who wants a compact 20-inch fat-tire format for city errands and can confirm the fit and equipment before ordering. GEBIKE lists a 250W motor, 750W peak and dual-sensor control, and its size chart gives a 5-foot-3-to-6-foot-3 height range. The missing battery capacity, bike weight, brake details and exact sensor behavior are meaningful; ask for them before estimating range, transport or service needs.',
+    strengths: [
+      'The exact EU configuration is clear: one 20-Inch Fat Tire option, variant 51725417513281 and SKU GT20-EU-1.',
+      'GEBIKE’s size chart lists 20 × 4.0 tires, a recommended rider-height range of 5 ft 3 in–6 ft 3 in, a 330 lb maximum load and a total length of 5 ft 7 in. Those figures provide starting points for fit and storage checks.',
+      'The seller describes a 250W motor with 750W peak output and dual-sensor control, giving buyers a few concrete questions to take to the brand before choosing a riding style.'
+    ],
+    tradeoffs: [
+      'The current product details do not state battery capacity, a range estimate, complete-bike weight, brake type, drivetrain or sensor types. Ask GEBIKE for the exact configuration sheet before estimating distance, lifting needs, maintenance or assist response.',
+      'The 5 ft 3 in–6 ft 3 in fit range is only a starting point. The chart does not give frame-specific reach, stand-over height or saddle range, and this listing has one size option; check those details against the intended rider.',
+      'A 20 × 4.0 tire is a wide tire, not proof that the GT20 suits every trail or loose surface. Confirm tire-pressure guidance and intended-use limits for the routes you plan to ride.',
+      'The reviewed product page displays a CE/UKCA certification badge, but model-specific conformity documents were not reviewed. Request the applicable paperwork for your destination before relying on the label for local operating permissions.',
+      'The EU listing was €929 on October 24, 2026, against a €1,099 compare-at price. The supplied €10 GEBIKE code was accepted on the separate G03 Gray / Standard variant only; GT20 eligibility and sale-price stacking are untested.'
+    ],
+    specs: {
+      'Selected configuration': 'EU, 20-Inch Fat Tire (variant 51725417513281; SKU GT20-EU-1)',
+      'Motor': '250W listed motor; 750W peak output (seller-listed)',
+      'Control': 'Dual-sensor control; sensor types and assistance behavior are not specified in the current product details',
+      'Wheel and tire': '20-inch wheel; 20 × 4.0-inch tire (official size chart)',
+      'Recommended rider height': '5 ft 3 in–6 ft 3 in (official size chart; reach and stand-over dimensions not listed)',
+      'Maximum load': '330 lb (official size chart)',
+      'Total length': '5 ft 7 in (official size chart)',
+      'Battery capacity': 'Not stated in the current official product details',
+      'Claimed range': 'Not stated in the current official product details',
+      'Complete-bike weight': 'Not stated in the current official product details',
+      'Brakes and drivetrain': 'Not stated in the current official product details',
+      'Certification label': 'Product page displays “CE/UKCA Certified”; model-specific conformity documents were not reviewed',
+      'Listed price': '€929.00 EUR; €1,099.00 compare-at price, checked October 24, 2026'
+    },
+    source: 'https://gebikeglobal.com/products/gt20-electric-bike?variant=51725417513281',
+    sourceLinks: [
+      {label: 'GEBIKE GT20 product listing and selected variant', url: 'https://gebikeglobal.com/products/gt20-electric-bike?variant=51725417513281'},
+      {label: 'GEBIKE electric-bike collection and listed price', url: 'https://gebikeglobal.com/collections/e-bikes'},
+      {label: 'Official GT20 size chart', url: 'https://cdn.shopify.com/s/files/1/0980/8904/2241/files/20260428-171743.jpg?v=1778138488'}
+    ],
+    evidence: 'Manufacturer-specification editorial evaluation. Official EU product page and variant feed checked October 24, 2026; exact variant and listed price recorded. SEBASTIANBASSOL eligibility is unresolved for the GT20; the documented €10 acceptance is on the separate G03 Gray / Standard variant. No ride, range, fit, braking, classification or road-access test.',
+    sections: [
+      [
+        'Start with the fit references, then ask for the frame details',
+        'The official chart lists 20 × 4.0 tires, a recommended rider height of 5 ft 3 in–6 ft 3 in, a 330 lb maximum load and an overall length of 5 ft 7 in. Those numbers help screen for basic fit and storage, but a height band cannot show reach, stand-over clearance or how comfortably a rider can mount and stop. Because the listing shows one size option, ask GEBIKE for the frame geometry and saddle-height range, then compare them with the rider and the places the bike must fit.'
+      ],
+      [
+        'Treat “dual-sensor” as a question, not a riding-feel promise',
+        'GEBIKE describes a 250W motor, 750W peak output and dual-sensor control, but does not identify the sensors or explain how assistance responds to pedal input. We would ask whether the system measures pedal rotation, pedal force or another input, what assistance levels are available, and whether the selected EU configuration has a throttle. Peak output alone cannot tell you how naturally the bike starts, climbs or responds at low speed.'
+      ],
+      [
+        'Get the battery, weight and component sheet before planning a route',
+        'The current product page does not state battery capacity, a range estimate, complete-bike weight, brake type or drivetrain. Without those details, there is no source-backed way to estimate this bike’s practical distance, carrying burden or routine service needs. Ask for the exact GT20-EU-1 specification sheet and manual, including the charger and battery details, before comparing it with a daily commute or deciding how to store and transport it.'
+      ],
+      [
+        'Match the wide tires to the actual surface',
+        'The 20 × 4.0 size creates a wide-tire setup, and GEBIKE presents the bike for city and everyday riding. Tire width alone does not establish grip, comfort, range or suitability for a specific trail. Ask for the approved pressure range and intended-use guidance for the delivered tires, and confirm access rules for any private paths or public facilities you plan to use.'
+      ],
+      [
+        'Keep the GEBIKE code separate from this variant’s price',
+        'On October 24, 2026, GEBIKE’s EU product feed listed the 20-Inch Fat Tire variant at €929.00, with €1,099.00 shown as the compare-at price. The partner code SEBASTIANBASSOL is a reported €10 benefit and was accepted on the G03 Gray / Standard configuration only. GT20 eligibility and whether the code stacks with this listing price remain untested, so check the current cart total and do not assume an after-code amount.'
+      ]
+    ],
+    publishedOn: '2026-10-24',
+    updatedOn: '2026-10-24',
+    specsCheckedOn: '2026-10-24',
+    faqs: [
+      ['How far can the GT20 travel on a charge?', 'The current official GT20 product details do not state battery capacity or a range estimate. Ask GEBIKE for the battery specification and any range conditions for the exact GT20-EU-1 configuration; no distance claim is made here.'],
+      ['Who does the GT20 fit?', 'GEBIKE’s size chart recommends 5 ft 3 in–6 ft 3 in and lists a 330 lb maximum load. It does not provide frame-specific reach, stand-over or saddle-height dimensions, so confirm the geometry and evaluate fit directly.'],
+      ['What tire size does the GT20 use?', 'The official size chart lists 20 × 4.0-inch tires. Confirm the delivered tire model, pressure range and replacement availability with GEBIKE before planning around a particular surface.'],
+      ['Does SEBASTIANBASSOL apply to the GT20?', 'GEBIKE’s partner code is reported as €10 off and was accepted on the G03 Gray / Standard variant 51947256611137. GT20 variant 51725417513281 has not been tested for eligibility or sale-price stacking. Check the final cart total; no GT20 after-code price is claimed.'],
+      ['Does the GT20’s certification label establish where I can ride?', 'The product page displays a CE/UKCA certification badge, but this review did not inspect model-specific conformity documents or determine local classification. Request the applicable documents and confirm the rules for your location and intended route.']
+    ],
+    relatedReviews: [
+      {slug: 'finbike-eb8-electric-bike', reason: 'Compare another compact-wheel fat-tire e-bike with published battery and weight details to resolve the GT20 listing’s key information gaps.'},
+      {slug: 'gebike-g03-city-commuter-ebike', reason: 'Compare GEBIKE’s step-through city model if a conventional commuter fit and better-documented battery details matter more than the GT20’s wide tires.'}
+    ],
+    price: {
+      amountMinor: 92900,
+      currency: 'EUR',
+      region: 'EU',
+      variantId: '51725417513281',
+      variantLabel: '20-Inch Fat Tire (SKU GT20-EU-1)',
+      source: 'https://gebikeglobal.com/products/gt20-electric-bike?variant=51725417513281',
+      checkedOn: '2026-10-24',
+      isSalePrice: true
+    },
+    eligibility: {
+      status: 'unresolved',
+      variantId: '51725417513281',
+      evidence: 'docs/evidence/gebike-gt20-fat-tire-electric-bike.md#partner-code-scope'
+    }
   }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
