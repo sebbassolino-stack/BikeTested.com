@@ -1076,6 +1076,132 @@ export const products = [
   }
 },
 {
+  "slug": "hiboy-ex11-full-suspension-electric-bike",
+  "brand": "hiboy",
+  "name": "Hiboy EX11 Full Suspension Electric Bike",
+  "model": "EX11 Navy Blue (US; variant 47395627794681; SKU EX11-NB-20070014)",
+  "image": "/images/products/hiboy-ex11-full-suspension-electric-bike.webp",
+  "imageAlt": "Navy Blue Hiboy EX11 full-suspension electric bike with 26 × 4-inch fat tires and rear rack",
+  "imageWidth": 1200,
+  "imageHeight": 1200,
+  "category": "electric-bikes",
+  "use": "weekend",
+  "label": "For rough routes and cargo days",
+  "headline": "Full suspension and a torque sensor, at 99.2 lb.",
+  "description": "Hiboy pairs a 750W rated motor, 864Wh removable battery, 26 × 4-inch tires and full suspension on the EX11. It lists a 300 lb payload, a 55 lb rear rack limit and a 99.2 lb bike weight.",
+  "verdict": "We recommend the EX11 for riders who want full suspension, fat tires and rear-rack capacity for longer mixed-surface rides, and have room to store and handle a 99.2 lb bike. Hiboy lists a removable 864Wh battery, torque sensor, Shimano 1 × 7 gearing, an 80mm lockout fork and a four-link rear suspension. The 100-mile pedal-assist and 53-mile throttle figures are seller claims at 165 lb, not a route guarantee. Fit needs confirmation too: the product page gives one recommended-height range through 6 ft 3 in and a geometry chart through 6 ft 5 in. Ask Hiboy which guidance applies to the Navy Blue model, then check the complete bike’s fit and handling before ordering.",
+  "strengths": [
+    "A torque sensor, 750W rated / 880W peak motor, listed 90 N·m torque and Shimano 1 × 7 gearing make a capable on-paper setup for varied terrain.",
+    "An 80mm lockout dual-crown fork and four-link rear suspension are paired with 26 × 4-inch puncture-resistant tires for rough paths and broken pavement.",
+    "The removable 48V 18Ah (864Wh) battery, 300 lb payload rating and 55 lb rear-rack limit give riders useful capacity for longer outings and gear.",
+    "Hiboy lists dual-piston hydraulic disc brakes with 180mm rotors, fenders, a front light and a color display."
+  ],
+  "tradeoffs": [
+    "At 99.2 lb before cargo, the EX11 is difficult to lift, load into a vehicle or manage in a tight storage space. Plan for its 76.9-inch length as well as its weight.",
+    "Hiboy gives conflicting fit guidance: the specifications recommend riders from 5 ft 3 in to 6 ft 3 in, while the geometry chart extends to 6 ft 5 in. Confirm the correct range and compare the 35.5–44.8-inch saddle adjustment and reach with your fit.",
+    "The seller advertises up to 100 miles in pedal-assist and 53 miles on throttle for a 165 lb rider, but does not provide a full range-test protocol on the product page. Treat these as optimistic manufacturer figures, not dependable route distances.",
+    "The default throttle setting is listed at 20 mph, with pedal assist switchable to 28 mph where permitted. Confirm the shipped settings and rules for the places you ride before using the higher mode.",
+    "The included charger is listed at 9–10 hours for a full charge, and Hiboy advertises a one-year warranty. Check the warranty terms and local service process for your purchase.",
+    "Hiboy supplies the reader code SEBASTIANBASSOL without a stated discount amount. A separate EX6F cart check did not apply it; that result does not establish EX11 eligibility. No EX11 savings or after-code price is claimed."
+  ],
+  "specs": {
+    "Configuration / SKU": "Navy Blue / US; variant 47395627794681; SKU EX11-NB-20070014",
+    "Motor": "750 W rated / 880 W peak; 90 N·m torque (manufacturer-listed)",
+    "Assist sensor": "Torque sensor (manufacturer-listed)",
+    "Battery": "Removable 48 V, 18 Ah (864 Wh)",
+    "Claimed range": "Up to 100 miles pedal assist and 53 miles throttle at 165 lb (seller claims; test protocol not provided on the product page)",
+    "Riding modes and speed": "20 mph throttle default; pedal assist switchable to 28 mph where permitted (manufacturer-listed settings; check local rules)",
+    "Drivetrain": "Shimano 1 × 7",
+    "Recommended rider height": "5 ft 3 in–6 ft 3 in in specifications; 5 ft 3 in–6 ft 5 in in geometry chart (seller-page conflict)",
+    "Front / rear suspension": "80mm lockout dual-crown fork / four-link rear suspension",
+    "Brakes": "Dual-piston hydraulic disc brakes; 180mm rotors",
+    "Tires": "26 × 4.0 in puncture-resistant fat tires with reflective sidewalls",
+    "Bike weight": "99.2 lb (manufacturer-listed)",
+    "Maximum payload": "300 lb (manufacturer-listed)",
+    "Rear rack capacity": "55 lb (manufacturer-listed)",
+    "Bike dimensions": "76.9 × 27.2 × 43.3 in; 76.9 in total length",
+    "Saddle height": "35.5–44.8 in; geometry chart also gives 22 in handlebar reach",
+    "Charging": "9–10 hours with included charger (manufacturer-listed)",
+    "Warranty": "One year (manufacturer-listed)"
+  },
+  "source": "https://hiboy.com/products/hiboy-ex11-full-suspension-electric-bike?variant=47395627794681",
+  "sourceLinks": [
+    {
+      "label": "Hiboy warranty policy",
+      "url": "https://hiboy.com/pages/warranty"
+    }
+  ],
+  "evidence": "Manufacturer-specification editorial evaluation; exact Navy Blue US variant and listing price checked; no EX11 code test, Bike Tested ride or range measurement",
+  "sections": [
+    [
+      "A full-suspension bike that needs a full-bike plan",
+      "The 80mm lockout fork, four-link rear suspension and 26 × 4-inch tires give the EX11 a useful equipment list for rough pavement, gravel and similar mixed surfaces. The weight changes the ownership plan: at 99.2 lb and 76.9 inches long, it is not a convenient stair carry or casual vehicle load. Measure storage and loading access, and check whether you can move the bike safely before choosing it for a daily commute."
+    ],
+    [
+      "Resolve the size chart before choosing a frame",
+      "The product specifications recommend riders from 5 ft 3 in to 6 ft 3 in, while Hiboy’s geometry chart extends the top end to 6 ft 5 in. The chart lists a 35.5–44.8-inch saddle height, a 22-inch handlebar reach and 13.9-inch standover height. These numbers help with a first fit check, but the conflicting height limits make seller confirmation worthwhile; a long seat adjustment alone does not establish comfortable reach."
+    ],
+    [
+      "Plan rides around the battery, not the headline range",
+      "Hiboy lists a removable 48V 18Ah battery and claims up to 100 miles of pedal-assist range or 53 miles on throttle for a 165 lb rider. The product page does not provide enough test conditions to treat either maximum as a dependable route estimate. The 864Wh battery and nine-to-ten-hour charge time are useful planning details; leave room for hills, cargo, speed and weather on a return trip."
+    ],
+    [
+      "Check the modes and load limits for your use",
+      "Hiboy lists a 20 mph throttle default and a pedal-assist mode that can be switched to 28 mph where permitted. Confirm the delivered configuration and the rules where you plan to ride. The 300 lb maximum payload and 55 lb rear rack rating are separate limits to check against the rider, gear and cargo plan; ask Hiboy how the total payload is counted for the exact setup."
+    ],
+    [
+      "What to expect from the Hiboy code",
+      "The partner roster supplies SEBASTIANBASSOL for Hiboy but does not state a discount amount. On October 23, the code did not reduce the separate EX6F variant’s cart price. That one result does not decide EX11 eligibility, and sale-price stacking is untested. Check the code on the exact Navy Blue EX11 before relying on a saving; the review shows no after-code total."
+    ]
+  ],
+  "publishedOn": "2026-10-24",
+  "updatedOn": "2026-10-24",
+  "specsCheckedOn": "2026-10-24",
+  "faqs": [
+    [
+      "What suspension does the Hiboy EX11 have?",
+      "Hiboy lists an 80mm lockout dual-crown front fork and four-link rear suspension. The bike also uses 26 × 4-inch fat tires; these are manufacturer specifications, not a Bike Tested trail or comfort test."
+    ],
+    [
+      "How heavy is the Hiboy EX11?",
+      "Hiboy lists the EX11 at 99.2 lb before cargo. Plan for lifting, vehicle loading and storage around the complete-bike weight."
+    ],
+    [
+      "What range does Hiboy claim for the EX11?",
+      "The product page claims up to 100 miles with pedal assist and 53 miles with throttle for a 165 lb rider. The listing does not give a full test protocol, so treat both as seller claims rather than guaranteed route distances."
+    ],
+    [
+      "What rider height does the EX11 fit?",
+      "The product page is inconsistent: its specifications recommend 5 ft 3 in–6 ft 3 in, while its geometry chart lists 5 ft 3 in–6 ft 5 in. Ask Hiboy which guidance applies to the Navy Blue version and compare the geometry with your fit."
+    ],
+    [
+      "Can the EX11 reach 28 mph?",
+      "Hiboy lists a 20 mph throttle default and pedal assist switchable up to 28 mph where permitted. Confirm the shipped mode and local rules before using a higher setting."
+    ]
+  ],
+  "price": {
+    "amountMinor": 129999,
+    "currency": "USD",
+    "region": "US",
+    "variantId": "47395627794681",
+    "variantLabel": "Navy Blue / US",
+    "source": "https://hiboy.com/products/hiboy-ex11-full-suspension-electric-bike?variant=47395627794681",
+    "checkedOn": "2026-10-24",
+    "isSalePrice": true
+  },
+  "eligibility": {
+    "status": "unresolved",
+    "variantId": "47395627794681",
+    "evidence": "docs/evidence/hiboy-ex11-full-suspension-electric-bike.md#partner-offer"
+  },
+  "relatedReviews": [
+    {
+      "slug": "hiboy-ex6f-foldable-electric-bike",
+      "reason": "Compare the EX6F if a low-step folding frame matters more than the EX11’s full suspension and trail focus."
+    }
+  ]
+},
+{
   "slug": "hiboy-ex6f-foldable-electric-bike",
   "brand": "hiboy",
   "name": "Hiboy EX6F Low-Step Foldable Electric Bike",

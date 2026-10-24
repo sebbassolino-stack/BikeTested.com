@@ -849,6 +849,22 @@
       "offerDetailNeeded": false,
       "checkoutTestedOn": null,
       "nextStep": "Review commit c1f50bb deployed successfully to Cloudflare Pages as a11050ef-15a3-4819-a424-b212267d94be. Production review, GEBIKE promo, transparent product image and agent feed return 200; review canonical, exact partner destination and both related guide links are correct. The live image SHA-256 matches local. Exact Gray / Standard EU variant 52002247475521 is listed at \u20ac349.99; G01 code eligibility and sale stacking remain untested, so no after-code price is claimed. Visual browser QA unavailable because the Mac is locked."
+    },
+    {
+      "brand": "Hiboy",
+      "brandSlug": "hiboy",
+      "category": "electric-bikes",
+      "status": "review-in-progress",
+      "priority": 2,
+      "product": "Hiboy EX11 Full Suspension Electric Bike, Navy Blue / US (variant 47395627794681; SKU EX11-NB-20070014)",
+      "officialSource": "https://hiboy.com/products/hiboy-ex11-full-suspension-electric-bike?variant=47395627794681",
+      "reviewUrl": "/reviews/hiboy-ex11-full-suspension-electric-bike",
+      "affiliateUrl": "https://hiboy.com/?ref=SEBASTIANBASSOLINO",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": null,
+      "offerDetailNeeded": true,
+      "checkoutTestedOn": null,
+      "nextStep": "Official Hiboy page and Shopify feed checked October 24, 2026. The exact Navy Blue US variant is listed at $1,299.99. The partner code has no stated amount; the existing $0 EX6F cart observation does not establish EX11 eligibility. No after-code price is shown. Build and verify route, promo, image and public feed before release."
     }
   ]
 }
