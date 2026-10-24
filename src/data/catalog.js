@@ -3037,6 +3037,112 @@ export const products = [
       variantId: '44484400840912',
       evidence: 'docs/evidence/young-electric-e-scout-pro-electric-bike.md#partner-code-scope'
     }
+  },
+  {
+    slug: 'eunorau-urus-2-electric-mountain-bike',
+    brand: 'eunorau',
+    name: 'Eunorau URUS 2.0 Electric Mountain Bike',
+    model: 'URUS 2.0, Amethyst / 19-inch (variant 48220380856576; SKU EBURUS21PP19WD)',
+    image: '/images/products/eunorau-urus-2-electric-mountain-bike.webp',
+    imageAlt: 'Amethyst Eunorau URUS 2.0 full-suspension electric mountain bike in side profile',
+    imageWidth: 1200,
+    imageHeight: 1200,
+    category: 'electric-bikes',
+    use: 'weekend',
+    label: 'For a full-suspension trail setup',
+    headline: 'A mid-drive trail build with substantial weight to plan around.',
+    description: 'The URUS 2.0 pairs EUNORAU’s listed 500W Bafang M600 mid-drive with a removable 48V 17.5Ah battery, RockShox suspension and Maxxis 27.5 × 2.8-inch tires. At approximately 61.7 lb, it calls for a deliberate storage and transport plan.',
+    verdict: 'We recommend the EUNORAU URUS 2.0 to riders looking for a full-suspension electric mountain bike with a Bafang mid-drive, RockShox suspension, a SRAM NX 1 × 11 drivetrain and four-piston hydraulic brakes. EUNORAU lists 120 N·m of motor torque and a 300 lb maximum payload, while the approximate 61.7 lb bike weight is a real ownership consideration. Its 40–65-mile range is a manufacturer estimate without complete conditions, and the listing’s Class 3 label sits beside a 20 mph maximum-speed figure. Confirm the delivered speed setting, frame fit and any code terms before buying.',
+    strengths: [
+      'EUNORAU lists a 500W Bafang M600 mid-drive with up to 120 N·m of torque and a removable 48V 17.5Ah Samsung-cell battery.',
+      'The equipment list includes a 150mm RockShox Psylo fork, a RockShox Deluxe Select+ RL rear shock, SRAM NX 1 × 11 gearing and TEKTRO four-piston hydraulic disc brakes.',
+      'Maxxis Minion DHF and DHR II tires measure 27.5 × 2.8 inches, and the listing offers 17-inch and 19-inch frame sizes.',
+      'The manufacturer lists a 300 lb maximum payload and a recommended rider-height range of 5 ft 3 in to 6 ft 4 in.'
+    ],
+    tradeoffs: [
+      'At approximately 61.7 lb, this is a heavy bike to carry up stairs or load onto a vehicle. EUNORAU lists it at about 80.6–80.9 inches long; measure storage and carrier fit before ordering.',
+      'The advertised 40–65-mile range has no complete rider, speed, terrain, temperature or assist-level conditions on the product page, so it cannot predict a particular ride.',
+      'The page calls the bike “Class 3 Speed limited Unlockable” but also lists a 20 mph maximum speed. Ask EUNORAU to clarify the delivered configuration and check current rules for your intended routes.',
+      'The geometry table has conflicting inch conversions for some of the 19-inch measurements. Compare the millimeter figures with a bike that fits and ask the seller to confirm the size chart.',
+      'Front and rear lights are not included. The EUNORAU code was accepted on a different model only; URUS 2.0 eligibility and any after-code price are unconfirmed.'
+    ],
+    specs: {
+      'Selected configuration': 'Amethyst / 19-inch; variant 48220380856576; SKU EBURUS21PP19WD',
+      'Motor': '48V 500W Bafang M600 mid-drive; up to 120 N·m torque (manufacturer-listed)',
+      'Battery': 'Removable 48V 17.5Ah lithium-ion battery with Samsung cells',
+      'Claimed range': 'Up to 40–65 miles; full test conditions are not supplied on the product page',
+      'Speed and class wording': 'The seller labels it “Class 3 Speed limited Unlockable” and separately lists a 20 mph / 32 km/h maximum',
+      'Assistance and controls': 'Pedal-assist levels 0–5, 6 km/h walk assist and thumb throttle',
+      'Fork': 'RockShox Psylo, 150mm travel, tapered steerer and 15 × 110mm Boost axle',
+      'Rear suspension': 'RockShox Deluxe Select+ RL, 190 × 45mm',
+      'Drivetrain': 'SRAM NX 1 × 11; 11–42T cassette and 32T chainring',
+      'Brakes': 'TEKTRO HD-E3940 four-piston hydraulic disc brakes; 180mm front and 203mm rear rotors',
+      'Tires': 'MAXXIS Minion DHF front and DHR II rear, 27.5 × 2.8 inches',
+      'Rider fit': '17-inch and 19-inch frame sizes; seller recommends riders from 5 ft 3 in to 6 ft 4 in',
+      'Maximum payload': '300 lb / 136 kg',
+      'Listed weight': 'Approximately 61.7 lb / 28 kg',
+      'Lights': 'Front and rear lights are not included',
+      'Charger': '48V 2A smart charger',
+      'Included accessories': 'Adjustable kickstand, chainstay protector, aluminum pedals and seven-piece tool kit'
+    },
+    source: 'https://eunorau-ebike.com/products/urus?variant=48220380856576',
+    sourceLinks: [
+      {label: 'EUNORAU URUS 2.0 listing and specifications', url: 'https://eunorau-ebike.com/products/urus?variant=48220380856576'},
+      {label: 'EUNORAU warranty policy', url: 'https://eunorau-ebike.com/pages/warranty'},
+      {label: 'EUNORAU return policy', url: 'https://eunorau-ebike.com/pages/return-policy'}
+    ],
+    evidence: 'Manufacturer-specification editorial evaluation; exact US Amethyst / 19-inch listing and price checked; EUNORSEBASTIAN60 eligibility untested for URUS 2.0; no ride, range, braking or fit test.',
+    sections: [
+      [
+        'A component list aimed at trail riding',
+        'EUNORAU builds the URUS 2.0 around a Bafang M600 mid-drive, RockShox suspension and a SRAM NX 1 × 11 drivetrain. The listing specifies a 150mm-travel Psylo fork, a Deluxe Select+ RL rear shock and TEKTRO four-piston hydraulic brakes. MAXXIS Minion tires measure 27.5 × 2.8 inches. That is a substantial manufacturer-listed setup for riders seeking a full-suspension electric mountain bike; these components are not Bike Tested ride or braking results.'
+      ],
+      [
+        'Read the range claim with its missing conditions',
+        'The removable 48V 17.5Ah battery works out to about 840Wh from the listed voltage and capacity. EUNORAU advertises 40–65 miles, but the product page does not give the rider load, route, speed, temperature or assist level behind that estimate. Treat it as a seller claim, not a route forecast. The listed 48V 2A charger also makes overnight charging a practical part of planning.'
+      ],
+      [
+        'Match the frame and weight to your routine',
+        'EUNORAU offers 17-inch and 19-inch sizes and recommends a broad 5 ft 3 in–6 ft 4 in height range. That range is only a starting point: check reach, stack and stand-over for the size you are considering. Some inch conversions in the manufacturer geometry chart conflict with its millimeter figures, including the 19-inch reach entry, so ask the seller for a confirmed chart if sizing is close. At about 61.7 lb and roughly 80 inches long, the bike also needs an accessible parking spot and a compatible vehicle carrier.'
+      ],
+      [
+        'Clarify the speed setting and plan for lights',
+        'The product page describes the model as “Class 3 Speed limited Unlockable,” then lists a 20 mph maximum. The wording does not make the delivered speed setting clear. Ask the seller how the bike will arrive and what changing the setting does; check the current rules for the places you ride. EUNORAU says front and rear lights are not included, so add lights that suit the conditions where you will ride.'
+      ],
+      [
+        'Keep the reader code separate from the listed price',
+        'On October 24, 2026, EUNORAU’s US product feed listed the Amethyst / 19-inch variant 48220380856576 (SKU EBURUS21PP19WD) at $3,999.00, with no compare-at price. EUNORSEBASTIAN60 is reported as a 2% code and was accepted on the META275 2.0, L / Deep Crimson variant only. URUS 2.0 eligibility and any code stacking have not been checked, so this review does not claim a saving or after-code total.'
+      ]
+    ],
+    publishedOn: '2026-10-24',
+    updatedOn: '2026-10-24',
+    specsCheckedOn: '2026-10-24',
+    faqs: [
+      ['How far does the EUNORAU URUS 2.0 go on a charge?', 'EUNORAU advertises a range of up to 40–65 miles, but the listing does not provide the complete test conditions. Rider load, speed, terrain, weather and assist level affect range, so use it as a seller estimate rather than a route guarantee.'],
+      ['What frame sizes are available?', 'The listing offers 17-inch and 19-inch frames and recommends riders from 5 ft 3 in to 6 ft 4 in. Check the geometry for your exact size; some inch conversions on the seller’s chart conflict with the millimeter values.'],
+      ['How heavy is the URUS 2.0?', 'EUNORAU lists an approximate 61.7 lb / 28 kg weight. Plan around the full bike weight for stairs, storage and vehicle-carrier limits.'],
+      ['Does the URUS 2.0 include lights?', 'No. EUNORAU’s specification says front and rear lights are not included.'],
+      ['Does EUNORSEBASTIAN60 apply to the URUS 2.0?', 'The supplied code is reported as 2% off and was accepted on the META275 2.0, L / Deep Crimson variant 47313067737344. URUS 2.0 eligibility and sale-price stacking have not been checked, so confirm the code and final item total at checkout. No URUS discount amount is claimed.']
+    ],
+    relatedReviews: [
+      {slug: 'eunorau-meta275-2-electric-bike', reason: 'Compare EUNORAU’s META275 2.0 commuter with a different frame, motor layout and exact-variant code observation.'},
+      {slug: 'hiboy-ex11-full-suspension-electric-bike', reason: 'Compare another full-suspension electric bike with a different tire, motor and equipment setup.'}
+    ],
+    price: {
+      amountMinor: 399900,
+      currency: 'USD',
+      region: 'US',
+      variantId: '48220380856576',
+      variantLabel: 'Amethyst / 19-inch (SKU EBURUS21PP19WD)',
+      source: 'https://eunorau-ebike.com/products/urus?variant=48220380856576',
+      checkedOn: '2026-10-24',
+      isSalePrice: false
+    },
+    eligibility: {
+      status: 'unresolved',
+      variantId: '48220380856576',
+      evidence: 'docs/evidence/eunorau-urus-2-electric-mountain-bike.md#partner-code-scope'
+    }
   }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}

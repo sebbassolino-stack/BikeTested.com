@@ -897,6 +897,22 @@
       "offerDetailNeeded": false,
       "checkoutTestedOn": null,
       "nextStep": "Review commit e01b804dd2d7ef348bed3e4fc7519c462a5cdc32 deployed successfully to Cloudflare Pages (check/deployment 38b976ee-667d-49a0-96e8-0698ba9d0604). Production review, Young Electric promo, exact product image and agent feed returned 200; the live image SHA-256 matches local. The exact US Matte Gun Metal variant remains listed at $1,399.00 against a $2,599.00 compare-at price. SEBASTIANBASSOL eligibility and sale-price stacking for E-Scout Pro are untested; agent feed leaves eligibility unresolved and afterCodePrice null. Visual browser QA was not completed. Continue with another distinct coded, popular or newer product."
+    },
+    {
+      "brand": "Eunorau",
+      "brandSlug": "eunorau",
+      "category": "electric-bikes",
+      "status": "review-in-progress",
+      "priority": 1,
+      "product": "EUNORAU URUS 2.0 Electric Mountain Bike, Amethyst / 19-inch (variant 48220380856576; SKU EBURUS21PP19WD)",
+      "officialSource": "https://eunorau-ebike.com/products/urus?variant=48220380856576",
+      "reviewUrl": "/reviews/eunorau-urus-2-electric-mountain-bike",
+      "affiliateUrl": "https://eunorau-ebike.com/?ref=gowithsebastian&utm_medium=affiliate&utm_source=goaffpro",
+      "code": "EUNORSEBASTIAN60",
+      "reportedBenefit": "2% off",
+      "offerDetailNeeded": false,
+      "checkoutTestedOn": null,
+      "nextStep": "The official Shopify feed lists the Amethyst / 19-inch US variant at $3,999.00 and publishes the product on May 10, 2026. EUNORAU lists a 500W Bafang M600 mid-drive, 48V 17.5Ah battery, RockShox suspension, SRAM NX gearing, TEKTRO four-piston brakes and 27.5 × 2.8-inch MAXXIS tires. EUNORSEBASTIAN60 is reported as 2% off and was accepted on META275 2.0 variant 47313067737344 only; URUS eligibility is untested. Draft with no after-code price claim and use the exact official Amethyst image with a transparent background."
     }
   ]
 }
