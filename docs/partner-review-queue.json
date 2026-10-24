@@ -1062,7 +1062,7 @@
       "brand": "Actbest",
       "brandSlug": "actbest",
       "category": "electric-bikes",
-      "status": "review-ready-for-publish",
+      "status": "review-published-live-routes-verified",
       "priority": 1,
       "product": "Summit Plus Full-Suspension Folding Fat-Tire Electric Bike, Gray / US (variant 52313144983834; SKU AT60PLUSUS00HP)",
       "officialSource": "https://actbestbike.com/products/summit-plus-full-suspension-fat-tire-ebike?variant=52313144983834",
@@ -1072,7 +1072,7 @@
       "reportedBenefit": "3% off; exact Gray / US cart accepted $22.47 against $749.00, leaving $726.53 before shipping and tax",
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-24",
-      "nextStep": "Review draft and image are ready for build and publication. Manual conflicts with the current page on weight, speed and water rating are documented. The exact Gray / US variant accepted SEBASTIAN3% in cart; no address or order. Verify the production review, promo, feed and image after deployment, then update this row with the commit and deployment result."
+      "nextStep": "Review commit 8f9e53a is live after Cloudflare Pages check 121011901828 succeeded (deployment 7fa9d6ce-257e-4b77-b8b0-5bc89df39dee). The production review, promo, agent feed and exact transparent image return 200 on biketested.com and biketested.pages.dev; the live image SHA-256 matches local. Exact Gray / US variant 52313144983834 / SKU AT60PLUSUS00HP was listed at $749.00 and accepted SEBASTIAN3% for $22.47 off, leaving a $726.53 cart subtotal before shipping and tax. Manual and page differences on weight, speed and water rating are documented. No address or order; browser viewport QA not completed."
     }
   ]
 }
