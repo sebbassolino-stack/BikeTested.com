@@ -3941,6 +3941,106 @@ export const products = [
       variantId: '48857041338610',
       evidence: 'docs/evidence/ancheer-streetrider-electric-bike.md#offer-scope'
     }
+  },
+  {
+    slug: 'hiboy-s2-pro-electric-scooter',
+    brand: 'hiboy',
+    name: 'Hiboy S2 Pro Electric Scooter',
+    model: 'S2 Pro Basic / US (variant 42041508135161; SKU 044LK)',
+    image: '/images/products/hiboy-s2-pro-electric-scooter.webp',
+    imageAlt: 'Black Hiboy S2 Pro Basic electric scooter with 10-inch honeycomb tires and folding frame',
+    imageWidth: 1200,
+    imageHeight: 1200,
+    category: 'electric-mobility',
+    use: 'commute',
+    label: 'For shorter paved commutes and compact storage',
+    headline: 'Low tire upkeep, with weight and charging figures to confirm.',
+    description: 'A folding commuter scooter with 10-inch honeycomb tires, rear suspension, and a 36V battery. Hiboy’s current listing and S2 Pro manual disagree on weight, folded size, and charging time.',
+    verdict: 'We recommend the Hiboy S2 Pro to commuters who want a folding scooter for shorter paved trips and compact parking. Its 10-inch honeycomb tires remove routine inflation, while the rear suspension and listed 19 mph top speed give it a clear everyday brief. Before buying, measure the folded scooter against your storage space and ask Hiboy to reconcile the manual’s higher weight, larger dimensions, and longer charge time with the current product listing.',
+    strengths: [
+      'The 10-inch honeycomb tires do not need routine air-pressure checks, which simplifies basic upkeep.',
+      'A folding frame compresses the listed height to about 19–20 inches, with the exact figure depending on which Hiboy specification applies.',
+      'Hiboy pairs a 500W rated, 600W maximum rear hub motor with a 36V 11.6Ah battery and lists a 19 mph top speed.',
+      'Rear suspension, front and rear lighting, and a dual-brake setup round out a commuter-oriented equipment list.'
+    ],
+    tradeoffs: [
+      'The current page lists 37.4 lb, while the S2 Pro manual lists 39.7 lb. Either figure makes repeated stair carrying a real consideration.',
+      'Hiboy’s product page and model-specific manual disagree on unfolded and folded dimensions and on full-charge time; confirm which specification applies to the Basic variant.',
+      'Solid tires avoid inflation and tube repairs, but are likely to pass more road texture to the rider than pneumatic tires; this is a design-based comparison, not a ride observation.',
+      'The product page claims up to 25 miles, without a detailed route-test protocol. Keep a charging margin for rider weight, hills, speed, temperature, and stop-start riding.',
+      'The product page lists IPX4, while the manual advises avoiding wet conditions and says the scooter is not waterproof. We would not choose it for regular rainy-weather commuting.'
+    ],
+    specs: {
+      'Configuration / SKU': 'Basic / US; variant 42041508135161; SKU 044LK',
+      'Motor': '500W rated / 600W maximum rear hub motor (manufacturer-listed)',
+      'Battery': '36V, 11.6Ah lithium-ion (manufacturer-listed)',
+      'Claimed range': 'Up to 25 miles (Hiboy claim; not a Bike Tested measurement)',
+      'Listed top speed': 'Up to 19 mph (manufacturer-listed)',
+      'Tires': '10-inch honeycomb solid tires (manufacturer-listed)',
+      'Suspension': 'Rear dual shock absorbers (manufacturer-listed)',
+      'Brakes and controls': 'Hiboy describes dual braking; the manual identifies front/rear levers, a brake power-cutoff check, and disc-brake inspection',
+      'Unfolded dimensions': '45.3 × 16.5 × 47.6 in on current product page; 44.7 × 16.7 × 48.6 in in S2 Pro manual',
+      'Folded dimensions': '45.3 × 16.5 × 19.3 in on current product page; 44.7 × 16.7 × 20.1 in in S2 Pro manual',
+      'Listed weight': '37.4 lb on current product page; 39.7 lb in S2 Pro manual',
+      'Maximum load': '220 lb (manufacturer-listed)',
+      'Charging time': '4–6 hours on current product page; 6–7 hours in S2 Pro manual',
+      'Climbing claim': 'Current page says up to 15°; manual says approximately 17 under a field labeled max climbing angle (%)',
+      'Water-resistance guidance': 'Product page lists IPX4; manual advises avoiding wet conditions and says the scooter is not waterproof'
+    },
+    source: 'https://www.hiboy.com/products/hiboy-s2pro-electric-scooter-for-daily-commuting?variant=42041508135161',
+    sourceLinks: [
+      { label: 'Hiboy S2 / S2 Pro owner manual', url: 'https://cdn.shopify.com/s/files/1/0425/6350/2247/files/S2_S2_Pro_260227_compressed.pdf?v=1781234959' }
+    ],
+    evidence: 'Manufacturer-specification editorial evaluation; exact Basic / US variant and listed price checked October 24, 2026; Hiboy code benefit and S2 Pro eligibility are unspecified; no Bike Tested ride, range, braking, or handling measurement.',
+    sections: [
+      [
+        'A compact scooter for shorter paved trips',
+        'The S2 Pro has a straightforward commuter brief: a folding frame, 10-inch wheels, a rear hub motor, and lighting built into the scooter. Hiboy lists 500W rated and 600W maximum output with a top speed of 19 mph. Those figures help define the intended use, but they do not tell you how quickly the scooter accelerates or how far it will travel on your route. We would shortlist it for neighborhood errands and a shorter paved commute when a stand-up scooter suits the trip better than a bicycle.'
+      ],
+      [
+        'Honeycomb tires simplify upkeep, with a likely firmer feel',
+        'The 10-inch honeycomb tires are solid rather than air-filled, so there is no routine inflation check or inner tube to repair. That is a useful ownership trade for riders who prefer simple tire upkeep. Solid tires are also less able to deform around cracks than pneumatic tires are likely to be, so the same setup may feel firmer on broken pavement. Hiboy lists rear dual shock absorbers, but the combination is a specification list rather than evidence of measured comfort. Look closely at your road surface and prioritize tire type accordingly.'
+      ],
+      [
+        'Measure the folded package and confirm its real carry weight',
+        'The current product page gives unfolded dimensions of 45.3 × 16.5 × 47.6 inches, a folded size of 45.3 × 16.5 × 19.3 inches, and a 37.4 lb weight. The S2 Pro manual lists 44.7 × 16.7 × 48.6 inches unfolded, 44.7 × 16.7 × 20.1 inches folded, and 39.7 lb. Measure the full storage route, including doorways and vehicle openings, and ask Hiboy which set applies to the Basic variant. Folding reduces the parked height; it does not make a roughly 37–40 lb scooter a light stair carry.'
+      ],
+      [
+        'Plan with the battery and the manual in view',
+        'Hiboy lists a 36V, 11.6Ah battery and up to 25 miles per charge. The manual also lists 25 miles, but neither figure should be treated as a dependable distance for a specific commute. Rider and cargo load, speed, hills, temperature, and frequent stops all affect actual use. Charging time is another mismatch: the current product page says 4–6 hours while the model-specific manual says 6–7. Use the longer figure when planning until Hiboy confirms the current charger and battery package. The page claims IPX4, but the manual advises avoiding wet or slippery operation and says the scooter is not waterproof; regular rainy-weather use is a poor match.'
+      ],
+      [
+        'Current price and the Hiboy reader code',
+        'On October 24, 2026, Hiboy’s US variant feed listed the Basic S2 Pro (variant 42041508135161; SKU 044LK) at $422.99. Bike Tested’s Hiboy partner listing supplies the code SEBASTIANBASSOL but no discount amount. We have not confirmed that the code applies to this scooter, and no after-code price or saving is claimed. Check the exact variant and final item total at checkout before relying on a discount.'
+      ]
+    ],
+    publishedOn: '2026-10-24',
+    updatedOn: '2026-10-24',
+    specsCheckedOn: '2026-10-24',
+    faqs: [
+      ['How much does the Hiboy S2 Pro weigh?', 'Hiboy’s current product page lists 37.4 lb, while the S2 Pro manual lists 39.7 lb. Confirm which figure applies to the Basic variant and plan for a scooter that is substantial to carry up stairs.'],
+      ['How large is the S2 Pro when folded?', 'The current product page lists 45.3 × 16.5 × 19.3 inches. The S2 Pro manual lists 44.7 × 16.7 × 20.1 inches. Measure the complete storage route and ask Hiboy which dimensions apply to the current unit.'],
+      ['How far can the S2 Pro travel on a charge?', 'Hiboy lists up to 25 miles, and the manual also lists 25 miles. These are manufacturer claims, not Bike Tested range results; speed, hills, rider load, temperature, and stop-start riding affect actual distance.'],
+      ['How long does the S2 Pro take to charge?', 'The product page says 4–6 hours, while the S2 Pro manual says 6–7 hours. Confirm the charger and timing for the exact Basic configuration; allow the longer window when planning.']
+    ],
+    relatedReviews: [
+      { slug: 'ausom-gosoul-2-electric-scooter', reason: 'Compare the S2 Pro with a more substantial folding scooter that has adjustable suspension and a different storage and route brief.' }
+    ],
+    price: {
+      amountMinor: 42299,
+      currency: 'USD',
+      region: 'US',
+      variantId: '42041508135161',
+      variantLabel: 'Basic / US (SKU 044LK)',
+      source: 'https://www.hiboy.com/products/hiboy-s2pro-electric-scooter-for-daily-commuting?variant=42041508135161',
+      checkedOn: '2026-10-24',
+      isSalePrice: true
+    },
+    eligibility: {
+      status: 'unresolved',
+      variantId: '42041508135161',
+      evidence: 'docs/evidence/hiboy-s2-pro-electric-scooter.md#partner-offer'
+    }
   }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
