@@ -1821,6 +1821,100 @@ export const products = [
       message: 'Discount code cannot be applied to your cart',
       exclusions: 'Exact US variant 45853562110110 / SKU T7 only; shipping/tax not calculated; no address or order; test cart cleared.'
     }
+  },
+  {
+    slug: 'eahora-m1ps-ironbone-horse',
+    brand: 'eahora',
+    name: 'Eahora M1PS Ironbone Horse Electric Motorcycle',
+    model: 'Ironbone Horse, 2026 US (variant 55761854169256; SKU MSK1172)',
+    image: '/images/products/eahora-m1ps-ironbone-horse.webp',
+    imageAlt: 'Black Eahora M1PS Ironbone Horse electric motorcycle in side profile',
+    imageWidth: 1200,
+    imageHeight: 1200,
+    publishedOn: '2026-10-24',
+    updatedOn: '2026-10-24',
+    specsCheckedOn: '2026-10-24',
+    category: 'electric-mobility',
+    use: 'recreation',
+    label: 'For motorcycle-style electric cruising',
+    headline: 'A long chopper cruiser with a motorcycle-scale footprint.',
+    description: 'A manufacturer-listed 4,000W hub motor and 72V 40Ah battery sit in a distinctive chopper-style frame. At 238.1 lb, 80.7 inches long and 37.4 inches wide, the Ironbone Horse calls for measured storage, transport and route planning.',
+    verdict: 'We recommend the Eahora M1PS Ironbone Horse for buyers who want a chopper-style electric vehicle and have room for its 238.1 lb, 80.7-inch-long frame. The 72V 40Ah battery, girder fork and dual rear shocks give it a distinctive specification package, while 318 mm hydraulic disc rotors are listed at both ends. Eahora describes the model as an electric motorcycle in its US FAQ, so confirm the vehicle’s classification and any riding requirements with your local motor vehicle authority before buying. The advertised range has no stated test conditions, several product-page specifications conflict, and the exact US cart did not apply the supplied reader code.',
+    strengths: [
+      'The 72V 40Ah (2,880Wh) Samsung battery is a substantial listed capacity for a large electric cruiser.',
+      'A steel girder fork with parallelogram linkage and adjustable dual hydraulic rear shocks distinguish the chassis from a conventional bicycle-style fork and rigid rear end.',
+      'Eahora lists 318 mm hydraulic disc rotors at the front and rear, plus integrated lighting and turn signals.',
+      'Three throttle gears, a 150A controller and a 440 lb maximum combined rider, equipment and cargo load are listed for the exact model family.'
+    ],
+    tradeoffs: [
+      'At 238.1 lb and 80.7 inches long by 37.4 inches wide, this is a large vehicle to store, maneuver or transport. Measure every doorway and the full loading route; frequent lifting is not a realistic plan.',
+      'Eahora’s FAQ says the M1PS is typically treated as an electric motorcycle in most US states because of its speed and power. Confirm the classification, licensing, registration, equipment and route rules that apply where you plan to ride.',
+      'The 34–74 mile range is a manufacturer claim without test conditions on the product page. Treat it as an estimate, not a Bike Tested range result or a route-planning guarantee.',
+      'The page gives 170 N·m in its technical table and 178 N·m in promotional copy; charging is described as both 3–4 hours and 4–6 hours. Its display is called IPX6 and IP66 in different sections while the whole scooter is listed as IPX5.',
+      'The geometry chart recommends riders from 5 ft 4 in, while another page section says 5 ft 2 in. The listed size guidance cannot replace checking the exact controls and riding position in person.'
+    ],
+    specs: {
+      'Motor': '4,000W brushless geared hub motor (manufacturer-listed)',
+      'Maximum torque': '170 N·m in the technical table; promotional copy says 178 N·m (conflicting manufacturer figures)',
+      'Battery': '72V 40Ah (2,880Wh) Samsung lithium battery (manufacturer-listed)',
+      'Advertised range': '34–74 miles per charge; manufacturer claim with no stated test conditions',
+      'Throttle': 'Three gears; 72V 150A integrated controller listed',
+      'Weight and dimensions': '238.1 lb with battery; 80.7 in long × 37.4 in wide; 47.2 in handlebar height',
+      'Seat and clearance': '25.6 in seat height; 8.07 in ground clearance; 60.24 in wheelbase',
+      'Recommended rider height': '5 ft 4 in–6 ft 6 in in geometry chart; another product section says 5 ft 2 in–6 ft 6 in',
+      'Payload': '440 lb maximum for rider, equipment and cargo combined (manufacturer-listed)',
+      'Brakes': 'Hydraulic disc brakes with 318 mm front and rear rotors (manufacturer-listed)',
+      'Suspension': 'Steel girder front fork with parallelogram linkage; adjustable dual hydraulic rear shocks',
+      'Tires': 'Front 120/40-14; rear 215/40-13; tubeless (manufacturer-listed)',
+      'Charging': '72V ~15A charger, 100–240V input; product copy says 3–4 hours while FAQ says 4–6 hours',
+      'Water-resistance claims': 'Whole scooter IPX5 in the technical table; display is described as IP66 there and IPX6 elsewhere',
+      'Lighting': 'Headlamp, front and rear turn signals, brake light and plate light (manufacturer-listed)'
+    },
+    source: 'https://eahoraescooter.com/products/2026-eahora-m1ps-ironbone-horse?variant=55761854169256',
+    sourceLinks: [],
+    evidence: 'Manufacturer-specification evaluation; official US product listing and exact-variant cart observation; no Bike Tested performance testing.',
+    sections: [
+      ['A chopper-style electric vehicle with a large footprint', 'The Ironbone Horse stands out through its long frame, ape-hanger bars and girder fork. Eahora lists a 4,000W brushless geared hub motor, a 72V 40Ah (2,880Wh) battery and three throttle gears. The ride character and performance figures remain manufacturer claims; Bike Tested has not measured acceleration, hill climbing, braking distance or range. This format is best considered by buyers specifically seeking a large cruiser-style electric vehicle, rather than a bicycle substitute for everyday errands.'],
+      ['Plan for its weight before considering the ride', 'Eahora lists the scooter at 238.1 lb with the battery and gives dimensions of 80.7 inches long, 37.4 inches wide and 47.2 inches to the handlebars. Its 25.6-inch seat and 60.24-inch wheelbase add to the full-size motorcycle-like proportions. Map the route from delivery point to storage, including turns, gates and ramps. The 440 lb payload includes rider, equipment and cargo together; do not treat it as a cargo allowance on top of rider weight.'],
+      ['Treat range and charging figures as unresolved claims', 'The product page gives a 34–74 mile range but does not state a rider weight, speed, temperature, terrain or assistance setting for that figure. The page also lists a roughly 15A charger, describes a 3–4-hour full charge in marketing copy and says 4–6 hours in its FAQ. These figures do not establish a dependable range or charge schedule for a particular route. Ask Eahora for the conditions and charger configuration tied to the exact variant if either figure affects your decision.'],
+      ['Read the safety and fit details as a checklist', 'Hydraulic disc brakes with 318 mm rotors are listed at both wheels, along with a girder fork and adjustable dual rear shocks. Those specifications do not replace an inspection or braking test. The page gives 170 N·m in its technical table and 178 N·m in promotional material. It also calls the display IP66 in one section and IPX6 in another, while listing the whole scooter as IPX5. Rider-height guidance differs between sections as well. Ask the seller to confirm the specifications that apply to the shipped configuration, and check the actual controls and fit before relying on a suggested height range.'],
+      ['Confirm local vehicle requirements and your route', 'Eahora’s US FAQ describes the M1PS as an electric motorcycle in most states because of its speed and power, and says a motorcycle license and registration are typically required. Vehicle classes and access rules depend on location and the exact vehicle. Check with the motor vehicle authority and land manager for your intended route before treating this as a road or trail vehicle. Do not infer bicycle-lane, sidewalk or public-trail access from its electric motor or the product listing.'],
+      ['The supplied code did not reduce this exact cart', 'On October 24, 2026, the official US Ironbone Horse variant 55761854169256 (SKU MSK1172) was listed at $5,180. The isolated cart showed the product at that price, but SEBASTIANBASSOL was not marked applicable and the item price did not change. Bike Tested does not report the partner-listed $400 benefit for this configuration. The cart was cleared without entering an address; shipping, tax and an order were not evaluated.']
+    ],
+    faqs: [
+      ['How far does the Eahora M1PS Ironbone Horse go on a charge?', 'Eahora lists 34–74 miles per charge but does not give test conditions alongside that range. It is a manufacturer estimate, not a Bike Tested result. Ask which speed, rider load, terrain, temperature and configuration the estimate assumes.'],
+      ['How heavy and large is the Ironbone Horse?', 'Eahora lists 238.1 lb with the battery, 80.7 inches in length and 37.4 inches in width. Measure the complete route into storage and any ramp or vehicle used to move it; the listed weight makes routine lifting impractical.'],
+      ['Does the M1PS need a motorcycle license?', 'Eahora’s FAQ says the M1PS is typically classified as an electric motorcycle in most US states and says licensing and registration are typically required. Requirements depend on your location and exact vehicle. Confirm them with your state or local motor vehicle authority before riding.'],
+      ['Why do the M1PS torque and charging specifications differ?', 'The product page lists 170 N·m in the technical table and 178 N·m in promotional copy. It describes a 3–4-hour charge in one section and 4–6 hours in its FAQ. Treat both as unresolved manufacturer information and ask Eahora which specification applies to the selected configuration.'],
+      ['Does the Eahora code apply to the Ironbone Horse?', 'The exact US variant 55761854169256 (SKU MSK1172) was $5,180 on October 24, 2026. In an isolated cart, SEBASTIANBASSOL was not marked applicable and the item price remained unchanged. The cart was cleared without an address or order, so no saving is confirmed for this variant.']
+    ],
+    price: {
+      amountMinor: 518000,
+      currency: 'USD',
+      region: 'US',
+      variantId: '55761854169256',
+      variantLabel: 'Ironbone Horse / US (SKU MSK1172)',
+      source: 'https://eahoraescooter.com/products/2026-eahora-m1ps-ironbone-horse?variant=55761854169256',
+      checkedOn: '2026-10-24',
+      isSalePrice: false
+    },
+    eligibility: {
+      status: 'unresolved',
+      variantId: '55761854169256',
+      evidence: 'docs/evidence/eahora-m1ps-ironbone-horse.md#exact-variant-cart-check'
+    },
+    codeCheckObservation: {
+      code: 'SEBASTIANBASSOL',
+      stage: 'cart',
+      result: 'no-discount',
+      variantId: '55761854169256',
+      baseAmountMinor: 518000,
+      discountMinor: 0,
+      afterAmountMinor: 518000,
+      currency: 'USD',
+      checkedOn: '2026-10-24',
+      exclusions: 'Exact US variant 55761854169256 / SKU MSK1172 only; shipping/tax not calculated; no address or order; isolated test cart cleared.'
+    }
   }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}

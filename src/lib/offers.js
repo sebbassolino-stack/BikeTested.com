@@ -19,7 +19,7 @@ const noDiscountProductAnswer=(o,product)=>{
   if(check.result==='accepted-order-discount')return `On ${priceDateLabel(check.checkedOn)}, ${surface} accepted ${o.code} for the ${product.name}, ${product.price.variantLabel} variant. It applied a ${formatMinor(check.discountMinor,check.currency)} order-level discount to a cart with the bike and an automatically added $0 helmet. Since checkout did not allocate the discount to an item, Bike Tested does not report an after-code bike price. Shipping was not calculated and no order was placed.`;
   if(!['no-discount','invalid-code'].includes(check.result))return null;
   if(check.result==='invalid-code')return `On ${priceDateLabel(check.checkedOn)}, ${surface} rejected ${o.code} as invalid for the ${product.name}, ${product.price.variantLabel} variant. The ${base} item price remained unchanged before shipping, so no saving is confirmed for this configuration. Other models and variants have not been checked.`;
-  return `On ${priceDateLabel(check.checkedOn)}, we entered ${o.code} in the ${surface} for the ${product.name}, ${product.price.variantLabel} variant. The ${surface} allocated ${formatMinor(check.discountMinor,check.currency)} off the ${base} item price before shipping and tax, so no saving is confirmed for this configuration. Other models and variants have not been checked.`;
+  return `On ${priceDateLabel(check.checkedOn)}, the ${surface} did not apply ${o.code} to the ${product.name}, ${product.price.variantLabel} variant. The ${base} item price remained unchanged before shipping and tax, so no saving is confirmed for this configuration. Other models and variants have not been checked.`;
 };
 export const codeCheckSummary=(o,check)=>{
   if(!check)return null;

@@ -86,17 +86,17 @@
       "brand": "Eahora",
       "brandSlug": "eahora",
       "category": "electric-mobility",
-      "status": "code-rejected-on-two-candidates",
+      "status": "ready-for-release",
       "priority": 1,
-      "product": "M1PS Whatever Graffiti (variant 55932847751336; SKU MSK1120) and Emars M1P Black (variant 42729895002280; SKU MSK1112)",
-      "officialSource": null,
-      "reviewUrl": null,
+      "product": "M1PS Ironbone Horse, 2026 US (variant 55761854169256; SKU MSK1172)",
+      "officialSource": "https://eahoraescooter.com/products/2026-eahora-m1ps-ironbone-horse?variant=55761854169256",
+      "reviewUrl": "/reviews/eahora-m1ps-ironbone-horse",
       "affiliateUrl": "https://eahoraescooter.com/?ref=vymoetrs",
       "code": "SEBASTIANBASSOL",
       "reportedBenefit": "$400 off",
       "offerDetailNeeded": false,
-      "checkoutTestedOn": "2026-10-22",
-      "nextStep": "The supplied code was rejected on both exact candidate variants tested on 2026-10-22. Do not claim the $400 benefit for either model without new checkout evidence; moved on to another coded partner."
+      "checkoutTestedOn": "2026-10-24",
+      "nextStep": "Review prepared for the exact US Ironbone Horse variant. Its $5,180 cart did not mark SEBASTIANBASSOL as applicable; no saving is claimed. The earlier Whatever Graffiti and Emars M1P variants also had no-discount observations on 2026-10-22. Official image provenance and exact-cart evidence are recorded; release after build and production verification."
     },
     {
       "brand": "EKX",
