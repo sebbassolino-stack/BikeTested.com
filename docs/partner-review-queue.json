@@ -854,7 +854,7 @@
       "brand": "Hiboy",
       "brandSlug": "hiboy",
       "category": "electric-bikes",
-      "status": "review-in-progress",
+      "status": "review-published-live-routes-verified",
       "priority": 2,
       "product": "Hiboy EX11 Full Suspension Electric Bike, Navy Blue / US (variant 47395627794681; SKU EX11-NB-20070014)",
       "officialSource": "https://hiboy.com/products/hiboy-ex11-full-suspension-electric-bike?variant=47395627794681",
@@ -865,6 +865,22 @@
       "offerDetailNeeded": true,
       "checkoutTestedOn": null,
       "nextStep": "Review commit ce134b5 deployed successfully to Cloudflare Pages as cc454bbe-695f-4afd-a570-6423471a1192. Production review, Hiboy promo, transparent product image and agent feed return 200; canonical, exact partner destination, listed price and code verified. The live image SHA-256 matches local. Exact Navy Blue US variant 47395627794681 is listed at $1,299.99; EX11 code eligibility and any saving remain unresolved, with afterCodePrice null. Visual browser QA unavailable because the Mac is locked."
+    },
+    {
+      "brand": "Ausom",
+      "brandSlug": "ausom",
+      "category": "electric-mobility",
+      "status": "review-in-progress",
+      "priority": 1,
+      "product": "Ausom K20 Pro (Laluz 2 Pro) Dual Motor Electric Scooter, US Default Title (variant 51839968084247; SKU 1298433)",
+      "officialSource": "https://ausomstore.com/products/ausom-k20-pro-dual-motor-e-scooter?variant=51839968084247",
+      "reviewUrl": "/reviews/ausom-k20-pro-dual-motor-electric-scooter",
+      "affiliateUrl": "https://ausomstore.com/?ref=jbjmglxu",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "$50.00 USD off",
+      "offerDetailNeeded": false,
+      "checkoutTestedOn": null,
+      "nextStep": "Official Ausom page and Shopify product feed checked October 24, 2026. The 2026-arrival K20 Pro US variant is listed at $729.00 against an $879.00 compare-at price. An older search snippet showed a separate $30 offer, but it was absent from the current direct page/feed and is excluded. The $50 reader code was accepted on Gosoul 2 only; K20 eligibility and sale-price stacking are untested. Build and verify review, Ausom promo, image and public feed before release."
     }
   ]
 }

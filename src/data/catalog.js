@@ -2808,6 +2808,132 @@ export const products = [
       variantId: '50223037219095',
       evidence: 'docs/evidence/ausom-l2-max-dual-electric-scooter.md#code-eligibility'
     }
+  },
+  {
+    slug: 'ausom-k20-pro-dual-motor-electric-scooter',
+    brand: 'ausom',
+    name: 'Ausom K20 Pro (Laluz 2 Pro) Dual Motor Electric Scooter',
+    model: 'K20 Pro (Laluz 2 Pro) Dual Motor, US Default Title (variant 51839968084247; SKU 1298433)',
+    image: '/images/products/ausom-k20-pro-dual-motor-electric-scooter.webp',
+    imageAlt: 'Ausom K20 Pro dual-motor electric scooter in dark gray and yellow, front three-quarter view',
+    imageWidth: 1200,
+    imageHeight: 1200,
+    category: 'electric-mobility',
+    use: 'private',
+    label: 'For private-property climbs and long loops',
+    headline: 'Dual-motor power with a heavy transport footprint.',
+    description: 'Two 1,400W peak motors, an 864Wh battery and dual suspension put the K20 Pro on the performance end of Ausom’s 48V scooters. It lists a 56-mile maximum under slow, single-motor test conditions and weighs 66.1 lb.',
+    verdict: 'We recommend the Ausom K20 Pro (Laluz 2 Pro) Dual Motor to experienced riders with a private-property route who value dual motors, a large battery and a roomy deck. Its 864Wh pack, dual suspension and 10 × 2.75-inch tubeless tires suit longer mixed-surface loops. At 66.1 lb, it needs a realistic storage plan, and Ausom says it is for private-property use only. The $729 listing shows an $879 compare-at price; K20 code eligibility and sale-price stacking are unverified.',
+    strengths: [
+      'Two motors rated at 1,400W peak each and a seller-listed 33% climbing grade give the K20 Pro a strong specification sheet for private routes with hills.',
+      'The 48V 18Ah (864Wh) battery and stated nine-hour charge time make the power capacity and overnight charging plan easy to assess.',
+      'Front fork and adjustable rear-swingarm suspension, dual disc brakes with E-ABS, and 10 × 2.75-inch tubeless tires cover the main ride and maintenance choices.',
+      'The 20.5 × 7.3-inch deck, 28.3-inch-wide bar, integrated lights, folding mechanism and NFC-card / passcode access add practical details beyond motor output.'
+    ],
+    tradeoffs: [
+      'At 66.1 lb and 46.1 × 28.3 × 20.3 inches folded, it is a substantial scooter to lift or take onto transit. Measure the storage route and vehicle opening before buying.',
+      'Ausom’s product page says the scooter is for private-property use only. Do not infer public-road permission from its speed, lights or turn signals; check the rules for the exact place you intend to use it.',
+      'The advertised 56-mile maximum is measured with a 165 lb load, one motor, steady 9.3 mph, mild temperatures, low wind and a flat, dry paved route. Faster or dual-motor riding, hills, stops and weather change the result.',
+      'The page lists IP54 but its FAQ recommends avoiding rain, while Ausom’s warranty policy excludes water damage to the battery, motor and controller. Treat the rating as a specification, not a wet-weather recommendation.',
+      'The product feed lists $729 against an $879 compare-at price. The partner’s $50 code was accepted only on the separate Gosoul 2; K20 Pro eligibility and sale-price stacking are unconfirmed. No discounted K20 Pro price is claimed.',
+      'Ausom does not provide a rider-height range. Compare the listed 52.4-inch unfolded height and 28.3-inch bar width with your standing position, and ask the seller about fit if you are outside a typical range.'
+    ],
+    specs: {
+      'Selected configuration': 'US Default Title; variant 51839968084247; SKU 1298433',
+      'Motor system': 'Two motors; 1,400W peak each / 2,800W combined peak (manufacturer-listed)',
+      'Torque': '28 N·m per motor; seller also lists 56 N·m combined',
+      'Top speed': 'Up to 36 mph (manufacturer-listed; check local rules and intended use)',
+      'Battery': '48V, 18Ah, 864Wh',
+      'Claimed range': 'Up to 56 miles under specified 165 lb, single-motor, 9.3 mph, flat-road test conditions',
+      'Charging': '54.6V, 2A charger; about 9 hours',
+      'Climbing grade': 'Up to 33% (manufacturer-listed)',
+      'Brakes': 'Front and rear disc brakes with E-ABS',
+      'Tires': '10 × 2.75-inch tubeless; seller lists 50 PSI',
+      'Suspension': 'Front fork and rear swingarm with adjustable spring',
+      'Maximum load': '287 lb',
+      'Listed weight': '66.1 lb',
+      'Folded dimensions': '46.1 × 28.3 × 20.3 inches',
+      'Unfolded dimensions': '46.1 × 28.3 × 52.4 inches',
+      'Handlebar / deck': '28.3-inch handlebar width; 20.5 × 7.3-inch deck',
+      'Water-resistance listing': 'IP54; seller FAQ advises avoiding rain',
+      'Security and controls': 'NFC card and passcode access; product FAQ says no app control',
+      'Use note': 'Ausom states: for use on private property only',
+      'Warranty policy': 'Frame 2 years; motor, display and several components 1 year; battery and charger 6 months. The product page also advertises a general 2-year warranty; confirm component coverage.',
+      'Return policy': '14 days after receipt for direct Ausomstore purchases; customer pays return shipping for personal-reason returns.'
+    },
+    source: 'https://ausomstore.com/products/ausom-k20-pro-dual-motor-e-scooter?variant=51839968084247',
+    sourceLinks: [
+      {label: 'Ausom warranty policy', url: 'https://ausomstore.com/pages/warranty'},
+      {label: 'Ausom return policy', url: 'https://ausomstore.com/pages/return-refund'},
+      {label: 'K20 Pro Dual Motor US 2026 manual', url: 'https://drive.google.com/file/d/1S9IFiGT-M75ltVElUdrMR1Qvqvo1U-af/view?usp=sharing'}
+    ],
+    evidence: 'Manufacturer-specification editorial evaluation; exact US Default Title variant and listing price checked; K20 Pro code eligibility and checkout subtotal untested; no ride, braking or range test',
+    sections: [
+      [
+        'Dual-motor output for a route with room to use it',
+        'Ausom lists two 1,400W peak motors, 56 N·m combined torque and a 33% climbing grade. Those figures position the K20 Pro for riders who have hills or soft surfaces on a suitable private-property route and want the option of using one or both motors. They are manufacturer specifications, not Bike Tested measurements of acceleration, hill climbing or control. Ausom’s product page states that the scooter is for private-property use only; confirm the requirements for your exact location and planned setting before choosing it.'
+      ],
+      [
+        'Read the range maximum with its test conditions',
+        'The 864Wh battery supports Ausom’s stated maximum of 56 miles, but the listed method uses a 165 lb load, single-motor mode, steady 9.3 mph, temperatures from 68–77°F, wind below 6.7 mph and a dry, flat paved route. That is a useful description of the seller’s test, not an expectation for faster dual-motor riding. Hills, frequent starts, heavier loads, cold weather and tire pressure all change the planning picture. Leave a reserve and ask Ausom for guidance based on your route.'
+      ],
+      [
+        'Plan storage around the full size and weight',
+        'The scooter is listed at 66.1 lb and folds to 46.1 × 28.3 × 20.3 inches. Its 28.3-inch bar width and 46.1-inch folded length can rule out narrow closets, some vehicle openings and regular stair carries. The fold helps define a parking footprint, but it does not make this a light last-mile carry. Measure the full route from delivery or vehicle to storage, including doors and turns, before ordering.'
+      ],
+      [
+        'Keep weather, warranty and service in the same decision',
+        'Ausom lists IP54, but its product FAQ recommends avoiding rain, and the warranty policy excludes water damage to the battery, motor and controller. The product page advertises a two-year warranty, while the policy separates coverage by component: two years for the frame, one year for the motor and several parts, and six months for the battery and charger. The return policy allows requests within 14 days for direct Ausomstore purchases and assigns return shipping for personal-reason returns. Review both written policies and confirm the terms that will apply to your order.'
+      ],
+      [
+        'Check the listed price and the exact reader-code state',
+        'On October 24, 2026, Ausom’s US product feed listed the Default Title K20 Pro variant 51839968084247, SKU 1298433, at $729.00, with an $879.00 compare-at price. The supplied SEBASTIANBASSOL code reports $50 off and was accepted on the different Gosoul 2 configuration; K20 Pro eligibility and whether the code stacks with the automatic offer are untested. Check this exact variant and final item total before ordering; no after-code amount is shown.'
+      ]
+    ],
+    publishedOn: '2026-10-24',
+    updatedOn: '2026-10-24',
+    specsCheckedOn: '2026-10-24',
+    faqs: [
+      [
+        'What range does Ausom claim for the K20 Pro Dual Motor?',
+        'Ausom lists up to 56 miles, with a test using a 165 lb load, one motor, 9.3 mph steady speed, mild temperatures, low wind and flat, dry pavement. That is a manufacturer maximum, not a Bike Tested range result. Faster speeds, dual-motor use, hills, stops and weather change the conditions.'
+      ],
+      [
+        'How heavy and large is the K20 Pro when folded?',
+        'Ausom lists 66.1 lb and folded dimensions of 46.1 × 28.3 × 20.3 inches. Measure the storage route and vehicle opening; the fold reduces the footprint but the scooter remains heavy to lift.'
+      ],
+      [
+        'Does Ausom recommend the K20 Pro for public roads?',
+        'Ausom’s product page states that the scooter is for private-property use only. Check the rules for your location and intended setting; the listed speed, lights and turn signals do not establish public-road permission.'
+      ],
+      [
+        'Can the K20 Pro be ridden in rain?',
+        'The product page lists IP54, but Ausom’s FAQ recommends avoiding rain, and its warranty policy excludes water damage to the battery, motor and controller. Do not treat the rating as a wet-weather recommendation.'
+      ],
+      [
+        'Does the K20 Pro have app control?',
+        'Ausom’s product FAQ says app control is not available. The product copy lists NFC-card and passcode access; confirm the access features supplied with the exact scooter.'
+      ]
+    ],
+    relatedReviews: [
+      {slug: 'ausom-l2-max-dual-electric-scooter', reason: 'Compare the L2 Max if you want another dual-motor Ausom setup with its own battery, preset-speed and storage tradeoffs.'},
+      {slug: 'ausom-gosoul-2-electric-scooter', reason: 'Compare the single-motor Gosoul 2 if you want a lighter, smaller-battery Ausom option.'}
+    ],
+    price: {
+      amountMinor: 72900,
+      currency: 'USD',
+      region: 'US',
+      variantId: '51839968084247',
+      variantLabel: 'Default Title (SKU 1298433)',
+      source: 'https://ausomstore.com/products/ausom-k20-pro-dual-motor-e-scooter?variant=51839968084247',
+      checkedOn: '2026-10-24',
+      isSalePrice: true
+    },
+    eligibility: {
+      status: 'unresolved',
+      variantId: '51839968084247',
+      evidence: 'docs/evidence/ausom-k20-pro-dual-motor-electric-scooter.md#partner-offer'
+    }
   }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
