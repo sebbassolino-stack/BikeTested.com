@@ -3730,6 +3730,113 @@ export const products = [
       variantId: '67561506898078',
       evidence: 'docs/evidence/cycplus-a4-mini-electric-air-pump.md#code-scope'
     }
+  },
+  {
+    slug: 'mooncool-tk-pro-electric-trike',
+    brand: 'mooncool',
+    name: 'Mooncool TK Pro Electric Trike',
+    model: 'TK Pro, Blue Haze / US (variant 43866362839212; SKU TKS-HWH)',
+    image: '/images/products/mooncool-tk-pro-electric-trike.webp',
+    imageAlt: 'Blue Haze Mooncool TK Pro folding electric trike with front and rear baskets, backrest, and 20-inch wheels',
+    imageWidth: 1200,
+    imageHeight: 1200,
+    publishedOn: '2026-10-24',
+    updatedOn: '2026-10-24',
+    specsCheckedOn: '2026-10-24',
+    category: 'electric-bikes',
+    use: 'utility',
+    label: 'For low-step cargo trips and roll-in storage',
+    headline: 'Two baskets and a low-step frame, with storage to plan around.',
+    description: 'Mooncool pairs a folding low-step frame with a 48V 20Ah battery, torque sensor, and front and rear baskets. The listed 44 kg weight and conflicting range and folded-size claims make fit, storage, and route planning central to this trike.',
+    verdict: 'We recommend the Mooncool TK Pro Electric Trike for riders who want an easy-to-mount, basket-equipped three-wheeler for neighborhood trips and have a roll-in parking spot. Its 48V 20Ah removable battery, torque sensor, front and rear baskets, differential, and folding frame make a useful utility package. Fit and storage decide the purchase: the trike weighs 44 kg (about 97 lb), and Mooncool publishes more than one folded-size figure. Measure the full route into storage before buying.',
+    strengths: [
+      'The 12.2-inch listed step-over height, low-step frame, adjustable saddle, and front and rear baskets suit riders looking for an accessible utility layout.',
+      'A listed 48V 20Ah battery, 750W nominal rear-drive motor, torque sensor, five pedal-assist levels, half-twist throttle, and Shimano six-speed drivetrain give riders several ways to manage effort.',
+      'Mooncool lists hydraulic disc brakes with 180 mm rotors, a parking brake, motor cutoff, horn, turn signals, and a rear differential.',
+      'The frame folds, the battery is removable, and the product page says both baskets are included; those details can help with planned charging and storage.'
+    ],
+    tradeoffs: [
+      'At 44 kg (about 97 lb) and 28.4 inches wide assembled, this is a roll-in trike rather than a practical lift-and-carry folder. Measure doorways, turns, ramps, storage, and any transport setup.',
+      'Mooncool gives 45–75 miles in its product description, 45–100 miles in a highlight, and 100 miles in the specifications. It does not give matching test conditions for those figures, so treat them as unresolved manufacturer estimates.',
+      'The folded-size FAQ gives 101.5 × 76 × 78 cm, while the technical table says 100 × 73 × 74 cm. Confirm the dimensions for the exact shipped configuration and leave extra clearance.',
+      'The product page lists a 15.5 mph top safe speed, while the manual lists 16 mph maximum speed. Mooncool labels the model Class 2; confirm the delivered configuration and local rules for your route. The spec table also says the trike has no reverse function or fast-charge support.'
+    ],
+    specs: {
+      'Selected configuration': 'Blue Haze / US; variant 43866362839212; SKU TKS-HWH',
+      'Motor and drive': '750W nominal rear-drive motor, 1,310W peak, and 90 N·m (manufacturer-listed); rear differential',
+      'Battery': 'Removable 48V 20Ah lithium-ion battery (960Wh calculated from nominal voltage and capacity)',
+      'Assistance and drivetrain': 'Torque sensor, five pedal-assist levels, half-twist throttle, and Shimano Tourney six-speed drivetrain; no reverse function listed',
+      'Claimed range': '45–75 miles in product description; 45–100 in highlights; 100 miles in specifications; comparable test conditions not supplied',
+      'Top speed and classification': '15.5 mph top safe speed on product page; 16 mph maximum in TK Pro manual; product page labels it Class 2',
+      'Brakes': 'Hydraulic disc brakes with 180 mm rotors; parking brake and motor cutoff listed',
+      'Wheels and tires': '20 × 3.0-inch CST tires, 60 TPI; alloy double-wall rims',
+      'Payload': '450 lb maximum load (manufacturer-listed)',
+      'Fit': 'Recommended rider height 5 ft–6 ft 3 in; 12.2-inch step-over; 30.3–42.1-inch seat-height range',
+      'Assembled dimensions': '65 inches long × 28.4 inches wide; seat and handlebar height are adjustable',
+      'Folded dimensions': 'FAQ: 101.5 × 76 × 78 cm (39.9 × 29.9 × 30.7 in); technical table: 100 × 73 × 74 cm',
+      'Listed weight': '44 kg (about 97 lb)',
+      'Charging': '3A charger listed; technical table says fast charging is not supported',
+      'Included and assembly': 'Mooncool says the front and rear baskets, battery, and assembly tools are included; 95% pre-assembled',
+      'Warranty summary': 'Product page lists lifetime frame, two-year battery, and one-year parts coverage; first-owner and component exclusions apply under the published policy'
+    },
+    source: 'https://www.mooncool.com/products/tk-pro-electric-trike?variant=43866362839212',
+    sourceLinks: [
+      { label: 'Mooncool TK Pro US owner manual', url: 'https://cdn.shopify.com/s/files/1/0567/3821/8156/files/TK_PRO_US_manual.pdf?v=1782720216' },
+      { label: 'Mooncool warranty policy', url: 'https://www.mooncool.com/pages/warranty-policy' },
+      { label: 'Mooncool returns policy', url: 'https://www.mooncool.com/pages/return-and-refund-policy' }
+    ],
+    evidence: 'Manufacturer-specification editorial evaluation; exact Blue Haze US variant and price checked October 24, 2026. Mooncool code eligibility is documented only for other exact variants; TK Pro eligibility is unresolved. No Bike Tested ride, braking, handling, or range measurement.',
+    sections: [
+      [
+        'A low-step trike for everyday cargo',
+        'Mooncool builds the TK Pro around a low-step frame and two baskets, with listed basket dimensions of 12.6 × 11.8 × 5.5 inches at the front and 18.9 × 14.2 × 6.3 inches at the rear. The company says the selected trike ships with both baskets and its battery. A 450 lb maximum load is listed, but ask Mooncool how that figure applies to rider, cargo, and accessories before planning regular trips.'
+      ],
+      [
+        'Torque sensing, six gears, and a rear differential',
+        'The product table lists a 750W nominal rear-drive motor, 1,310W peak output, 90 N·m of torque, and a 48V 20Ah removable battery. Mooncool pairs that setup with five pedal-assist levels, a half-twist throttle, a torque sensor, and a Shimano Tourney six-speed drivetrain. The listed rear differential and hydraulic brakes with 180 mm rotors round out the utility package. These are seller specifications, not Bike Tested measurements of assistance response, cornering, or braking.'
+      ],
+      [
+        'Treat the fold as a storage aid, not a carrying plan',
+        'Mooncool lists the assembled trike at 65 inches long, 28.4 inches wide, and 44 kg (about 97 lb). Its folded dimensions disagree: the product FAQ says 101.5 × 76 × 78 cm, while the technical table gives 100 × 73 × 74 cm. Both point to a large, heavy vehicle even when folded. Measure the entire path to storage, including the narrowest doorway, ramp, turn, and vehicle opening; frequent lifting is a poor fit.'
+      ],
+      [
+        'Confirm the range and speed details for your configuration',
+        'The page gives a 45–75-mile range in the description, a 45–100-mile range in a highlight, and 100 miles in the technical table. It does not give shared rider, speed, terrain, temperature, or assist conditions for those figures. Mooncool lists 15.5 mph as the top safe speed, while the US manual lists 16 mph maximum. Its product page labels the trike Class 2. Confirm the delivered speed setting and local requirements before choosing a route; the listed claims are not a Bike Tested range or speed result.'
+      ],
+      [
+        'Price and the model-specific code check',
+        'On October 24, 2026, Mooncool’s US variant feed listed Blue Haze, variant 43866362839212 (SKU TKS-HWH), at $1,699.99 against a $2,599.99 compare-at price. The Bike Tested Mooncool code is SEBASTIANBASSOL, with a partner-listed 5% benefit. The code has been accepted on other Mooncool models, but this TK Pro variant has not been checked; this review does not claim a TK Pro saving or calculate an after-code price. Check the final total and availability on the merchant listing.'
+      ]
+    ],
+    publishedOn: '2026-10-24',
+    updatedOn: '2026-10-24',
+    specsCheckedOn: '2026-10-24',
+    faqs: [
+      ['How far does the Mooncool TK Pro travel on one charge?', 'Mooncool lists 45–75 miles in its product description, 45–100 miles in a highlight, and 100 miles in the technical section. The product page does not provide matching test conditions, so treat these as unresolved manufacturer estimates rather than a Bike Tested result.'],
+      ['How large is the TK Pro when folded?', 'Mooncool’s FAQ gives 101.5 × 76 × 78 cm (39.9 × 29.9 × 30.7 inches), while its technical table lists 100 × 73 × 74 cm. Confirm the figure for the exact bike and measure your storage route with extra clearance.'],
+      ['What is the Mooncool TK Pro’s weight and rider fit?', 'Mooncool lists 44 kg (about 97 lb), a 12.2-inch step-over, a 30.3–42.1-inch seat-height range, and a recommended rider height of 5 ft to 6 ft 3 in. Use the height guidance as a starting point and check your reach and control access in person.'],
+      ['Does the TK Pro have reverse and fast charging?', 'Mooncool’s specification table says the TK Pro has no reverse function and no fast-charge support. It lists a 3A charger; ask Mooncool to confirm the included charger and current charging guidance for the exact package.']
+    ],
+    relatedReviews: [
+      { slug: 'mooncool-tk2-pro-electric-trike', reason: 'Compare the TK2 Pro’s listed reverse function and feature mix with the TK Pro, then verify the exact model details you need.' },
+      { slug: 'mooncool-tk2-folding-electric-trike', reason: 'Compare the TK2’s narrower tires, 15Ah battery, and separate exact-variant code result.' },
+      { slug: 'mooncool-ft1-fat-tire-electric-trike', reason: 'Compare a 20 × 4-inch fat-tire trike with a seven-speed drivetrain and a different listed brake setup.' }
+    ],
+    price: {
+      amountMinor: 169999,
+      currency: 'USD',
+      region: 'US',
+      variantId: '43866362839212',
+      variantLabel: 'Blue Haze / US (SKU TKS-HWH)',
+      source: 'https://www.mooncool.com/products/tk-pro-electric-trike?variant=43866362839212',
+      checkedOn: '2026-10-24',
+      isSalePrice: true
+    },
+    eligibility: {
+      status: 'unresolved',
+      variantId: '43866362839212',
+      evidence: 'docs/evidence/mooncool-tk-pro-electric-trike.md#offer-scope'
+    }
   }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}

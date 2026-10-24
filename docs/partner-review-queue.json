@@ -1009,6 +1009,22 @@
       "offerDetailNeeded": false,
       "checkoutTestedOn": null,
       "nextStep": "Review commit 49640df was pushed to main. Production review, CYCPLUS promo page, agent feed and exact transparent official image return 200 on biketested.com and biketested.pages.dev. The exact US variant is listed at $59.99; the code and partner destination are present, eligibility is unresolved, and agent feed afterCodePrice is null. Live image SHA-256 matches local. Browser visual QA was not completed; deployment ID/status metadata unavailable."
+    },
+    {
+      "brand": "Mooncool",
+      "brandSlug": "mooncool",
+      "category": "electric-bikes",
+      "status": "research-verified-drafting",
+      "priority": 1,
+      "product": "Mooncool TK Pro Electric Trike, Blue Haze / US (variant 43866362839212; SKU TKS-HWH)",
+      "officialSource": "https://www.mooncool.com/products/tk-pro-electric-trike?variant=43866362839212",
+      "reviewUrl": "/reviews/mooncool-tk-pro-electric-trike",
+      "affiliateUrl": "https://www.mooncool.com/?ref=znnfuofi",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "5% brand-level code; exact TK Pro variant not tested",
+      "offerDetailNeeded": false,
+      "checkoutTestedOn": null,
+      "nextStep": "Official US product page and Shopify variant feed checked 2026-10-24: Blue Haze variant 43866362839212 / SKU TKS-HWH listed at $1,699.99 against $2,599.99 compare-at. Mooncool’s current page describes TK Pro as a hot/best-selling model with 67 reviews. Official range, folded-size, and top-speed claims conflict across product sections/manual. Exact TK Pro code eligibility is untested; do not calculate an after-code price. Official product PNG was already transparent and is preserved as a lossless WebP. Review in progress."
     }
   ]
 }
