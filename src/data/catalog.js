@@ -3327,7 +3327,6 @@ export const products = [
       ['How far can the GT20 travel on a charge?', 'The current official GT20 product details do not state battery capacity or a range estimate. Ask GEBIKE for the battery specification and any range conditions for the exact GT20-EU-1 configuration; no distance claim is made here.'],
       ['Who does the GT20 fit?', 'GEBIKE’s size chart recommends 5 ft 3 in–6 ft 3 in and lists a 330 lb maximum load. It does not provide frame-specific reach, stand-over or saddle-height dimensions, so confirm the geometry and evaluate fit directly.'],
       ['What tire size does the GT20 use?', 'The official size chart lists 20 × 4.0-inch tires. Confirm the delivered tire model, pressure range and replacement availability with GEBIKE before planning around a particular surface.'],
-      ['Does SEBASTIANBASSOL apply to the GT20?', 'GEBIKE’s partner code is reported as €10 off and was accepted on the G03 Gray / Standard variant 51947256611137. GT20 variant 51725417513281 has not been tested for eligibility or sale-price stacking. Check the final cart total; no GT20 after-code price is claimed.'],
       ['Does the GT20’s certification label establish where I can ride?', 'The product page displays a CE/UKCA certification badge, but this review did not inspect model-specific conformity documents or determine local classification. Request the applicable documents and confirm the rules for your location and intended route.']
     ],
     relatedReviews: [
