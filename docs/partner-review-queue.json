@@ -421,18 +421,18 @@
     {
       "brand": "Hiboy",
       "brandSlug": "hiboy",
-      "category": "electric-mobility",
-      "status": "ready-for-product-research",
+      "category": "electric-bikes",
+      "status": "review-published-live-routes-verified",
       "priority": 2,
-      "product": null,
-      "officialSource": null,
-      "reviewUrl": null,
+      "product": "Hiboy EX6F Low-Step Foldable Electric Bike, Navy / US (variant 46519631053049; SKU EX6F-N-20080013)",
+      "officialSource": "https://www.hiboy.com/products/hiboy-ex6f-foldable-low-step-electric-bike?variant=46519631053049",
+      "reviewUrl": "/reviews/hiboy-ex6f-foldable-electric-bike",
       "affiliateUrl": "https://hiboy.com/?ref=SEBASTIANBASSOLINO",
       "code": "SEBASTIANBASSOL",
       "reportedBenefit": null,
       "offerDetailNeeded": true,
-      "checkoutTestedOn": null,
-      "nextStep": "Choose one exact current SKU from this storefront; record model, variant, primary specifications and official image provenance before drafting."
+      "checkoutTestedOn": "2026-10-23",
+      "nextStep": "Published in commit 3a3c9c5; Cloudflare Pages deployment 36dce695-451f-4749-9a31-f7cef12ce717 succeeded. Live review and promo return 200; the official 1200×1200 transparent product image returns 200 and matches the local SHA-256. Exact Navy / US variant 46519631053049 (SKU EX6F-N-20080013) listed at $949.99; SEBASTIANBASSOL allocated $0.00 in the cart, so no saving or after-code price is claimed. Desktop and 375px live review/promo QA passed with no horizontal overflow; both copy controls showed success. npm run build and git diff --check passed. No address, shipping/tax calculation, or order."
     },
     {
       "brand": "HX Happy Relax",
