@@ -944,7 +944,7 @@
       "reportedBenefit": "€10.00 off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": null,
-      "nextStep": "Review commit 02f63543d952fb918289a52a37702f422d4ffb2c deployed successfully to Cloudflare Pages as 7e7d3625-b169-485e-b5c2-45fb88b90dcf. Production review, GEBIKE promo, exact official image and agent feed return 200; live image SHA-256 matches local. The EU variant is listed at €929.00 against a €1,099.00 compare-at price. SEBASTIANBASSOL eligibility and sale stacking are untested for GT20; agent feed keeps eligibility unresolved and afterCodePrice null. Visual browser QA unavailable because CUA timed out and Playwright is not installed."
+      "nextStep": "Review commit 02f63543d952fb918289a52a37702f422d4ffb2c deployed as 7e7d3625-b169-485e-b5c2-45fb88b90dcf; follow-up FAQ correction commit 5543db1 deployed as 3ad845b3-f344-416e-89cb-9df0c7840d27. Production review, GEBIKE promo, exact official image and agent feed return 200; live image SHA-256 matches local. The review renders one shared code FAQ. The EU variant is listed at €929.00 against €1,099.00 compare-at. SEBASTIANBASSOL eligibility and sale stacking remain untested for GT20; agent feed keeps eligibility unresolved and afterCodePrice null. Visual browser QA unavailable because CUA timed out and Playwright is not installed."
     }
   ]
 }
