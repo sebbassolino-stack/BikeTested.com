@@ -60,5 +60,7 @@
     "source": "https://cdn.shopify.com/s/files/1/2389/5887/files/00_f3e2d91a-5734-412c-abc8-24d0607b350e.jpg?v=1787046473",
     "retrievedOn": "2026-10-24",
     "transformation": "Exact official Deep Crimson side-profile product photo. OpenAI image_gen removed only the white studio background and floor shadow; Sharp proportionally resized it to 1,200 × 1,200 and encoded a lossless transparent WebP. Compared the frame, EUNORAU and NEW-TRIKE marks, basket, rear rack, seat/backrest, battery, controls, cables, tires, wheels, brakes, and full outline against the source; inspected the cutout on light and dark backgrounds."
-  }
+  },
+ {"file":"/images/products/gyroor-c2-max-electric-scooter-with-seat-and-baskets.webp","owner":"Gyroor","source":"https://cdn.shopify.com/s/files/1/2191/9995/files/C1maxfoldableelectricscooter.webp","retrievedOn":"2026-10-25","transformation":"Official first gallery image on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP. Baskets, fenders and wheels inspected on a light grey background."},
+ {"file":"/images/products/cycplus-t2-bldc-direct-drive-smart-trainer.webp","owner":"CYCPLUS","source":"https://cdn.shopify.com/s/files/1/0413/9597/8398/files/4_ca25b3db-6073-4b96-bc13-15b4c785d03d.png","retrievedOn":"2026-10-25","transformation":"Official first gallery image (T2 with its 11-speed cassette) on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP. Cassette, handle and feet inspected on a light grey background."}
 ]

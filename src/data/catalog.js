@@ -4451,7 +4451,215 @@ export const products = [
       evidence: 'docs/evidence/lankeleisi-x3000-max-dual-motor-electric-bike.md#partner-code-eligibility-and-availability'
     }
   },
-  {"slug":"eunorau-new-trike-2-electric-trike","brand":"eunorau","name":"EUNORAU NEW-TRIKE 2.0 Electric Trike","model":"NEW-TRIKE 2.0, Deep Crimson / US (variant 46324682260736; SKU TRKE2018RD2US)","image":"/images/products/eunorau-new-trike-2-electric-trike.webp","imageAlt":"Deep Crimson EUNORAU NEW-TRIKE 2.0 electric trike in side profile","imageWidth":1200,"imageHeight":1200,"category":"electric-bikes","use":"utility","label":"For low-step cargo trips","headline":"A folding cargo trike with a code-tested cart price.","description":"EUNORAU pairs a low-step frame and padded backrest with a front basket and included rear rack. A 48V 20Ah battery, cadence sensor, seven-speed drivetrain, and parking brake suit everyday cargo trips; confirm motor placement, the listed charging time, and the full vehicle dimensions before planning storage or transport.","verdict":"We recommend the NEW-TRIKE 2.0 for riders who want an upright, low-step electric trike with front and rear cargo space, a padded backrest, and a parking brake for neighborhood errands. EUNORAU lists a 48V 20Ah battery, cadence sensor, 20 × 3.0-inch tires, a Shimano seven-speed drivetrain, and hydraulic brakes. Its own page conflicts about whether the 500W motor is at the front or rear, and pairs a 20Ah battery with a 2A charger while claiming a four-to-six-hour charge. Ask EUNORAU to confirm those specifications, the complete vehicle weight, and folded dimensions before planning transport or storage. The exact Deep Crimson / US cart accepted EUNORSEBASTIAN60 on the $1,999 listed item, leaving $1,959.02 before shipping and tax.","strengths":["A low-step three-wheel layout with a front basket, included rear rack, padded seat, and adjustable backrest is ready for seated errands and everyday cargo.","The listed 48V 20Ah Samsung-cell battery, cadence sensor, and Shimano seven-speed gearing cover a practical city-trike setup.","EUNORAU lists 20 × 3.0-inch tires and hydraulic 180mm brakes with a motor cut-off sensor and parking brake.","The folding frame and quick-release adjustable stem may help with storage, provided the complete trike fits your space and handling plan."],"tradeoffs":["The product title and first specification call this a 500W front-motor trike, while a later feature section calls it a rear-motor trike. Confirm the motor position and exact delivered configuration with EUNORAU.","The advertised 60–100-mile range has no complete test conditions. Treat it as a seller estimate, not a dependable trip distance.","The listing gives a 20Ah battery, 2A charger, and four-to-six-hour charge time. A simple 20Ah ÷ 2A estimate is ten hours before charging taper, so ask the seller to reconcile the figures.","EUNORAU lists a 440lb total payload but no separate front-basket or rear-rack limit in the feed we checked. Full bike weight and folded dimensions are also not listed there.","The trike collection card said Sold Out while the exact product feed and our isolated cart accepted the Deep Crimson / US variant. Check the variant state at purchase; this dated cart result is not an inventory promise."],"specs":{"Configuration":"Deep Crimson / US; variant 46324682260736; SKU TRKE2018RD2US","Motor":"48V 500W and up to 80 N·m listed; the product page conflicts on front versus rear placement","Battery":"48V 20Ah lithium-ion battery with Samsung cells; 960Wh nominal arithmetic from listed voltage and capacity","Claimed range":"60–100 miles / 96–160km; complete range-test conditions are not supplied","Claimed maximum speed":"20mph under the speed-locked setting, per the product listing","Pedal assist":"Cadence sensor; half-twist throttle","Charging":"2A smart charger; product page claims four to six hours, a figure to confirm for the listed 20Ah battery","Drivetrain":"Shimano seven-speed shifter and 14–28T freewheel","Brakes":"Hydraulic brakes with 180mm rotors, motor cut-off sensor, and parking brake","Tires":"20 × 3.0-inch INNOVA tires","Cargo":"Front basket and included rear rack; listed 440lb / 200kg maximum total payload; rack-specific limits not listed","Rider fit":"Manufacturer suggests 5 ft 1 in–6 ft 1 in; saddle height listed as 32.7–40.2 inches","Frame and storage":"17.7-inch alloy frame; foldable frame and adjustable stem; full bike weight and folded dimensions not listed in the product feed"},"source":"https://eunorau-ebike.com/products/new-trike-2-0?variant=46324682260736","sourceLinks":[{"label":"EUNORAU NEW-TRIKE 2.0 US listing and specifications","url":"https://eunorau-ebike.com/products/new-trike-2-0?variant=46324682260736"},{"label":"EUNORAU NEW-TRIKE 2.0 current product feed","url":"https://eunorau-ebike.com/products/new-trike-2-0.js"},{"label":"EUNORAU electric-trike collection","url":"https://eunorau-ebike.com/collections/eunorau-electric-trikes"}],"evidence":"Manufacturer-specification editorial evaluation; exact Deep Crimson / US variant and listed price checked October 24, 2026. EUNORSEBASTIAN60 was accepted in an isolated cart for this variant; the cart was cleared, with no address, shipping/tax calculation, checkout completion, or order. The collection card and product-feed/cart stock signals conflicted. The product page conflicts on motor placement and lists a charge-time figure that does not reconcile at face value with its 20Ah battery and 2A charger. No Bike Tested ride, range, handling, braking, or cargo test.","sections":[["Cargo space comes first","The front basket, included rear rack, padded saddle, and adjustable backrest make the NEW-TRIKE 2.0 a cargo-oriented alternative to a two-wheel commuter. EUNORAU lists a 440lb total payload, but does not give separate basket or rack limits in the product feed. Ask which load figure applies to each rack and count the rider and luggage within the stated maximum."],["Confirm which wheel has the motor","The title and first specification identify a 500W front motor; a later feature block describes a 500W rear motor. The listing also gives up to 80 N·m of torque. These are manufacturer claims, not Bike Tested output measurements. Ask EUNORAU to confirm the motor position and supplied configuration for the selected US variant."],["Treat range and charging as estimates","EUNORAU advertises 60–100 miles but does not provide a full set of rider, load, speed, terrain, temperature, or assist conditions. The page also pairs a 48V 20Ah battery with a 2A charger and a four-to-six-hour charge claim. Simple capacity-to-current arithmetic is about ten hours before charging taper, so confirm the actual charger and realistic charge window before planning longer trips."],["Measure fit and storage before ordering","The seller suggests riders 5 ft 1 in to 6 ft 1 in and lists 32.7–40.2 inches of saddle height. The frame folds, but the product feed does not list full bike weight or folded dimensions. Check the rider’s access to the controls and ask for the complete folded measurements and lifting weight before relying on a storage space, vehicle, or carrier."],["The reader code worked on the exact sale variant","On October 24, 2026, the US feed listed Deep Crimson variant 46324682260736 at $1,999, against a $2,499 compare-at price. In a fresh cart, EUNORSEBASTIAN60 applied a $39.98 discount, leaving a $1,959.02 item subtotal before shipping or tax. The collection card simultaneously displayed Sold Out, although the exact variant feed and cart accepted it. No address or order was entered; verify the current variant and code before purchase."]],"publishedOn":"2026-10-24","updatedOn":"2026-10-24","specsCheckedOn":"2026-10-24","faqs":[["Does EUNORSEBASTIAN60 work on the NEW-TRIKE 2.0?","The code applied in an isolated cart to Deep Crimson / US variant 46324682260736 on October 24, 2026. It removed $39.98 from the $1,999 item price, leaving $1,959.02 before shipping or tax. This is cart evidence, not a completed checkout; no address or order was entered."],["Is the NEW-TRIKE 2.0 a front-motor or rear-motor trike?","EUNORAU’s title and first specification say 500W front motor, while a later feature block says 500W rear motor. The listing does not resolve the conflict. Confirm the exact motor placement for the US variant with the seller."],["How far can the NEW-TRIKE 2.0 travel on a charge?","EUNORAU advertises 60–100 miles / 96–160km, but the listing does not provide complete test conditions. Use this as a seller estimate rather than a route forecast."],["How much can the NEW-TRIKE 2.0 carry?","The listing gives a 440lb / 200kg maximum total payload. It does not state separate front-basket or rear-rack limits in the product feed, so confirm those ratings and include rider weight in the total."],["Does the frame fold for storage?","EUNORAU describes the frame as foldable, but the product feed does not give complete folded dimensions or the trike’s full weight. Ask the seller for both before choosing a vehicle or storage space."]],"relatedReviews":[{"slug":"mooncool-tk2-folding-electric-trike","reason":"Compare another folding, low-step utility trike with front and rear cargo baskets."},{"slug":"mooncool-tk-pro-electric-trike","reason":"Compare a low-step trike with a cargo-focused layout and a different listed battery and range profile."}],"price":{"amountMinor":199900,"currency":"USD","region":"US","variantId":"46324682260736","variantLabel":"Deep Crimson / US (SKU TRKE2018RD2US)","source":"https://eunorau-ebike.com/products/new-trike-2-0?variant=46324682260736","checkedOn":"2026-10-24","isSalePrice":true},"eligibility":{"status":"eligible","variantId":"46324682260736","evidence":"docs/evidence/eunorau-new-trike-2-electric-trike.md#exact-variant-cart-code-check"},"checkoutObservation":{"code":"EUNORSEBASTIAN60","stage":"cart","result":"discount-applied","variantId":"46324682260736","baseAmountMinor":199900,"discountMinor":3998,"afterAmountMinor":195902,"currency":"USD","checkedOn":"2026-10-24","message":"A fresh isolated US cart accepted Deep Crimson variant 46324682260736 at $1,999.00. Applying EUNORSEBASTIAN60 added a $39.98 line-item discount and left a $1,959.02 item subtotal.","exclusions":"Exact Deep Crimson / US variant only; cart observation, not completed checkout. No address, shipping or tax calculation, or order. Collection card showed Sold Out while product feed and cart accepted the variant. The isolated cart was cleared."}}
+  {"slug":"eunorau-new-trike-2-electric-trike","brand":"eunorau","name":"EUNORAU NEW-TRIKE 2.0 Electric Trike","model":"NEW-TRIKE 2.0, Deep Crimson / US (variant 46324682260736; SKU TRKE2018RD2US)","image":"/images/products/eunorau-new-trike-2-electric-trike.webp","imageAlt":"Deep Crimson EUNORAU NEW-TRIKE 2.0 electric trike in side profile","imageWidth":1200,"imageHeight":1200,"category":"electric-bikes","use":"utility","label":"For low-step cargo trips","headline":"A folding cargo trike with a code-tested cart price.","description":"EUNORAU pairs a low-step frame and padded backrest with a front basket and included rear rack. A 48V 20Ah battery, cadence sensor, seven-speed drivetrain, and parking brake suit everyday cargo trips; confirm motor placement, the listed charging time, and the full vehicle dimensions before planning storage or transport.","verdict":"We recommend the NEW-TRIKE 2.0 for riders who want an upright, low-step electric trike with front and rear cargo space, a padded backrest, and a parking brake for neighborhood errands. EUNORAU lists a 48V 20Ah battery, cadence sensor, 20 × 3.0-inch tires, a Shimano seven-speed drivetrain, and hydraulic brakes. Its own page conflicts about whether the 500W motor is at the front or rear, and pairs a 20Ah battery with a 2A charger while claiming a four-to-six-hour charge. Ask EUNORAU to confirm those specifications, the complete vehicle weight, and folded dimensions before planning transport or storage. The exact Deep Crimson / US cart accepted EUNORSEBASTIAN60 on the $1,999 listed item, leaving $1,959.02 before shipping and tax.","strengths":["A low-step three-wheel layout with a front basket, included rear rack, padded seat, and adjustable backrest is ready for seated errands and everyday cargo.","The listed 48V 20Ah Samsung-cell battery, cadence sensor, and Shimano seven-speed gearing cover a practical city-trike setup.","EUNORAU lists 20 × 3.0-inch tires and hydraulic 180mm brakes with a motor cut-off sensor and parking brake.","The folding frame and quick-release adjustable stem may help with storage, provided the complete trike fits your space and handling plan."],"tradeoffs":["The product title and first specification call this a 500W front-motor trike, while a later feature section calls it a rear-motor trike. Confirm the motor position and exact delivered configuration with EUNORAU.","The advertised 60–100-mile range has no complete test conditions. Treat it as a seller estimate, not a dependable trip distance.","The listing gives a 20Ah battery, 2A charger, and four-to-six-hour charge time. A simple 20Ah ÷ 2A estimate is ten hours before charging taper, so ask the seller to reconcile the figures.","EUNORAU lists a 440lb total payload but no separate front-basket or rear-rack limit in the feed we checked. Full bike weight and folded dimensions are also not listed there.","The trike collection card said Sold Out while the exact product feed and our isolated cart accepted the Deep Crimson / US variant. Check the variant state at purchase; this dated cart result is not an inventory promise."],"specs":{"Configuration":"Deep Crimson / US; variant 46324682260736; SKU TRKE2018RD2US","Motor":"48V 500W and up to 80 N·m listed; the product page conflicts on front versus rear placement","Battery":"48V 20Ah lithium-ion battery with Samsung cells; 960Wh nominal arithmetic from listed voltage and capacity","Claimed range":"60–100 miles / 96–160km; complete range-test conditions are not supplied","Claimed maximum speed":"20mph under the speed-locked setting, per the product listing","Pedal assist":"Cadence sensor; half-twist throttle","Charging":"2A smart charger; product page claims four to six hours, a figure to confirm for the listed 20Ah battery","Drivetrain":"Shimano seven-speed shifter and 14–28T freewheel","Brakes":"Hydraulic brakes with 180mm rotors, motor cut-off sensor, and parking brake","Tires":"20 × 3.0-inch INNOVA tires","Cargo":"Front basket and included rear rack; listed 440lb / 200kg maximum total payload; rack-specific limits not listed","Rider fit":"Manufacturer suggests 5 ft 1 in–6 ft 1 in; saddle height listed as 32.7–40.2 inches","Frame and storage":"17.7-inch alloy frame; foldable frame and adjustable stem; full bike weight and folded dimensions not listed in the product feed"},"source":"https://eunorau-ebike.com/products/new-trike-2-0?variant=46324682260736","sourceLinks":[{"label":"EUNORAU NEW-TRIKE 2.0 US listing and specifications","url":"https://eunorau-ebike.com/products/new-trike-2-0?variant=46324682260736"},{"label":"EUNORAU NEW-TRIKE 2.0 current product feed","url":"https://eunorau-ebike.com/products/new-trike-2-0.js"},{"label":"EUNORAU electric-trike collection","url":"https://eunorau-ebike.com/collections/eunorau-electric-trikes"}],"evidence":"Manufacturer-specification editorial evaluation; exact Deep Crimson / US variant and listed price checked October 24, 2026. EUNORSEBASTIAN60 was accepted in an isolated cart for this variant; the cart was cleared, with no address, shipping/tax calculation, checkout completion, or order. The collection card and product-feed/cart stock signals conflicted. The product page conflicts on motor placement and lists a charge-time figure that does not reconcile at face value with its 20Ah battery and 2A charger. No Bike Tested ride, range, handling, braking, or cargo test.","sections":[["Cargo space comes first","The front basket, included rear rack, padded saddle, and adjustable backrest make the NEW-TRIKE 2.0 a cargo-oriented alternative to a two-wheel commuter. EUNORAU lists a 440lb total payload, but does not give separate basket or rack limits in the product feed. Ask which load figure applies to each rack and count the rider and luggage within the stated maximum."],["Confirm which wheel has the motor","The title and first specification identify a 500W front motor; a later feature block describes a 500W rear motor. The listing also gives up to 80 N·m of torque. These are manufacturer claims, not Bike Tested output measurements. Ask EUNORAU to confirm the motor position and supplied configuration for the selected US variant."],["Treat range and charging as estimates","EUNORAU advertises 60–100 miles but does not provide a full set of rider, load, speed, terrain, temperature, or assist conditions. The page also pairs a 48V 20Ah battery with a 2A charger and a four-to-six-hour charge claim. Simple capacity-to-current arithmetic is about ten hours before charging taper, so confirm the actual charger and realistic charge window before planning longer trips."],["Measure fit and storage before ordering","The seller suggests riders 5 ft 1 in to 6 ft 1 in and lists 32.7–40.2 inches of saddle height. The frame folds, but the product feed does not list full bike weight or folded dimensions. Check the rider’s access to the controls and ask for the complete folded measurements and lifting weight before relying on a storage space, vehicle, or carrier."],["The reader code worked on the exact sale variant","On October 24, 2026, the US feed listed Deep Crimson variant 46324682260736 at $1,999, against a $2,499 compare-at price. In a fresh cart, EUNORSEBASTIAN60 applied a $39.98 discount, leaving a $1,959.02 item subtotal before shipping or tax. The collection card simultaneously displayed Sold Out, although the exact variant feed and cart accepted it. No address or order was entered; verify the current variant and code before purchase."]],"publishedOn":"2026-10-24","updatedOn":"2026-10-24","specsCheckedOn":"2026-10-24","faqs":[["Does EUNORSEBASTIAN60 work on the NEW-TRIKE 2.0?","The code applied in an isolated cart to Deep Crimson / US variant 46324682260736 on October 24, 2026. It removed $39.98 from the $1,999 item price, leaving $1,959.02 before shipping or tax. This is cart evidence, not a completed checkout; no address or order was entered."],["Is the NEW-TRIKE 2.0 a front-motor or rear-motor trike?","EUNORAU’s title and first specification say 500W front motor, while a later feature block says 500W rear motor. The listing does not resolve the conflict. Confirm the exact motor placement for the US variant with the seller."],["How far can the NEW-TRIKE 2.0 travel on a charge?","EUNORAU advertises 60–100 miles / 96–160km, but the listing does not provide complete test conditions. Use this as a seller estimate rather than a route forecast."],["How much can the NEW-TRIKE 2.0 carry?","The listing gives a 440lb / 200kg maximum total payload. It does not state separate front-basket or rear-rack limits in the product feed, so confirm those ratings and include rider weight in the total."],["Does the frame fold for storage?","EUNORAU describes the frame as foldable, but the product feed does not give complete folded dimensions or the trike’s full weight. Ask the seller for both before choosing a vehicle or storage space."]],"relatedReviews":[{"slug":"mooncool-tk2-folding-electric-trike","reason":"Compare another folding, low-step utility trike with front and rear cargo baskets."},{"slug":"mooncool-tk-pro-electric-trike","reason":"Compare a low-step trike with a cargo-focused layout and a different listed battery and range profile."}],"price":{"amountMinor":199900,"currency":"USD","region":"US","variantId":"46324682260736","variantLabel":"Deep Crimson / US (SKU TRKE2018RD2US)","source":"https://eunorau-ebike.com/products/new-trike-2-0?variant=46324682260736","checkedOn":"2026-10-24","isSalePrice":true},"eligibility":{"status":"eligible","variantId":"46324682260736","evidence":"docs/evidence/eunorau-new-trike-2-electric-trike.md#exact-variant-cart-code-check"},"checkoutObservation":{"code":"EUNORSEBASTIAN60","stage":"cart","result":"discount-applied","variantId":"46324682260736","baseAmountMinor":199900,"discountMinor":3998,"afterAmountMinor":195902,"currency":"USD","checkedOn":"2026-10-24","message":"A fresh isolated US cart accepted Deep Crimson variant 46324682260736 at $1,999.00. Applying EUNORSEBASTIAN60 added a $39.98 line-item discount and left a $1,959.02 item subtotal.","exclusions":"Exact Deep Crimson / US variant only; cart observation, not completed checkout. No address, shipping or tax calculation, or order. Collection card showed Sold Out while product feed and cart accepted the variant. The isolated cart was cleared."}},
+  {
+    "slug": "gyroor-c2-max-electric-scooter-with-seat-and-baskets",
+    "brand": "gyroor",
+    "name": "Gyroor C2 Max Electric Scooter with Seat and Dual Baskets",
+    "model": "C2 Max",
+    "image": "/images/products/gyroor-c2-max-electric-scooter-with-seat-and-baskets.webp",
+    "imageAlt": "Gyroor C2 Max black electric scooter with a seat, a front pet basket platform and a rear cargo basket",
+    "imageWidth": 1200,
+    "imageHeight": 1058,
+    "category": "electric-mobility",
+    "use": "utility",
+    "label": "For errands with a pet or cargo",
+    "headline": "A seated scooter with two baskets and 16-inch tires.",
+    "description": "An 850W (1,200W peak) seated scooter with front and rear baskets, 16-inch tubeless tires, dual shock absorbers and dual disc brakes, with a 350 lb capacity.",
+    "verdict": "We recommend the Gyroor C2 Max for riders who want a comfortable seated scooter that can carry a pet or a week of groceries. An 850W motor (1,200W peak) and a 48.1V 13.5Ah battery are listed for up to 30 miles per charge, 16-inch tubeless tires with front and rear shock absorbers smooth the ride, and dual disc brakes with UL 2272 certification add confidence. A front basket carries a pet up to about 70 lb, a rear basket carries cargo, three speed modes (12, 15 and 20 mph) suit different paths, and the seat and handlebar adjust for riders from 4 ft 9 in to 6 ft 5 in. At $999.99 it is a practical neighborhood vehicle.",
+    "strengths": [
+      "Two baskets cover both pets and cargo: the front one is cushioned and breathable for a smaller dog or cat, and the rear basket holds groceries and gear.",
+      "An 850W motor with a 1,200W peak, a 48.1V 13.5Ah battery and three speed modes (12, 15 and 20 mph) suit neighborhood trips, with up to 30 miles per charge listed.",
+      "An oversized cushioned seat and an adjustable seat and handlebar fit riders from 4 ft 9 in to 6 ft 5 in, so it is easy to share around a household.",
+      "Front and rear dual shock absorbers, 16-inch tubeless tires and dual disc brakes make a well-equipped, UL 2272 certified package."
+    ],
+    "tradeoffs": [
+      "The listing does not give a weight or folded dimensions, so measure your storage and loading route before ordering.",
+      "The front basket is sized for pets up to about 70 lb; larger dogs are better walked alongside at a slow pace.",
+      "The 30-mile range is a listed maximum; hills, cargo, cold weather and speed mode reduce distance."
+    ],
+    "specs": {
+      "Selected configuration": "Default Title; variant 51966901387557 (SKU C2Max)",
+      "Motor": "850W nominal, 1,200W peak",
+      "Battery": "48.1V 13.5Ah",
+      "Listed range": "Up to 30 miles per charge",
+      "Speed modes": "12, 15 and 20 mph",
+      "Tires": "16-inch tubeless",
+      "Suspension": "Front and rear dual shock absorbers",
+      "Brakes": "Front and rear dual disc brakes",
+      "Certification": "UL 2272",
+      "Capacity": "350 lb",
+      "Rider fit": "Adjustable seat and handlebar for 4 ft 9 in to 6 ft 5 in",
+      "Pet basket": "Front basket for pets up to about 70 lb",
+      "Cargo": "Front and rear baskets"
+    },
+    "source": "https://gyroorboard.com/products/gyroor-c2max-electric-scooter-with-basket-for-pets-cargo?variant=51966901387557",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Made for pets and everyday cargo",
+        "The C2 Max puts a cushioned, breathable front basket where you can see your dog or cat, and a rear basket for groceries and gear. Gyroor lists the front basket for pets up to about 70 lb, and a larger dog can trot alongside on a leash while you cruise slowly. With a 350 lb capacity and two baskets, the same scooter works for a morning pet outing and an afternoon grocery run."
+      ],
+      [
+        "Seated comfort and a smooth ride",
+        "An oversized cushioned seat and adjustable seat and handlebar heights give a relaxed riding position for adults from 4 ft 9 in to 6 ft 5 in. Front and rear dual shock absorbers and 16-inch tubeless tires smooth out bumps, which keeps a pet calmer and cargo steadier."
+      ],
+      [
+        "Power, range and braking",
+        "An 850W motor (1,200W peak) and a 48.1V 13.5Ah battery are listed for up to 30 miles per charge. Three speed modes at 12, 15 and 20 mph let you match the pace to the path. Front and rear dual disc brakes provide stopping power, and the UL 2272 certification covers the electrical system, with a smart battery system guarding against overheating, overcharge and short circuits."
+      ],
+      [
+        "Who it suits",
+        "Choose the C2 Max if you want a seated, basket-ready scooter for neighborhood errands, dog-park trips and short commutes. If you prefer a three-wheel layout with reverse, our Gyroor C5 review covers a trike alternative. Measure your storage space first, because the listing does not give a weight or folded size."
+      ]
+    ],
+    "publishedOn": "2026-10-25",
+    "updatedOn": "2026-10-25",
+    "specsCheckedOn": "2026-10-25",
+    "faqs": [
+      [
+        "Can the Gyroor C2 Max carry a dog?",
+        "A smaller dog or cat can ride in the front basket; Gyroor lists it for pets up to about 70 lb. A larger dog can walk alongside on a leash while you ride slowly."
+      ],
+      [
+        "How far can the C2 Max go on a charge?",
+        "Gyroor lists up to 30 miles per charge with the 48.1V 13.5Ah battery. Terrain, cargo, speed mode and weather change the real distance."
+      ],
+      [
+        "How fast does it go?",
+        "It has three speed modes: 12, 15 and 20 mph."
+      ],
+      [
+        "What load can it carry?",
+        "Gyroor lists a 350 lb capacity, which covers the rider and cargo together."
+      ],
+      [
+        "Is there a Gyroor discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Gyroor; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [
+      {
+        "slug": "gyroor-c5-electric-trike",
+        "reason": "Compare the Gyroor C5 if you prefer a seated three-wheel layout with reverse and removable baskets."
+      }
+    ],
+    "price": {
+      "amountMinor": 99999,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "51966901387557",
+      "variantLabel": "Default Title",
+      "source": "https://gyroorboard.com/products/gyroor-c2max-electric-scooter-with-basket-for-pets-cargo?variant=51966901387557",
+      "checkedOn": "2026-10-25"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "51966901387557"
+    }
+  },
+  {
+    "slug": "cycplus-t2-bldc-direct-drive-smart-trainer",
+    "brand": "cycplus",
+    "name": "CYCPLUS T2 Direct-Drive Smart Trainer",
+    "model": "T2",
+    "image": "/images/products/cycplus-t2-bldc-direct-drive-smart-trainer.webp",
+    "imageAlt": "Black CYCPLUS T2 direct-drive smart trainer with a pre-installed cassette, a carry handle and four rubber feet",
+    "imageWidth": 728,
+    "imageHeight": 1241,
+    "category": "cycling-technology",
+    "use": "recreation",
+    "label": "For indoor training with power data",
+    "headline": "A beltless direct-drive trainer with 2,200W and 20% simulation.",
+    "description": "A 17.3 kg direct-drive smart trainer with a BLDC motor, up to 2,200W and 20% gradient simulation, power accuracy within 1% and a self-powered mode.",
+    "verdict": "We recommend the CYCPLUS T2 for riders who want a lightweight direct-drive smart trainer with excellent power data. A BLDC motor replaces the belt and flywheel, so there is no calibration to run and a quiet, realistic feel, and the trainer simulates grades up to 20% with 85 N·m of torque and 2,200W maximum power. Power accuracy is listed within 1%, speed, cadence and power go out over ANT+ and Bluetooth, and a self-powered mode lets you warm up away from an outlet. At 17.3 kg with a carry handle and an X-shaped folding base it is easy to move, and the 11-speed cassette comes pre-installed at $499.",
+    "strengths": [
+      "A beltless BLDC direct drive with virtual inertia simulation gives a realistic, quiet ride, with up to 20% gradient simulation and 85 N·m of torque.",
+      "Power accuracy is listed within 1%, with no calibration needed even after moving the trainer or temperature changes.",
+      "ANT+ and Bluetooth connect to most training apps, and speed, cadence and power are reported.",
+      "A self-powered mode lets you warm up without a plug, and an active cooling system keeps the trainer cool in long sessions."
+    ],
+    "tradeoffs": [
+      "Direct drive needs a wheel-off setup, so confirm your bike's axle standard and cassette type before ordering.",
+      "The shifter for virtual shifting (BC2) and the smart fan are optional extras.",
+      "At 17.3 kg it is light for a direct-drive trainer but still something you set up in a fixed spot."
+    ],
+    "specs": {
+      "Selected configuration": "11-Speed Cassette (11-28T) - Pre-installed; variant 43398676086942 (SKU 骑行台T2)",
+      "Type": "Direct-drive smart trainer, BLDC motor, beltless",
+      "Maximum power": "2,200W; 2,000W at 40 km/h",
+      "Gradient simulation": "Up to 20%, with descent simulation",
+      "Maximum torque": "85 N·m",
+      "Power accuracy": "Within 1%",
+      "Calibration": "None needed",
+      "Connectivity": "ANT+ and Bluetooth",
+      "Output metrics": "Speed, cadence and power",
+      "Frame compatibility": "130x5 or 135x5 mm quick-release; 142x12 or 148x12 mm thru-axle",
+      "Cassette": "11-speed 11-28T pre-installed; fits Shimano 8-12 speed and SRAM 8-11 speed (SRAM 12 speed with an XDR driver)",
+      "Weight": "17.3 kg (38.1 lb) with cassette",
+      "Dimensions": "Unfolded 520 x 699 x 535 mm; folded 300 x 257 x 535 mm",
+      "Power": "110 to 240 V; self-powered mode available"
+    },
+    "source": "https://www.cycplus.com/products/cycplus-t2-bldc-motor-drive-smart-trainer?variant=43398676086942",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "A true direct-drive design",
+        "CYCPLUS dropped the belt-driven flywheel for a BLDC motor, so the T2 simulates inertia electronically. The result is a quiet, realistic feel and consistent power data, and you can start riding immediately without regular calibration, even after moving the trainer or temperature changes."
+      ],
+      [
+        "Realistic and responsive",
+        "The T2 simulates gradients up to 20% and descents, with up to 85 N·m of torque and 2,200W of maximum power. The optional BC2 shifter adds virtual shifting without chain wear, and an active cooling system keeps temperatures under control in hard sessions."
+      ],
+      [
+        "Works with your bike and apps",
+        "The T2 fits quick-release and thru-axle frames, including disc-brake bikes, and takes Shimano and SRAM cassettes. ANT+ and Bluetooth connect to most training apps, so you can ride virtual courses or structured workouts."
+      ],
+      [
+        "Easy to move and store",
+        "At 17.3 kg with a large carry handle and an X-shaped base that folds to 300 x 257 x 535 mm, the T2 moves easily. Shock-absorbing foot pads and a 6 mm riding mat reduce vibration noise, and self-powered mode lets you warm up at an event without a plug."
+      ]
+    ],
+    "publishedOn": "2026-10-25",
+    "updatedOn": "2026-10-25",
+    "specsCheckedOn": "2026-10-25",
+    "faqs": [
+      [
+        "Is the CYCPLUS T2 direct drive?",
+        "Yes. It is a beltless BLDC direct-drive trainer, so the rear wheel comes off and your chain runs on its cassette."
+      ],
+      [
+        "Do I need to calibrate it?",
+        "No. CYCPLUS lists no calibration needed, including after moving it or temperature changes."
+      ],
+      [
+        "How accurate is the power data?",
+        "Power accuracy is listed within 1%."
+      ],
+      [
+        "What bikes does it fit?",
+        "Quick-release (130x5, 135x5 mm) and thru-axle (142x12, 148x12 mm) frames, including disc-brake bikes."
+      ],
+      [
+        "Is there a CYCPLUS discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at CYCPLUS; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 49900,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "43398676086942",
+      "variantLabel": "11-Speed Cassette (11-28T) - Pre-installed",
+      "source": "https://www.cycplus.com/products/cycplus-t2-bldc-motor-drive-smart-trainer?variant=43398676086942",
+      "checkedOn": "2026-10-25"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "43398676086942"
+    }
+  },
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
 const checkoutProductsFor=brand=>products.filter(p=>p.brand===brand&&p.checkoutObservation);
