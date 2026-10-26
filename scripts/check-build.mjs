@@ -23,9 +23,9 @@ console.log(`Guide HTML and schema agree; ${guides.length} dated sitemap entries
 
 for(const p of products){
  const file=`dist/reviews/${p.slug}.html`,html=fs.readFileSync(file,'utf8'),text=plainText(html),graph=JSON.parse(html.match(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/)[1])['@graph'];
- const article=graph.find(x=>x['@type']==='Article'),product=graph.find(x=>x['@type']==='Product'),faq=graph.find(x=>x['@type']==='FAQPage');
+ const article=graph.find(x=>x['@type']==='Article'),product=graph.find(x=>x['@type']==='Article')?.about,faq=graph.find(x=>x['@type']==='FAQPage');
  assert(article?.headline===`${p.name} review`&&article.datePublished===p.publishedOn&&article.dateModified===p.updatedOn,`Review article dates: ${p.slug}`);
- assert(product?.name===p.name&&product.brand?.name===brands.find(b=>b.slug===p.brand).name,`Product schema: ${p.slug}`);
+ assert(product?.['@type']==='Thing'&&product.name===p.name,`Editorial subject: ${p.slug}`);assert(!graph.some(x=>x['@type']==='Product'),`Incomplete Product rich-result markup: ${p.slug}`);
  assert(html.includes(`src="${p.image}"`)&&text.includes(p.verdict),`Review image and verdict: ${p.slug}`);
  const baseFaq=p.faqs||[[`Who should choose the ${p.name}?`,p.verdict],[`What range does the ${p.name} claim?`,`The listed range is the manufacturer's claim. Real distance depends on conditions, rider load, assistance level, and route.`],[`What should I check before ordering the ${p.name}?`,p.tradeoffs.join('. ')]];
  const expectedFaq=[...baseFaq,productOfferFaq(offers.find(o=>o.brand===p.brand&&o.status==='active'),brands.find(b=>b.slug===p.brand).name,p)];
