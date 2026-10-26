@@ -31,7 +31,9 @@ export function priceState(product, offer) {
   const base={amountMinor:price.amountMinor,currency:price.currency,label:price.variantLabel,checkedOn:price.checkedOn,formatted:formatMinor(price.amountMinor,price.currency)};
   if(!offer?.code || !offerIsCurrent(offer) || !offer.discount) return {kind:'price-only',base,message:'Check the current price and code terms at the store.'};
   const eligibility=product.eligibility;
-  if(eligibility?.status!=='eligible' || eligibility.variantId!==price.variantId || !eligibility.evidence) return {kind:'eligibility-unconfirmed',base,message:`Check whether ${offer.code} applies to this model and variant at checkout.`};
+  // `program-supplied`: the partner program supplies the code for the brand; the saving is calculated from the listed price only (never a cart observation).
+  const supplied=eligibility?.status==='program-supplied' && eligibility.variantId===price.variantId;
+  if(!supplied && (eligibility?.status!=='eligible' || eligibility.variantId!==price.variantId || !eligibility.evidence)) return {kind:'eligibility-unconfirmed',base,message:`Check whether ${offer.code} applies to this model and variant at checkout.`};
   const discount=offer.discount;
   if(discount.type!=='percent'&&discount.type!=='fixed') return {kind:'terms-unresolved',base,message:`Check the discount terms for ${offer.code} at checkout.`};
   if(discount.type==='percent'&&(!Number.isFinite(discount.value)||discount.value<=0||discount.value>100)) return {kind:'terms-unresolved',base,message:`Check the discount terms for ${offer.code} at checkout.`};
@@ -48,7 +50,7 @@ export function priceState(product, offer) {
   const discountMinor=discountAmountMinor(price.amountMinor,discount,price.currency);
   if(discountMinor===null||discountMinor>price.amountMinor) return {kind:'terms-unresolved',base,message:`Check the discount terms for ${offer.code} at checkout.`};
   const afterMinor=price.amountMinor-discountMinor;
-  return {kind:'estimated',base,discountMinor,afterMinor,afterFormatted:formatMinor(afterMinor,price.currency),discountFormatted:formatMinor(discountMinor,price.currency),code:offer.code,checkedOn:price.checkedOn};
+  return {kind:'estimated',basis:supplied?'program-supplied':'recorded-eligibility',base,discountMinor,afterMinor,afterFormatted:formatMinor(afterMinor,price.currency),discountFormatted:formatMinor(discountMinor,price.currency),code:offer.code,checkedOn:price.checkedOn};
 }
 
 export function discountAmountMinor(amountMinor, discount, currency) {

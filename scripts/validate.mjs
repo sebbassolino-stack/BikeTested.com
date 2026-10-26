@@ -24,7 +24,8 @@ for(const p of products){
     assert(price.region&&price.variantId&&price.variantLabel&&price.source&&date(price.checkedOn),`Price contract: ${p.slug}`);
     assert.equal(new URL(price.source).protocol,'https:');
     assert.equal(price.source,p.source,`Price source must be the exact product source: ${p.slug}`);
-    assert(p.eligibility&&['eligible','unresolved'].includes(p.eligibility.status),`Explicit product eligibility: ${p.slug}`);
+    assert(p.eligibility&&['eligible','unresolved','program-supplied'].includes(p.eligibility.status),`Explicit product eligibility: ${p.slug}`);
+    if(p.eligibility.status==='program-supplied'){assert.equal(p.eligibility.variantId,price.variantId,`Program-supplied variant: ${p.slug}`);assert(!p.checkoutObservation&&!p.codeCheckObservation,`Program-supplied state never carries a cart observation: ${p.slug}`);}
     if(p.eligibility.status==='eligible'){
       assert.equal(p.eligibility.variantId,price.variantId,`Eligibility variant: ${p.slug}`);
       assert(p.eligibility.evidence&&existsSync(p.eligibility.evidence.split('#')[0]),`Eligibility evidence: ${p.slug}`);
@@ -93,6 +94,12 @@ const sample={price:{amountMinor:101,currency:'USD',region:'US',variantId:'v1',v
 const percentOffer={status:'active',code:'CODE',discount:{type:'percent',value:2,scope:'Exact variant'}};
 assert.equal(priceState(sample,percentOffer).afterMinor,99,'Percentage estimate');
 assert.equal(priceState({...sample,eligibility:null},percentOffer).kind,'eligibility-unconfirmed','Unapproved product never receives a calculated saving');
+const supplied={...sample,eligibility:{status:'program-supplied',variantId:'v1'}};
+assert.equal(priceState(supplied,percentOffer).kind,'estimated','Program-supplied code calculates from the listed price');
+assert.equal(priceState(supplied,percentOffer).basis,'program-supplied','Program-supplied basis is recorded');
+assert.equal(priceState({...supplied,eligibility:{status:'program-supplied',variantId:'other'}},percentOffer).kind,'eligibility-unconfirmed','Program-supplied needs the exact priced variant');
+assert.equal(priceState({...supplied,price:{...sample.price,isSalePrice:true}},percentOffer).kind,'eligibility-unconfirmed','Program-supplied sale prices still need stacking evidence');
+assert.equal(priceState(supplied,{...percentOffer,status:'inactive'}).kind,'price-only','Program-supplied never overrides an inactive offer');
 assert.equal(priceState({eligibility:sample.eligibility},percentOffer).kind,'unresolved','Missing price never receives a calculated saving');
 assert.equal(priceState({...sample,price:{...sample.price,isSalePrice:true}},percentOffer).kind,'eligibility-unconfirmed','Sale stacking must be observed or evidenced');
 assert.equal(priceState(sample,{...percentOffer,status:'inactive'}).kind,'price-only','Inactive offers are not calculated');

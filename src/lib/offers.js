@@ -62,6 +62,7 @@ export function productOfferAnswer(o,name,product) {
   if(noDiscountAnswer)return noDiscountAnswer;
   const state=priceState(product,o);
   if(state.kind==='observed')return `The ${o.code} code is supplied for ${o.benefit} at ${o.eligibleStore}. It was accepted${acceptanceLocation(o,product)} for ${product.name}, ${state.base.label}, on ${state.checkedOn}; other variants and models have not been checked.`;
+  if(state.kind==='estimated'&&state.basis==='program-supplied')return `Use ${o.code} for ${o.benefit||'a reader discount'} at ${o.eligibleStore}. The listed price is ${state.base.formatted}; calculated with the code it is ${state.afterFormatted} before tax and shipping.`;
   if(state.kind==='estimated')return `${o.code} is reported for ${o.benefit} at ${o.eligibleStore}. This exact product variant is recorded as eligible; the estimated item price is ${state.afterFormatted} from ${state.base.formatted}. Confirm eligibility, rounding and the final total at checkout.`;
   return `${o.code} is reported for ${o.benefit||'a reader discount'} at ${o.eligibleStore}, but eligibility for this exact product variant has not been confirmed. Check the code and item subtotal at checkout before ordering.`;
 }

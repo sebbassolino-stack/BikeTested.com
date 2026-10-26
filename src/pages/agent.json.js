@@ -27,7 +27,7 @@ const publicProduct = product => {
       checkedOn: product.price.checkedOn
     } : null,
     eligibility: product.eligibility ? {
-      status: product.eligibility.status === 'eligible' ? 'confirmed-for-exact-variant' : product.eligibility.status,
+      status: product.eligibility.status === 'eligible' ? 'confirmed-for-exact-variant' : (product.eligibility.status === 'program-supplied' ? 'program-supplied-calculated' : product.eligibility.status),
       variantId: product.eligibility.variantId,
       variantLabel: product.price?.variantLabel,
       checkedOn: product.checkoutObservation?.checkedOn || product.codeCheckObservation?.checkedOn || null
@@ -58,6 +58,7 @@ const publicProduct = product => {
     } : null,
     afterCodePrice: ['observed', 'estimated'].includes(state.kind) ? {
       state: state.kind,
+      basis: state.basis || null,
       amountMinor: state.afterMinor,
       currency: state.base.currency,
       code: state.code,
