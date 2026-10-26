@@ -104,14 +104,15 @@ export const guides = [
       [
         "Confirm access before buying",
         "Local rules and operator policies vary. Check your municipality, workplace, building, and transit provider for the exact vehicle and battery. A high-output electric dirt bike is a separate vehicle-class and access decision from an everyday commuter; a seller's general street-legal statement does not establish permission on your local roads or trails. Keep those requirements alongside the product specification when making a shortlist."
-      ]
+      ],
+      ["A seated scooter is its own shortlist", "The Gyroor C2 Max adds a seat and front-and-rear baskets to the scooter decision. We like that layout for riders who want a seated errand setup. Compare its storage footprint and approved carrying limits with a standing scooter or a bike rack: a seat and baskets change daily usefulness, but they do not make the vehicle as compact as every folding last-mile option."]
     ],
     "publishedOn": "2026-10-19",
-    "updatedOn": "2026-10-24",
+    "updatedOn": "2026-10-26",
     "topics": [
       "electric-mobility"
     ],
-    "products": ["ausom-gosoul-2-electric-scooter","ekx-x21-max-electric-dirt-bike","leoout-t85-electric-scooter","voltrover-m5-electric-dirt-bike","gyroor-c5-electric-trike","zwheel-d3-d-electric-scooter","actbest-striker-max-awd-moped-ebike","ausom-l2-max-dual-electric-scooter","ausom-k20-pro-dual-motor-electric-scooter","hiboy-s2-pro-electric-scooter","happyrun-g100-pro-6000w-electric-bike"],
+    "products": ["gyroor-c2-max-electric-scooter-with-seat-and-baskets","ausom-gosoul-2-electric-scooter","ekx-x21-max-electric-dirt-bike","leoout-t85-electric-scooter","voltrover-m5-electric-dirt-bike","gyroor-c5-electric-trike","zwheel-d3-d-electric-scooter","actbest-striker-max-awd-moped-ebike","ausom-l2-max-dual-electric-scooter","ausom-k20-pro-dual-motor-electric-scooter","hiboy-s2-pro-electric-scooter","happyrun-g100-pro-6000w-electric-bike"],
     "related": [
       "folding-vs-full-size-ebike",
       "panniers-vs-backpack",
@@ -184,10 +185,11 @@ export const guides = [
       [
         "Consider service before replacement",
         "A proper adjustment can solve some problems without an upgrade. Budget for installation and setup where needed, and retain the original specification in your maintenance notes."
-      ]
+      ],
+      ["Make indoor riding the upgrade", "If weather or daylight is the barrier to riding, an indoor trainer may solve more than another outdoor component. We like the CYCPLUS T2 as a direct-drive option for a dedicated indoor setup. Check the bike’s axle, drivetrain and cassette requirements alongside the trainer’s compatibility list, and plan where the bike and trainer will stay between sessions. The linked review gathers the exact T2 specification and shopping offer."]
     ],
     "publishedOn": "2026-10-19",
-    "updatedOn": "2026-10-19",
+    "updatedOn": "2026-10-26",
     "topics": [
       "components"
     ],
@@ -195,7 +197,8 @@ export const guides = [
       "bike-tire-pressure",
       "belt-drive-vs-chain-drive",
       "how-to-clean-lube-bike-chain"
-    ]
+    ],
+    "products": ["cycplus-t2-bldc-direct-drive-smart-trainer"]
   },
   {
     "slug": "choose-a-cycling-computer",
