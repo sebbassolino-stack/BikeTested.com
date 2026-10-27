@@ -5732,6 +5732,670 @@ export const products = [
       "variantId": "51871432442149"
     }
   },
+  {
+    "slug": "gyroor-led-safety-light-2-pack-red",
+    "brand": "gyroor",
+    "name": "Gyroor LED Safety Light 2-Pack, Red",
+    "model": "LED Safety Light (2 Pack)",
+    "image": "/images/products/gyroor-led-safety-light-2-pack-red.webp",
+    "imageAlt": "Gyroor red LED safety lights, two small oval clip-on lights shown in front of their black retail box",
+    "imageWidth": 1200,
+    "imageHeight": 1232,
+    "category": "gear-and-tech",
+    "use": "commute",
+    "label": "For being seen on dark commutes",
+    "headline": "Two clip-on lights, each about 1/3 oz, with up to 100 hours of runtime.",
+    "description": "A set of two ultra-light clip-on safety lights with three LEDs and three modes, weather-resistant housings and replacement batteries included.",
+    "verdict": "We recommend the Gyroor LED Safety Light set for riders who want cheap, small lights to add visibility on a scooter, bike, helmet or bag. Each light weighs about 1/3 oz, has three LEDs and three modes (steady, slow flash and fast flash) and Gyroor lists up to 100 hours of runtime. A weather-resistant housing, four spare CR2032 batteries, a mini screwdriver, two hook-and-loop fasteners and a 15.8 inch elastic strap come in the pack.",
+    "strengths": [
+      "Two lights in one set, each as small as a USB stick.",
+      "Three LEDs with steady, slow flash and fast flash modes.",
+      "Up to 100 hours of runtime, according to Gyroor, with four spare CR2032 batteries.",
+      "Clip, strap or fasten them to a helmet, backpack, belt or scooter frame."
+    ],
+    "tradeoffs": [
+      "Small clip-on lights add visibility but are not a headlight that lights the road.",
+      "Coin-cell batteries need replacing; keep spares.",
+      "Pick the color (red, green, orange or white) that suits your use."
+    ],
+    "specs": {
+      "Selected configuration": "Red; variant 51886631321893 (SKU Safety-Light-Red)",
+      "Type": "Clip-on LED safety lights, 2 pack",
+      "LEDs and modes": "3 LEDs; steady, slow flash and fast flash",
+      "Runtime": "Up to 100 hours, per Gyroor",
+      "Weight": "About 1/3 oz each",
+      "Housing": "Weather resistant",
+      "In the box": "Two lights, four extra CR2032 batteries, a mini screwdriver, two hook-and-loop fasteners and a 15.8 in elastic strap"
+    },
+    "source": "https://gyroorboard.com/products/led-safety-light-2-pack?variant=51886631321893",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Who it suits",
+        "Commuters and scooter riders who want small, cheap lights to be seen at dusk and after dark, on a helmet, a bag or the frame."
+      ],
+      [
+        "Modes and runtime",
+        "Each light has three LEDs and three modes. Gyroor lists up to 100 hours of runtime from long-lasting batteries and includes four extra CR2032 cells."
+      ],
+      [
+        "Mounting",
+        "Clip the lights on helmets, backpacks, belts or clothing, or use the hook-and-loop fasteners and the long elastic strap on a scooter frame or an arm."
+      ],
+      [
+        "Our buying advice",
+        "Treat them as visibility aids alongside a proper headlight and rear light, and check batteries before night rides."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "How many lights are in the pack?",
+        "Two."
+      ],
+      [
+        "What modes do they have?",
+        "Steady, slow flash and fast flash."
+      ],
+      [
+        "How long do the batteries last?",
+        "Gyroor lists up to 100 hours of runtime, and spare CR2032 batteries are included."
+      ],
+      [
+        "Where can I attach them?",
+        "Helmets, backpacks, belts, clothing or scooter frames."
+      ],
+      [
+        "Is there a Gyroor discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Gyroor; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 2299,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "51886631321893",
+      "variantLabel": "Red",
+      "source": "https://gyroorboard.com/products/led-safety-light-2-pack?variant=51886631321893",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "51886631321893"
+    }
+  },
+  {
+    "slug": "gyroor-usb-rechargeable-headlight-and-taillight-set",
+    "brand": "gyroor",
+    "name": "Gyroor USB Rechargeable Headlight and Taillight Set",
+    "model": "Headlight + Taillight",
+    "image": "/images/products/gyroor-usb-rechargeable-headlight-and-taillight-set.webp",
+    "imageAlt": "Gyroor black bike headlight and a red taillight with their mounting straps",
+    "imageWidth": 1200,
+    "imageHeight": 1018,
+    "category": "gear-and-tech",
+    "use": "commute",
+    "label": "For lighting the way at night",
+    "headline": "A 2000 mAh headlight and a 330 mAh taillight with four modes and IPX4 water resistance.",
+    "description": "A USB rechargeable front and rear light set with four modes each, tool-free mounting and an IPX4 rating for e-bikes and scooters.",
+    "verdict": "We recommend the Gyroor Headlight and Taillight Set for riders who want a simple, rechargeable front and rear light. The headlight has a 2000 mAh battery and the taillight a 330 mAh battery, both with a one-touch switch and four modes (full brightness, half brightness, slow flash and fast flash), an IPX4 rating, a handlebar bracket for the headlight and silicone straps for tool-free mounting. A red indicator warns when the headlight battery is low.",
+    "strengths": [
+      "A front and rear set that charges over USB.",
+      "Four modes on both lights: full, half, slow flash and fast flash.",
+      "Tool-free installation with a bracket and silicone straps.",
+      "IPX4 rating for daily outdoor use, with a low-battery indicator."
+    ],
+    "tradeoffs": [
+      "IPX4 handles splashes, not immersion.",
+      "The listing gives no lumen figure for the headlight, so judge brightness with a night test.",
+      "Charge both lights regularly."
+    ],
+    "specs": {
+      "Selected configuration": "Default Title; variant 51791277064485 (SKU Headlight+Taillight)",
+      "Type": "Front and rear bike and scooter lights",
+      "Batteries": "2000 mAh headlight; 330 mAh taillight; USB rechargeable",
+      "Modes": "Full brightness, half brightness, slow flashing, fast flashing",
+      "Water resistance": "IPX4",
+      "Mounting": "Headlight bracket for handlebars; silicone straps; tool-free",
+      "Indicator": "Headlight indicator turns red on low battery"
+    },
+    "source": "https://gyroorboard.com/products/usb-rechargeable-front-headlight-and-back-taillight?variant=51791277064485",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Who it suits",
+        "Commuters and scooter riders who ride at night and want a basic, rechargeable front and rear light set."
+      ],
+      [
+        "Modes and batteries",
+        "Both lights use a one-touch switch with four modes. The headlight has a 2000 mAh battery and the taillight a 330 mAh battery, charged over USB."
+      ],
+      [
+        "Installation",
+        "The headlight comes with a handlebar bracket, and both lights have silicone straps for quick, tool-free installation and removal."
+      ],
+      [
+        "Our buying advice",
+        "Choose it for city commutes, and check mounting on your handlebar and frame. For fast or unlit roads, compare lights with a stated lumen output."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "How are they charged?",
+        "Over USB."
+      ],
+      [
+        "How many modes do they have?",
+        "Four: full brightness, half brightness, slow flashing and fast flashing."
+      ],
+      [
+        "Are they waterproof?",
+        "IPX4, which covers splashes."
+      ],
+      [
+        "How do I mount them?",
+        "The headlight uses a handlebar bracket, and both lights use silicone straps; no tools are required."
+      ],
+      [
+        "Is there a Gyroor discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Gyroor; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 2499,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "51791277064485",
+      "variantLabel": "Default Title",
+      "source": "https://gyroorboard.com/products/usb-rechargeable-front-headlight-and-back-taillight?variant=51791277064485",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "51791277064485"
+    }
+  },
+  {
+    "slug": "gyroor-turn-signals-for-e-bike-scooter",
+    "brand": "gyroor",
+    "name": "Gyroor Turn Signals for E-Bike and Scooter",
+    "model": "Turn Signals",
+    "image": "/images/products/gyroor-turn-signals-for-e-bike-scooter.webp",
+    "imageAlt": "Gyroor rear turn-signal light with amber and red LEDs beside a small handlebar remote",
+    "imageWidth": 1200,
+    "imageHeight": 805,
+    "category": "gear-and-tech",
+    "use": "commute",
+    "label": "For signaling turns and braking",
+    "headline": "A rear light with 28 LEDs, six modes and a handlebar remote.",
+    "description": "A Type-C rechargeable rear light with red and yellow LEDs, six lighting modes including turn signals and a handlebar remote.",
+    "verdict": "We recommend the Gyroor Turn Signals for scooter and e-bike riders who want to signal a turn. Gyroor lists 10 red and 18 yellow LEDs with up to 50 lumens combined, six modes (steady red, red and yellow flashing, red flashing, parking light, left turn and right turn), a 1200mAh Type-C rechargeable battery with up to 16 hours of use and an ABS, ASA and silicone body with daily waterproof protection.",
+    "strengths": [
+      "Dedicated left and right turn signal modes.",
+      "Ten red and 18 yellow LEDs with up to 50 lumens combined.",
+      "A 1200mAh Type-C battery rated up to 16 hours.",
+      "A durable ABS, ASA and silicone body that resists rain and splashes."
+    ],
+    "tradeoffs": [
+      "It is a rear signal, not a headlight.",
+      "Check that the mount fits your seat post or frame.",
+      "Signals are only effective if other road users understand them; use hand signals where required."
+    ],
+    "specs": {
+      "Selected configuration": "Default Title; variant 52286031986981 (SKU Turn-Signals)",
+      "Type": "Rear light with turn signals",
+      "LEDs": "10 red and 18 yellow; up to 50 lumens combined",
+      "Modes": "Steady red, red and yellow flashing, red flashing, parking light, left turn and right turn",
+      "Battery": "1200mAh lithium; Type-C charging; up to 16 hours",
+      "Materials": "ABS, ASA and silicone; daily waterproof protection"
+    },
+    "source": "https://gyroorboard.com/products/turn-signals-for-electric-bike-scooter?variant=52286031986981",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Who it suits",
+        "Riders who share roads with traffic and want to show turns and braking more clearly than a plain red light can."
+      ],
+      [
+        "Modes",
+        "Six modes cover steady red, red and yellow flashing, red flashing, a parking light and left and right turn signals, with a handlebar remote for control."
+      ],
+      [
+        "Battery and build",
+        "A 1200mAh lithium battery charges over Type-C and runs up to 16 hours, and the housing is ABS, ASA and silicone for impact and weather resistance."
+      ],
+      [
+        "Our buying advice",
+        "Choose it if you want signaling on a scooter or e-bike. Check local rules on rear lights and signals, and keep using hand signals where they are expected."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "Does it have left and right signals?",
+        "Yes. Left turn and right turn are among the six modes."
+      ],
+      [
+        "How is it charged?",
+        "Over Type-C into a 1200mAh battery."
+      ],
+      [
+        "How long does it run?",
+        "Up to 16 hours, per Gyroor."
+      ],
+      [
+        "Is it weather resistant?",
+        "Gyroor describes daily waterproof protection for rain and splashes."
+      ],
+      [
+        "Is there a Gyroor discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Gyroor; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 2999,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "52286031986981",
+      "variantLabel": "Default Title",
+      "source": "https://gyroorboard.com/products/turn-signals-for-electric-bike-scooter?variant=52286031986981",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "52286031986981"
+    }
+  },
+  {
+    "slug": "gyroor-electronic-scooter-horn-black",
+    "brand": "gyroor",
+    "name": "Gyroor Electronic Scooter Horn, Black",
+    "model": "Electronic Scooter Horn",
+    "image": "/images/products/gyroor-electronic-scooter-horn-black.webp",
+    "imageAlt": "Black Gyroor electric horn with a round speaker body, a strap mount and a small wired switch",
+    "imageWidth": 1200,
+    "imageHeight": 1270,
+    "category": "gear-and-tech",
+    "use": "commute",
+    "label": "For alerting pedestrians and traffic",
+    "headline": "A 120 dB rechargeable horn with a separate thumb switch.",
+    "description": "A rechargeable mini electric horn rated up to 120 dB with an IP65 housing, stretchable-strap mounting and a separate control switch.",
+    "verdict": "We recommend the Gyroor Electronic Scooter Horn for riders who want a louder alert than a bell. Gyroor lists up to 120 dB, a rechargeable battery (about 2000 uses per charge, enough for 20 to 30 days), an IP65 dustproof, waterproof and shock-resistant body, stretchable straps that mount in about 20 seconds without tools and a separate control switch you can place next to your thumb.",
+    "strengths": [
+      "Up to 120 dB, per Gyroor, to alert pedestrians and vehicles.",
+      "A rechargeable battery instead of disposable cells.",
+      "IP65 water, dust and shock resistance.",
+      "A separate thumb switch keeps your hand on the bar."
+    ],
+    "tradeoffs": [
+      "A very loud horn is best used sparingly and politely.",
+      "Check local rules on horns and bells for scooters and bikes.",
+      "Four colors share one price."
+    ],
+    "specs": {
+      "Selected configuration": "Black; variant 51891074105637 (SKU Horn-Black)",
+      "Type": "Electric horn",
+      "Loudness": "Up to 120 dB",
+      "Battery": "Rechargeable; about 2000 uses per charge, 20 to 30 days of use, per Gyroor",
+      "Protection": "IP65 waterproof, dustproof and shock resistant",
+      "Mounting": "Stretchable straps, tool-free, about 20 seconds",
+      "Control": "Separate switch for the handlebar"
+    },
+    "source": "https://gyroorboard.com/products/electronic-scooter-horn?variant=51891074105637",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Who it suits",
+        "Scooter and e-bike riders on shared paths and streets who want a stronger audible warning."
+      ],
+      [
+        "Power and durability",
+        "The horn is powered by a rechargeable battery that Gyroor says lasts about 2000 uses on a full charge, and an IP65 housing resists dust, rain and shock."
+      ],
+      [
+        "Installation",
+        "Stretchable straps secure it to the handlebar without tools in about 20 seconds, and the separate switch can sit next to your thumb."
+      ],
+      [
+        "Our buying advice",
+        "Choose it if a bell is not enough. Use it as a warning, not a habit, and check local rules."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "How loud is it?",
+        "Gyroor lists up to 120 dB."
+      ],
+      [
+        "How is it powered?",
+        "By a rechargeable battery."
+      ],
+      [
+        "How do I mount it?",
+        "With stretchable straps, no tools required."
+      ],
+      [
+        "Is it waterproof?",
+        "IP65, which covers dust and water jets."
+      ],
+      [
+        "Is there a Gyroor discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Gyroor; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 1699,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "51891074105637",
+      "variantLabel": "Black",
+      "source": "https://gyroorboard.com/products/electronic-scooter-horn?variant=51891074105637",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "51891074105637"
+    }
+  },
+  {
+    "slug": "gyroor-anti-theft-alarm-for-scooters-and-e-bikes",
+    "brand": "gyroor",
+    "name": "Gyroor Anti-Theft Alarm for E-Scooters and E-Bikes",
+    "model": "Anti-Theft Alarm",
+    "image": "/images/products/gyroor-anti-theft-alarm-for-scooters-and-e-bikes.webp",
+    "imageAlt": "Black Gyroor anti-theft alarm clamped to a handlebar beside its blue key-fob remote and a USB cable",
+    "imageWidth": 1200,
+    "imageHeight": 1334,
+    "category": "gear-and-tech",
+    "use": "commute",
+    "label": "For parking with an alarm",
+    "headline": "A motion-sensing alarm with a 70 m remote and three volume levels.",
+    "description": "A rechargeable alarm with a 3D motion sensor, seven sensitivity levels, three volumes up to 110 dB and a remote with up to 70 m range.",
+    "verdict": "We recommend the Gyroor Anti-Theft Alarm for riders who park on the street and want an audible deterrent. Gyroor lists a 3D displacement sensor with seven sensitivity levels, three volume levels (90, 100 and 110 dB) with several alarm tones, an IP54 body, a 700mAh Type-C battery rated 1 to 3 months of typical use, a remote with up to 70 m (229 ft) range and bracket, strap and double-sided tape mounting.",
+    "strengths": [
+      "A 3D motion sensor with seven sensitivity levels.",
+      "Three volume levels up to 110 dB and several tones.",
+      "A remote with one-key arm and disarm, up to 70 m.",
+      "Mounting by bracket, strap or double-sided tape."
+    ],
+    "tradeoffs": [
+      "An alarm deters but does not physically secure a vehicle; pair it with a lock.",
+      "Sensitivity may need tuning to avoid false alarms in wind or crowds.",
+      "IP54 handles splashes, not heavy rain jets."
+    ],
+    "specs": {
+      "Selected configuration": "Default Title; variant 51802748322085 (SKU Alarm)",
+      "Type": "Motion alarm with remote",
+      "Sensor": "3D displacement sensor; seven sensitivity levels",
+      "Volume": "90, 100 and 110 dB; multiple tones",
+      "Remote": "Up to 70 m (229 ft); one-key arm and disarm",
+      "Battery": "700mAh lithium; Type-C; 1 to 3 months of typical use per charge",
+      "Protection": "IP54",
+      "Mounting": "Nylon bracket, strap or double-sided tape"
+    },
+    "source": "https://gyroorboard.com/products/anti-theft-alarm-for-electric-scooter-electric-bike?variant=51802748322085",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Who it suits",
+        "Riders who leave a scooter or e-bike locked outside and want a loud warning if it is moved."
+      ],
+      [
+        "Sensor and sound",
+        "A 3D displacement sensor detects movement with seven sensitivity levels, and three volume levels reach 110 dB with several alarm tones."
+      ],
+      [
+        "Remote and battery",
+        "The remote arms and disarms with one key from up to 70 m, and a 700mAh Type-C battery is rated 1 to 3 months of typical use."
+      ],
+      [
+        "Our buying advice",
+        "Use it with a good lock, and set sensitivity so a passing bump does not trigger it."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "How loud is it?",
+        "Up to 110 dB, with three volume levels."
+      ],
+      [
+        "How far does the remote work?",
+        "Up to 70 m (229 ft), per Gyroor."
+      ],
+      [
+        "How is it mounted?",
+        "With a bracket, a strap or double-sided tape."
+      ],
+      [
+        "How is it charged?",
+        "Over USB Type-C."
+      ],
+      [
+        "Is there a Gyroor discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Gyroor; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 2399,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "51802748322085",
+      "variantLabel": "Default Title",
+      "source": "https://gyroorboard.com/products/anti-theft-alarm-for-electric-scooter-electric-bike?variant=51802748322085",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "51802748322085"
+    }
+  },
+  {
+    "slug": "gyroor-combination-bike-chain-lock-2-6-ft",
+    "brand": "gyroor",
+    "name": "Gyroor 5-Digit Combination Chain Lock, 2.6 ft",
+    "model": "Combination Chain Lock",
+    "image": "/images/products/gyroor-combination-bike-chain-lock-2-6-ft.webp",
+    "imageAlt": "Black fabric-covered Gyroor chain lock coiled with a five-digit combination dial at one end",
+    "imageWidth": 1200,
+    "imageHeight": 1153,
+    "category": "gear-and-tech",
+    "use": "commute",
+    "label": "For a keyless lock with a thick chain",
+    "headline": "A 6 mm manganese steel chain with a resettable 5-digit combination.",
+    "description": "A 2.6 ft chain lock with a 6mm manganese steel chain, a zinc-alloy lock core, a fabric cover and a resettable 5-digit combination.",
+    "verdict": "We recommend the Gyroor Combination Chain Lock for riders who want a keyless chain at a low price. Gyroor lists a 6mm manganese steel chain, a zinc-alloy lock core, a resettable 5-digit combination with up to 100,000 codes, a polypropylene fabric cover that protects the frame and a dustproof cap. The default code is 00000, so reset it after purchase. This listing is the 2.6 ft length; 3.2 ft and 3.6 ft are also offered.",
+    "strengths": [
+      "A 6mm (0.236 in) manganese steel chain, listed as resistant to cutting and sawing.",
+      "A resettable 5-digit combination with up to 100,000 possible codes.",
+      "A fabric cover protects the frame from scratches and a dustproof cap shields the lock core.",
+      "Three lengths are offered (2.6, 3.2 and 3.6 ft)."
+    ],
+    "tradeoffs": [
+      "No lock is theft-proof; choose a lock that fits your risk and insurance needs.",
+      "A 2.6 ft chain is short for locking two bikes or a thick post.",
+      "The default code is 00000 and must be reset."
+    ],
+    "specs": {
+      "Selected configuration": "2.6 ft long - 6 mm thick; variant 51791141208357 (SKU ChainLock-Black-2.6ft)",
+      "Type": "Combination chain lock",
+      "Chain": "6 mm (0.236 in) manganese steel",
+      "Lock core": "Zinc alloy; 5-digit resettable combination (up to 100,000 codes)",
+      "Cover": "Polypropylene fabric with a dustproof cap",
+      "Lengths offered": "2.6 ft, 3.2 ft and 3.6 ft"
+    },
+    "source": "https://gyroorboard.com/products/high-security-5-digit-combination-anti-theft-bike-chain-lock?variant=51791141208357",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Who it suits",
+        "Commuters who want a keyless chain lock for a scooter or bike and are comfortable with a combination."
+      ],
+      [
+        "Chain and lock",
+        "A 6mm manganese steel chain and a zinc-alloy lock core make up the lock, with a 5-digit combination you can reset by turning the reset dial 90 degrees."
+      ],
+      [
+        "Cover and care",
+        "A polypropylene fabric cover protects the frame from scratches, and a dustproof cap helps keep rain and sand out of the lock core."
+      ],
+      [
+        "Our buying advice",
+        "Choose the length for your bike and post, reset the code and use a lock that suits where you park."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "How do I reset the combination?",
+        "Set the dials to the current code, rotate the reset dial 90 degrees and set the new code."
+      ],
+      [
+        "What is the default code?",
+        "00000. Gyroor says to reset it after purchase."
+      ],
+      [
+        "How thick is the chain?",
+        "6 mm (0.236 in) manganese steel."
+      ],
+      [
+        "What lengths are offered?",
+        "2.6 ft, 3.2 ft and 3.6 ft; this review covers 2.6 ft."
+      ],
+      [
+        "Is there a Gyroor discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Gyroor; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 1599,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "51791141208357",
+      "variantLabel": "2.6 ft long - 6 mm thick",
+      "source": "https://gyroorboard.com/products/high-security-5-digit-combination-anti-theft-bike-chain-lock?variant=51791141208357",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "51791141208357"
+    }
+  },
+  {
+    "slug": "gyroor-waterproof-handlebar-bag-2-4l",
+    "brand": "gyroor",
+    "name": "Gyroor Waterproof Handlebar Bag, 2.4L",
+    "model": "Waterproof Handlebar Bag",
+    "image": "/images/products/gyroor-waterproof-handlebar-bag-2-4l.webp",
+    "imageAlt": "Black Gyroor round handlebar bag on a handlebar with a reflective panel and a zipper",
+    "imageWidth": 1200,
+    "imageHeight": 980,
+    "category": "gear-and-tech",
+    "use": "commute",
+    "label": "For wet commutes",
+    "headline": "A 2.4 liter 900D Oxford bag with laminated zippers and a reflective panel.",
+    "description": "A 2.4 liter handlebar bag in PU-coated 900D Oxford fabric with laminated waterproof zippers, a reflective front panel and a shoulder strap.",
+    "verdict": "We recommend the Gyroor Waterproof Handlebar Bag for riders who carry essentials in all weather. Gyroor lists high-density 900D Oxford fabric with a PU coating, laminated waterproof zippers, a large reflective front panel, a 2.4 liter capacity with an inner mesh pocket and two side pockets, two removable upper straps and a bottom elastic cord for handlebar fitting, and an adjustable shoulder strap.",
+    "strengths": [
+      "Waterproof inside and out, per Gyroor, with laminated zippers.",
+      "A large reflective front panel for visibility at night.",
+      "A 2.4 liter main compartment plus a mesh pocket and two side pockets.",
+      "A removable shoulder strap turns it into a bag for walking around."
+    ],
+    "tradeoffs": [
+      "2.4 liters holds essentials, not a laptop.",
+      "Check clearance with your display and cables.",
+      "A loaded bag can affect steering."
+    ],
+    "specs": {
+      "Selected configuration": "Default Title; variant 51863182475557 (SKU Waterproof-Handlebar-Bag)",
+      "Type": "Waterproof handlebar bag",
+      "Material": "900D Oxford fabric with PU coating; laminated waterproof zippers",
+      "Capacity": "2.4 L; main compartment, inner mesh pocket and two side pockets",
+      "Visibility": "Large reflective front panel",
+      "Mounting": "Two removable upper straps and a bottom elastic cord",
+      "Carry": "Adjustable shoulder strap"
+    },
+    "source": "https://gyroorboard.com/products/waterproof-handlebar-bag?variant=51863182475557",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Who it suits",
+        "Commuters and campers who want a small, weather-ready bag on the bars for a phone, wallet, tools and snacks."
+      ],
+      [
+        "Weather protection",
+        "Gyroor lists PU-coated 900D Oxford fabric and laminated waterproof zippers that block rain and splashes."
+      ],
+      [
+        "Fit and carry",
+        "Two removable upper straps and a bottom elastic cord adjust to different handlebar sizes, and a shoulder strap lets you carry it off the bike."
+      ],
+      [
+        "Our buying advice",
+        "Choose it if rain is part of your ride. Keep the load light so steering stays easy."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "How big is it?",
+        "2.4 liters."
+      ],
+      [
+        "Is it waterproof?",
+        "Gyroor lists waterproof fabric and laminated waterproof zippers."
+      ],
+      [
+        "Does it have a reflective panel?",
+        "Yes, a large front panel."
+      ],
+      [
+        "Can I carry it by hand?",
+        "Yes. An adjustable shoulder strap is included."
+      ],
+      [
+        "Is there a Gyroor discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Gyroor; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 2399,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "51863182475557",
+      "variantLabel": "Default Title",
+      "source": "https://gyroorboard.com/products/waterproof-handlebar-bag?variant=51863182475557",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "51863182475557"
+    }
+  },
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
 const checkoutProductsFor=brand=>products.filter(p=>p.brand===brand&&p.checkoutObservation);

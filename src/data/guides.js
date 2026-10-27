@@ -1653,7 +1653,62 @@ export const guides = [
       "gyroor-round-rearview-mirrors-e-bike-scooter",
       "gyroor-waterproof-e-bike-scooter-cover",
       "gyroor-electric-scooter-handlebar-bag",
-      "gyroor-cycling-sunglasses-5-lens-set"
+      "gyroor-cycling-sunglasses-5-lens-set",
+      "gyroor-combination-bike-chain-lock-2-6-ft",
+      "gyroor-waterproof-handlebar-bag-2-4l"
+    ]
+  },
+  {
+    "slug": "lights-signals-horn-and-alarm-for-scooters-and-e-bikes",
+    "title": "Lights, turn signals, horn and alarm: be seen and be safe on a scooter or e-bike",
+    "description": "How to add lights, turn signals, a horn and an alarm to a scooter or e-bike, and what each one does and does not do.",
+    "image": "/images/lifestyle.webp",
+    "category": "Gear guide",
+    "answer": "Start with a front and rear light you can charge easily, add small clip-on lights to be seen from the side, then consider turn signals and a horn if you share roads with traffic. Add an alarm and a chain lock for parking. Check local rules for lights, horns and signals before you buy.",
+    "sections": [
+      {
+        "heading": "A front and rear light first",
+        "paragraphs": [
+          "A rechargeable headlight and taillight set is the baseline for any ride after dusk. Check how each light mounts to your handlebar and frame, how many modes it has and how you charge it. A listing that states only a battery size, and no brightness figure, calls for a night test before you rely on it."
+        ]
+      },
+      {
+        "heading": "Add small lights to be seen",
+        "paragraphs": [
+          "Small clip-on lights add visibility from the side and back when you attach them to a helmet, bag or frame. They do not light the road, so use them alongside a proper headlight and rear light, and keep spare coin-cell batteries."
+        ]
+      },
+      {
+        "heading": "Turn signals and a horn",
+        "paragraphs": [
+          "A rear light with left and right signals makes a turn clearer to drivers behind you, and a horn gives a stronger warning than a bell. Use hand signals where they are required, check local rules on horns and signals, and sound a horn sparingly."
+        ]
+      },
+      {
+        "heading": "Park with an alarm and a lock",
+        "paragraphs": [
+          "A motion alarm deters a casual theft but does not secure the vehicle, so pair it with a chain or folding lock. Tune the alarm sensitivity so wind or a passing bump does not trigger it, and reset the default code on any combination lock."
+        ]
+      }
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "topics": [
+      "gear-and-tech",
+      "electric-mobility"
+    ],
+    "related": [
+      "scooter-and-bike-accessories-essentials",
+      "commuter-gear-checklist",
+      "bike-or-electric-scooter"
+    ],
+    "products": [
+      "gyroor-usb-rechargeable-headlight-and-taillight-set",
+      "gyroor-led-safety-light-2-pack-red",
+      "gyroor-turn-signals-for-e-bike-scooter",
+      "gyroor-electronic-scooter-horn-black",
+      "gyroor-anti-theft-alarm-for-scooters-and-e-bikes",
+      "gyroor-combination-bike-chain-lock-2-6-ft"
     ]
   }
 ];
