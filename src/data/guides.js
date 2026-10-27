@@ -79,7 +79,8 @@ export const guides = [
       "bike-tire-pressure",
       "belt-drive-vs-chain-drive",
       "step-through-vs-step-over"
-    ]
+    ],
+    "products": ["ecarpat-velostride-700x35c-hybrid-bike"]
   },
   {
     "slug": "bike-or-electric-scooter",
@@ -158,9 +159,7 @@ export const guides = [
       "presta-vs-schrader",
       "how-to-clean-lube-bike-chain"
     ],
-    "products": [
-      "mooncool-tk2-folding-electric-trike"
-    ]
+    "products": ["mooncool-tk2-folding-electric-trike", "gyroor-folding-scooter-lock", "gyroor-electric-scooter-handlebar-bag"]
   },
   {
     "slug": "plan-your-bike-upgrades",
@@ -1540,5 +1539,121 @@ export const guides = [
       "step-through-vs-step-over"
     ],
     "products": []
+  },
+  {
+    "slug": "how-to-choose-a-budget-bike",
+    "title": "How to choose a budget bike: hybrid, mountain, fat-tire or folding",
+    "description": "Match a lower-cost bike to your route, your height and the care it will need, then check the fit, brakes and assembly before you ride.",
+    "image": "/images/hero.webp",
+    "category": "Bike basics",
+    "answer": "Choose a budget bike by the surface you ride most, then check frame size against your height, the brake type and how much assembly you can do yourself. A hybrid suits pavement and paths, a mountain bike suits dirt and gravel, a fat-tire bike suits sand and snow, and a folding bike suits tight storage and transit.",
+    "sections": [
+      {
+        "heading": "Start with the surface",
+        "paragraphs": [
+          "Most budget bikes fall into four groups. A hybrid has wider tires than a road bike and an upright position for pavement, bike paths and light gravel. A mountain bike has a suspension fork and knobby tires for dirt and rough ground. A fat-tire bike uses 4 inch tires for sand and snow. A folding bike trades ride quality for storage."
+        ]
+      },
+      {
+        "heading": "Check the fit before the price",
+        "paragraphs": [
+          "Frame size and the listed rider height matter more than the brand. Compare the standover height and reach in the dimensions table with a bike you already ride. A bike that is too big or too small is uncomfortable and harder to control, whatever it costs."
+        ]
+      },
+      {
+        "heading": "Look at brakes and gears",
+        "paragraphs": [
+          "Disc brakes give consistent stopping in wet and dry conditions and are common even on low-cost bikes. A 7-speed or 21-speed drivetrain gives enough range for hills, and a suspension fork adds comfort on rough ground. Treat budget suspension as a comfort feature."
+        ]
+      },
+      {
+        "heading": "Plan for assembly",
+        "paragraphs": [
+          "Many bikes arrive about 85% assembled. You will fit the front wheel, handlebars, saddle and pedals, then check brake alignment, cable tension, bolts and tire pressure. If you are not sure, a local bike shop can inspect the finished bike."
+        ]
+      },
+      {
+        "heading": "Compare the examples",
+        "paragraphs": [
+          "Our reviews cover a hybrid with 700×35C tires, three mountain bikes at different frame sizes, a 24×4 inch fat-tire bike and a 20 inch folding bike. Each lists its wheel size, frame size, rider height, weight and warranty so you can compare like with like."
+        ]
+      }
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "topics": [
+      "traditional-bikes"
+    ],
+    "related": [
+      "road-gravel-or-hybrid",
+      "bike-tire-pressure",
+      "folding-vs-full-size-ebike"
+    ],
+    "products": [
+      "ecarpat-velostride-700x35c-hybrid-bike",
+      "zukka-blaze-27-5-mountain-bike",
+      "kiapalno-iii-26-mountain-bike",
+      "ecarpat-corex-26-full-suspension-mountain-bike",
+      "ecarpat-elecony-24x4-fat-tire-bike",
+      "zukka-crossroll-20-folding-bike"
+    ]
+  },
+  {
+    "slug": "scooter-and-bike-accessories-essentials",
+    "title": "Lock, cover, mirrors, bag and glasses: scooter and e-bike essentials",
+    "description": "The accessories that protect your scooter or e-bike, help you see behind you and keep your essentials close.",
+    "image": "/images/lifestyle.webp",
+    "category": "Gear guide",
+    "answer": "Start with a lock that suits where you park, then add mirrors for seeing behind you, a cover if you store outdoors, a small handlebar bag for essentials and glasses for changing light. Check the fit and mounting standard of each item against your own scooter or e-bike.",
+    "sections": [
+      {
+        "heading": "Lock first",
+        "paragraphs": [
+          "A lock is the most important accessory for a vehicle you park in public. Choose one that fits where you park, lock the frame to something fixed and keep the keyhole away from the ground. No lock is theft-proof, and your insurer may have its own requirements."
+        ]
+      },
+      {
+        "heading": "See behind you",
+        "paragraphs": [
+          "Mirrors let you judge traffic before a turn. Check that your handlebar has a standard mirror mount and the thread size, adjust the mirrors while stationary and keep looking over your shoulder for blind spots."
+        ]
+      },
+      {
+        "heading": "Protect it from weather",
+        "paragraphs": [
+          "If you store outdoors, a waterproof, UV-coated cover protects against rain, snow, dust and sun. Check that the cover dimensions fit your vehicle, let it dry before covering and use a lock through the cover if it has a lock hole."
+        ]
+      },
+      {
+        "heading": "Carry the small things",
+        "paragraphs": [
+          "A small handlebar bag keeps a phone, wallet and keys within reach. Keep the load light so steering is not affected, and make sure the bag does not block the display, brake levers or lights."
+        ]
+      },
+      {
+        "heading": "Protect your eyes",
+        "paragraphs": [
+          "Glasses with swappable lenses cover sun, overcast and low light. Check which lenses are polarized and whether they suit a helmet and your face."
+        ]
+      }
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "topics": [
+      "gear-and-tech",
+      "electric-mobility"
+    ],
+    "related": [
+      "commuter-gear-checklist",
+      "bike-or-electric-scooter",
+      "panniers-vs-backpack"
+    ],
+    "products": [
+      "gyroor-folding-scooter-lock",
+      "gyroor-round-rearview-mirrors-e-bike-scooter",
+      "gyroor-waterproof-e-bike-scooter-cover",
+      "gyroor-electric-scooter-handlebar-bag",
+      "gyroor-cycling-sunglasses-5-lens-set"
+    ]
   }
 ];

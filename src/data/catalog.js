@@ -4660,6 +4660,1078 @@ export const products = [
       "variantId": "43398676086942"
     }
   },
+  {
+    "slug": "ecarpat-velostride-700x35c-hybrid-bike",
+    "brand": "hycline",
+    "name": "Ecarpat Velostride 700×35C Hybrid Bike",
+    "model": "Velostride 700×35C",
+    "image": "/images/products/ecarpat-velostride-700x35c-hybrid-bike.webp",
+    "imageAlt": "Blue Ecarpat Velostride hybrid bike with a step-through style frame, disc brakes and slim road tires",
+    "imageWidth": 1200,
+    "imageHeight": 1051,
+    "category": "traditional-bikes",
+    "use": "commute",
+    "label": "For paved commutes and light gravel",
+    "headline": "A 21-speed disc-brake hybrid at about $328.",
+    "description": "A 34 lb high-carbon steel hybrid with 700×35C tires, Shimano 21-speed shifting, disc brakes and aluminum alloy wheels, sold 85% assembled.",
+    "verdict": "We recommend the Ecarpat Velostride for riders who want an inexpensive hybrid for paved commutes, bike paths and light gravel. Hycline lists 700×35C tires for stability, aluminum alloy wheels, disc brakes for consistent stopping and a Shimano 21-speed drivetrain, in a 34 lb high-carbon steel frame. It arrives 85% pre-assembled. Check the 22 inch frame and the listed 5'7\" to 6'2\" rider height before ordering.",
+    "strengths": [
+      "700×35C tires are wider than a road bike's, which adds stability and comfort on pavement and light gravel.",
+      "Disc brakes and aluminum alloy wheels are a good pairing at this price.",
+      "A Shimano 21-speed drivetrain gives a wide gear range for hills and flats.",
+      "The bike weighs 34 lb and arrives 85% assembled."
+    ],
+    "tradeoffs": [
+      "The 22 inch frame is listed for riders from 5'7\" to 6'2\", so shorter riders should look elsewhere.",
+      "A steel frame is heavier and less lively than aluminum or carbon.",
+      "Build the last 15% carefully and have a shop check brakes and gears if you are unsure."
+    ],
+    "specs": {
+      "Selected configuration": "Blue / 700×35C; variant 47723230167265 (SKU SHP-W2563P237320)",
+      "Type": "Hybrid / road-style commuter bike",
+      "Wheel and tire": "700×35C",
+      "Frame": "High carbon steel; frame size 22 in",
+      "Drivetrain": "Shimano 21-speed",
+      "Brakes": "Disc brakes",
+      "Wheels": "Aluminum alloy",
+      "Rider height": "5'7\" to 6'2\"",
+      "Weight": "34 lb",
+      "Dimensions": "68.10 in long, 27.10 in wide, 39.70 in high",
+      "Assembly": "85% pre-assembled",
+      "Warranty and returns": "1-year manufacturer warranty; 90-day return window"
+    },
+    "source": "https://hyclinebike.com/products/ecarpat-velostride-700-35c?variant=47723230167265",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Who it suits",
+        "The Velostride is a practical entry bike for daily commutes, student travel and weekend path rides. The wide 700×35C tires let it handle broken pavement and packed gravel more calmly than a skinny-tire road bike."
+      ],
+      [
+        "What to check on arrival",
+        "The bike ships 85% assembled, so you will fit the front wheel, handlebars, saddle and pedals. Check brake alignment, cable tension and tire pressure before the first ride, or ask a local shop to inspect it."
+      ],
+      [
+        "Fit and comfort",
+        "Hycline lists a 22 inch frame for riders 5'7\" to 6'2\". Standover and reach matter more than height alone, so compare the dimensions table with a bike you already ride."
+      ],
+      [
+        "Our buying advice",
+        "Choose it if you want a simple, affordable hybrid with disc brakes and a wide gear range. If you want lighter weight or a more upright, comfort-first position, compare other hybrids before ordering."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "What terrain is the Velostride for?",
+        "Hycline lists mixed terrain: smooth pavement, gravel paths and country roads."
+      ],
+      [
+        "What size tires does it use?",
+        "700×35C."
+      ],
+      [
+        "How is it assembled?",
+        "It arrives 85% pre-assembled."
+      ],
+      [
+        "What rider height does it fit?",
+        "Hycline lists 5'7\" to 6'2\" for the 22 inch frame."
+      ],
+      [
+        "Is there a Hycline discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Hycline; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 32799,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "47723230167265",
+      "variantLabel": "Blue / 700×35C",
+      "source": "https://hyclinebike.com/products/ecarpat-velostride-700-35c?variant=47723230167265",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "47723230167265"
+    }
+  },
+  {
+    "slug": "zukka-blaze-27-5-mountain-bike",
+    "brand": "hycline",
+    "name": "Zukka Blaze 27.5\" Mountain Bike",
+    "model": "Blaze 27.5\"",
+    "image": "/images/products/zukka-blaze-27-5-mountain-bike.webp",
+    "imageAlt": "Dark purple Zukka Blaze 27.5 inch mountain bike with a suspension fork and disc brakes",
+    "imageWidth": 1200,
+    "imageHeight": 965,
+    "category": "traditional-bikes",
+    "use": "recreation",
+    "label": "For trails and gravel on a budget",
+    "headline": "A 27.5 inch suspension-fork mountain bike with disc brakes.",
+    "description": "A 38.3 lb high-carbon steel 27.5×1.95 inch mountain bike with a suspension fork, double disc brakes and a Shimano 21-speed drivetrain.",
+    "verdict": "We recommend the Zukka Blaze for beginners and casual riders who want an affordable 27.5 inch mountain bike. Hycline lists a steel frame, a suspension fork to soak up bumps, front and rear disc brakes and a Shimano 21-speed drivetrain, with 27.5×1.95 inch tires for grip on dirt, gravel and grass. It weighs 38.3 lb and arrives 85% assembled. It is a capable starter bike rather than a performance machine.",
+    "strengths": [
+      "27.5 inch wheels with 1.95 inch tires roll over dirt, gravel and grass with confidence.",
+      "A suspension fork takes the edge off bumps and rough ground.",
+      "Front and rear disc brakes give dependable stopping.",
+      "A Shimano 21-speed drivetrain covers climbs, flats and descents."
+    ],
+    "tradeoffs": [
+      "The steel frame and 38.3 lb weight are heavier than aluminum trail bikes.",
+      "The suspension fork is a budget design; it is for comfort, not technical descents.",
+      "The listing text mentions a 26 inch tire in one line; confirm tire size before buying replacements."
+    ],
+    "specs": {
+      "Selected configuration": "Dark Purple / 27.5\"×1.95\"; variant 47673568887009 (SKU SHP-W1019P225357)",
+      "Type": "Mountain bike with suspension fork",
+      "Wheel and tire": "27.5 × 1.95 in",
+      "Frame": "High carbon steel; frame size 22 in",
+      "Drivetrain": "Shimano 21-speed (7-speed rear derailleur and 3-speed shifter)",
+      "Brakes": "Front and rear disc brakes",
+      "Rider height": "5'7\" to 6'2\"",
+      "Weight": "38.3 lb",
+      "Dimensions": "68.50 in long, 27.10 in wide, 44.55 in high",
+      "Assembly": "85% pre-assembled",
+      "Warranty and returns": "1-year manufacturer warranty; 90-day return window"
+    },
+    "source": "https://hyclinebike.com/products/zukka-blaze-27-5-bike?variant=47673568887009",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Who it suits",
+        "The Blaze is a first mountain bike for easy trails, park paths and gravel roads. It targets riders who want gears, suspension and disc brakes without paying for a trail-grade bike."
+      ],
+      [
+        "What to check on arrival",
+        "Assembly is 85% complete. Check wheel and brake alignment, fork preload and cable tension before the first ride. Budget bikes benefit from a quick shop inspection."
+      ],
+      [
+        "Fit",
+        "Hycline lists a 22 inch frame for riders 5'7\" to 6'2\". If you are near the bottom of that range, check standover and reach on the dimensions table."
+      ],
+      [
+        "Our buying advice",
+        "Choose it for casual riding and light trail use. If you plan to ride rougher trails often, step up to a bike with a better fork and a lighter frame."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "What wheel size is it?",
+        "27.5 inches, with 1.95 inch tires."
+      ],
+      [
+        "What drivetrain does it have?",
+        "A Shimano 21-speed drivetrain, with a 7-speed rear derailleur and a 3-speed shifter."
+      ],
+      [
+        "What brakes does it use?",
+        "Front and rear disc brakes."
+      ],
+      [
+        "How heavy is it?",
+        "38.3 lb."
+      ],
+      [
+        "Is there a Hycline discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Hycline; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 34799,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "47673568887009",
+      "variantLabel": "Dark Purple / 27.5\"×1.95\"",
+      "source": "https://hyclinebike.com/products/zukka-blaze-27-5-bike?variant=47673568887009",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "47673568887009"
+    }
+  },
+  {
+    "slug": "kiapalno-iii-26-mountain-bike",
+    "brand": "hycline",
+    "name": "Kiapalno III 26\" Mountain Bike",
+    "model": "Kiapalno III 26\"",
+    "image": "/images/products/kiapalno-iii-26-mountain-bike.webp",
+    "imageAlt": "Black Kiapalno III 26 inch mountain bike with a suspension fork and wide knobby tires",
+    "imageWidth": 1200,
+    "imageHeight": 1106,
+    "category": "traditional-bikes",
+    "use": "recreation",
+    "label": "For teens and adults starting out",
+    "headline": "A 35 lb, 26 inch mountain bike with disc brakes and 21 speeds.",
+    "description": "A 35.28 lb high-carbon steel 26×2.125 inch mountain bike with a suspension system, dual disc brakes and a Shimano 21-speed drivetrain.",
+    "verdict": "We recommend the Kiapalno III for teens and adults who want a simple, affordable 26 inch mountain bike. Hycline lists a high-carbon steel frame, wide 2.125 inch puncture-resistant tires, a suspension system, dual disc brakes and a Shimano 21-speed drivetrain. At 35.28 lb it is on the lighter side for a budget steel bike, and the 18 inch frame is listed for riders from 5'4\" to 5'9\", so it fits a smaller rider than most bikes in this price range.",
+    "strengths": [
+      "An 18 inch frame fits riders from 5'4\" to 5'9\", which suits teens and shorter adults.",
+      "Wide 2.125 inch tires add grip and stability on dirt and gravel.",
+      "Dual disc brakes give dependable stopping in wet and dry.",
+      "A 21-speed Shimano drivetrain and a suspension system suit mixed riding."
+    ],
+    "tradeoffs": [
+      "It is sized for a narrower rider range than the 22 inch frames elsewhere in the category.",
+      "A steel frame is heavier than aluminum.",
+      "Shop-check the brakes and gears after the 85% assembly."
+    ],
+    "specs": {
+      "Selected configuration": "Black / 26\"×2.125\"; variant 47662925873377 (SKU SHP-W2563P239871)",
+      "Type": "Mountain bike",
+      "Wheel and tire": "26 × 2.125 in",
+      "Frame": "High carbon steel; frame size 18 in",
+      "Drivetrain": "Shimano 21-speed",
+      "Brakes": "Dual disc brakes",
+      "Rider height": "5'4\" to 5'9\"",
+      "Weight": "35.28 lb",
+      "Dimensions": "67.00 in long, 26.50 in wide, 38.50 in high",
+      "Assembly": "85% pre-assembled",
+      "Warranty and returns": "1-year manufacturer warranty; 90-day return window"
+    },
+    "source": "https://hyclinebike.com/products/kiapalno-lll-26x2-125-bike?variant=47662925873377",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Who it suits",
+        "The Kiapalno III is for teens and adults riding dirt paths, parks and city streets. Hycline calls it suitable for beginners and experienced riders."
+      ],
+      [
+        "Fit first",
+        "The 18 inch frame is listed for riders from 5'4\" to 5'9\". Measure your inseam and compare standover height before ordering."
+      ],
+      [
+        "What to check on arrival",
+        "Plan to finish the last 15% of assembly and check brakes, gears and tire pressure. A local shop can confirm the setup."
+      ],
+      [
+        "Our buying advice",
+        "Choose it if you are on the shorter side and want a simple mountain bike with disc brakes. Larger riders should choose a 22 inch frame."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "What rider height does it fit?",
+        "Hycline lists 5'4\" to 5'9\" for the 18 inch frame."
+      ],
+      [
+        "What tires does it use?",
+        "26×2.125 inch tires."
+      ],
+      [
+        "What brakes does it use?",
+        "Dual disc brakes."
+      ],
+      [
+        "Is it good for beginners?",
+        "Hycline describes it as suitable for beginners and experienced riders."
+      ],
+      [
+        "Is there a Hycline discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Hycline; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 32999,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "47662925873377",
+      "variantLabel": "Black / 26\"×2.125\"",
+      "source": "https://hyclinebike.com/products/kiapalno-lll-26x2-125-bike?variant=47662925873377",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "47662925873377"
+    }
+  },
+  {
+    "slug": "ecarpat-corex-26-full-suspension-mountain-bike",
+    "brand": "hycline",
+    "name": "Ecarpat Corex 26\" Full-Suspension Mountain Bike",
+    "model": "Corex 26\"",
+    "image": "/images/products/ecarpat-corex-26-full-suspension-mountain-bike.webp",
+    "imageAlt": "Blue Ecarpat Corex 26 inch full-suspension mountain bike with a rear shock and disc brakes",
+    "imageWidth": 1200,
+    "imageHeight": 1242,
+    "category": "traditional-bikes",
+    "use": "recreation",
+    "label": "For rough paths on a small budget",
+    "headline": "A full-suspension 26 inch mountain bike at under $330.",
+    "description": "A 37 lb high-carbon steel 26 inch mountain bike with a front fork and rear shock, a Shimano 21-speed drivetrain and dual disc brakes.",
+    "verdict": "We recommend the Ecarpat Corex for riders who want full suspension on a very small budget. Hycline lists a front fork and rear shock for comfort on gravel roads and rough trails, a durable steel frame, a Shimano 21-speed drivetrain, dual disc brakes and all-terrain tires, in a 37 lb bike that arrives 85% pre-assembled. It is a casual-riding bike, so treat the suspension as a comfort feature.",
+    "strengths": [
+      "A front fork and rear shock give a smoother ride on gravel and rough paths.",
+      "A Shimano 21-speed drivetrain and dual disc brakes cover the basics.",
+      "All-terrain tires add traction on dirt and mixed surfaces.",
+      "At 37 lb and 85% pre-assembled it is practical for first-time owners."
+    ],
+    "tradeoffs": [
+      "The listing gives tire width as 2.125 inches in the table and 2.35 inches in the text, so check before buying tires.",
+      "Rider height is listed as 5'1\" to 6'2\" in the table and 5'2\" to 6'2\" in the features; confirm your fit.",
+      "Budget suspension adds weight and needs periodic checking."
+    ],
+    "specs": {
+      "Selected configuration": "Blue / 26\"×2.125\"; variant 46470011191521 (SKU W709P285163)",
+      "Type": "Full-suspension mountain bike",
+      "Wheel and tire": "26 in; width listed as 2.125 in in the table (2.35 in in the text)",
+      "Frame": "High carbon steel; frame size 22 in",
+      "Suspension": "Front fork and rear shock",
+      "Drivetrain": "Shimano 21-speed",
+      "Brakes": "Dual disc brakes",
+      "Rider height": "About 5'1\" to 6'2\" (table)",
+      "Weight": "37 lb",
+      "Dimensions": "68.00 in long, 27.00 in wide, 38.00 in high",
+      "Assembly": "85% pre-assembled",
+      "Warranty": "1-year manufacturer warranty"
+    },
+    "source": "https://hyclinebike.com/products/corex-26-mountain-bike?variant=46470011191521",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Who it suits",
+        "The Corex is for casual riders who want a bike that handles gravel, dirt paths and rough pavement with more comfort than a hardtail at this price."
+      ],
+      [
+        "What full suspension means here",
+        "A front fork and rear shock soak up bumps on rough surfaces. At this price the suspension is for comfort on easier terrain, not aggressive trail riding."
+      ],
+      [
+        "What to check on arrival",
+        "Check bolts, brakes and shock preload, and confirm tire width if you plan to buy tubes or tires. Resolve the small spec differences in the listing with the seller if they matter to you."
+      ],
+      [
+        "Our buying advice",
+        "Choose it if you want a comfortable bike for rough paths and casual rides. For regular trail riding, step up to a more capable suspension design."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "Does it have full suspension?",
+        "Yes. Hycline lists a front fork and a rear shock."
+      ],
+      [
+        "What drivetrain does it have?",
+        "A Shimano 21-speed drivetrain."
+      ],
+      [
+        "How is it assembled?",
+        "It is 85% pre-assembled."
+      ],
+      [
+        "What size is the frame?",
+        "A 22 inch frame, per the dimensions table."
+      ],
+      [
+        "Is there a Hycline discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Hycline; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 32599,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "46470011191521",
+      "variantLabel": "Blue / 26\"×2.125\"",
+      "source": "https://hyclinebike.com/products/corex-26-mountain-bike?variant=46470011191521",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "46470011191521"
+    }
+  },
+  {
+    "slug": "ecarpat-elecony-24x4-fat-tire-bike",
+    "brand": "hycline",
+    "name": "Ecarpat Elecony 24\"×4\" Fat Tire Bike",
+    "model": "Elecony 24\"×4\"",
+    "image": "/images/products/ecarpat-elecony-24x4-fat-tire-bike.webp",
+    "imageAlt": "Navy Ecarpat Elecony fat tire bike with wide 4 inch tires and a front suspension fork",
+    "imageWidth": 1200,
+    "imageHeight": 1242,
+    "category": "traditional-bikes",
+    "use": "recreation",
+    "label": "For sand, snow and rough paths",
+    "headline": "A 7-speed fat-tire bike with a 100mm fork.",
+    "description": "A 44.5 lb high-carbon steel 24×4.0 inch fat-tire bike with a 100mm front suspension fork, a 7-speed drivetrain and dual disc brakes.",
+    "verdict": "We recommend the Ecarpat Elecony for youth and adult riders who want a fat-tire bike for beaches, snow and rough trails. Hycline lists 24×4.0 inch tires, a 100mm front suspension fork, a 7-speed drivetrain and dual disc brakes with 160mm rotors, on a high-carbon steel frame. It weighs 44.5 lb, arrives 85% pre-assembled and installs in about 20 minutes. It is a heavy bike, so it suits recreation over long distances.",
+    "strengths": [
+      "Wide 24×4.0 inch tires give grip and float on sand, snow and loose ground.",
+      "A 100mm front suspension fork absorbs shocks on rough terrain.",
+      "Dual disc brakes with 160mm rotors provide stopping power.",
+      "Sized for youth and adult riders, with a 22×17 frame."
+    ],
+    "tradeoffs": [
+      "At 44.5 lb the bike is heavy to lift and to pedal over long distances.",
+      "Fat tires add rolling resistance on pavement.",
+      "A 7-speed drivetrain has a narrower range than a 21-speed."
+    ],
+    "specs": {
+      "Selected configuration": "Navy / 24\"×4\"; variant 47576715067617 (SKU SHP-W709P174692)",
+      "Type": "Fat-tire bike",
+      "Wheel and tire": "24 × 4.0 in",
+      "Frame": "High carbon steel; frame size 22×17 in",
+      "Suspension": "100mm front fork",
+      "Drivetrain": "7-speed",
+      "Brakes": "Dual disc brakes, 160 mm rotors",
+      "Suggested riders": "Youth and adult",
+      "Weight": "44.5 lb",
+      "Dimensions": "67.00 in long, 25.00 in wide, 40.00 in high",
+      "Assembly": "85% pre-assembled; about 20 minutes",
+      "Warranty and returns": "1-year manufacturer warranty; 90-day return window"
+    },
+    "source": "https://hyclinebike.com/products/ecarpat-elecony-fat-bike-24-4?variant=47576715067617",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Who it suits",
+        "The Elecony is for riders who want a fun, go-anywhere recreational bike: beach rides, snow paths and easy trails."
+      ],
+      [
+        "Fat tires and suspension",
+        "The 4 inch tires provide traction and cushioning, and the 100mm fork adds a second layer of comfort on rough surfaces. Run lower tire pressure on soft ground and higher on hard surfaces, following the tire's limits."
+      ],
+      [
+        "What to check on arrival",
+        "Hycline says you install the pedals, handlebars, saddle and front wheel and inflate the tires. Check brakes and bolts before you ride."
+      ],
+      [
+        "Our buying advice",
+        "Choose it for recreation on soft ground. For a daily commute on pavement, a hybrid with narrower tires will be easier to ride."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "What tire size does it use?",
+        "24×4.0 inch fat tires."
+      ],
+      [
+        "Does it have suspension?",
+        "Yes. A 100mm front suspension fork."
+      ],
+      [
+        "How long does assembly take?",
+        "Hycline says about 20 minutes, since it arrives 85% pre-assembled."
+      ],
+      [
+        "Who is it for?",
+        "Hycline lists youth and adult riders."
+      ],
+      [
+        "Is there a Hycline discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Hycline; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 34999,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "47576715067617",
+      "variantLabel": "Navy / 24\"×4\"",
+      "source": "https://hyclinebike.com/products/ecarpat-elecony-fat-bike-24-4?variant=47576715067617",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "47576715067617"
+    }
+  },
+  {
+    "slug": "zukka-crossroll-20-folding-bike",
+    "brand": "hycline",
+    "name": "Zukka Crossroll 20\" Folding Bike",
+    "model": "Crossroll 20\"",
+    "image": "/images/products/zukka-crossroll-20-folding-bike.webp",
+    "imageAlt": "Grey Zukka Crossroll 20 inch folding bike with a rear rack and small wheels",
+    "imageWidth": 1200,
+    "imageHeight": 1190,
+    "category": "traditional-bikes",
+    "use": "city",
+    "label": "For apartments, trunks and transit",
+    "headline": "A 34 lb 7-speed folding bike with disc brakes.",
+    "description": "A 34.39 lb steel 20 inch folding bike with 7-speed shifting, dual disc brakes, quick-release folding and mounting points for a bag or basket.",
+    "verdict": "We recommend the Zukka Crossroll for city riders who need a bike that folds for an apartment, a car trunk or transit. Hycline lists a 20×1.5 inch wheel, a steel frame rated for up to 220 lb, a 7-speed shifter and dual disc brakes, and a quick-release fold that takes only the pedals and the handlebar and frame joints. It weighs 34.39 lb and folds to 32.7 × 24 × 18.1 inches.",
+    "strengths": [
+      "Folds to 32.7 × 24 × 18.1 inches for a trunk, a closet or a train.",
+      "Dual disc brakes and a 7-speed shifter suit city riding.",
+      "A steel frame supports riders up to 220 lb, per Hycline.",
+      "Frame points are reserved for a bike bag or basket."
+    ],
+    "tradeoffs": [
+      "At 34.39 lb it is not light to carry up stairs.",
+      "Small 20 inch wheels are less comfortable on rough roads.",
+      "The listing gives rider height as 4.1 to 5.9 feet, so confirm fit."
+    ],
+    "specs": {
+      "Selected configuration": "Grey / 20\"×1.5\"; variant 45859995779297 (SKU W1019P195386)",
+      "Type": "Folding bike",
+      "Wheel and tire": "20 × 1.5 in",
+      "Frame": "Steel; frame size 20 in",
+      "Drivetrain": "7-speed shifter and rear derailleur",
+      "Brakes": "Dual disc brakes",
+      "Folded size": "32.7 × 24 × 18.1 in",
+      "Rider height": "4.1 to 5.9 ft, as listed",
+      "Maximum weight": "220 lb",
+      "Weight": "34.39 lb",
+      "Dimensions": "59.06 in long, 24.02 in wide, 38.98 in high"
+    },
+    "source": "https://hyclinebike.com/products/zukka-crossroll-folding-bike-20?variant=45859995779297",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Who it suits",
+        "The Crossroll is for riders who value storage and portability: apartment dwellers, commuters who use trains or buses, and anyone who needs a bike for the trunk."
+      ],
+      [
+        "How it folds",
+        "Fold down the pedals, then fold down the handlebar and frame, both of which use quick releases. Hycline lists a folded size of 32.7 × 24 × 18.1 inches."
+      ],
+      [
+        "Everyday details",
+        "Dual disc brakes give dependable stopping, and the frame has reserved points for a bike bag or basket. A steel frame supports riders up to 220 lb."
+      ],
+      [
+        "Our buying advice",
+        "Choose it for short city trips where storage matters. For longer rides or rough roads, a full-size bike is more comfortable."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "How small does it fold?",
+        "Hycline lists 32.7 × 24 × 18.1 inches."
+      ],
+      [
+        "What is the weight limit?",
+        "Hycline says the steel frame supports up to 220 lb."
+      ],
+      [
+        "What brakes does it use?",
+        "Dual disc brakes."
+      ],
+      [
+        "How many speeds does it have?",
+        "Seven."
+      ],
+      [
+        "Is there a Hycline discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Hycline; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 35599,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "45859995779297",
+      "variantLabel": "Grey / 20\"×1.5\"",
+      "source": "https://hyclinebike.com/products/zukka-crossroll-folding-bike-20?variant=45859995779297",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "45859995779297"
+    }
+  },
+  {
+    "slug": "gyroor-round-rearview-mirrors-e-bike-scooter",
+    "brand": "gyroor",
+    "name": "Gyroor Round Rearview Mirrors for E-Bikes and Scooters",
+    "model": "Round Mirrors",
+    "image": "/images/products/gyroor-round-rearview-mirrors-e-bike-scooter.webp",
+    "imageAlt": "Pair of black Gyroor round rearview mirrors on metal stems",
+    "imageWidth": 1200,
+    "imageHeight": 1311,
+    "category": "gear-and-tech",
+    "use": "commute",
+    "label": "For seeing behind you",
+    "headline": "A pair of 180° adjustable round mirrors with 8mm bolts.",
+    "description": "A left and right pair of matte black round rearview mirrors with a metal stem, 180° adjustment and an 8mm bolt for e-bikes, scooters and trikes.",
+    "verdict": "We recommend the Gyroor Round Mirrors for scooter, e-bike and trike riders who want a simple way to see traffic behind them. The pair includes one left and one right mirror on metal stems with a matte black finish, each adjustable through 180 degrees, and an 8mm bolt that fits most standard mirror mounts. Gyroor says they suit its adult scooters, e-bikes and trikes, and the round shape gives a wider view.",
+    "strengths": [
+      "A left and a right mirror are included in one pack.",
+      "Each mirror adjusts through 180° for different rider heights.",
+      "A metal stem and matte black housing give a sturdy, corrosion-resistant build.",
+      "An 8mm bolt fits most standard mirror mounts."
+    ],
+    "tradeoffs": [
+      "Check that your handlebar has a standard 8mm mirror mount before ordering.",
+      "A small mirror shows a narrow view; adjust it before each ride.",
+      "Mirrors do not replace a shoulder check."
+    ],
+    "specs": {
+      "Selected configuration": "Default Title; variant 53667372400933 (SKU Round-Miroors)",
+      "Type": "Rearview mirrors",
+      "Quantity": "2 (left and right)",
+      "Adjustment": "180° rotation",
+      "Material": "Metal stem; matte black housing",
+      "Mounting": "8mm bolt",
+      "Fits": "Gyroor adult e-scooters, e-bikes and trikes; most vehicles with standard 8mm mirror mounts"
+    },
+    "source": "https://gyroorboard.com/products/gyroor-round-mirrors-e-bike-scooter?variant=53667372400933",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Why mirrors matter",
+        "Seeing behind you lets you judge traffic before a turn or lane change. Mirrors are a useful addition on a scooter or e-bike, where the handlebars sit in front of the rider."
+      ],
+      [
+        "What is in the box",
+        "One left and one right mirror, each with a metal stem and a matte black finish. The round design is meant to show a wider view of the road behind."
+      ],
+      [
+        "Fitment",
+        "The 8mm bolt matches standard mirror mounts on many scooters and motorcycles. Gyroor says they are compatible with its adult scooters, e-bikes and trikes. Confirm your thread before ordering."
+      ],
+      [
+        "Our buying advice",
+        "Choose them if your scooter or e-bike has a standard mirror mount. Adjust them with the bike stationary and keep looking over your shoulder for blind spots."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "How many mirrors come in the pack?",
+        "Two: one left and one right."
+      ],
+      [
+        "How much can they be adjusted?",
+        "Each mirror rotates through 180°."
+      ],
+      [
+        "What bolt do they use?",
+        "An 8mm bolt."
+      ],
+      [
+        "Do they fit Gyroor scooters?",
+        "Gyroor says they are compatible with its adult e-scooters, e-bikes and trikes."
+      ],
+      [
+        "Is there a Gyroor discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Gyroor; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 2999,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "53667372400933",
+      "variantLabel": "Default Title",
+      "source": "https://gyroorboard.com/products/gyroor-round-mirrors-e-bike-scooter?variant=53667372400933",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "53667372400933"
+    }
+  },
+  {
+    "slug": "gyroor-electric-scooter-handlebar-bag",
+    "brand": "gyroor",
+    "name": "Gyroor Electric Scooter Handlebar Bag",
+    "model": "Handlebar Bag",
+    "image": "/images/products/gyroor-electric-scooter-handlebar-bag.webp",
+    "imageAlt": "Black Gyroor handlebar bag with a top handle, side pocket and a shoulder strap",
+    "imageWidth": 1200,
+    "imageHeight": 977,
+    "category": "gear-and-tech",
+    "use": "commute",
+    "label": "For daily essentials on short commutes",
+    "headline": "A 2-in-1 handlebar and shoulder bag with quick-release buckles.",
+    "description": "A twill and nylon-mesh bag that mounts to scooter handlebars with quick-release buckles and doubles as a shoulder bag.",
+    "verdict": "We recommend the Gyroor Handlebar Bag for scooter riders who want a place for a phone, wallet and keys within reach. It works as a handlebar bag or a shoulder bag, with quick-release buckles for attaching to the bars and a detachable shoulder strap for carrying after the ride. Gyroor lists reinforced composite twill with an inner nylon mesh layer and soft non-slip contact surfaces that reduce abrasion.",
+    "strengths": [
+      "A 2-in-1 design works as a handlebar bag or a shoulder bag.",
+      "Quick-release buckles and adjustable straps hold it in place.",
+      "Reinforced twill with an inner nylon mesh layer is built for daily wear.",
+      "Soft non-slip contact surfaces limit handlebar abrasion."
+    ],
+    "tradeoffs": [
+      "It is sized for essentials, not for a laptop or a full commute bag.",
+      "A loaded handlebar bag can affect steering, so keep it light.",
+      "Check clearance with your display and cables before attaching."
+    ],
+    "specs": {
+      "Selected configuration": "Default Title; variant 51863168287013 (SKU Handlebar-Bag)",
+      "Type": "Handlebar bag / shoulder bag",
+      "Material": "Reinforced composite twill with inner nylon mesh layer",
+      "Mounting": "Quick-release buckles and adjustable straps",
+      "Carry": "Detachable shoulder strap",
+      "Capacity": "Phone, wallet, keys or small tools, per Gyroor",
+      "Size": "About 9.85 × 7.48 × 3.55 in, per the product graphic"
+    },
+    "source": "https://gyroorboard.com/products/electric-scooter-handlebar-bag?variant=51863168287013",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Who it suits",
+        "Short commuters and errand riders who want their phone, wallet and keys on the bars instead of in a pocket."
+      ],
+      [
+        "How it mounts",
+        "Quick-release buckles and multiple adjustable straps fit the bag to scooter handlebars, and soft contact surfaces reduce abrasion and slipping."
+      ],
+      [
+        "Using it as a shoulder bag",
+        "A detachable strap lets you carry it after the ride, so you do not leave valuables on the scooter."
+      ],
+      [
+        "Our buying advice",
+        "Keep the load light and well balanced, and make sure it does not block the display, brake levers or lights."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "Can it be used off the scooter?",
+        "Yes. A detachable shoulder strap lets you carry it as a shoulder bag."
+      ],
+      [
+        "How does it attach?",
+        "Quick-release buckles and adjustable straps."
+      ],
+      [
+        "What is it made of?",
+        "Reinforced composite twill with an inner nylon mesh layer."
+      ],
+      [
+        "What does it hold?",
+        "Daily essentials such as a phone, wallet, keys or small tools."
+      ],
+      [
+        "Is there a Gyroor discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Gyroor; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 3999,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "51863168287013",
+      "variantLabel": "Default Title",
+      "source": "https://gyroorboard.com/products/electric-scooter-handlebar-bag?variant=51863168287013",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "51863168287013"
+    }
+  },
+  {
+    "slug": "gyroor-waterproof-e-bike-scooter-cover",
+    "brand": "gyroor",
+    "name": "Gyroor Outdoor Waterproof E-Bike and Scooter Cover",
+    "model": "Waterproof Cover",
+    "image": "/images/products/gyroor-waterproof-e-bike-scooter-cover.webp",
+    "imageAlt": "Black Gyroor waterproof cover draped over an electric scooter",
+    "imageWidth": 1200,
+    "imageHeight": 1094,
+    "category": "gear-and-tech",
+    "use": "commute",
+    "label": "For outdoor storage",
+    "headline": "A 79 × 28 × 43 inch cover with a lock hole and storage bag.",
+    "description": "A waterproof polyester cover with PU and UV coatings, an elastic hem, buckle straps and a lock hole, sized 79 × 28 × 43 inches.",
+    "verdict": "We recommend the Gyroor Outdoor Cover for riders who store an e-bike or scooter outside. Gyroor lists waterproof polyester with PU and UV coatings that protect against rain, snow, dust, sun and bird droppings, an elastic hem and buckle system that resists wind, a lock hole so you can keep a lock on and a storage bag. The 79 × 28 × 43 inch size suits one electric scooter.",
+    "strengths": [
+      "Waterproof polyester with PU and UV coatings protects against weather and sun.",
+      "A lock hole lets you keep a lock on with the cover in place.",
+      "A double-stitched elastic hem and a buckle system resist wind.",
+      "A storage bag and Velcro design make it compact to carry."
+    ],
+    "tradeoffs": [
+      "It is designed for a single electric scooter; check dimensions for bigger e-bikes.",
+      "A cover protects from weather, not from theft.",
+      "Let a wet vehicle dry before covering to avoid trapped moisture."
+    ],
+    "specs": {
+      "Selected configuration": "Default Title; variant 51792688677157 (SKU Cover)",
+      "Type": "Vehicle cover",
+      "Size": "79 in L × 28 in W × 43 in H",
+      "Material": "Waterproof polyester with PU and UV coatings",
+      "Fit": "One electric scooter",
+      "Security": "Lock hole",
+      "Wind resistance": "Double-stitched elastic hem and buckle system",
+      "Includes": "Storage bag"
+    },
+    "source": "https://gyroorboard.com/products/outdoor-waterproof-e-bike-scooter-covers?variant=51792688677157",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Who it suits",
+        "Anyone who parks a scooter or e-bike outdoors, in a carport or under a porch, and wants to protect it from rain, snow, dust and sun."
+      ],
+      [
+        "Fit and wind",
+        "The elastic hem and buckle system keep the cover on in wind, and a Velcro design lets you tighten it to the frame. Confirm your vehicle fits within 79 × 28 × 43 inches."
+      ],
+      [
+        "Locking up",
+        "A lock hole means you can lock the vehicle with the cover on. A cover is not a security measure on its own."
+      ],
+      [
+        "Our buying advice",
+        "Choose it for outdoor storage. If you store indoors, you may not need one."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "What size is the cover?",
+        "79 inches long, 28 inches wide and 43 inches high, for one electric scooter."
+      ],
+      [
+        "Does it have a lock hole?",
+        "Yes."
+      ],
+      [
+        "What is it made of?",
+        "Waterproof polyester with PU and UV coatings."
+      ],
+      [
+        "Does it come with a bag?",
+        "Yes, a storage bag is included."
+      ],
+      [
+        "Is there a Gyroor discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Gyroor; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 3999,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "51792688677157",
+      "variantLabel": "Default Title",
+      "source": "https://gyroorboard.com/products/outdoor-waterproof-e-bike-scooter-covers?variant=51792688677157",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "51792688677157"
+    }
+  },
+  {
+    "slug": "gyroor-folding-scooter-lock",
+    "brand": "gyroor",
+    "name": "Gyroor Folding Scooter Lock",
+    "model": "Folding Lock",
+    "image": "/images/products/gyroor-folding-scooter-lock.webp",
+    "imageAlt": "Black Gyroor folding lock with a keyhole and linked bars",
+    "imageWidth": 1200,
+    "imageHeight": 1274,
+    "category": "gear-and-tech",
+    "use": "commute",
+    "label": "For locking up on the street",
+    "headline": "A keyed folding lock that opens to 33.5 inches, with a frame mount.",
+    "description": "A hardened folding lock with anti-tamper rivets, keys, a carry holder and a frame mounting bracket, opening up to 33.5 inches.",
+    "verdict": "We recommend the Gyroor Folding Lock for scooter and e-bike riders who want a compact, serious lock. It folds small to carry, opens up to 33.5 inches to secure to racks, poles and rails, and uses hardened weatherproof materials with anti-tamper rivets and a multi-locking structure. Gyroor says it is designed to resist cutting, drilling and sawing, and the frame bracket keeps it quiet while you ride.",
+    "strengths": [
+      "A folding design opens up to 33.5 inches, long enough for racks, poles and rails.",
+      "Hardened, weatherproof materials with anti-tamper rivets, per Gyroor.",
+      "A frame mounting bracket keeps it silent and rattle-free on the move.",
+      "Keys and a carry holder are included."
+    ],
+    "tradeoffs": [
+      "At $109.99 it costs more than a basic cable lock.",
+      "No lock is theft-proof; lock to something fixed in a visible place.",
+      "Check that the bracket fits your frame."
+    ],
+    "specs": {
+      "Selected configuration": "Default Title; variant 51863248208165 (SKU Folding-Lock)",
+      "Type": "Folding lock",
+      "Opened length": "Up to 33.5 in",
+      "Construction": "Hardened, weatherproof materials; anti-tamper rivets; multi-locking structure",
+      "Security claim": "Designed to resist cutting, drilling and sawing, per Gyroor",
+      "Includes": "Keys, carry holder and frame mounting bracket"
+    },
+    "source": "https://gyroorboard.com/products/folding-scooter-lock?variant=51863248208165",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Who it suits",
+        "Scooter and e-bike commuters who park on the street, at stations or at work and want a lock that folds small when not in use."
+      ],
+      [
+        "Reach and build",
+        "Opening to 33.5 inches gives you room to lock a frame and wheel to a fixed object. The hardened links and anti-tamper rivets are designed to frustrate common attacks."
+      ],
+      [
+        "Carry",
+        "A mounting bracket attaches to the frame, so the lock does not rattle, and a carry holder gives another option."
+      ],
+      [
+        "Our buying advice",
+        "Lock the frame to something fixed, keep the keyhole away from the ground, and consider insurance requirements before relying on any lock."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "How long is the lock when opened?",
+        "Up to 33.5 inches."
+      ],
+      [
+        "What comes in the box?",
+        "Keys, a carry holder and a frame mounting bracket."
+      ],
+      [
+        "Is it theft-proof?",
+        "No lock is. Gyroor describes it as designed to resist cutting, drilling and sawing."
+      ],
+      [
+        "Does it mount on the bike?",
+        "Yes, with a frame mounting bracket."
+      ],
+      [
+        "Is there a Gyroor discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Gyroor; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 10999,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "51863248208165",
+      "variantLabel": "Default Title",
+      "source": "https://gyroorboard.com/products/folding-scooter-lock?variant=51863248208165",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "51863248208165"
+    }
+  },
+  {
+    "slug": "gyroor-cycling-sunglasses-5-lens-set",
+    "brand": "gyroor",
+    "name": "Gyroor Cycling Sunglasses with 5 Lenses, Black",
+    "model": "Cycling Sunglasses",
+    "image": "/images/products/gyroor-cycling-sunglasses-5-lens-set.webp",
+    "imageAlt": "Black Gyroor cycling sunglasses with a wraparound lens and five extra lenses shown below",
+    "imageWidth": 1200,
+    "imageHeight": 784,
+    "category": "gear-and-tech",
+    "use": "commute",
+    "label": "For changing light and glare",
+    "headline": "A TR90 frame with five swappable UV400 lenses.",
+    "description": "Black TR90-frame cycling sunglasses with five replaceable UV400 lenses, soft adjustable nose pads and a polarized black lens.",
+    "verdict": "We recommend the Gyroor Cycling Sunglasses for riders who want one pair of glasses for sun, cloud, rain and low light. Gyroor lists five replaceable UV-protection lenses: color, black polarized, yellow, light blue and clear, in an ultralight TR90 frame with soft adjustable nose pads. The lenses carry a UV400 coating, and polarization applies to the black lenses only.",
+    "strengths": [
+      "Five lenses cover bright sun, overcast, fog, rain and dark conditions.",
+      "A TR90 frame is lightweight and durable, which reduces pressure on the face.",
+      "UV400 coating blocks UVA and UVB, per Gyroor.",
+      "Soft, adjustable rubber nose pads help the glasses stay put."
+    ],
+    "tradeoffs": [
+      "Polarization applies only to the black lenses.",
+      "Swapping lenses takes a moment, so choose before you ride.",
+      "Check the fit if you wear a helmet with a low brim."
+    ],
+    "specs": {
+      "Selected configuration": "Black; variant 51871432442149 (SKU Sunglasses-Black)",
+      "Type": "Cycling sunglasses",
+      "Lenses": "Five replaceable lenses: color, black polarized, yellow, light blue and clear",
+      "Frame": "TR90",
+      "Lens coating": "UV400",
+      "Polarization": "Black lenses only",
+      "Nose pads": "Soft, adjustable rubber"
+    },
+    "source": "https://gyroorboard.com/products/cycling-sunglasses-for-men-women?variant=51871432442149",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Who it suits",
+        "Commuters and scooter riders who ride in changing light and want eye protection and glare control."
+      ],
+      [
+        "Which lens to use",
+        "Use the color lens for sunny and cloudy days, the black polarized lens for high glare, the yellow lens for dark conditions, the light blue lens for fog and the clear lens for rain. Gyroor describes these uses."
+      ],
+      [
+        "Fit and comfort",
+        "A TR90 frame is light, and soft nose pads can be adjusted for a pressure-free fit during long rides."
+      ],
+      [
+        "Our buying advice",
+        "Choose them for versatility. If you need prescription lenses, check compatibility first."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "How many lenses are included?",
+        "Five."
+      ],
+      [
+        "Are the lenses polarized?",
+        "The black lenses are polarized; the others are not."
+      ],
+      [
+        "What is the frame made of?",
+        "TR90."
+      ],
+      [
+        "Do they block UV?",
+        "Gyroor lists a UV400 coating that blocks UVA and UVB."
+      ],
+      [
+        "Is there a Gyroor discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Gyroor; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 3199,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "51871432442149",
+      "variantLabel": "Black",
+      "source": "https://gyroorboard.com/products/cycling-sunglasses-for-men-women?variant=51871432442149",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "51871432442149"
+    }
+  },
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
 const checkoutProductsFor=brand=>products.filter(p=>p.brand===brand&&p.checkoutObservation);

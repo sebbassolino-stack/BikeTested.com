@@ -12,8 +12,8 @@ export function relatedGuides(guide) {
   return [...new Map([...explicit, ...candidates].map(g => [g.slug,g])).values()].slice(0,3);
 }
 export const guideGroups = [
-  {id:'choose-a-bike', name:'Choose your bike', description:'Frames, tires, drivetrains, and the way you want to ride.', slugs:['choose-your-first-ebike','road-gravel-or-hybrid','step-through-vs-step-over','folding-vs-full-size-ebike','fat-tire-vs-regular-tire-ebikes','belt-drive-vs-chain-drive','bike-or-electric-scooter']},
+  {id:'choose-a-bike', name:'Choose your bike', description:'Frames, tires, drivetrains, and the way you want to ride.', slugs:['choose-your-first-ebike','road-gravel-or-hybrid','step-through-vs-step-over','folding-vs-full-size-ebike','fat-tire-vs-regular-tire-ebikes','belt-drive-vs-chain-drive','bike-or-electric-scooter','how-to-choose-a-budget-bike']},
   {id:'understand-your-ebike',name:'Understand your e-bike',description:'Make sense of assistance, motor systems, battery energy, and charging.',slugs:['torque-sensor-vs-cadence-sensor','mid-drive-vs-hub-motor','ebike-range-explained','cost-to-charge-an-ebike']},
   {id:'care-for-your-bike',name:'Care for your bike',description:'Clear starting points for pressure checks, chain care, and compatible upgrades.',slugs:['bike-tire-pressure','presta-vs-schrader','how-to-clean-lube-bike-chain','plan-your-bike-upgrades']},
-  {id:'build-your-setup',name:'Build your everyday setup',description:'Luggage, useful technology, and the equipment behind a repeatable commute.',slugs:['commuter-gear-checklist','panniers-vs-backpack','choose-a-cycling-computer']}
+  {id:'build-your-setup',name:'Build your everyday setup',description:'Luggage, useful technology, and the equipment behind a repeatable commute.',slugs:['commuter-gear-checklist','panniers-vs-backpack','choose-a-cycling-computer','scooter-and-bike-accessories-essentials']}
 ];
