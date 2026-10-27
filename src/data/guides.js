@@ -1595,7 +1595,11 @@ export const guides = [
       "kiapalno-iii-26-mountain-bike",
       "ecarpat-corex-26-full-suspension-mountain-bike",
       "ecarpat-elecony-24x4-fat-tire-bike",
-      "zukka-crossroll-20-folding-bike"
+      "zukka-crossroll-20-folding-bike",
+      "ecarpat-xr1-26-mountain-bike",
+      "ecarpat-cirle-wind-20-kids-bike",
+      "ecarpat-arena-20x4-kids-fat-tire-bike",
+      "ecarpat-rock-rod-26-youth-mountain-bike"
     ]
   },
   {

@@ -6396,6 +6396,397 @@ export const products = [
       "variantId": "51863182475557"
     }
   },
+  {
+    "slug": "ecarpat-xr1-26-mountain-bike",
+    "brand": "hycline",
+    "name": "Ecarpat XR1 26\" Mountain Bike, Orange",
+    "model": "XR1 26\"",
+    "image": "/images/products/ecarpat-xr1-26-mountain-bike.webp",
+    "imageAlt": "Black Ecarpat XR1 26 inch mountain bike with orange frame accents, suspension fork and disc brakes",
+    "imageWidth": 1200,
+    "imageHeight": 1097,
+    "category": "traditional-bikes",
+    "use": "recreation",
+    "label": "For budget trails and daily rides",
+    "headline": "A 43 lb steel hardtail with a Shimano 21-speed drivetrain and dual disc brakes.",
+    "description": "A 26 inch carbon steel hardtail mountain bike with a suspension fork, twist shifter, 21 speeds and mechanical disc brakes at both wheels.",
+    "verdict": "We recommend the Ecarpat XR1 for riders who want an affordable 26 inch mountain bike for trails, beach paths and daily errands. Hycline lists a carbon steel frame, a suspension fork, a Shimano 21-speed drivetrain with a twist shifter, dual disc brakes and a 450 lb maximum load, in a 43 lb bike that arrives 85% assembled for riders about 5'2\" to 6'3\".",
+    "strengths": [
+      "A suspension fork and dual disc brakes at an entry-level price.",
+      "A Shimano 21-speed drivetrain with a twist shifter for hills and flats.",
+      "A 450 lb maximum load, per the listing, and a 26 inch wheel size.",
+      "85% assembled, with a 1-year manufacturer warranty."
+    ],
+    "tradeoffs": [
+      "The listing mentions 1.75 inch tires in the title and 2.125 inch tires in the table, so confirm tire width before buying tubes or tires.",
+      "At 43 lb it is a heavier steel bike, not a light trail machine.",
+      "Only the Orange variant was listed as available when we checked; Green and Blue were not."
+    ],
+    "specs": {
+      "Selected configuration": "Orange / 26\"×1.75\"; variant 45949230514401 (SKU W1856108584)",
+      "Type": "Hardtail mountain bike",
+      "Frame": "Carbon steel; frame size 26 × 17",
+      "Wheels": "26 in; tire listed as 26 × 2.125 in in the table and 1.75 in in the text",
+      "Drivetrain": "Shimano 21-speed, twist shifter",
+      "Brakes": "Dual disc brakes",
+      "Fork": "Suspension fork",
+      "Rider height": "About 5'2\" to 6'3\"",
+      "Weight": "43 lb",
+      "Max load": "450 lb",
+      "Dimensions": "71.00 in long, 27.38 in wide, 39.30 in high",
+      "Assembly": "85% pre-assembled",
+      "Warranty": "1-year manufacturer warranty"
+    },
+    "source": "https://hyclinebike.com/products/ecarpat-xr1-26?variant=45949230514401",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Who it suits",
+        "The XR1 suits adult and teen riders who want a simple mountain bike for park trails, beach paths and commuting without a large budget."
+      ],
+      [
+        "Drivetrain and brakes",
+        "A Shimano 21-speed drivetrain with a twist shifter gives a wide gear range, and dual disc brakes provide stopping power in wet or dusty conditions."
+      ],
+      [
+        "What to check",
+        "Confirm tire width and rider height against the listing, and check bolts, brakes and gears after assembly."
+      ],
+      [
+        "Our buying advice",
+        "Choose it for casual trail and everyday riding. Riders who want lighter weight or air suspension should look higher up the range."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "What drivetrain does it have?",
+        "A Shimano 21-speed drivetrain with a twist shifter."
+      ],
+      [
+        "What is the maximum load?",
+        "Hycline lists 450 lb."
+      ],
+      [
+        "How much does it weigh?",
+        "Hycline lists 43 lb."
+      ],
+      [
+        "What rider height does it fit?",
+        "About 5'2\" to 6'3\"."
+      ],
+      [
+        "Is there a Hycline discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Hycline; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 27599,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "45949230514401",
+      "variantLabel": "Orange / 26\"×1.75\"",
+      "source": "https://hyclinebike.com/products/ecarpat-xr1-26?variant=45949230514401",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "45949230514401"
+    }
+  },
+  {
+    "slug": "ecarpat-cirle-wind-20-kids-bike",
+    "brand": "hycline",
+    "name": "Ecarpat Cirle Wind 20\" 7-Speed Kids Bike, Orange",
+    "model": "Cirle Wind 20\"",
+    "image": "/images/products/ecarpat-cirle-wind-20-kids-bike.webp",
+    "imageAlt": "Orange Ecarpat Cirle Wind 20 inch kids bike with a front fork, fender and 7-speed drivetrain",
+    "imageWidth": 1200,
+    "imageHeight": 1227,
+    "category": "traditional-bikes",
+    "use": "recreation",
+    "label": "For kids and teens who ride trails",
+    "headline": "A 20 inch steel kids bike with a Shimano 7-speed drivetrain and 2.125 inch tires.",
+    "description": "A lightweight steel 20 inch bike for riders 42 to 56 inches tall with a twist shifter, wide all-terrain tires and an 80 lb total weight limit.",
+    "verdict": "We recommend the Ecarpat Cirle Wind for children and teens who are ready for gears. Hycline lists a classic steel frame for riders 42 to 56 inches tall, a Shimano 7-speed drivetrain with an easy twist shifter, wide 2.125 inch all-terrain tires with puncture resistance and an 80 lb total weight limit including rider and gear.",
+    "strengths": [
+      "A 7-speed Shimano drivetrain with a twist shifter that is easy for small hands.",
+      "Wide 2.125 inch tires with puncture resistance for trails and parks.",
+      "A steel frame sized for riders 42 to 56 inches tall.",
+      "Easy to assemble, with seller support listed."
+    ],
+    "tradeoffs": [
+      "An 80 lb total weight limit includes the rider and everything carried.",
+      "Kids outgrow a 20 inch bike, so check height against the listing.",
+      "The listing gives no weight for the bike itself."
+    ],
+    "specs": {
+      "Selected configuration": "Orange / 20\"×2.125\"; variant 45948365603041 (SKU W1856P221064)",
+      "Type": "Kids mountain bike",
+      "Wheels": "20 × 2.125 in tires",
+      "Frame": "Steel; frame size 20 × 14",
+      "Drivetrain": "Shimano 7-speed, twist shifter",
+      "Rider height": "42 to 56 in",
+      "Weight limit": "80 lb total, including rider and gear",
+      "Dimensions": "55.50 in long, 25.00 in wide, 32.00 in high"
+    },
+    "source": "https://hyclinebike.com/products/cirle-wind-20?variant=45948365603041",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Who it suits",
+        "The Cirle Wind is for kids and teens who ride parks, paths and gentle trails and are ready for a geared bike."
+      ],
+      [
+        "Gears and tires",
+        "A Shimano 7-speed drivetrain and an easy twist shifter give young riders control on climbs, and the wide 2.125 inch tires soften small bumps."
+      ],
+      [
+        "Size and limits",
+        "The listing is for riders 42 to 56 inches tall with an 80 lb total weight limit, so measure your child before you order."
+      ],
+      [
+        "Our buying advice",
+        "Choose it for an active child who has outgrown a single-speed bike and wants to ride off the pavement."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "What height of rider is it for?",
+        "Hycline lists 42 to 56 inches."
+      ],
+      [
+        "How many gears does it have?",
+        "Seven, with a Shimano twist shifter."
+      ],
+      [
+        "What is the weight limit?",
+        "80 lb total, including the rider and gear."
+      ],
+      [
+        "How wide are the tires?",
+        "2.125 inches, with puncture resistance."
+      ],
+      [
+        "Is there a Hycline discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Hycline; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 22599,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "45948365603041",
+      "variantLabel": "Orange / 20\"×2.125\"",
+      "source": "https://hyclinebike.com/products/cirle-wind-20?variant=45948365603041",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "45948365603041"
+    }
+  },
+  {
+    "slug": "ecarpat-arena-20x4-kids-fat-tire-bike",
+    "brand": "hycline",
+    "name": "Ecarpat Arena 20\"×4\" Kids Fat Tire Bike, Orange",
+    "model": "Arena 20\"×4.0\"",
+    "image": "/images/products/ecarpat-arena-20x4-kids-fat-tire-bike.webp",
+    "imageAlt": "Gray Ecarpat Arena 20 inch fat tire kids bike with orange accents, a suspension fork and wide tires",
+    "imageWidth": 1200,
+    "imageHeight": 1039,
+    "category": "traditional-bikes",
+    "use": "recreation",
+    "label": "For snow, sand and rough paths",
+    "headline": "A 20 inch fat tire bike with a suspension fork, 7 speeds and dual disc brakes.",
+    "description": "A high-carbon steel 20×4.0 inch fat bike for riders about 4 to 5 feet tall with Shimano 7-speed gearing, a suspension fork and mechanical disc brakes.",
+    "verdict": "We recommend the Ecarpat Arena for children who want a bike that rolls over sand, snow and loose gravel. Hycline lists 20×4.0 inch fat tires, a high-carbon steel frame, a suspension fork, Shimano 7-speed gearing with a grip shifter and front and rear mechanical disc brakes for riders about 4 to 5 feet tall, ages 6 and up.",
+    "strengths": [
+      "Wide 20×4.0 inch fat tires with a shock-absorbing design for comfort.",
+      "Shimano 7-speed gearing with a grip shifter.",
+      "Front and rear mechanical disc brakes.",
+      "A suspension fork and high-carbon steel frame."
+    ],
+    "tradeoffs": [
+      "Fat tires add weight and rolling resistance on pavement.",
+      "Sized for riders about 4'0\" to 5'2\", so older teens will outgrow it.",
+      "The listing gives no weight for the bike itself."
+    ],
+    "specs": {
+      "Selected configuration": "Orange / 20\"x4.0\"; variant 44450608021729 (SKU SHP-W1856P152433)",
+      "Type": "Kids fat tire bike",
+      "Frame": "High-carbon steel; frame size 13.5 in",
+      "Wheels": "20×4.0 in Hycline fat tires on 20×4.0 aluminum rims",
+      "Fork": "Suspension fork",
+      "Drivetrain": "Shimano 7-speed, grip shifter",
+      "Brakes": "Front and rear mechanical disc brakes",
+      "Rider height": "About 4'0\" to 5'2\" (ages 6 and up)",
+      "Dimensions": "61.00 in long, 24.50 in wide, 34.50 in high"
+    },
+    "source": "https://hyclinebike.com/products/ecarpat-arena-20-4-0-fat-tire-bike?variant=44450608021729",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Who it suits",
+        "The Arena is for children aged six and up who ride in sand, snow, gravel or mixed terrain and want a stable, cushioned bike."
+      ],
+      [
+        "Fat tires and fork",
+        "Four inch tires spread the load and soak up bumps, and a suspension fork takes the sting out of hits to the hands."
+      ],
+      [
+        "Gears and brakes",
+        "A Shimano 7-speed drivetrain with a grip shifter gives easy changes, and mechanical discs at both wheels give immediate stopping."
+      ],
+      [
+        "Our buying advice",
+        "Choose it for adventurous riding. For mostly paved routes, a lighter standard-tire bike is easier to push."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "How wide are the tires?",
+        "20×4.0 inches."
+      ],
+      [
+        "What age is it for?",
+        "Hycline lists ages 6 and up, or about 4 to 5 feet tall."
+      ],
+      [
+        "How many gears?",
+        "Seven, with a Shimano grip shifter."
+      ],
+      [
+        "What brakes does it have?",
+        "Front and rear mechanical disc brakes."
+      ],
+      [
+        "Is there a Hycline discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Hycline; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 36599,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "44450608021729",
+      "variantLabel": "Orange / 20\"x4.0\"",
+      "source": "https://hyclinebike.com/products/ecarpat-arena-20-4-0-fat-tire-bike?variant=44450608021729",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "44450608021729"
+    }
+  },
+  {
+    "slug": "ecarpat-rock-rod-26-youth-mountain-bike",
+    "brand": "hycline",
+    "name": "Ecarpat Rock-Rod 26\" Youth Mountain Bike, White",
+    "model": "Rock-Rod 26\"×2.35\"",
+    "image": "/images/products/ecarpat-rock-rod-26-youth-mountain-bike.webp",
+    "imageAlt": "White Ecarpat Rock-Rod 26 inch youth mountain bike with a BMX handlebar and disc brakes",
+    "imageWidth": 1200,
+    "imageHeight": 1079,
+    "category": "traditional-bikes",
+    "use": "recreation",
+    "label": "For teens who want BMX style on trails",
+    "headline": "A 26 inch youth mountain bike with a BMX handlebar, four pegs and disc brakes.",
+    "description": "A carbon steel 26 inch bike with aluminum rims, WANDA 26×2.35 tires, a Shimano 7-speed shifter, front and rear disc brakes and four pegs.",
+    "verdict": "We recommend the Ecarpat Rock-Rod for teens who want a trail bike with a BMX attitude. Hycline lists a carbon steel frame with aluminum rims, WANDA 26×2.35 tires, a Shimano 7-speed shifter and rear derailleur, front and rear disc brakes, a height-adjustable BMX handlebar and four pegs, with the bike 85% pre-assembled and pedals and tools included.",
+    "strengths": [
+      "A Shimano 7-speed shifter and rear derailleur for smooth gear changes.",
+      "Aluminum rims and wide WANDA 26×2.35 tires.",
+      "Front and rear disc brakes for quick stops.",
+      "Four pegs and a BMX handlebar for a playful riding style."
+    ],
+    "tradeoffs": [
+      "Pegs and a BMX bar suit playful riding more than long road miles.",
+      "The listing says the pegs can carry an adult back; check local rules and rider safety.",
+      "The listing gives no weight for the bike in its text."
+    ],
+    "specs": {
+      "Selected configuration": "White / 26\"×2.35\"; variant 44429251870945 (SKU SHP-W1019124186)",
+      "Type": "Youth mountain bike",
+      "Frame": "Carbon steel",
+      "Wheels": "Aluminum rims; WANDA 26×2.35 tires",
+      "Drivetrain": "Shimano 7-speed (TX30-7R shifter, TZ500-7 derailleur)",
+      "Brakes": "Front and rear disc brakes",
+      "Handlebar": "Height-adjustable BMX handlebar",
+      "Pegs": "Four pegs",
+      "Assembly": "85% pre-assembled; pedals and tools included"
+    },
+    "source": "https://hyclinebike.com/products/rock-rod-26-2-35-mountain-bike-for-child-youth?variant=44429251870945",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Who it suits",
+        "The Rock-Rod suits teens and youth riders who want a trail-capable bike with a street-park look and a simple gearing system."
+      ],
+      [
+        "Gears, brakes and tires",
+        "A Shimano 7-speed shifter and rear derailleur give smooth changes, disc brakes at both wheels respond quickly and wide 26×2.35 tires add grip."
+      ],
+      [
+        "Pegs and handlebar",
+        "Front and rear pegs and an adjustable BMX handlebar let riders try tricks and find a comfortable position."
+      ],
+      [
+        "Our buying advice",
+        "Choose it for casual trail and neighborhood riding. Check the fit for your rider and the pegs for local rules."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "How many gears does it have?",
+        "Seven, with a Shimano shifter and derailleur."
+      ],
+      [
+        "What tires does it have?",
+        "WANDA 26×2.35 tires on aluminum rims."
+      ],
+      [
+        "Does it have pegs?",
+        "Yes. Hycline lists four pegs."
+      ],
+      [
+        "How is it delivered?",
+        "85% pre-assembled, with pedals and tools included."
+      ],
+      [
+        "Is there a Hycline discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Hycline; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 28999,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "44429251870945",
+      "variantLabel": "White / 26\"×2.35\"",
+      "source": "https://hyclinebike.com/products/rock-rod-26-2-35-mountain-bike-for-child-youth?variant=44429251870945",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "44429251870945"
+    }
+  },
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
 const checkoutProductsFor=brand=>products.filter(p=>p.brand===brand&&p.checkoutObservation);
