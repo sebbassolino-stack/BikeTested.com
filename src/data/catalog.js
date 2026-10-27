@@ -6787,6 +6787,763 @@ export const products = [
       "variantId": "44429251870945"
     }
   },
+  {
+    "slug": "gyroor-adult-e-bike-scooter-helmet-black-medium",
+    "brand": "gyroor",
+    "name": "Gyroor Adult E-Bike and Scooter Helmet, Black, Medium",
+    "model": "Adult Helmet",
+    "image": "/images/products/gyroor-adult-e-bike-scooter-helmet-black-medium.webp",
+    "imageAlt": "Black Gyroor adult helmet seen from the side with a chin strap and vents",
+    "imageWidth": 1142,
+    "imageHeight": 1269,
+    "category": "gear-and-tech",
+    "use": "commute",
+    "label": "For daily head protection",
+    "headline": "An ABS and EPS helmet with 10 vents and a removable washable liner.",
+    "description": "An adult helmet in three sizes with an ABS shell, shock-absorbing EPS foam, 10 vents and removable washable padding.",
+    "verdict": "We recommend the Gyroor Adult Helmet for scooter and e-bike commuters who want a simple, ventilated helmet. Gyroor lists a durable ABS outer shell with shock-absorbing EPS foam, 10 vents for airflow, removable washable inner padding and three adult sizes: Small 51 to 56 cm, Medium 55 to 58 cm and Large 58 to 61 cm.",
+    "strengths": [
+      "An ABS outer shell with EPS shock-absorbing foam.",
+      "Ten ventilation vents for airflow.",
+      "Removable, washable inner padding.",
+      "Three adult sizes in black, white and blue."
+    ],
+    "tradeoffs": [
+      "The listing does not state a safety certification, so check the helmet label and your local rules.",
+      "Measure your head and compare it with the size ranges before ordering.",
+      "A basic commuter helmet, not a high-speed or off-road design."
+    ],
+    "specs": {
+      "Selected configuration": "Black / Medium; variant 51792666394917 (SKU Helmet-Black-Medium)",
+      "Type": "Adult e-bike and scooter helmet",
+      "Shell and liner": "ABS outer shell with EPS foam",
+      "Ventilation": "10 vents",
+      "Padding": "Removable and washable",
+      "Sizes": "Small 51 to 56 cm; Medium 55 to 58 cm; Large 58 to 61 cm",
+      "Colors": "Black, white and blue"
+    },
+    "source": "https://gyroorboard.com/products/adult-e-bike-scooter-helmet-for-men-women?variant=51792666394917",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Who it suits",
+        "Adult commuters on scooters and e-bikes who want a simple helmet with good airflow."
+      ],
+      [
+        "Protection and comfort",
+        "Gyroor lists an ABS shell over EPS foam, 10 vents and padding you can remove and wash."
+      ],
+      [
+        "Fit",
+        "Measure around your head and use the size ranges. A helmet should sit level and snug with the chin strap fastened."
+      ],
+      [
+        "Our buying advice",
+        "Choose it for city commuting and confirm the certification label on the helmet you receive, since the listing does not name a standard."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "What sizes are available?",
+        "Small 51 to 56 cm, Medium 55 to 58 cm and Large 58 to 61 cm."
+      ],
+      [
+        "Is the padding washable?",
+        "Yes. It is removable and washable."
+      ],
+      [
+        "How many vents does it have?",
+        "Ten."
+      ],
+      [
+        "Does the listing name a safety standard?",
+        "No, so check the label on the helmet."
+      ],
+      [
+        "Is there a Gyroor discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Gyroor; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 4900,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "51792666394917",
+      "variantLabel": "Black / Medium",
+      "source": "https://gyroorboard.com/products/adult-e-bike-scooter-helmet-for-men-women?variant=51792666394917",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "51792666394917"
+    }
+  },
+  {
+    "slug": "gyroor-youth-helmet-black-52-56cm",
+    "brand": "gyroor",
+    "name": "Gyroor Adjustable Youth Helmet, Black, 52-56 cm",
+    "model": "Youth Helmet",
+    "image": "/images/products/gyroor-youth-helmet-black-52-56cm.webp",
+    "imageAlt": "Black Gyroor youth helmet with a chin strap seen from the front",
+    "imageWidth": 1200,
+    "imageHeight": 1433,
+    "category": "gear-and-tech",
+    "use": "commute",
+    "label": "For kids on scooters and bikes",
+    "headline": "A youth helmet listed to CPSC and ASTM bicycle standards, in three size ranges.",
+    "description": "A ventilated ABS and EPS helmet for riders aged 5 and up with an adjustable chin strap and quick-release buckle.",
+    "verdict": "We recommend the Gyroor Youth Helmet for children on scooters and bikes. Gyroor lists an ABS shell with an EPS impact liner and foam pads, effective ventilation and compliance with the U.S. CPSC bicycle helmet standard, ASTM F1447 and ASTM F1492, with an adjustable chin strap and quick-release buckle in three sizes for riders aged 5 and up.",
+    "strengths": [
+      "Gyroor lists U.S. CPSC bicycle helmet, ASTM F1447 and ASTM F1492 standards.",
+      "An ABS shell with an EPS liner and comfortable foam pads.",
+      "Three sizes: 49 to 52 cm, 52 to 56 cm and 55 to 58 cm.",
+      "An adjustable chin strap with a quick-release buckle."
+    ],
+    "tradeoffs": [
+      "Price varies by size, from $23.99 to $29.99.",
+      "Measure your child before ordering and check the label on the helmet.",
+      "Kids outgrow helmets; check the fit again as they grow."
+    ],
+    "specs": {
+      "Selected configuration": "Black / 52-56 cm; variant 51828653556005 (SKU Helmet-Black-8)",
+      "Type": "Youth helmet",
+      "Shell and liner": "ABS shell with EPS impact liner and foam pads",
+      "Standards listed": "U.S. CPSC bicycle, ASTM F1447, ASTM F1492",
+      "Sizes": "5+ (49 to 52 cm), 8+ (52 to 56 cm), 14+ (55 to 58 cm)",
+      "Closure": "Adjustable chin strap with quick-release buckle",
+      "Colors": "Black and white"
+    },
+    "source": "https://gyroorboard.com/products/adjustable-youth-helmet-for-boys-girls?variant=51828653556005",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Who it suits",
+        "Children aged five and up who ride scooters, bikes or skateboards."
+      ],
+      [
+        "Protection",
+        "Gyroor lists an ABS shell and EPS liner and lists the CPSC and ASTM standards, so look for the matching label on the helmet."
+      ],
+      [
+        "Fit",
+        "Choose the size range that matches your child's head, then adjust the strap so the helmet sits level."
+      ],
+      [
+        "Our buying advice",
+        "Choose it for a simple certified-looking youth helmet, and confirm the label and fit on arrival."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "What age is it for?",
+        "Gyroor lists riders aged 5 and older."
+      ],
+      [
+        "What standards are listed?",
+        "U.S. CPSC bicycle helmet, ASTM F1447 and ASTM F1492."
+      ],
+      [
+        "Which sizes are offered?",
+        "49 to 52 cm, 52 to 56 cm and 55 to 58 cm."
+      ],
+      [
+        "Why do prices differ?",
+        "Gyroor prices the three sizes differently, from $23.99 to $29.99."
+      ],
+      [
+        "Is there a Gyroor discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Gyroor; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 2799,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "51828653556005",
+      "variantLabel": "Black / 52-56 cm",
+      "source": "https://gyroorboard.com/products/adjustable-youth-helmet-for-boys-girls?variant=51828653556005",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "51828653556005"
+    }
+  },
+  {
+    "slug": "gyroor-touchscreen-gloves-for-ebike-escooter-large",
+    "brand": "gyroor",
+    "name": "Gyroor Touchscreen Gloves for E-Bike and E-Scooter, Large",
+    "model": "Touchscreen Gloves",
+    "image": "/images/products/gyroor-touchscreen-gloves-for-ebike-escooter-large.webp",
+    "imageAlt": "Black Gyroor riding gloves with a reinforced knuckle area shown on a hand",
+    "imageWidth": 1200,
+    "imageHeight": 1230,
+    "category": "gear-and-tech",
+    "use": "commute",
+    "label": "For padded hands and phone use",
+    "headline": "Reinforced microfiber gloves with three touchscreen fingertips and a double-layer palm.",
+    "description": "Padded riding gloves with touchscreen-friendly thumb, index and middle fingers, ventilation holes and a double-layer synthetic leather palm.",
+    "verdict": "We recommend the Gyroor Touchscreen Gloves for riders who want hand protection without taking gloves off to use a phone. Gyroor lists reinforced microfiber cushioning, three touchscreen-friendly fingers, a double-layer synthetic leather palm with anti-slip mesh, ventilation holes at the finger joints and double-stitched seams.",
+    "strengths": [
+      "Reinforced microfiber cushioning against scratches and minor impacts.",
+      "Thumb, index and middle fingers work on touchscreens.",
+      "A double-layer synthetic leather palm with anti-slip mesh.",
+      "Ventilation holes at the finger joints and double stitching."
+    ],
+    "tradeoffs": [
+      "Gloves are sized by chart, so check the size guide.",
+      "Price differs by size; the reviewed Large lists at $34.99.",
+      "They are for riding comfort and minor protection, not heavy crash gear."
+    ],
+    "specs": {
+      "Selected configuration": "L; variant 51864267522341 (SKU Gloves-L)",
+      "Type": "Padded riding gloves",
+      "Protection": "Reinforced microfiber cushioning",
+      "Touchscreen": "Thumb, index and middle fingers",
+      "Palm": "Double-layer synthetic leather with anti-slip mesh",
+      "Ventilation": "Holes at the finger joints",
+      "Sizes": "M, L, X, XX and 3X"
+    },
+    "source": "https://gyroorboard.com/products/touchscreen-gloves-for-ebike-escooter-cycling?variant=51864267522341",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Who it suits",
+        "Scooter and e-bike riders who want padded gloves and still need to use a phone or display."
+      ],
+      [
+        "Protection and grip",
+        "Reinforced microfiber and a double-layer synthetic palm cushion the hands and add grip, with double stitching for durability."
+      ],
+      [
+        "Touchscreen and airflow",
+        "Three fingers are touchscreen-compatible and ventilation holes keep hands cooler."
+      ],
+      [
+        "Our buying advice",
+        "Choose them for daily riding and check the size chart. For fast riding, consider more protective gear."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "Which fingers work on a touchscreen?",
+        "The thumb, index and middle fingers."
+      ],
+      [
+        "What sizes are available?",
+        "M, L, X, XX and 3X."
+      ],
+      [
+        "Are they ventilated?",
+        "Yes. There are ventilation holes at the finger joints."
+      ],
+      [
+        "How is the palm made?",
+        "Double-layer synthetic leather with anti-slip mesh."
+      ],
+      [
+        "Is there a Gyroor discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Gyroor; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 3499,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "51864267522341",
+      "variantLabel": "L",
+      "source": "https://gyroorboard.com/products/touchscreen-gloves-for-ebike-escooter-cycling?variant=51864267522341",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "51864267522341"
+    }
+  },
+  {
+    "slug": "gyroor-phone-mount-holder-1s-lock-release",
+    "brand": "gyroor",
+    "name": "Gyroor Phone Mount Holder for E-Bike and E-Scooter",
+    "model": "Phone Mount (1s Lock and Release)",
+    "image": "/images/products/gyroor-phone-mount-holder-1s-lock-release.webp",
+    "imageAlt": "Black Gyroor phone mount clamped to a handlebar holding a smartphone",
+    "imageWidth": 1200,
+    "imageHeight": 1327,
+    "category": "gear-and-tech",
+    "use": "commute",
+    "label": "For navigation on the bars",
+    "headline": "A tool-free phone clamp for 4.7 to 7 inch phones and 15 to 40 mm handlebars.",
+    "description": "A rotary-knob phone clamp with a half-enclosed camera-friendly design, 360 degree ball joint and tool-free handlebar clip.",
+    "verdict": "We recommend the Gyroor Phone Mount for riders who use their phone for navigation. Gyroor lists a rotary-knob clamp for phones from 4.7 to 7 inches up to 0.59 inch thick including a case, a half-enclosed design that leaves the camera exposed, a 360 degree rotating ball joint with rubber pads and a tool-free clip for handlebars from 15 to 40 mm.",
+    "strengths": [
+      "Fits phones from 4.7 to 7 inches, including cases up to 0.59 inch thick.",
+      "A half-enclosed design that keeps the camera exposed.",
+      "A 360 degree ball joint for landscape or portrait.",
+      "A tool-free clip for 15 to 40 mm handlebars."
+    ],
+    "tradeoffs": [
+      "A phone on the bars is exposed to vibration, so check the grip before riding.",
+      "Check handlebar diameter against the 15 to 40 mm range.",
+      "Do not operate a phone while moving."
+    ],
+    "specs": {
+      "Selected configuration": "Default Title; variant 51863203250469 (SKU Phone-Mount-Holder)",
+      "Type": "Handlebar phone mount",
+      "Phone fit": "4.7 to 7 in; up to 0.59 in thick including case",
+      "Handlebar fit": "15 to 40 mm (0.59 to 1.57 in)",
+      "Rotation": "360 degree ball joint",
+      "Install": "Tool-free quick-release clip"
+    },
+    "source": "https://gyroorboard.com/products/phone-mount-holder-for-ebike-escooter-1s-lock-release?variant=51863203250469",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Who it suits",
+        "Commuters who use a phone for maps and want it secure on a scooter or e-bike."
+      ],
+      [
+        "Grip and camera access",
+        "A rotary knob sets the clamp and a half-enclosed structure leaves the camera uncovered."
+      ],
+      [
+        "Install and adjust",
+        "The clip installs without tools and the ball joint rotates for portrait or landscape viewing."
+      ],
+      [
+        "Our buying advice",
+        "Choose it for navigation, and use voice prompts so your eyes stay on the road."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "Which phones fit?",
+        "Smartphones from 4.7 to 7 inches, up to 0.59 inch thick including a case."
+      ],
+      [
+        "What handlebar sizes fit?",
+        "15 to 40 mm."
+      ],
+      [
+        "Does it need tools?",
+        "No. The clip installs tool-free."
+      ],
+      [
+        "Does it block the camera?",
+        "No. A half-enclosed design leaves the camera exposed."
+      ],
+      [
+        "Is there a Gyroor discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Gyroor; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 1799,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "51863203250469",
+      "variantLabel": "Default Title",
+      "source": "https://gyroorboard.com/products/phone-mount-holder-for-ebike-escooter-1s-lock-release?variant=51863203250469",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "51863203250469"
+    }
+  },
+  {
+    "slug": "gyroor-led-light-strips-for-scooter-green",
+    "brand": "gyroor",
+    "name": "Gyroor LED Light Strips for Scooter Night Riding, Green",
+    "model": "LED Light Strips",
+    "image": "/images/products/gyroor-led-light-strips-for-scooter-green.webp",
+    "imageAlt": "A scooter with green Gyroor LED strips wound around its stem and deck",
+    "imageWidth": 1200,
+    "imageHeight": 775,
+    "category": "gear-and-tech",
+    "use": "commute",
+    "label": "For being seen from the side",
+    "headline": "Waterproof LED strips with eight modes and adhesive mounting for a scooter frame.",
+    "description": "Adhesive LED strips with 8 lighting modes, adjustable flash speed and brightness and a sealed waterproof design.",
+    "verdict": "We recommend the Gyroor LED Light Strips as a visibility and style add-on for a scooter. Gyroor lists high-brightness LEDs with 8 lighting modes, adjustable flashing speed and brightness, a reset to steady light, 360 degree illumination, upgraded adhesive and a sealed waterproof design. Batteries are not included.",
+    "strengths": [
+      "Eight lighting modes with adjustable speed and brightness.",
+      "360 degree illumination for visibility when moving or stopped.",
+      "An adhesive backing and strips that can be trimmed to fit.",
+      "A sealed waterproof design for outdoor use."
+    ],
+    "tradeoffs": [
+      "Batteries are not included.",
+      "Strip lights add side visibility but do not replace a headlight.",
+      "Clean and dry the surface and press firmly for 1 to 2 minutes when installing."
+    ],
+    "specs": {
+      "Selected configuration": "Green; variant 51890927599909 (SKU Led-Lights-Green)",
+      "Type": "Adhesive LED light strips",
+      "Modes": "8 lighting modes with adjustable speed and brightness",
+      "Install": "Upgraded adhesive backing; trimmable",
+      "Weather": "Sealed waterproof design",
+      "Power": "Batteries, not included",
+      "Colors": "Green, blue, pink, red, white and yellow"
+    },
+    "source": "https://gyroorboard.com/products/led-lights-for-scooter-night-riding?variant=51890927599909",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Who it suits",
+        "Scooter riders who want to be seen from the side and like to customize the look."
+      ],
+      [
+        "Modes and control",
+        "Eight modes with adjustable flashing speed and brightness, and a reset to steady light."
+      ],
+      [
+        "Install and use",
+        "Press the adhesive strips onto a clean, dry frame and trim to fit. Batteries are not included."
+      ],
+      [
+        "Our buying advice",
+        "Choose them for added side visibility and style, alongside a proper headlight and rear light."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "How many modes are there?",
+        "Eight."
+      ],
+      [
+        "Are batteries included?",
+        "No."
+      ],
+      [
+        "Can I cut the strip?",
+        "Yes. Gyroor says it can be trimmed to fit."
+      ],
+      [
+        "Are they waterproof?",
+        "Gyroor lists a sealed waterproof design."
+      ],
+      [
+        "Is there a Gyroor discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Gyroor; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 2299,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "51890927599909",
+      "variantLabel": "Green",
+      "source": "https://gyroorboard.com/products/led-lights-for-scooter-night-riding?variant=51890927599909",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "51890927599909"
+    }
+  },
+  {
+    "slug": "gyroor-repair-tool-kit-for-e-scooters-and-e-bikes",
+    "brand": "gyroor",
+    "name": "Gyroor Repair Tool Kit for E-Scooters and E-Bikes",
+    "model": "Repair Tool Kit",
+    "image": "/images/products/gyroor-repair-tool-kit-for-e-scooters-and-e-bikes.webp",
+    "imageAlt": "Gyroor folding repair tool with Allen keys and wrenches fanned out beside a hex key",
+    "imageWidth": 1200,
+    "imageHeight": 1013,
+    "category": "gear-and-tech",
+    "use": "commute",
+    "label": "For roadside fixes",
+    "headline": "A folding chrome-vanadium multi-tool with tire levers.",
+    "description": "A folding tool with Allen keys, hex sockets, open wrenches, a spoke wrench, screwdrivers and three nylon tire levers.",
+    "verdict": "We recommend the Gyroor Repair Tool Kit as a small tool to keep in a bag. Gyroor lists chrome-vanadium steel construction, Allen keys (2, 2.5, 3, 4, 5 and 6 mm), hex sockets (8, 9 and 10 mm) with an extension rod, open wrenches (8, 10 and 15 mm), a spoke wrench, flat and Phillips screwdrivers, three nylon tire levers and an extra Allen wrench for the hinge, folding to 3.5 x 1.8 x 1.1 inches.",
+    "strengths": [
+      "Allen keys, hex sockets, open wrenches and screwdrivers in one tool.",
+      "Three nylon tire levers for flat repair.",
+      "Chrome-vanadium steel construction.",
+      "Folds to 3.5 x 1.8 x 1.1 inches."
+    ],
+    "tradeoffs": [
+      "A multi-tool is for roadside adjustments, not full workshop repair.",
+      "Check that the sizes match your scooter's fasteners.",
+      "No pump or patch kit is included."
+    ],
+    "specs": {
+      "Selected configuration": "Default Title; variant 51863635525925 (SKU Repair-Tool-Kit)",
+      "Type": "Folding multi-tool",
+      "Material": "Chrome-vanadium steel",
+      "Allen keys": "2, 2.5, 3, 4, 5 and 6 mm",
+      "Sockets and wrenches": "8, 9 and 10 mm hex sockets with extension; 8, 10 and 15 mm open wrenches; 14G spoke wrench",
+      "Other": "Flat and Phillips screwdrivers; three nylon tire levers; extra hinge Allen wrench",
+      "Folded size": "3.5 x 1.8 x 1.1 in"
+    },
+    "source": "https://gyroorboard.com/products/repair-tool-kit?variant=51863635525925",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Who it suits",
+        "Scooter and e-bike riders who want a compact kit for adjustments and flat tires."
+      ],
+      [
+        "What is in it",
+        "Allen keys, hex sockets, open wrenches, a spoke wrench, screwdrivers and three tire levers."
+      ],
+      [
+        "Carry",
+        "It folds to about the size of a deck of cards and fits a bag or pocket."
+      ],
+      [
+        "Our buying advice",
+        "Choose it as a bag essential, and add a pump and patches for flats."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "What sizes of Allen key are included?",
+        "2, 2.5, 3, 4, 5 and 6 mm."
+      ],
+      [
+        "Are tire levers included?",
+        "Yes. Three nylon tire levers."
+      ],
+      [
+        "How big is it folded?",
+        "3.5 x 1.8 x 1.1 inches."
+      ],
+      [
+        "Is it steel?",
+        "Chrome-vanadium steel."
+      ],
+      [
+        "Is there a Gyroor discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Gyroor; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 1099,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "51863635525925",
+      "variantLabel": "Default Title",
+      "source": "https://gyroorboard.com/products/repair-tool-kit?variant=51863635525925",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "51863635525925"
+    }
+  },
+  {
+    "slug": "gyroor-cargo-net-for-electric-scooter",
+    "brand": "gyroor",
+    "name": "Gyroor Cargo Net for Electric Scooter",
+    "model": "Cargo Net",
+    "image": "/images/products/gyroor-cargo-net-for-electric-scooter.webp",
+    "imageAlt": "Black Gyroor cargo net with a tight mesh and plastic hooks laid flat",
+    "imageWidth": 1200,
+    "imageHeight": 822,
+    "category": "gear-and-tech",
+    "use": "commute",
+    "label": "For securing a bag or helmet",
+    "headline": "A 15.7 inch latex-core net that stretches to 30 inches with six scratch-free hooks.",
+    "description": "A tight-mesh elastic cargo net with natural latex bungee cord and six adjustable plastic hooks.",
+    "verdict": "We recommend the Gyroor Cargo Net for holding a bag, helmet or small box on a scooter. Gyroor lists a natural latex bungee core with a nylon cover, a 15.7 x 15.7 inch net that stretches to 30 x 30 inches, a 2.7 inch mesh that expands to 4.6 inches and six adjustable plastic hooks designed not to scratch.",
+    "strengths": [
+      "A natural latex bungee core with a nylon cover.",
+      "A 15.7 inch net that stretches to 30 inches.",
+      "A tight 2.7 inch mesh that holds smaller items.",
+      "Six rust-free plastic hooks that do not scratch."
+    ],
+    "tradeoffs": [
+      "A net secures light loads; heavy items need a rack or basket.",
+      "Check the hook points on your scooter before ordering.",
+      "Keep loads from blocking lights or the brake."
+    ],
+    "specs": {
+      "Selected configuration": "Default Title; variant 51885695074597 (SKU Cargo-Net-Black)",
+      "Type": "Elastic cargo net",
+      "Core": "Natural latex bungee with nylon cover",
+      "Size": "15.7 x 15.7 in, stretching to 30 x 30 in",
+      "Mesh": "2.7 in, expanding to 4.6 in",
+      "Hooks": "Six adjustable plastic hooks"
+    },
+    "source": "https://gyroorboard.com/products/cargo-net-for-electric-scooter?variant=51885695074597",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Who it suits",
+        "Scooter riders who want to strap down a helmet, bag or box."
+      ],
+      [
+        "Net and hooks",
+        "A tight mesh keeps small items from slipping and six plastic hooks attach without scratching."
+      ],
+      [
+        "Load safety",
+        "Keep the load light and clear of lights, brakes and the folding mechanism."
+      ],
+      [
+        "Our buying advice",
+        "Choose it for light loads on a scooter, bike or other outdoor vehicle."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "How big is it?",
+        "15.7 x 15.7 inches, stretching to about 30 x 30 inches."
+      ],
+      [
+        "How many hooks come with it?",
+        "Six."
+      ],
+      [
+        "Will the hooks scratch?",
+        "Gyroor lists scratch-free plastic hooks."
+      ],
+      [
+        "What else can it be used on?",
+        "Gyroor also lists motorcycles, bikes, ATVs, kayaks and paddleboards."
+      ],
+      [
+        "Is there a Gyroor discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Gyroor; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 1399,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "51885695074597",
+      "variantLabel": "Default Title",
+      "source": "https://gyroorboard.com/products/cargo-net-for-electric-scooter?variant=51885695074597",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "51885695074597"
+    }
+  },
+  {
+    "slug": "gyroor-360-rotation-cup-holder-for-e-bike-scooter",
+    "brand": "gyroor",
+    "name": "Gyroor 360 Rotation Cup Holder for E-Bike and E-Scooter",
+    "model": "360 Rotation Cup Holder",
+    "image": "/images/products/gyroor-360-rotation-cup-holder-for-e-bike-scooter.webp",
+    "imageAlt": "Black Gyroor swivel cup holder clamped to a tube with an adjustable clamp",
+    "imageWidth": 1200,
+    "imageHeight": 1655,
+    "category": "gear-and-tech",
+    "use": "commute",
+    "label": "For drinks on the bars",
+    "headline": "A tool-free swivel holder for tubes 19 to 29 mm in diameter.",
+    "description": "A spill-proof 360 degree swivel cup and bottle holder that mounts on horizontal or vertical tubes without tools.",
+    "verdict": "We recommend the Gyroor 360 Rotation Cup Holder for riders who want a drink within reach. Gyroor lists a spill-proof design, a full 360 degree swivel, an adjustable clamp for cups and bottles about 2.08 to 3.35 inches wide, tool-free installation on horizontal or vertical tubes and compatibility with tubes from 0.75 to 1.14 inches (19 to 29 mm).",
+    "strengths": [
+      "A 360 degree swivel for any angle.",
+      "An adjustable clamp for 2.08 to 3.35 inch cups and bottles.",
+      "Tool-free mounting on horizontal or vertical tubes.",
+      "Fits tubes of 19 to 29 mm."
+    ],
+    "tradeoffs": [
+      "Hot drinks on moving handlebars can spill; use a lidded bottle.",
+      "Check your tube diameter first.",
+      "A loaded holder can shift handling."
+    ],
+    "specs": {
+      "Selected configuration": "Default Title; variant 50881615659301 (SKU Cupholder)",
+      "Type": "Handlebar or frame cup holder",
+      "Swivel": "360 degrees",
+      "Container width": "About 2.08 to 3.35 in (53 to 85 mm)",
+      "Tube fit": "0.75 to 1.14 in (19 to 29 mm)",
+      "Install": "Tool-free"
+    },
+    "source": "https://gyroorboard.com/products/gyroor-360-rotation-water-bottle-holder-replacement-for-bike-electric-scooter?variant=50881615659301",
+    "evidence": "Official product page and specification editorial evaluation",
+    "sections": [
+      [
+        "Who it suits",
+        "Commuters and casual riders who want a bottle or cup within reach."
+      ],
+      [
+        "Fit and grip",
+        "An adjustable clamp holds cups and bottles in the listed width range, and the swivel adjusts the angle."
+      ],
+      [
+        "Install",
+        "It mounts on horizontal or vertical tubes without tools; check the tube diameter first."
+      ],
+      [
+        "Our buying advice",
+        "Choose it for water bottles and lidded cups."
+      ]
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "specsCheckedOn": "2026-10-27",
+    "faqs": [
+      [
+        "What tube size does it fit?",
+        "0.75 to 1.14 inches (19 to 29 mm)."
+      ],
+      [
+        "What container sizes fit?",
+        "About 2.08 to 3.35 inches wide."
+      ],
+      [
+        "Does it rotate?",
+        "Yes, a full 360 degrees."
+      ],
+      [
+        "Does it need tools?",
+        "No."
+      ],
+      [
+        "Is there a Gyroor discount code?",
+        "Yes. Use SEBASTIANBASSOL for 5% off at Gyroor; the price box shows the with-code price calculated from the listed price."
+      ]
+    ],
+    "relatedReviews": [],
+    "price": {
+      "amountMinor": 2599,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "50881615659301",
+      "variantLabel": "Default Title",
+      "source": "https://gyroorboard.com/products/gyroor-360-rotation-water-bottle-holder-replacement-for-bike-electric-scooter?variant=50881615659301",
+      "checkedOn": "2026-10-27"
+    },
+    "eligibility": {
+      "status": "program-supplied",
+      "variantId": "50881615659301"
+    }
+  },
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
 const checkoutProductsFor=brand=>products.filter(p=>p.brand===brand&&p.checkoutObservation);

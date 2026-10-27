@@ -1714,5 +1714,107 @@ export const guides = [
       "gyroor-anti-theft-alarm-for-scooters-and-e-bikes",
       "gyroor-combination-bike-chain-lock-2-6-ft"
     ]
+  },
+  {
+    "slug": "helmet-and-gloves-for-scooter-and-e-bike-riding",
+    "title": "Helmet and gloves for scooter and e-bike riding: how to choose and fit",
+    "description": "How to choose and fit an adult or youth helmet and a pair of riding gloves, with standards, sizing and ventilation checks.",
+    "image": "/images/lifestyle.webp",
+    "category": "Gear guide",
+    "answer": "Choose a helmet by measuring your head, matching the size range and checking for a safety label such as CPSC. Add gloves that cushion the palm and knuckles, and check the size chart. Replace a helmet after a crash.",
+    "sections": [
+      {
+        "heading": "Measure first",
+        "paragraphs": [
+          "Measure around the widest part of the head, just above the eyebrows, and compare it with the size ranges. A helmet should sit level, snug and low on the forehead, with the chin strap fastened so that only a finger fits under it."
+        ]
+      },
+      {
+        "heading": "Check the label",
+        "paragraphs": [
+          "Look for a safety standard on the helmet label, such as the U.S. CPSC bicycle helmet standard. Some listings name a standard and others do not, so confirm the label on the helmet you receive."
+        ]
+      },
+      {
+        "heading": "Ventilation and padding",
+        "paragraphs": [
+          "Vents keep the head cooler on warm commutes, and removable pads are easy to wash. A helmet that you find comfortable is a helmet you will wear."
+        ]
+      },
+      {
+        "heading": "Gloves",
+        "paragraphs": [
+          "Padded gloves protect the hands from scrapes and reduce vibration. Look for a grippy palm, ventilation and, if you use a phone on the bars, touchscreen fingertips. Check the size chart before ordering."
+        ]
+      }
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "topics": [
+      "gear-and-tech",
+      "electric-mobility"
+    ],
+    "related": [
+      "scooter-and-bike-accessories-essentials",
+      "commuter-gear-checklist",
+      "bike-or-electric-scooter"
+    ],
+    "products": [
+      "gyroor-adult-e-bike-scooter-helmet-black-medium",
+      "gyroor-youth-helmet-black-52-56cm",
+      "gyroor-touchscreen-gloves-for-ebike-escooter-large"
+    ]
+  },
+  {
+    "slug": "tools-mounts-and-carry-gear-for-scooter-and-e-bike-commuting",
+    "title": "Tools, mounts and carry gear for scooter and e-bike commuting",
+    "description": "A phone mount, a repair tool, a cargo net, a cup holder and side lights: the small accessories that make a scooter or e-bike commute work.",
+    "image": "/images/lifestyle.webp",
+    "category": "Gear guide",
+    "answer": "Add a phone mount for navigation, a compact repair tool for roadside adjustments, a cargo net for light loads, a cup holder for drinks and lights for side visibility. Check handlebar and tube diameters before buying any mount.",
+    "sections": [
+      {
+        "heading": "Navigation on the bars",
+        "paragraphs": [
+          "A phone mount should fit your handlebar diameter and your phone size, including its case. Set your route before you ride and use voice prompts so your eyes stay on the road."
+        ]
+      },
+      {
+        "heading": "A small repair kit",
+        "paragraphs": [
+          "A folding multi-tool with Allen keys, wrenches and tire levers covers most roadside adjustments. Check the sizes against your own fasteners, and carry a pump and patches for flats."
+        ]
+      },
+      {
+        "heading": "Carry a light load",
+        "paragraphs": [
+          "An elastic cargo net holds a helmet, bag or small box. Keep loads light and clear of lights, brakes and the folding mechanism, and use a rack or basket for heavier items."
+        ]
+      },
+      {
+        "heading": "Drinks and visibility",
+        "paragraphs": [
+          "A swivel cup holder keeps a bottle within reach, and adhesive LED strips add side visibility. They do not replace a headlight and rear light."
+        ]
+      }
+    ],
+    "publishedOn": "2026-10-27",
+    "updatedOn": "2026-10-27",
+    "topics": [
+      "gear-and-tech",
+      "electric-mobility"
+    ],
+    "related": [
+      "scooter-and-bike-accessories-essentials",
+      "lights-signals-horn-and-alarm-for-scooters-and-e-bikes",
+      "commuter-gear-checklist"
+    ],
+    "products": [
+      "gyroor-phone-mount-holder-1s-lock-release",
+      "gyroor-repair-tool-kit-for-e-scooters-and-e-bikes",
+      "gyroor-cargo-net-for-electric-scooter",
+      "gyroor-360-rotation-cup-holder-for-e-bike-scooter",
+      "gyroor-led-light-strips-for-scooter-green"
+    ]
   }
 ];
