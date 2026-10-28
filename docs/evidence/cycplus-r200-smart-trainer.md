@@ -1,6 +1,6 @@
 # CYCPLUS R200 Smart Trainer
 
-Checked: October 24, 2026
+Price and selected variant checked: October 28, 2026. Manufacturer specifications checked: October 24, 2026.
 
 ## Official listing and variant
 
@@ -8,8 +8,8 @@ Checked: October 24, 2026
 - Shopify product feed: https://www.cycplus.com/products/r200-smart-trainer.js
 - Feed product ID: `8390440157342`; published September 15, 2025.
 - Selected configuration: HG freehub, variant `45979103527070`, SKU `R200 (HG)`.
-- The official product page and feed list the R200 at `$399.00 USD`. The product page says shipping is calculated at checkout.
-- The listing was live on October 24, 2026. No delivery destination or final stock/fulfillment condition was checked.
+- The official product page and feed list the R200 at `$399.00 USD`. The product feed returned `available: true` for the selected variant on October 28. The product page says shipping is calculated at checkout.
+- This feed listing status does not establish delivery timing or final fulfillment. No destination or order was entered.
 
 ## Manufacturer specifications
 

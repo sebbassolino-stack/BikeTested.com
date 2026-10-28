@@ -185,10 +185,10 @@ export const guides = [
         "Consider service before replacement",
         "A proper adjustment can solve some problems without an upgrade. Budget for installation and setup where needed, and retain the original specification in your maintenance notes."
       ],
-      ["Make indoor riding the upgrade", "If weather or daylight is the barrier to riding, an indoor trainer may solve more than another outdoor component. We like the CYCPLUS T2 as a direct-drive option for a dedicated indoor setup. Check the bike’s axle, drivetrain and cassette requirements alongside the trainer’s compatibility list, and plan where the bike and trainer will stay between sessions. The linked review gathers the exact T2 specification and shopping offer."]
+      ["Make indoor riding the upgrade", "An indoor trainer can make riding possible when weather or daylight is the barrier. The CYCPLUS T2 and R200 are both direct-drive options for a compatible wheel-off setup, but their buying details differ. The T2 listing for the 11-speed cassette option is $499 and includes an 11–28 cassette; CYCPLUS lists 20% grade simulation, 85 N·m and 17.3 kg. The $399 R200 HG listing is 13.6 kg and lists 19% and 80 N·m, a useful trade if moving or storing the trainer matters more than a little extra maximum grade and torque. Prices were checked October 28, 2026; CYCPLUS specification listings were last checked October 25 for T2 and October 24 for R200, and are not Bike Tested measurements. Both list 130/135 mm quick-release and 142/148 mm thru-axle compatibility, Shimano 8–12 speed and SRAM 8–11 speed; SRAM 12 speed requires a separately sold XDR driver. Confirm your actual axle, cassette speed and included parts before ordering; ask whether the R200 package includes the cassette you need. R200 downhill simulation needs plug-in power. CYCPLUS code acceptance is recorded only for two exact pump variants, so eligibility for either trainer is unconfirmed and no after-code price should be assumed."]
     ],
     "publishedOn": "2026-10-19",
-    "updatedOn": "2026-10-26",
+    "updatedOn": "2026-10-28",
     "topics": [
       "components"
     ],
@@ -197,7 +197,20 @@ export const guides = [
       "belt-drive-vs-chain-drive",
       "how-to-clean-lube-bike-chain"
     ],
-    "products": ["cycplus-t2-bldc-direct-drive-smart-trainer"]
+    "productsIntro": "Compare these trainer reviews for drivetrain fit, cassette requirements and setup tradeoffs.",
+    "productsCta": false,
+    "sourceNote": "CYCPLUS T2 specifications checked October 25, 2026; R200 specifications checked October 24, 2026. Exact selected variants and listed prices were checked October 28, 2026.",
+    "products": ["cycplus-t2-bldc-direct-drive-smart-trainer", "cycplus-r200-smart-trainer"],
+    "sources": [
+      {
+        "name": "CYCPLUS T2 Smart Trainer",
+        "url": "https://www.cycplus.com/products/cycplus-t2-bldc-motor-drive-smart-trainer?variant=43398676086942"
+      },
+      {
+        "name": "CYCPLUS R200 Smart Trainer",
+        "url": "https://www.cycplus.com/products/r200-smart-trainer?variant=45979103527070"
+      }
+    ]
   },
   {
     "slug": "choose-a-cycling-computer",

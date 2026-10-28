@@ -2921,7 +2921,7 @@ export const products = [
       ]
     ],
     publishedOn: '2026-10-24',
-    updatedOn: '2026-10-24',
+    updatedOn: '2026-10-28',
     specsCheckedOn: '2026-10-24',
     faqs: [
       [
@@ -2951,7 +2951,7 @@ export const products = [
       variantId: '45979103527070',
       variantLabel: 'HG freehub (SKU R200 (HG))',
       source: 'https://www.cycplus.com/products/r200-smart-trainer?variant=45979103527070',
-      checkedOn: '2026-10-24',
+      checkedOn: '2026-10-28',
       isSalePrice: false
     },
     eligibility: {
@@ -4621,7 +4621,7 @@ export const products = [
       ]
     ],
     "publishedOn": "2026-10-25",
-    "updatedOn": "2026-10-25",
+    "updatedOn": "2026-10-28",
     "specsCheckedOn": "2026-10-25",
     "faqs": [
       [
@@ -4642,7 +4642,7 @@ export const products = [
       ],
       [
         "Is there a CYCPLUS discount code?",
-        "Yes. Use SEBASTIANBASSOL for 5% off at CYCPLUS; the price box shows the with-code price calculated from the listed price."
+        "SEBASTIANBASSOL is listed as a 5% Bike Tested code, but recorded acceptance is limited to two exact CYCPLUS pump variants. This T2 variant (43398676086942) has not been checked, so we do not claim eligibility or calculate an after-code price. Confirm the item subtotal at checkout."
       ]
     ],
     "relatedReviews": [],
@@ -4653,11 +4653,12 @@ export const products = [
       "variantId": "43398676086942",
       "variantLabel": "11-Speed Cassette (11-28T) - Pre-installed",
       "source": "https://www.cycplus.com/products/cycplus-t2-bldc-motor-drive-smart-trainer?variant=43398676086942",
-      "checkedOn": "2026-10-25"
+      "checkedOn": "2026-10-28"
     },
     "eligibility": {
-      "status": "program-supplied",
-      "variantId": "43398676086942"
+      "status": "unresolved",
+      "variantId": "43398676086942",
+      "evidence": "docs/evidence/cycplus-t2-bldc-direct-drive-smart-trainer.md#code-eligibility"
     }
   },
   {
