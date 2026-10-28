@@ -147,6 +147,22 @@
       "nextStep": "Published and verified on exact Cloudflare Pages deployment for commit 56c81d6 (deployment db3a8bd2-47ca-4fd2-b11a-fec8f5bdbef6; active). Live review and promo show the exact variant price, code and scope, canonical, and loaded product image."
     },
     {
+      "brand": "FinBike",
+      "brandSlug": "finbike",
+      "category": "electric-bikes",
+      "status": "review-published-live-routes-verified",
+      "priority": 1,
+      "product": "FinBike M50 Electric Bike, Green / United Kingdom (variant 45923953541177; SKU 5773584)",
+      "officialSource": "https://www.finbike.com/collections/electric-bike/products/finbike-m50-electric-bike?variant=45923953541177",
+      "reviewUrl": "/reviews/finbike-m50-electric-bike",
+      "affiliateUrl": "https://www.finbike.com/?ref=SEBASTIANBASSOLINO",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "8% partner-reported benefit; M50 eligibility and sale stacking unconfirmed; no after-code amount shown",
+      "offerDetailNeeded": false,
+      "checkoutTestedOn": null,
+      "nextStep": "Review commit 3e61c31 was pushed to origin/main; Cloudflare Pages check 122826294158 passed for deployment f8f75c93-536b-456c-8592-633cb8ab3787. Production canonical and product image return 200, the exact review route is in the public sitemap, and the page uses the approved FinBike referral URL. M50 Green / UK variant 45923953541177 / SKU 5773584 was listed at €718 on 2026-10-28; code eligibility and sale stacking are unconfirmed."
+    },
+    {
       "brand": "GEBIKE",
       "brandSlug": "gebike",
       "category": "electric-bikes",
