@@ -7545,6 +7545,84 @@ export const products = [
       "variantId": "50881615659301"
     }
   },
+  {
+    "slug": "finbike-m50-electric-bike",
+    "brand": "finbike",
+    "name": "FinBike M50 Electric Bike",
+    "model": "M50 Green / United Kingdom",
+    "image": "/images/products/finbike-m50-electric-bike.jpg",
+    "imageAlt": "FinBike M50 Green electric bike with 27.5-inch tires on a white background",
+    "imageWidth": 1600,
+    "imageHeight": 1600,
+    "category": "electric-bikes",
+    "use": "weekend",
+    "label": "For a full-size 27.5-inch setup",
+    "headline": "Full-size wheels and a removable battery, with range claims to reconcile.",
+    "description": "A 27.5 × 2.3-inch electric bike with a 36V 13Ah battery and front and rear suspension shown in FinBike's product gallery.",
+    "verdict": "Consider the M50 if you want a full-size electric bike with 27.5 × 2.3-inch tires, a 36V battery, and front and rear suspension. Compared with FinBike's folding EB8, the M50 uses a larger wheel-and-tire package; the EB8 is the clearer fit when folding and 20 × 4.0-inch tires matter. Before choosing the M50, resolve the range conflict: its product page gives 62–70 km, while the linked manual lists 88+ km. The same page also conflicts on warranty, returns, and wet-weather use.",
+    "strengths": [
+      "A 27.5 × 2.3-inch tire package and front fork with rear shock give the M50 a distinct full-size setup beside the EB8's 20 × 4.0-inch folding layout.",
+      "The M50 manual lists a removable 36V 13Ah battery (468Wh calculated), 28kg bike weight, and 3–4 hour charge time.",
+      "FinBike lists a charger, two battery keys, a bicycle pump, front and rear fenders, tools, and safety instructions in the package."
+    ],
+    "tradeoffs": [
+      "FinBike's product page claims 62–70 km of range while its linked manual lists 88+ km under laboratory conditions; neither figure is a Bike Tested measurement.",
+      "The manual lists 28kg, so plan for ground-level or roll-in storage rather than frequent lifting. The listing has no geometry chart; its 5 ft 3 in–6 ft 3 in height range is only a starting point for checking fit.",
+      "The same product page combines M50 and EB3 variants and gives conflicting warranty, return, and wet-weather guidance. Confirm the exact model and the written terms for your destination.",
+      "The seller lists 25 km/h and says the bike can be unlocked to 32 km/h. Check the configured speed and rules for the routes where you plan to ride."
+    ],
+    "specs": {
+      "Motor": "250W rated; the product page separately lists 500W peak, while the manual lists 250W",
+      "Battery": "36V 13Ah removable (468Wh calculated from voltage × capacity)",
+      "Claimed range": "62–70 km on the product page; 88+ km in the manual's laboratory reference",
+      "Wheels and tires": "27.5 × 2.3 inches",
+      "Maximum speed": "25 km/h listed; product page says it can be unlocked to 32 km/h",
+      "Maximum load": "150kg (manufacturer-listed)",
+      "Listed bike weight": "28kg (M50 manual)",
+      "Dimensions": "1815 × 700 × 1120mm (M50 manual)",
+      "Charging": "3–4 hours; charger output 42V, 3A (M50 manual)",
+      "Recommended rider height": "5 ft 3 in–6 ft 3 in (seller FAQ; no geometry chart)"
+    },
+    "source": "https://www.finbike.com/collections/electric-bike/products/finbike-m50-electric-bike?variant=45923953541177",
+    "sourceLinks": [
+      {"label": "FinBike M50 user manual (PDF)", "url": "https://cdn.shopify.com/s/files/1/0690/7808/9785/files/finbike-m50-ebike-user-manual.pdf?v=1780543936"}
+    ],
+    "evidence": "Manufacturer specifications; M50 code eligibility unconfirmed",
+    "sections": [
+      ["A full-size alternative to the EB8", "FinBike positions the M50 as an electric mountain bike and lists 27.5 × 2.3-inch tires, a 36V 13Ah battery, and a 150kg maximum load. Its product gallery shows a front fork and rear shock. The linked manual gives a 28kg complete-bike weight and overall dimensions of 1815 × 700 × 1120mm, which point to a bike that needs real storage space. Compare it with the EB8 if you want to reduce storage footprint: the EB8 folds and uses 20 × 4.0-inch tires, while the M50 takes a full-size wheel format. Neither layout is a substitute for checking reach, standover, and control position on the exact bike."],
+      ["Use the shorter range claim for planning, with margin", "The M50 product page advertises 62–70km; its linked manual lists 88+km and says the reference was measured in a laboratory with a fully charged battery. The manual also says results vary with load, humidity, wind, and riding habits. FinBike does not explain the gap between the two figures. Treat both as manufacturer claims, not Bike Tested range results, and do not plan a route around the 88km number. The listed 36V 13Ah battery works out to 468Wh; that calculation describes capacity, not distance. Until FinBike clarifies the conditions, leave a comfortable margin below the shorter published figure."],
+      ["Check fit and the exact model before ordering", "FinBike's FAQ recommends rider heights from 5 ft 3 in to 6 ft 3 in, but the product page provides no geometry chart or frame-size options. The FAQ question itself refers to an “isinwheel M50,” which looks like leftover product text; treat the height range as seller guidance, not a fit guarantee. The page's variant selector also combines M50 Green and White with EB3 Black and White. Match the model, color, and destination selection in the order summary. On October 28, 2026, M50 Green / United Kingdom (SKU 5773584, variant 45923953541177) was listed at €718.00; the page's shipping banner reflected a different destination, so confirm delivery and total cost for your address."],
+      ["Resolve the support and speed conflicts", "The product page's main riding warning says not to operate the bike in wet conditions, while its FAQ says light rain is fine. The same page offers a one-year warranty on main components and 14-day returns in its answers, then shows two-year and 30-day badges; the M50 manual lists a one-year limited warranty. Ask FinBike which written terms cover the exact model and delivery country before relying on rain use, returns, or support. The page lists 25km/h and says the bike can be unlocked to 32km/h. Confirm the delivered configuration and check local requirements for your intended roads and paths."],
+      ["What the Bike Tested code does here", "FinBike supplies the code SEBASTIANBASSOL for 8% off, but our recorded acceptance is for the EB8 Grey / Europe variant only. We have not confirmed the code on the M50 Green / United Kingdom variant, so this review does not calculate an after-code price. Check whether the code applies to your exact model and variant in the cart, then verify the item subtotal before completing an order."]
+    ],
+    "publishedOn": "2026-10-28",
+    "updatedOn": "2026-10-28",
+    "specsCheckedOn": "2026-10-28",
+    "faqs": [
+      ["How far can the FinBike M50 travel on one charge?", "FinBike's product page lists 62–70km, while the linked manual lists 88+km as a laboratory reference affected by load, humidity, wind, and riding habits. These are conflicting manufacturer figures, not Bike Tested range measurements. Plan conservatively and ask FinBike to explain the difference."],
+      ["How heavy is the M50, and will it fit me?", "The M50 manual lists 28kg and overall dimensions of 1815 × 700 × 1120mm. FinBike's FAQ recommends rider heights from 5 ft 3 in to 6 ft 3 in, but the listing has no geometry chart. Check standover, reach, and control access on the exact bike, and plan storage for the complete weight."],
+      ["Can I ride the M50 in the rain?", "FinBike's product-page warning says not to ride in wet conditions, while its FAQ says light rain is fine. The seller's guidance conflicts, so ask for written instructions for your exact model before planning wet-weather rides."],
+      ["What warranty and return period apply to the M50?", "The product-page FAQ lists a one-year main-component warranty and 14-day returns, while badges on the same page say two years and 30 days. The linked manual lists a one-year limited warranty. Confirm the written coverage and return terms for your order's destination."],
+    ],
+    "relatedReviews": [
+      {"slug": "finbike-eb8-electric-bike", "reason": "Compare FinBike's folding EB8 with 20 × 4.0-inch tires if compact storage and a wider tire package matter more than the M50's 27.5-inch wheel format."}
+    ],
+    "price": {
+      "amountMinor": 71800,
+      "currency": "EUR",
+      "region": "United Kingdom",
+      "variantId": "45923953541177",
+      "variantLabel": "M50 Green / United Kingdom (SKU 5773584)",
+      "source": "https://www.finbike.com/collections/electric-bike/products/finbike-m50-electric-bike?variant=45923953541177",
+      "checkedOn": "2026-10-28",
+      "isSalePrice": true
+    },
+    "eligibility": {
+      "status": "unresolved",
+      "variantId": "45923953541177",
+      "evidence": "docs/evidence/finbike-m50-electric-bike.md#offer-evidence"
+    }
+  },
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
 const checkoutProductsFor=brand=>products.filter(p=>p.brand===brand&&p.checkoutObservation);
