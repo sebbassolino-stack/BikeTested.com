@@ -1,0 +1,6 @@
+---
+import Layout from "../layouts/Layout.astro";
+import HolidayShopping from "../components/HolidayShopping.astro";
+import {config,offers} from "../data/holiday-2026.js";
+---
+<Layout title="BikeTested Holiday Gift Guide 2026: Cycling Gifts" description="Choose thoughtful cycling gifts with recipient-fit guidance and useful buying guides."><HolidayShopping kind="gifts" config={config} offers={offers}/></Layout>

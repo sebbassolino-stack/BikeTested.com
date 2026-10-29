@@ -1329,6 +1329,226 @@
       "offerDetailNeeded": false,
       "checkoutTestedOn": null,
       "nextStep": "Partner link added to the deals directory. No supplied reader code or discount is listed."
+    },
+    {
+      "brand": "Mearth",
+      "brandSlug": "mearth",
+      "category": "electric-mobility",
+      "status": "research-needed",
+      "priority": 3,
+      "affiliateUrl": "https://mearth.com.au/?ref=SEBASTIANBASSOLINO",
+      "code": null,
+      "reportedBenefit": null,
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "Teverun",
+      "brandSlug": "teverun",
+      "category": "electric-mobility",
+      "status": "research-needed",
+      "priority": 3,
+      "affiliateUrl": "https://teverunscooter.myshopify.com/?ref=xpqzcobg",
+      "code": null,
+      "reportedBenefit": null,
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "Amyet",
+      "brandSlug": "amyet",
+      "category": "electric-bikes",
+      "status": "research-needed",
+      "priority": 2,
+      "affiliateUrl": "https://www.amyet.com/?ref=SEBASTIANBASSOLINO",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "$25.00 off",
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "Hidoes",
+      "brandSlug": "hidoes",
+      "category": "electric-mobility",
+      "status": "research-needed",
+      "priority": 2,
+      "affiliateUrl": "https://hidoes.com/?ref=SEBASTIANBASSOLINO",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "7% off",
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "Vipcoo",
+      "brandSlug": "vipcoo",
+      "category": "electric-mobility",
+      "status": "research-needed",
+      "priority": 3,
+      "affiliateUrl": "https://vipcoo.com/?ref=SEBASTIANBASSOLINO",
+      "code": null,
+      "reportedBenefit": null,
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "Ecomobl",
+      "brandSlug": "ecomobl",
+      "category": "electric-mobility",
+      "status": "research-needed",
+      "priority": 3,
+      "affiliateUrl": "https://www.ecomobl.com/?ref=funwdogg",
+      "code": null,
+      "reportedBenefit": null,
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "DTTZH",
+      "brandSlug": "dttzh",
+      "category": "electric-mobility",
+      "status": "research-needed",
+      "priority": 3,
+      "affiliateUrl": "https://www.dttzh.com/?ref=SEBASTIANBASSOLINO",
+      "code": null,
+      "reportedBenefit": null,
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "Shyre Bikes",
+      "brandSlug": "shyre-bikes",
+      "category": "electric-bikes",
+      "status": "research-needed",
+      "priority": 3,
+      "affiliateUrl": "https://shyrebikes.co.uk/sebastianbassolino",
+      "code": null,
+      "reportedBenefit": null,
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "Victrip",
+      "brandSlug": "victrip",
+      "category": "electric-bikes",
+      "status": "research-needed",
+      "priority": 3,
+      "affiliateUrl": "https://victripebike.com?bg_ref=U48aDNp68C",
+      "code": null,
+      "reportedBenefit": null,
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "SOUKE Sports",
+      "brandSlug": "souke-sports",
+      "category": "gear-and-tech",
+      "status": "research-needed",
+      "priority": 3,
+      "affiliateUrl": "https://www.souke-cycling.com/?ref=wytynwkg",
+      "code": null,
+      "reportedBenefit": null,
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "THE BEAM",
+      "brandSlug": "the-beam",
+      "category": "gear-and-tech",
+      "status": "research-needed",
+      "priority": 2,
+      "affiliateUrl": "https://thebeamofficial.com/?ref=tbnjcvtg",
+      "code": "SEBASTIAN",
+      "reportedBenefit": "5% off",
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "JKING",
+      "brandSlug": "jking",
+      "category": "electric-mobility",
+      "status": "research-needed",
+      "priority": 3,
+      "affiliateUrl": "https://jkingboard.com/?ref=whnoqgzm",
+      "code": null,
+      "reportedBenefit": null,
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "Skatec (Soka Technology)",
+      "brandSlug": "skatec-soka-technology",
+      "category": "electric-mobility",
+      "status": "research-needed",
+      "priority": 2,
+      "affiliateUrl": "https://sokatec.com/?ref=SEBASTIANBASSOLINO",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "10% off",
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "Kugoo EU",
+      "brandSlug": "kugoo-eu",
+      "category": "electric-mobility",
+      "status": "research-needed",
+      "priority": 2,
+      "affiliateUrl": "https://kugoo.eu/?ref=kfagzfco",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "€20.00 off",
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "Evercross EU",
+      "brandSlug": "evercross-eu",
+      "category": "electric-mobility",
+      "status": "research-needed",
+      "priority": 2,
+      "affiliateUrl": "https://us.evercross.eu/?ref=yihbcxvo",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "5% off",
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "Magicycle",
+      "brandSlug": "magicycle",
+      "category": "electric-bikes",
+      "status": "research-needed",
+      "priority": 3,
+      "affiliateUrl": "https://www.magicyclebike.com/?ref=xivordim",
+      "code": null,
+      "reportedBenefit": null,
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "Joyor (EU)",
+      "brandSlug": "joyor-eu",
+      "category": "electric-mobility",
+      "status": "research-needed",
+      "priority": 2,
+      "affiliateUrl": "https://www.joyor-escooter.com/?ref=hdpupfrr",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "€20.00 off",
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "Sigma eScooter",
+      "brandSlug": "sigma-escooter",
+      "category": "electric-mobility",
+      "status": "research-needed",
+      "priority": 2,
+      "affiliateUrl": "https://www.sigma-escooter.com/?ref=SEBASTIANBASSOLINO",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "€20.00 off",
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "Dispatch.bike",
+      "brandSlug": "dispatch-bike",
+      "category": "gear-and-tech",
+      "status": "research-needed",
+      "priority": 2,
+      "affiliateUrl": "https://checkout.dispatch.bike/?ref=qwpxpztz",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "10% off",
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "COOSPO",
+      "brandSlug": "coospo",
+      "category": "gear-and-tech",
+      "status": "research-needed",
+      "priority": 2,
+      "affiliateUrl": "https://www.coospo.com/?ref=zfofvpsw",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "10% off",
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
     }
   ]
 }

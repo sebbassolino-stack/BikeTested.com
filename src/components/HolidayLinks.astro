@@ -1,0 +1,6 @@
+---
+const season=new Date().toISOString().slice(0,10);
+const visible=season>="2026-10-01"&&season<="2026-12-31";
+---
+{visible&&<nav class="holiday-links" aria-label="Holiday shopping"><span>Holiday shopping 2026</span><a href="/black-friday-deals">Black Friday &amp; Cyber Monday</a><a href="/holiday-gift-guide">Gift guide</a></nav>}
+<style>.holiday-links{max-width:1120px;margin:32px auto;padding:20px 24px;border-block:1px solid currentColor;display:flex;gap:16px 28px;flex-wrap:wrap;font-size:.9rem}.holiday-links span{font-weight:700}.holiday-links a{text-decoration:underline;text-underline-offset:.2em}</style>

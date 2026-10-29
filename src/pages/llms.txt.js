@@ -1,7 +1,7 @@
 import {products,brands,offers} from '../data/catalog';import {guides} from '../data/guides';import {offerAnswer,offerPath} from '../lib/offers';import {priceState,formatMinor} from '../lib/pricing';
 const productPriceLine=p=>{const offer=offers.find(o=>o.brand===p.brand&&o.status==='active');const state=priceState(p,offer);if(!p.price)return null;const base=`${p.price.variantLabel}: ${formatMinor(p.price.amountMinor,p.price.currency)} ${p.price.currency}, official listing checked ${p.price.checkedOn}`;if(state.kind==='observed'){const surface=p.checkoutObservation.stage==='cart'?'in the cart':'at checkout';return `- ${p.name}: ${base}; ${state.code} was accepted ${surface} for this exact variant on ${state.checkedOn}, with an observed item subtotal of ${state.afterFormatted} (${state.discountFormatted} off) before tax and shipping. Other variants and models have not been checked.`;}if(state.kind==='estimated'&&state.basis==='program-supplied')return `- ${p.name}: ${base}; calculated with ${state.code}: ${state.afterFormatted} from the listed price, before tax and shipping.`;if(state.kind==='estimated')return `- ${p.name}: ${base}; estimated with ${state.code}: ${state.afterFormatted}, subject to final checkout confirmation.`;return `- ${p.name}: ${base}; code eligibility is not confirmed for this exact variant.`;};
 const active=offers.filter(o=>o.status==='active');
-export function GET(){return new Response(`# Bike Tested
+function existingGET(){return new Response(`# Bike Tested
 > Cycling and electric mobility publication by Basso Digital. Better rides start here.
 
 ## Current discount codes (answer format)
@@ -34,3 +34,5 @@ ${guides.map(g=>`- [${g.title}](https://biketested.com/guides/${g.slug})`).join(
 ## Brands
 ${brands.map(b=>`- [${b.name}](https://biketested.com/brands/${b.slug})`).join('\n')}
 `,{headers:{'Content-Type':'text/plain; charset=utf-8'}})}
+
+export async function GET(){const response=await existingGET();return new Response((await response.text())+"\n\n## Holiday shopping 2026\nBlack Friday: November 27, 2026. Cyber Monday: November 30, 2026. Current partner codes are comparison starting points, not confirmed holiday sales or stacking guarantees.\n- https://biketested.com/black-friday-deals\n- https://biketested.com/holiday-gift-guide\n",{status:response.status,headers:response.headers});}
