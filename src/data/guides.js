@@ -34,7 +34,7 @@ export const guides = [
     "topics": [
       "electric-bikes"
     ],
-    "products": ["mooncool-tk2-folding-electric-trike", "mooncool-ft1-fat-tire-electric-trike", "mooncool-pop-folding-electric-bike", "mooncool-tk-pro-electric-trike", "finbike-eb8-electric-bike", "hiknight-h2-pro-off-road-ebike", "ancheer-hummer-electric-bike", "burchda-u8-step-thru-electric-bike", "eunorau-meta275-2-electric-bike", "actbest-cozy-wide-tire-step-through-electric-bike", "lankeleisi-mg740plus-dual-motor-electric-bike", "gebike-g01-compact-folding-electric-bike", "hiboy-ex11-full-suspension-electric-bike", "young-electric-e-scout-pro-electric-bike", "eunorau-urus-2-electric-mountain-bike", "gebike-gt20-fat-tire-electric-bike", "gebike-g02-hybrid-electric-bike", "ancheer-streetrider-electric-bike", "actbest-summit-plus-full-suspension-fat-tire-electric-bike", "happyrun-g100-pro-6000w-electric-bike", "lankeleisi-x3000-max-dual-motor-electric-bike", "eunorau-new-trike-2-electric-trike"],
+    "products": ["mooncool-tk2-folding-electric-trike", "mooncool-ft1-fat-tire-electric-trike", "mooncool-pop-folding-electric-bike", "mooncool-tk-pro-electric-trike", "finbike-eb8-electric-bike", "hiknight-h2-pro-off-road-ebike", "ancheer-hummer-electric-bike", "burchda-u8-step-thru-electric-bike", "eunorau-meta275-2-electric-bike", "actbest-cozy-wide-tire-step-through-electric-bike", "lankeleisi-mg740plus-dual-motor-electric-bike", "gebike-g01-compact-folding-electric-bike", "hiboy-ex11-full-suspension-electric-bike", "young-electric-e-scout-pro-electric-bike", "eunorau-urus-2-electric-mountain-bike", "gebike-gt20-fat-tire-electric-bike", "gebike-g02-hybrid-electric-bike", "ancheer-streetrider-electric-bike", "actbest-summit-plus-full-suspension-fat-tire-electric-bike", "happyrun-g100-pro-6000w-electric-bike", "lankeleisi-x3000-max-dual-motor-electric-bike", "eunorau-new-trike-2-electric-trike", "touroll-urbano-3-mid-drive-electric-bike"],
     "related": [
       "torque-sensor-vs-cadence-sensor",
       "mid-drive-vs-hub-motor",
@@ -356,7 +356,7 @@ export const guides = [
       "ebike-range-explained",
       "choose-your-first-ebike"
     ],
-    "products": ["ride1up-roadster-v3", "lectric-xpress2", "finbike-eb8-electric-bike", "eunorau-meta275-2-electric-bike", "lankeleisi-mg740plus-dual-motor-electric-bike", "mooncool-tk-pro-electric-trike", "eunorau-new-trike-2-electric-trike"]
+    "products": ["ride1up-roadster-v3", "lectric-xpress2", "finbike-eb8-electric-bike", "eunorau-meta275-2-electric-bike", "lankeleisi-mg740plus-dual-motor-electric-bike", "mooncool-tk-pro-electric-trike", "eunorau-new-trike-2-electric-trike", "touroll-urbano-3-mid-drive-electric-bike"]
   },
   {
     "slug": "mid-drive-vs-hub-motor",
@@ -465,7 +465,7 @@ export const guides = [
       "ebike-range-explained",
       "choose-your-first-ebike"
     ],
-    "products": ["ride1up-roadster-v3", "lectric-xpress2", "hiknight-h2-pro-off-road-ebike", "lankeleisi-mg740plus-dual-motor-electric-bike", "lankeleisi-x3000-max-dual-motor-electric-bike", "mooncool-tk-pro-electric-trike", "hiknight-gtx2-electric-dirt-bike"]
+    "products": ["ride1up-roadster-v3", "lectric-xpress2", "hiknight-h2-pro-off-road-ebike", "lankeleisi-mg740plus-dual-motor-electric-bike", "lankeleisi-x3000-max-dual-motor-electric-bike", "mooncool-tk-pro-electric-trike", "hiknight-gtx2-electric-dirt-bike", "touroll-urbano-3-mid-drive-electric-bike"]
   },
   {
     "slug": "belt-drive-vs-chain-drive",
@@ -1320,7 +1320,7 @@ export const guides = [
       "torque-sensor-vs-cadence-sensor",
       "fat-tire-vs-regular-tire-ebikes"
     ],
-    "products": ["aventon-pace-5-rec", "ride1up-roadster-v3", "lectric-xpress2", "finbike-eb8-electric-bike", "hiknight-h2-pro-off-road-ebike", "eunorau-meta275-2-electric-bike", "lankeleisi-mg740plus-dual-motor-electric-bike", "mooncool-tk-pro-electric-trike", "ancheer-streetrider-electric-bike", "actbest-summit-plus-full-suspension-fat-tire-electric-bike", "happyrun-g100-pro-6000w-electric-bike"]
+    "products": ["aventon-pace-5-rec", "ride1up-roadster-v3", "lectric-xpress2", "finbike-eb8-electric-bike", "hiknight-h2-pro-off-road-ebike", "eunorau-meta275-2-electric-bike", "lankeleisi-mg740plus-dual-motor-electric-bike", "mooncool-tk-pro-electric-trike", "ancheer-streetrider-electric-bike", "actbest-summit-plus-full-suspension-fat-tire-electric-bike", "happyrun-g100-pro-6000w-electric-bike", "touroll-urbano-3-mid-drive-electric-bike"]
   },
   {
     "slug": "cost-to-charge-an-ebike",

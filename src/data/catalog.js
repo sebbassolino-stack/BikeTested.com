@@ -7806,6 +7806,119 @@ export const products = [
      "evidence": "docs/evidence/touroll-s3-folding-fat-tire-electric-bike.md#offer-evidence"
    }
  },
+ {
+   "slug": "touroll-urbano-3-mid-drive-electric-bike",
+   "brand": "touroll",
+   "name": "Touroll Urbano 3 Mid-Drive Electric Bike",
+   "model": "Urbano 3 / EU / Teal",
+   "image": "/images/products/touroll-urbano-3-mid-drive-electric-bike-cutout.webp",
+   "imageAlt": "Teal Touroll Urbano 3 EU electric trekking bike with a rear rack and front suspension",
+   "imageWidth": 1200,
+   "imageHeight": 1200,
+   "category": "electric-bikes",
+   "use": "commute",
+   "label": "For geared, torque-sensing rides",
+   "headline": "A mid-drive trekking bike for a route with climbs.",
+   "description": "A 250W mid-drive e-bike with torque sensing, a removable 468Wh battery, hydraulic brakes and 27.5 × 2.1-inch tires. Touroll lists its complete weight at 25.6kg, so plan storage and handling as carefully as the route.",
+   "verdict": "The Touroll Urbano 3 suits riders looking for a conventional trekking e-bike with a mid-drive, torque sensor and seven-speed gearing for paved commutes and mixed routes. Touroll lists up to 70Nm of motor torque, an 80mm lockout fork and hydraulic brakes, but those specifications do not establish climbing performance or ride feel. At 25.6kg, this is a substantial bike to store and maneuver. The EU / Teal variant was listed at €1,299 on October 28; the owner-supplied SEBASTIANBASSOL code reports 2% off, but eligibility for this model and stacking with the sale price are unconfirmed.",
+   "strengths": [
+     "The 250W / 36V mid-drive combines a torque sensor with a Shimano seven-speed rear derailleur, giving buyers a clear geared-pedaling brief to assess on their actual hills and routes.",
+     "A removable 36V 13Ah / 468Wh battery and listed 4–5-hour charge time make off-bike charging a practical option where the storage setup allows it.",
+     "Touroll pairs 27.5 × 2.1-inch tires with an 80mm suspension fork with lockout and 160mm hydraulic disc brakes; these are specification claims, not Bike Tested ride or braking results.",
+     "The seller gives a recommended rider-height range of 160–195cm alongside seat-height and standover measurements, which helps narrow an in-person fit check."
+   ],
+   "tradeoffs": [
+     "At 25.6kg listed weight, it calls for a ground-level storage plan if you will move it often; a mid-drive label does not make a full-size bike easy to carry.",
+     "The advertised maximum range is 120km under favorable stated conditions. Treat that as a ceiling for comparison, not a route estimate or a measured Bike Tested result.",
+     "The 27.5 × 2.1-inch tires are a different brief from the wider, folding S3; compare your surfaces, replacement-tire access and storage needs before choosing between them.",
+     "SEBASTIANBASSOL is supplied for 2% off, but this exact variant has not been checked and stacking with its current sale price is unconfirmed."
+   ],
+   "specs": {
+     "Selected configuration": "EU / Teal; Shopify variant 44894115725448; SKU 1290595",
+     "Motor and sensor": "250W / 36V mid-drive, torque sensor, up to 70Nm maximum torque (manufacturer-listed)",
+     "Battery": "36V 13Ah removable battery; 468Wh (manufacturer-listed)",
+     "Claimed range": "Up to 120km in pedal-assist mode; Touroll states a 75kg load, full charge, 26°C, 15km/h constant speed, flat roads and no strong wind",
+     "Assist settings": "Five pedal-assist speed levels: 12, 15, 18, 21 and 25km/h",
+     "Cut-off speed": "25km/h",
+     "Drivetrain": "Shimano seven-speed rear derailleur",
+     "Wheels and tires": "27.5 × 2.1-inch pneumatic tires; 40–70 PSI listed, with 45–65 PSI marked best",
+     "Fork": "Front suspension with 80mm travel and lockout",
+     "Brakes": "Hydraulic disc brakes; 160mm rotor diameter",
+     "Frame and fit": "Aluminum alloy; 27.5 × 17.5-inch frame; recommended rider height 160–195cm; 17.7-inch standover; 33.1–41.3-inch seat height",
+     "Listed weight": "25.6kg",
+     "Unfolded dimensions": "1,870 × 690 × 1,160mm",
+     "Maximum rider weight": "About 120kg (manufacturer FAQ; confirm how the seller counts rider and cargo load)",
+     "Charging time": "4–5 hours (manufacturer-listed)",
+     "Water resistance": "IPX5 (manufacturer-listed; Touroll says components are not fully waterproof and advises avoiding heavy rain)",
+     "Display": "1.8-inch LCD"
+   },
+   "source": "https://touroll.com/products/touroll-urbano-3-mid-drive-electric-bike?variant=44894115725448",
+   "evidence": "Manufacturer-specification editorial evaluation",
+   "sections": [
+     [
+       "A mid-drive makes the gear choice part of the ride",
+       "The Urbano 3 puts its motor at the cranks and sends assistance through a Shimano seven-speed drivetrain. Touroll lists a torque sensor and up to 70Nm of maximum torque, which describes the system but does not tell us how the bike feels on a particular climb. If you can test-ride it, try a gentle start, a rolling ascent and a shift under light pedal pressure. Ask the seller for the correct shifting guidance and confirm that a local shop can support this exact drive system."
+     ],
+     [
+       "Plan around the battery, not the headline range",
+       "The removable battery is listed as 36V, 13Ah and 468Wh. Touroll advertises up to 120km in pedal-assist mode and says that result assumes a full battery, a 75kg load, 26°C, a constant 15km/h, flat roads and no strong wind. Hills, stops, speed, cargo, temperature and assistance change real distance. Size the battery for the return trip with a reserve rather than planning around the maximum figure."
+     ],
+     [
+       "Check fit before committing to a full-size frame",
+       "Touroll recommends the 27.5 × 17.5-inch frame for riders from 160–195cm. It lists a 17.7-inch standover and an adjustable 33.1–41.3-inch seat height; its geometry image also gives 15 inches of reach. These measurements are a starting point, not a fit guarantee. Check that the reach feels natural and that you can start, stop and place a foot comfortably on the actual bike. The 25.6kg listed weight also makes stairs and frequent lifting a meaningful part of the decision."
+     ],
+     [
+       "The rolling equipment has a different job from the folding S3",
+       "The Urbano 3 uses 27.5 × 2.1-inch tires, an 80mm lockout fork and 160mm hydraulic discs. That equipment sits in a more conventional trekking format than the Touroll S3’s 20 × 3.0-inch tires and folding frame. Compare wheel and tire replacement access, storage dimensions and the surface you ride most; the specifications alone do not prove comfort, braking distance or grip on any route."
+     ],
+     [
+       "Our buying advice: verify the whole ownership setup",
+       "Before ordering, confirm the exact EU / Teal configuration, nearby service for its mid-drive system, assembly support, and a place to store a 25.6kg full-size bike. On October 28, Touroll listed this variant at €1,299, reduced from a displayed €1,399 regular price. The owner-supplied SEBASTIANBASSOL code reports 2% off, but we have not confirmed eligibility on variant 44894115725448 or stacking with the sale price. Try the code if you want, then check the final item total before paying; no after-code amount is claimed here."
+     ]
+   ],
+   "faqs": [
+     [
+       "Is the Touroll Urbano 3 a mid-drive e-bike?",
+       "Yes. Touroll identifies the Urbano 3 as a 250W / 36V mid-drive with a torque sensor and up to 70Nm of maximum torque. Those are manufacturer specifications, not a measured Bike Tested result."
+     ],
+     [
+       "How far can the Urbano 3 travel on one charge?",
+       "Touroll claims up to 120km in pedal-assist mode under stated conditions including a 75kg load, 15km/h on flat roads, 26°C and no strong wind. Treat this as the manufacturer’s maximum-range claim, not a measured route estimate."
+     ],
+     [
+       "What rider height does the Urbano 3 fit?",
+       "Touroll recommends riders from 160–195cm and lists a 27.5 × 17.5-inch frame, 17.7-inch standover and 33.1–41.3-inch seat height. Check comfortable reach and control access on the exact bike."
+     ],
+     [
+       "Is the Urbano 3 battery removable?",
+       "Touroll lists a removable 36V 13Ah / 468Wh battery that can be charged on or off the bike. Follow the supplied battery and charging instructions."
+     ]
+   ],
+   "relatedReviews": [
+     {
+       "slug": "touroll-s3-folding-fat-tire-electric-bike",
+       "reason": "Compare the Urbano 3’s 27.5 × 2.1-inch trekking format and mid-drive with the S3’s folding frame and 20 × 3.0-inch tires; the choice turns on route, storage and handling needs."
+     }
+   ],
+   "publishedOn": "2026-10-28",
+   "updatedOn": "2026-10-28",
+   "specsCheckedOn": "2026-10-28",
+   "price": {
+     "amountMinor": 129900,
+     "currency": "EUR",
+     "region": "EU",
+     "variantId": "44894115725448",
+     "variantLabel": "EU / Teal (SKU 1290595)",
+     "source": "https://touroll.com/products/touroll-urbano-3-mid-drive-electric-bike?variant=44894115725448",
+     "checkedOn": "2026-10-28",
+     "isSalePrice": true
+   },
+   "eligibility": {
+     "status": "unresolved",
+     "variantId": "44894115725448",
+     "evidence": "docs/evidence/touroll-urbano-3-mid-drive-electric-bike.md#offer-evidence"
+   }
+ },
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
 const checkoutProductsFor=brand=>products.filter(p=>p.brand===brand&&p.checkoutObservation);

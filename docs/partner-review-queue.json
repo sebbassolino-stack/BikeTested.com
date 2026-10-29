@@ -1216,23 +1216,39 @@
       "reportedBenefit": "2% off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": null,
-      "nextStep": "Published in review commit b70fda1, pushed to origin/main. The live review, exact official image and agent feed return 200 on biketested.com and biketested.pages.dev; the live image SHA-256 matches local. The exact EU / Black variant 46121561194632 (SKU 1296313) was listed at €689 on October 28. SEBASTIANBASSOL reports 2% off, but eligibility for this model and stacking with the listed sale price are untested; agent feed eligibility is unresolved, checkoutObservation and codeCheckObservation are null, and afterCodePrice is null. npm run check and npm run build passed with 88 reviews; local desktop and 375px review QA, no-overflow check and code-copy feedback passed. GitHub deployment metadata was unavailable. Continue with Eleglide after this release."
+      "nextStep": "Published in review commit b70fda1, pushed to origin/main. The live review, exact official image and agent feed return 200 on biketested.com and biketested.pages.dev; the live image SHA-256 matches local. The exact EU / Black variant 46121561194632 (SKU 1296313) was listed at €689 on October 28. SEBASTIANBASSOL reports 2% off, but eligibility for this model and stacking with the listed sale price are untested; agent feed eligibility is unresolved, checkoutObservation and codeCheckObservation are null, and afterCodePrice is null. npm run check and npm run build passed with 88 reviews; local desktop and 375px review QA, no-overflow check and code-copy feedback passed. GitHub deployment metadata was unavailable. Eleglide bike reviews are held while its listed models show out of stock; see the next Touroll product queue item."
+    },
+    {
+      "brand": "Touroll",
+      "brandSlug": "touroll",
+      "category": "electric-bikes",
+      "status": "review-selected-ready-to-publish",
+      "priority": 1,
+      "product": "Touroll Urbano 3 Mid-Drive Electric Bike, EU / Teal (variant 44894115725448; SKU 1290595)",
+      "officialSource": "https://touroll.com/products/touroll-urbano-3-mid-drive-electric-bike?variant=44894115725448",
+      "reviewUrl": "/reviews/touroll-urbano-3-mid-drive-electric-bike",
+      "affiliateUrl": "https://touroll.com/?ref=SEBASTIANBASSOLINO",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "2% off",
+      "offerDetailNeeded": false,
+      "checkoutTestedOn": null,
+      "nextStep": "Publish the specification-backed review. The exact EU / Teal product is listed at €1,299 and currently available. Model-specific code eligibility and sale-price stacking are untested; do not claim an after-code price."
     },
     {
       "brand": "Eleglide",
       "brandSlug": "eleglide",
       "category": "electric-bikes",
-      "status": "offer-added-review-prioritized",
+      "status": "review-held-current-bike-range-unavailable",
       "priority": 1,
-      "product": null,
-      "officialSource": null,
+      "product": "Electric Trekking Bike T2, EU (variant 48134803488973; SKU 1292887)",
+      "officialSource": "https://eleglide.com/products/electric-trekking-bike-t2-st?variant=48134803488973",
       "reviewUrl": null,
       "affiliateUrl": "https://eleglide.com/?ref=pkkdfmbw",
       "code": "SEBASTIANBASSOL",
       "reportedBenefit": "€20.00 off",
-      "offerDetailNeeded": true,
+      "offerDetailNeeded": false,
       "checkoutTestedOn": null,
-      "nextStep": "Research an exact product only when supported by a primary source; preserve owner-supplied offer scope and verify any model-specific eligibility before claiming savings."
+      "nextStep": "Review held on October 28, 2026: official Shopify feeds list the T2 EU, Mopride 2 EU 27.5 / 29, T1 EU, T1 ST EU Grey / White, and Mopride 3 EU variants as unavailable. No purchase-led review was published. Recheck after an exact regional e-bike variant returns to stock; the owner-supplied €20 code's eligibility and currency rules are unresolved."
     },
     {
       "brand": "FVKING",
