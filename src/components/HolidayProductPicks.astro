@@ -1,0 +1,19 @@
+---
+import picks from '../data/holiday-picks.json';
+interface Props {offers: {brand:string;url:string;path:string}[];domain:string}
+const {offers,domain}=Astro.props;
+const normalize=(path:string)=>path.replace(/\/$/,'');
+const cards=picks.map(p=>({...p,offer:offers.find(o=>p.offerPath&&normalize(o.path)===normalize(p.offerPath))}));
+const schema={'@context':'https://schema.org','@type':'ItemList',name:'Holiday gift shortlist',itemListElement:cards.map((p,i)=>({'@type':'ListItem',position:i+1,name:p.name,url:'https://'+domain+p.reviewPath}))};
+---
+<section class="gift-shortlist" aria-labelledby="gift-shortlist-heading" data-gift-shortlist>
+<h2 id="gift-shortlist-heading">Our gift shortlist</h2>
+<p>Specific ideas from our existing coverage. Start with the recipient, then use the review or buying brief to choose the exact model. Brand offer pages explain the supplied code and its scope.</p>
+<div class="gift-pick-grid">{cards.map(p=><article class="gift-pick" data-gift-pick={p.slug}>
+{p.image&&<a class="gift-pick-image" href={p.reviewPath} tabindex="-1" aria-hidden="true"><img src={p.image} alt="" width="640" height="480" loading="lazy" decoding="async"/></a>}
+<div class="gift-pick-body"><p class="gift-pick-role">{p.role}</p><h3><a href={p.reviewPath}>{p.name}</a></h3><p>{p.reason}</p><div class="gift-pick-actions"><a href={p.reviewPath}>{p.reviewPath.includes('/best/')?'Read the buying brief':'Read the review'} →</a>{p.offer&&<><a href={p.offer.path}>Brand offer & terms →</a><a class="gift-pick-shop" href={p.offer.url} target="_blank" rel="sponsored noopener noreferrer" data-commerce-shop data-brand={p.offer.brand} data-product={p.slug} data-placement="holiday-gift-shortlist">Shop {p.offer.brand} ↗</a></>}</div></div>
+</article>)}</div>
+{domain==='toolcrucible.com'&&<p>For software, choose a plan with the recipient. Confirm account ownership, licensing and whether the vendor permits gifts or transfers before paying.</p>}
+</section>
+<script type="application/ld+json" set:html={JSON.stringify({"@context":"https://schema.org","@graph":[schema]})}/>
+<style>.gift-shortlist{margin:40px 0}.gift-shortlist>p{max-width:820px}.gift-pick-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px;margin-top:28px}.gift-pick{min-width:0;border:1px solid currentColor;border-radius:12px;overflow:hidden;display:flex;flex-direction:column}.gift-pick-image{display:flex;align-items:center;justify-content:center;background:#f5f5f3;padding:24px;height:260px}.gift-pick-image img{width:100%;height:100%;object-fit:contain;mix-blend-mode:normal}.gift-pick-body{padding:24px;display:flex;flex-direction:column;flex:1}.gift-pick-role{font-size:.8rem;text-transform:uppercase;letter-spacing:.08em;margin:0 0 12px}.gift-pick h3{font-size:1.4rem;line-height:1.25;margin:0 0 16px}.gift-pick-actions{display:flex;flex-direction:column;align-items:flex-start;gap:12px;margin-top:auto;padding-top:18px}.gift-pick a{text-decoration:underline;text-underline-offset:.2em}.gift-pick-shop{padding:10px 16px;border:1px solid currentColor;border-radius:6px;font-weight:600}@media(max-width:650px){.gift-pick-grid{grid-template-columns:1fr}.gift-pick-image{height:230px}.gift-pick-body{padding:20px}}</style>

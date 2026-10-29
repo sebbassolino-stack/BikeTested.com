@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "cycplus-as2-pro-max-tiny-e-pump",
+    "name": "CYCPLUS AS2 Pro Max",
+    "role": "For a compact ride kit",
+    "reason": "An electric pump option for a rider’s existing kit. Match valve compatibility and pressure requirements to the bike they actually ride.",
+    "reviewPath": "/reviews/cycplus-as2-pro-max-tiny-e-pump",
+    "image": "/images/products/cycplus-as2-pro-max-tiny-e-pump.webp",
+    "offerPath": "/promo/cycplus"
+  },
+  {
+    "slug": "gyroor-repair-tool-kit-for-e-scooters-and-e-bikes",
+    "name": "Gyroor Repair Tool Kit",
+    "role": "For an e-bike or scooter owner",
+    "reason": "A practical toolkit gift for routine adjustments. Check the included tools against the fasteners on the recipient’s own bike or scooter.",
+    "reviewPath": "/reviews/gyroor-repair-tool-kit-for-e-scooters-and-e-bikes",
+    "image": "/images/products/gyroor-repair-tool-kit-for-e-scooters-and-e-bikes.webp",
+    "offerPath": "/promo/gyroor"
+  },
+  {
+    "slug": "young-electric-tire-press-2-ebike-rack",
+    "name": "Young Electric Tire-Press 2 Rack",
+    "role": "For planned bike trips",
+    "reason": "A substantial rack purchase to choose together. Confirm vehicle hitch, bike weight, tire dimensions and loading needs before ordering.",
+    "reviewPath": "/reviews/young-electric-tire-press-2-ebike-rack",
+    "image": "/images/products/young-electric-tire-press-2-ebike-rack.webp",
+    "offerPath": "/promo/young-electric"
+  },
+  {
+    "slug": "gyroor-adult-e-bike-scooter-helmet-black-medium",
+    "name": "Gyroor Adult Helmet — Black, Medium",
+    "role": "For a rider choosing new kit",
+    "reason": "Choose this exact helmet with the rider rather than guessing their size. Use the manufacturer’s fit guidance and suitability information for their riding needs.",
+    "reviewPath": "/reviews/gyroor-adult-e-bike-scooter-helmet-black-medium",
+    "image": "/images/products/gyroor-adult-e-bike-scooter-helmet-black-medium.webp",
+    "offerPath": "/promo/gyroor"
+  }
+]
