@@ -7623,6 +7623,76 @@ export const products = [
       "evidence": "docs/evidence/finbike-m50-electric-bike.md#offer-evidence"
     }
   },
+  {
+    "slug": "finbike-w3-commuter-electric-scooter",
+    "brand": "finbike",
+    "name": "FinBike W3 Commuter Electric Scooter",
+    "model": "W3 [350W 34km] / Europe",
+    "image": "/images/products/finbike-w3-commuter-electric-scooter.jpg",
+    "imageAlt": "FinBike W3 commuter electric scooter in side view, with a folded view and app display on a white background",
+    "imageWidth": 1000,
+    "imageHeight": 1000,
+    "category": "electric-mobility",
+    "use": "commute",
+    "label": "For a compact last-mile commute",
+    "headline": "A folding commuter format, with carry weight and range to verify.",
+    "description": "FinBike lists a 350W front motor, 8.5-inch wheels and compact folded dimensions for the W3; its range and carry-weight details need careful reading.",
+    "verdict": "Consider the W3 if a folding scooter suits the door-to-door gap between a station and your destination. FinBike lists 8.5-inch wheels, folded dimensions of 102.5 × 44.7 × 47.5cm and a 36V 7.8Ah battery. Its 34km range is a manufacturer claim, not a Bike Tested result. Carry weight also needs a check: the product specification panel says 12.2kg net, while the Shopify Europe variant record carries 23.2kg in its weight field. Ask FinBike whether that field is packaging or finished scooter weight before planning stairs. The listed 30km/h maximum speed does not establish road eligibility; check the rules for your exact route and vehicle.",
+    "strengths": [
+      "The manufacturer lists a folded footprint of 102.5 × 44.7 × 47.5cm, useful when checking a home, office or transit storage space.",
+      "The 36V 7.8Ah battery works out to 280.8Wh from its nominal voltage and capacity, a comparison point distinct from distance claims.",
+      "FinBike lists 8.5-inch wheels, a 350W front motor, a 120kg maximum load and a rear drum brake with EABS."
+    ],
+    "tradeoffs": [
+      "The 34km distance is FinBike's advertised range; the product page does not give test conditions, and Bike Tested has not measured it.",
+      "FinBike's product specification panel lists 12.2kg net, while its Shopify Europe variant record carries 23.2kg in the weight field. Confirm whether that is packaged weight or the finished scooter's carry weight.",
+      "The listed 30km/h maximum speed does not establish the scooter's legal class or permission on a particular road, path, workplace or transit system.",
+      "The partner code is recorded as accepted only on the EB8 Grey / Europe variant. W3 eligibility and code stacking with this listed price are unconfirmed."
+    ],
+    "specs": {
+      "Motor": "350W front motor (manufacturer-listed)",
+      "Battery": "36V 7.8Ah; 280.8Wh calculated from nominal voltage × capacity",
+      "Claimed range": "Up to 34km (FinBike claim; conditions are not stated on the product page)",
+      "Maximum speed": "30km/h (manufacturer-listed)",
+      "Wheel": "8.5 inches (manufacturer-listed)",
+      "Brakes": "Rear drum brake + EABS (manufacturer-listed; not independently tested)",
+      "Maximum load": "120kg (manufacturer-listed)",
+      "Dimensions": "102.5 × 44.7 × 107.5cm unfolded; 102.5 × 44.7 × 47.5cm folded (manufacturer-listed)",
+      "Net weight": "12.2kg in FinBike's product specification panel; Shopify Europe variant record carries 23.2kg weight—confirm actual scooter weight"
+    },
+    "source": "https://www.finbike.com/products/finbike-w3-commuter-electric-scooter?variant=50861587497017",
+    "evidence": "Manufacturer-specification editorial evaluation; exact W3 / Europe listing checked 2026-10-28; no Bike Tested ride, braking or range test; W3 code eligibility and sale-price stacking unconfirmed",
+    "sections": [
+      ["A folding format for the last mile", "FinBike lists the W3 at 102.5 × 44.7 × 107.5cm unfolded and 102.5 × 44.7 × 47.5cm folded, with an 8.5-inch wheel. Measure the folded footprint against the place where the scooter will live and the vehicle or transit space it must fit. Those dimensions do not settle whether it is easy to carry; the seller's weight figures need a separate check."],
+      ["Use the range claim as context, not a route guarantee", "FinBike advertises up to 34km from a 36V 7.8Ah battery. The voltage and capacity calculate to 280.8Wh, but that energy figure does not predict distance. The product page does not describe the range-test conditions, and Bike Tested has not tested the scooter. Treat 34km as a manufacturer claim and leave a charging margin for the route you expect to ride."],
+      ["Confirm carry weight and local access", "The product specification panel calls the W3 12.2kg net, while the Shopify record for the selected Europe variant contains a 23.2kg weight value. That record may be a shipping field rather than the finished scooter weight; ask FinBike to confirm the carry weight and packaged weight before planning stairs. The listing also gives a 30km/h maximum speed but no legal classification for your location. Check the exact vehicle and local access rules before relying on it for public-road commuting."],
+      ["Check the code on the selected model", "FinBike supplies the code SEBASTIANBASSOL with an 8% partner-reported benefit. The recorded accepted checkout is for the EB8 Grey / Europe only; no W3 test establishes that the code applies to this model or stacks with its current listed price. This review makes no after-code calculation. Check the selected W3 Europe variant and final item total at the storefront."]
+    ],
+    "publishedOn": "2026-10-28",
+    "updatedOn": "2026-10-28",
+    "specsCheckedOn": "2026-10-28",
+    "faqs": [
+      ["How far can the FinBike W3 travel?", "FinBike advertises up to 34km, but its product page does not state the conditions behind that figure. It is a manufacturer claim, not a Bike Tested range result. Plan with a margin and do not treat the advertised distance as guaranteed."],
+      ["How much does the FinBike W3 weigh?", "FinBike's specification panel lists 12.2kg net, while the Shopify record for the W3 Europe variant carries a 23.2kg weight value. The latter may represent shipping weight. Ask the seller to confirm the scooter's carry weight and packaged weight before ordering."],
+      ["What space does the W3 need when folded?", "FinBike lists folded dimensions of 102.5 × 44.7 × 47.5cm. Measure the actual storage area and check your transit or building policy; the page does not settle whether the scooter is convenient to carry."],
+      ["Is the FinBike W3 legal to ride on public roads?", "The product page lists a maximum speed of 30km/h but does not establish a vehicle class or road eligibility for your location. Check current local rules and access policies for the exact model before choosing a route."]
+    ],
+    "price": {
+      "amountMinor": 21800,
+      "currency": "EUR",
+      "region": "Europe",
+      "variantId": "50861587497017",
+      "variantLabel": "W3 [350W 34km] / Europe",
+      "source": "https://www.finbike.com/products/finbike-w3-commuter-electric-scooter?variant=50861587497017",
+      "checkedOn": "2026-10-28",
+      "isSalePrice": true
+    },
+    "eligibility": {
+      "status": "unresolved",
+      "variantId": "50861587497017",
+      "evidence": "docs/evidence/finbike-w3-commuter-electric-scooter.md#offer-evidence"
+    }
+  },
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
 const checkoutProductsFor=brand=>products.filter(p=>p.brand===brand&&p.checkoutObservation);

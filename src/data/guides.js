@@ -113,7 +113,7 @@ export const guides = [
     "topics": [
       "electric-mobility"
     ],
-    "products": ["gyroor-c2-max-electric-scooter-with-seat-and-baskets","ausom-gosoul-2-electric-scooter","ekx-x21-max-electric-dirt-bike","leoout-t85-electric-scooter","voltrover-m5-electric-dirt-bike","gyroor-c5-electric-trike","zwheel-d3-d-electric-scooter","actbest-striker-max-awd-moped-ebike","ausom-l2-max-dual-electric-scooter","ausom-k20-pro-dual-motor-electric-scooter","hiboy-s2-pro-electric-scooter","happyrun-g100-pro-6000w-electric-bike"],
+    "products": ["gyroor-c2-max-electric-scooter-with-seat-and-baskets","ausom-gosoul-2-electric-scooter","ekx-x21-max-electric-dirt-bike","leoout-t85-electric-scooter","voltrover-m5-electric-dirt-bike","gyroor-c5-electric-trike","zwheel-d3-d-electric-scooter","actbest-striker-max-awd-moped-ebike","ausom-l2-max-dual-electric-scooter","ausom-k20-pro-dual-motor-electric-scooter","hiboy-s2-pro-electric-scooter","happyrun-g100-pro-6000w-electric-bike","finbike-w3-commuter-electric-scooter"],
     "related": [
       "folding-vs-full-size-ebike",
       "panniers-vs-backpack",
