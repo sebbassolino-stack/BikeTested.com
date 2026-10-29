@@ -782,7 +782,7 @@ export const guides = [
       "folding-vs-full-size-ebike",
       "ebike-range-explained"
     ],
-    "products": ["finbike-eb8-electric-bike", "hiknight-h2-pro-off-road-ebike", "young-electric-tire-press-2-ebike-rack", "burchda-u8-step-thru-electric-bike", "hycline-code-bones-fat-tire-set", "actbest-cozy-wide-tire-step-through-electric-bike", "lankeleisi-mg740plus-dual-motor-electric-bike", "hiboy-ex11-full-suspension-electric-bike", "gebike-gt20-fat-tire-electric-bike", "actbest-summit-plus-full-suspension-fat-tire-electric-bike", "happyrun-g100-pro-6000w-electric-bike", "lankeleisi-x3000-max-dual-motor-electric-bike", "eunorau-new-trike-2-electric-trike"]
+    "products": ["finbike-eb8-electric-bike", "hiknight-h2-pro-off-road-ebike", "young-electric-tire-press-2-ebike-rack", "burchda-u8-step-thru-electric-bike", "hycline-code-bones-fat-tire-set", "actbest-cozy-wide-tire-step-through-electric-bike", "lankeleisi-mg740plus-dual-motor-electric-bike", "hiboy-ex11-full-suspension-electric-bike", "gebike-gt20-fat-tire-electric-bike", "actbest-summit-plus-full-suspension-fat-tire-electric-bike", "happyrun-g100-pro-6000w-electric-bike", "lankeleisi-x3000-max-dual-motor-electric-bike", "eunorau-new-trike-2-electric-trike", "touroll-s3-folding-fat-tire-electric-bike"]
   },
   {
     "slug": "folding-vs-full-size-ebike",
@@ -890,7 +890,7 @@ export const guides = [
       "panniers-vs-backpack",
       "bike-or-electric-scooter"
     ],
-    "products": ["finbike-eb8-electric-bike", "hiboy-ex6f-foldable-electric-bike", "tomofree-t1max-folding-ebike", "tomofree-r700-electric-bike", "mooncool-pop-folding-electric-bike", "gebike-g01-compact-folding-electric-bike", "ancheer-streetrider-electric-bike", "actbest-summit-plus-full-suspension-fat-tire-electric-bike", "lankeleisi-x3000-max-dual-motor-electric-bike", "eunorau-new-trike-2-electric-trike"]
+    "products": ["finbike-eb8-electric-bike", "hiboy-ex6f-foldable-electric-bike", "tomofree-t1max-folding-ebike", "tomofree-r700-electric-bike", "mooncool-pop-folding-electric-bike", "gebike-g01-compact-folding-electric-bike", "ancheer-streetrider-electric-bike", "actbest-summit-plus-full-suspension-fat-tire-electric-bike", "lankeleisi-x3000-max-dual-motor-electric-bike", "eunorau-new-trike-2-electric-trike", "touroll-s3-folding-fat-tire-electric-bike"]
   },
   {
     "slug": "bike-tire-pressure",

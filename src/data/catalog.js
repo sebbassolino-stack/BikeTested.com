@@ -7693,6 +7693,119 @@ export const products = [
       "evidence": "docs/evidence/finbike-w3-commuter-electric-scooter.md#offer-evidence"
     }
   },
+ {
+   "slug": "touroll-s3-folding-fat-tire-electric-bike",
+   "brand": "touroll",
+   "name": "Touroll S3 Folding Fat Tire Electric Bike",
+   "model": "S3 / EU / Black",
+   "image": "/images/products/touroll-s3-folding-fat-tire-electric-bike.webp",
+   "imageAlt": "Black Touroll S3 EU folding fat-tire electric bike with a step-through frame and rear rack",
+   "imageWidth": 1200,
+   "imageHeight": 1200,
+   "category": "electric-bikes",
+   "use": "commute",
+   "label": "For space-conscious everyday rides",
+   "headline": "A step-through folder for a well-planned daily ride.",
+   "description": "A 20 × 3-inch step-through e-bike with a removable 468Wh battery, rear rack and 900 × 530 × 710mm folded dimensions. Its 28.1kg listed weight makes roll-in storage the key fit check.",
+   "verdict": "We recommend the Touroll S3 to city and errand riders who need a step-through bike that folds into a smaller footprint and still brings a rear rack and removable battery. The 20 × 3-inch tires, Shimano seven-speed drivetrain and 60mm front fork give its utility brief more substance than a bare-bones folder. Its 28.1kg listed weight is the decisive fit check: it suits roll-in storage better than regular stair carrying. The exact EU / Black variant was listed at €689 on October 28; model eligibility and sale-price code stacking are unconfirmed.",
+   "strengths": [
+     "The step-through frame folds to 900 × 530 × 710mm, a measured footprint for a car boot or compact storage area.",
+     "A removable 36V 13Ah battery, five pedal-assist levels and a 2.6-inch LCD give riders useful control and charging flexibility.",
+     "The 20 × 3.0-inch tires, 60mm front fork, Shimano seven-speed derailleur, and dual-disc plus e-brake setup suit varied everyday routes on paper.",
+     "A rear rack and 120kg listed maximum load support practical errand planning when the complete load stays within the manufacturer’s limits."
+   ],
+   "tradeoffs": [
+     "At 28.1kg, folding reduces storage volume but does not make the bike a comfortable frequent carry; plan for ground-level or roll-in storage.",
+     "Touroll’s 65km maximum-range claim is tied to favorable stated conditions and should be treated as a ceiling, not a route estimate.",
+     "The 20 × 3.0-inch tires are wider than a typical city-bike tire but narrower than 4-inch fat tires; choose for your real surfaces and available replacements.",
+     "SEBASTIANBASSOL is supplied for 2% off, but this exact variant has no recorded code check and its current sale-price stacking is unconfirmed."
+   ],
+   "specs": {
+     "Selected configuration": "EU / Black; Shopify variant 46121561194632; SKU 1296313",
+     "Motor": "36V; up to 450W maximum power and 40Nm maximum torque (manufacturer-listed; motor type is not specified in the technical table)",
+     "Battery": "36V 13Ah removable battery; 468Wh (manufacturer-listed)",
+     "Claimed range": "Up to 65km in pedal-assist mode; Touroll’s stated test conditions include a 70kg load, 15km/h, 20–25°C, optimal tire pressure and wind below 3m/s",
+     "Assist settings": "Five pedal-assist speed levels: 13, 16, 19, 22 and 25km/h; 4km/h walk mode",
+     "Cut-off speed": "25km/h (EU listing)",
+     "Drivetrain": "Shimano seven-speed rear derailleur",
+     "Wheels and tires": "20 × 3.0-inch pneumatic tires",
+     "Fork": "Front suspension, 60mm travel",
+     "Brakes": "Dual disc brakes and e-brake; 180mm discs",
+     "Frame and fit": "20-inch step-through; 16.5-inch frame; recommended rider height 160–195cm",
+     "Listed weight": "28.1kg",
+     "Folded dimensions": "900 × 530 × 710mm",
+     "Unfolded dimensions": "1,650 × 640 × 1,160mm",
+     "Maximum load": "120kg (manufacturer-listed)",
+     "Charging time": "About 7 hours (manufacturer-listed)",
+     "Water resistance": "IPX4 (manufacturer-listed; this is not a waterproof claim)"
+   },
+   "source": "https://touroll.com/products/touroll-s3-folding-fat-tire-electric-bike-1?variant=46121561194632",
+   "evidence": "Manufacturer-specification editorial evaluation",
+   "sections": [
+     [
+       "Folding solves storage space, not bike weight",
+       "The S3 folds to 900 × 530 × 710mm, so measuring a car boot, shed, or apartment storage area is a useful first step. Compare all three dimensions with the tightest doorway and any rack or bag that stays attached. Touroll lists the complete bike at 28.1kg. We would treat folding as a way to reduce the footprint after a ride, not as a promise that this bike is easy to lift into a trunk or carry upstairs. If the daily routine includes steps, try handling a similar-weight bike before ordering."
+     ],
+     [
+       "Check the fit as carefully as the folded package",
+       "Touroll lists a 20-inch step-through frame, a 16.5-inch frame size and a recommended rider-height range of 160–195cm. The page’s geometry image also lists 31.5–39-inch seat height, 16.6-inch standover, 13.6-inch reach and a 40.2–45.7-inch handlebar height. Those measurements are useful starting points, not a substitute for checking reach and control access. The broad height range covers many adults, so confirm that the seat can be set for a comfortable pedal stroke and that the bars feel natural for your torso."
+     ],
+     [
+       "Use the range claim as a planning ceiling",
+       "The removable 468Wh battery is rated 36V and 13Ah. Touroll lists up to 65km in pedal-assist mode and states a favorable test setup: a 70kg load, 15km/h, full charge, optimal tire pressure, 20–25°C and wind below 3m/s. Hills, speed, cargo, temperature and assistance change real distance. We would size the battery around the return journey with a reserve rather than plan a commute to the maximum figure. Five assist settings reach a listed 25km/h EU cut-off."
+     ],
+     [
+       "The equipment suits a practical route",
+       "Touroll pairs 20 × 3.0-inch pneumatic tires with a 60mm front fork, a Shimano seven-speed rear derailleur, dual disc brakes and an e-brake. The frame’s step-through shape makes mounting easier when carrying a bag or wearing everyday clothes, while the rear rack provides a place to plan luggage. Tire width and suspension do not prove comfort on every surface; keep pressure within the manufacturer’s 25–45 PSI range and match the bike to your roads, storage width and service access. Confirm the rack’s own load limit before carrying a heavy bag."
+     ],
+     [
+       "Our buying advice: weigh the space against the handling",
+       "The S3 makes the most sense when its folding hinge solves a genuine storage problem and you can roll it to the place where it will live. Confirm EU delivery, assembly and nearby service, then measure the complete 28.1kg bike against your storage and transport routine. On October 28, Touroll listed the EU / Black variant at €689, reduced from a displayed €1,199 regular price. The owner-supplied SEBASTIANBASSOL code reports 2% off, but neither this exact variant’s eligibility nor stacking with the displayed sale price is confirmed. Use the code if you like, then verify the final total before paying; no after-code amount is claimed here."
+     ]
+   ],
+   "faqs": [
+     [
+       "What are the Touroll S3 folded dimensions?",
+       "Touroll lists 900 × 530 × 710mm. Measure the full path into your storage spot as well as the final space, and allow room for the 28.1kg bike and any rack or accessories."
+     ],
+     [
+       "Is the Touroll S3 easy to carry when folded?",
+       "The bike weighs 28.1kg according to Touroll. The folding frame reduces the storage footprint, but that weight still calls for a roll-in or ground-level plan if you will move the bike often."
+     ],
+     [
+       "How far can the S3 travel on a charge?",
+       "Touroll claims up to 65km in pedal-assist mode under stated conditions that include a 70kg load, 15km/h, 20–25°C and wind below 3m/s. Treat it as the manufacturer’s maximum-range claim, not a measured route result."
+     ],
+     [
+       "Who does the EU S3 fit?",
+       "Touroll recommends 160–195cm riders and lists a 16.5-inch frame, 31.5–39-inch seat height and 16.6-inch standover. Use those as starting points and check comfortable reach, pedal position and control access on the exact bike."
+     ]
+   ],
+   "relatedReviews": [
+     {
+       "slug": "finbike-eb8-electric-bike",
+       "reason": "Compare an EU-market folding fat-tire bike with 20 × 4-inch tires, torque-sensing assistance, front and rear suspension, and a 32.3kg listed weight; its different wheel width and heft change the storage and ride brief."
+     }
+   ],
+   "publishedOn": "2026-10-28",
+   "updatedOn": "2026-10-28",
+   "specsCheckedOn": "2026-10-28",
+   "price": {
+     "amountMinor": 68900,
+     "currency": "EUR",
+     "region": "EU",
+     "variantId": "46121561194632",
+     "variantLabel": "EU / Black (SKU 1296313)",
+     "source": "https://touroll.com/products/touroll-s3-folding-fat-tire-electric-bike-1?variant=46121561194632",
+     "checkedOn": "2026-10-28",
+     "isSalePrice": true
+   },
+   "eligibility": {
+     "status": "unresolved",
+     "variantId": "46121561194632",
+     "evidence": "docs/evidence/touroll-s3-folding-fat-tire-electric-bike.md#offer-evidence"
+   }
+ },
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
 const checkoutProductsFor=brand=>products.filter(p=>p.brand===brand&&p.checkoutObservation);
