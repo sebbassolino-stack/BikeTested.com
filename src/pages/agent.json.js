@@ -67,7 +67,7 @@ const publicProduct = product => {
   };
 };
 
-export function GET() {
+function originalAgentGET() {
   const payload = {
     name: 'Bike Tested',
     url: 'https://biketested.com',
@@ -139,3 +139,5 @@ export function GET() {
   };
   return new Response(JSON.stringify(payload, null, 2), { headers: { 'Content-Type': 'application/json' } });
 }
+
+export async function GET(context){const response=await originalAgentGET();const data=await response.json();return new Response(JSON.stringify({...data,site_directory:'https://biketested.com/ai-directory.json',seasonal_pages:['https://biketested.com/black-friday-deals','https://biketested.com/holiday-gift-guide']}),{status:response.status,headers:response.headers});}
