@@ -11,9 +11,9 @@ const feed=JSON.parse(fs.readFileSync('dist/agent.json','utf8'));
 const llms=fs.readFileSync('dist/llms.txt','utf8');
 const deals=fs.readFileSync('dist/deals.html','utf8');
 const sitemap=fs.readFileSync('dist/sitemap-0.xml','utf8');
-assert.equal(offers.length,44);assert.equal(offers.filter(o=>o.code).length,24);assert.equal(offers.filter(o=>o.benefit).length,20);assert.equal(new Set(offers.map(o=>o.brand)).size,44);
-assert.equal(feed.offers.length,44);
-const exact={eunorau:['EUNORSEBASTIAN60','2% off','https://eunorau-ebike.com/?ref=gowithsebastian&utm_medium=affiliate&utm_source=goaffpro'],actbest:['SEBASTIAN3%','3% off','https://actbestbike.com/81054420bg'],gebike:['SEBASTIANBASSOL','€10.00 off','https://gebikeglobal.com/?ref=SEBASTIANBASSOLINO'],eahora:['SEBASTIANBASSOL','$400 off','https://eahoraescooter.com/?ref=vymoetrs'],happyrun:['SEBASTIANBASSOL23',null,'https://happyrunsports.com/?ref=hhyssezj'],mooncool:['SEBASTIANBASSOL','5% off','https://www.mooncool.com/?ref=znnfuofi'],tomofree:['SEBASTIANBASSOL','6% off','https://tomofree.com/?ref=uhifvbyw'],zwheel:['SEBASTIANBASSOL','$20.00 off','https://zwheelsport.com/?ref=SEBASTIANBASSOLINO']};
+assert.equal(offers.length,52);assert.equal(offers.filter(o=>o.code).length,26);assert.equal(offers.filter(o=>o.benefit).length,22);assert.equal(new Set(offers.map(o=>o.brand)).size,52);
+assert.equal(feed.offers.length,52);
+const exact={eunorau:['EUNORSEBASTIAN60','2% off','https://eunorau-ebike.com/?ref=gowithsebastian&utm_medium=affiliate&utm_source=goaffpro'],actbest:['SEBASTIAN3%','3% off','https://actbestbike.com/81054420bg'],gebike:['SEBASTIANBASSOL','€10.00 off','https://gebikeglobal.com/?ref=SEBASTIANBASSOLINO'],eahora:['SEBASTIANBASSOL','$400 off','https://eahoraescooter.com/?ref=vymoetrs'],happyrun:['SEBASTIANBASSOL23',null,'https://happyrunsports.com/?ref=hhyssezj'],mooncool:['SEBASTIANBASSOL','5% off','https://www.mooncool.com/?ref=znnfuofi'],tomofree:['SEBASTIANBASSOL','6% off','https://tomofree.com/?ref=uhifvbyw'],zwheel:['SEBASTIANBASSOL','$20.00 off','https://zwheelsport.com/?ref=SEBASTIANBASSOLINO'],touroll:['SEBASTIANBASSOL','2% off','https://touroll.com/?ref=SEBASTIANBASSOLINO'],eleglide:['SEBASTIANBASSOL','€20.00 off','https://eleglide.com/?ref=pkkdfmbw']};
 for(const [slug,expected]of Object.entries(exact)){const o=offers.find(x=>x.brand===slug);assert.deepEqual([o.code,o.benefit,o.url],expected,`Exact owner offer: ${slug}`);}
 for(const o of offers){
   const name=brands.find(b=>b.slug===o.brand).name,answer=offerAnswer(o,name),item=feed.offers.find(x=>x.slug===o.brand);
@@ -60,4 +60,4 @@ for(const q of queue.queue){assert.equal(q.affiliateUrl,offers.find(o=>o.brand==
 const luckeep=queue.queue.find(q=>q.brandSlug==='luckeep'),mooncool=queue.queue.find(q=>q.brandSlug==='mooncool');
 assert.equal(luckeep.status,'product-unavailable-after-bounded-research');assert(luckeep.nextStep.includes('M5 Max')&&luckeep.nextStep.includes('C23'));
 assert.equal(mooncool.reviewUrl,'/reviews/mooncool-tk2-folding-electric-trike');assert(mooncool.product.includes('Cyan Green-Matte'));
-console.log('Partner output valid: 44 exact affiliate links, 24 coupon routes, scoped checkout evidence, visible/schema/feed agreement, review coverage and private-code exclusion.');
+console.log('Partner output valid: 52 exact affiliate links, 26 coupon routes, scoped checkout evidence, visible/schema/feed agreement, review coverage and private-code exclusion.');

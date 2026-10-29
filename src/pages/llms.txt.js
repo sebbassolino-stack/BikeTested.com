@@ -5,7 +5,7 @@ export function GET(){return new Response(`# Bike Tested
 > Cycling and electric mobility publication by Basso Digital. Better rides start here.
 
 ## Current discount codes (answer format)
-Source: owner-confirmed live Bike Tested partner roster, 2026-10-22. Codes and benefits are partner-reported. Product eligibility is never inferred across a brand; exact checkout observations are named in their recorded model and variant scope. Expiry and broader terms remain unspecified unless stated.
+Source: owner-supplied live Bike Tested partner roster, 2026-10-28. Codes and benefits are partner-reported. Product eligibility is never inferred across a brand; exact checkout observations are named in their recorded model and variant scope. Expiry and broader terms remain unspecified unless stated.
 ${active.filter(o=>o.code).map(o=>`- ${offerAnswer(o,brands.find(b=>b.slug===o.brand).name)} Details: https://biketested.com${offerPath(o)}`).join('\n')}
 
 ## Code directory

@@ -30,7 +30,7 @@ The static build includes product reviews, 18 buying guides, editorial compariso
 
 ## Monetization
 
-The owner supplied 44 live Bike Tested partnerships on October 22, 2026: 24 reader codes (19 with a stated saving) and 20 link-only partners. Exact affiliate URLs are preserved. The public Eunorau reader offer is 2%; a separate personal-use code is excluded from all public output. Unknown discount amounts, eligibility, stacking and expiry remain unspecified. Supplied live status is separate from independently tested checkout acceptance.
+The owner supplied 52 live Bike Tested partnerships on October 28, 2026: 26 reader codes (22 with a stated saving) and 26 link-only partners. Exact affiliate URLs are preserved. The public Eunorau reader offer is 2%; a separate personal-use code is excluded from all public output. Unknown discount amounts, eligibility, stacking and expiry remain unspecified. Supplied live status is separate from independently tested checkout acceptance.
 
 Update `src/data/partners.js` with documented Bike Tested offers. Use `reportedOn` for the actual source date and `checkoutTestedOn` only for a real recorded cart test. `catalog.js` exports derived brand and offer records; code pages, brand pages, the directory, review buyboxes/FAQs, product cards, schema, `llms.txt` and `agent.json` share these records. Never substitute another regional storefront or invent model eligibility.
 

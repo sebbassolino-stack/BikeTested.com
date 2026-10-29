@@ -173,10 +173,10 @@
       "reviewUrl": "/reviews/gebike-g03-city-commuter-ebike",
       "affiliateUrl": "https://gebikeglobal.com/?ref=SEBASTIANBASSOLINO",
       "code": "SEBASTIANBASSOL",
-      "reportedBenefit": "\u20ac10.00 off",
+      "reportedBenefit": "€10.00 off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-23",
-      "nextStep": "Published in commit 1469ef8. Live review, promo and transparent official cutout return 200; review/promo show the exact Gray / Standard checkout result (\u20ac599.99 less \u20ac10 = \u20ac589.99), and the live image SHA-256 matches the local file. Desktop content checked; 375px not verified. Shipping/tax were uncalculated without an address and no order was placed."
+      "nextStep": "Published in commit 1469ef8. Live review, promo and transparent official cutout return 200; review/promo show the exact Gray / Standard checkout result (€599.99 less €10 = €589.99), and the live image SHA-256 matches the local file. Desktop content checked; 375px not verified. Shipping/tax were uncalculated without an address and no order was placed."
     },
     {
       "brand": "Gyroor",
@@ -216,7 +216,7 @@
       "category": "components",
       "status": "review-published-live-routes-verified",
       "priority": 1,
-      "product": "Hycline Code: Bones 20\u00d74 Fat Tire Set (variant 44651812684001; SKU SHP-EbFT905_204BLK_2TR2TB)",
+      "product": "Hycline Code: Bones 20×4 Fat Tire Set (variant 44651812684001; SKU SHP-EbFT905_204BLK_2TR2TB)",
       "officialSource": "https://hyclinebike.com/products/code-bones-all-terrain-fat-tire-20-x-4-0?variant=44651812684001",
       "reviewUrl": "/reviews/hycline-code-bones-fat-tire-set",
       "affiliateUrl": "https://hyclinebike.com/?ref=zcmvdskp",
@@ -224,7 +224,7 @@
       "reportedBenefit": "5% off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-23",
-      "nextStep": "Published in commit 616f59e. Live review, promo and transparent official image return 200; the live image SHA-256 matches the local file. Desktop review and 375px review/promo QA passed with no horizontal overflow or browser warnings/errors, and promo copy feedback succeeded. The exact US 20\u00d74 two-pack-with-tubes variant accepted SEBASTIANBASSOL for $5.29 off $105.99, leaving $100.70 before shipping and tax; no address or order. Continue with the next coded product."
+      "nextStep": "Published in commit 616f59e. Live review, promo and transparent official image return 200; the live image SHA-256 matches the local file. Desktop review and 375px review/promo QA passed with no horizontal overflow or browser warnings/errors, and promo copy feedback succeeded. The exact US 20×4 two-pack-with-tubes variant accepted SEBASTIANBASSOL for $5.29 off $105.99, leaving $100.70 before shipping and tax; no address or order. Continue with the next coded product."
     },
     {
       "brand": "Leoout",
@@ -336,7 +336,7 @@
       "reportedBenefit": "$20.00 off on tested Red variant",
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-23",
-      "nextStep": "Commit a2fb395 is live in Cloudflare Pages deployment f1a30df5-b58a-4f7a-aef8-28831c4206da (dashboard status success). The custom-domain review, promo, and image routes were verified; the live 1200\u00d71200 WebP SHA-256 matches local. At 375px, review and promo showed no horizontal overflow; the promo copy control returned Copied and the exact affiliate URL was preserved. The Red variant accepted SEBASTIANBASSOL for $20.00 off $679.99 to $659.99 before shipping; no address or order, and the test item was removed. The product listing conflicts on motor, range, speed, model markings, and stock indicators, so no availability claim is made. GitHub Cloudflare check run 120741011071 still showed in progress at the latest read."
+      "nextStep": "Commit a2fb395 is live in Cloudflare Pages deployment f1a30df5-b58a-4f7a-aef8-28831c4206da (dashboard status success). The custom-domain review, promo, and image routes were verified; the live 1200×1200 WebP SHA-256 matches local. At 375px, review and promo showed no horizontal overflow; the promo copy control returned Copied and the exact affiliate URL was preserved. The Red variant accepted SEBASTIANBASSOL for $20.00 off $679.99 to $659.99 before shipping; no address or order, and the test item was removed. The product listing conflicts on motor, range, speed, model markings, and stock indicators, so no availability claim is made. GitHub Cloudflare check run 120741011071 still showed in progress at the latest read."
     },
     {
       "brand": "Bezior",
@@ -392,7 +392,7 @@
       "category": "electric-mobility",
       "status": "review-published-live-routes-verified",
       "priority": 2,
-      "product": "Eskute NOVA RR 5500W Electric Dirt Bike, Black / Bike(5500W\uff0c60V 30Ah) (variant 58555389149558; SKU NOVA-RR-BK)",
+      "product": "Eskute NOVA RR 5500W Electric Dirt Bike, Black / Bike(5500W，60V 30Ah) (variant 58555389149558; SKU NOVA-RR-BK)",
       "officialSource": "https://eskute.com/products/eskute%C2%AE-nova-rr-5500w-electric-dirt-bike?variant=58555389149558",
       "reviewUrl": "/reviews/eskute-nova-rr-5500w-electric-dirt-bike",
       "affiliateUrl": "https://eskute.com/?ref=zrjrdlrv",
@@ -400,7 +400,7 @@
       "reportedBenefit": null,
       "offerDetailNeeded": true,
       "checkoutTestedOn": "2026-10-23",
-      "nextStep": "Published in commit df5fa9b. Cloudflare Pages check 120748785643 succeeded (deployment 60aa24bd-61ba-4282-b73d-f4c2b0a437ed). Review, promo and image routes return 200; live review and promo verified at 375px with no horizontal overflow, exact sponsored destination/canonical and code-copy success. The 1200\u00d71200 transparent official image loads and its SHA-256 matches local. The exact variant code was accepted for a $15 order-level discount with an auto-added $0 helmet; no after-code bike price, address, order or attribution is claimed."
+      "nextStep": "Published in commit df5fa9b. Cloudflare Pages check 120748785643 succeeded (deployment 60aa24bd-61ba-4282-b73d-f4c2b0a437ed). Review, promo and image routes return 200; live review and promo verified at 375px with no horizontal overflow, exact sponsored destination/canonical and code-copy success. The 1200×1200 transparent official image loads and its SHA-256 matches local. The exact variant code was accepted for a $15 order-level discount with an auto-added $0 helmet; no after-code bike price, address, order or attribution is claimed."
     },
     {
       "brand": "eWheels",
@@ -464,7 +464,7 @@
       "reportedBenefit": null,
       "offerDetailNeeded": true,
       "checkoutTestedOn": "2026-10-23",
-      "nextStep": "Published in commit 3a3c9c5; Cloudflare Pages deployment 36dce695-451f-4749-9a31-f7cef12ce717 succeeded. Live review and promo return 200; the official 1200\u00d71200 transparent product image returns 200 and matches the local SHA-256. Exact Navy / US variant 46519631053049 (SKU EX6F-N-20080013) listed at $949.99; SEBASTIANBASSOL allocated $0.00 in the cart, so no saving or after-code price is claimed. Desktop and 375px live review/promo QA passed with no horizontal overflow; both copy controls showed success. npm run build and git diff --check passed. No address, shipping/tax calculation, or order."
+      "nextStep": "Published in commit 3a3c9c5; Cloudflare Pages deployment 36dce695-451f-4749-9a31-f7cef12ce717 succeeded. Live review and promo return 200; the official 1200×1200 transparent product image returns 200 and matches the local SHA-256. Exact Navy / US variant 46519631053049 (SKU EX6F-N-20080013) listed at $949.99; SEBASTIANBASSOL allocated $0.00 in the cart, so no saving or after-code price is claimed. Desktop and 375px live review/promo QA passed with no horizontal overflow; both copy controls showed success. npm run build and git diff --check passed. No address, shipping/tax calculation, or order."
     },
     {
       "brand": "HX Happy Relax",
@@ -672,7 +672,7 @@
       "reportedBenefit": "6% off on tested T1MAX 20Ah variant",
       "offerDetailNeeded": false,
       "checkoutTestedOn": "2026-10-23",
-      "nextStep": "Commit 6049c89 is live: the review and promo routes display the exact 20Ah variant and offer, and the live 1200\u00d71200 product image SHA-256 matches local. Review was checked at 375px; promo route and image were also opened live. No stock claim. GitHub Cloudflare Pages check run 120738068784 remained in progress at the latest check; record its final state separately."
+      "nextStep": "Commit 6049c89 is live: the review and promo routes display the exact 20Ah variant and offer, and the live 1200×1200 product image SHA-256 matches local. Review was checked at 375px; promo route and image were also opened live. No stock claim. GitHub Cloudflare Pages check run 120738068784 remained in progress at the latest check; record its final state separately."
     },
     {
       "brand": "TsTescooter",
@@ -877,10 +877,10 @@
       "reviewUrl": "/reviews/gebike-g01-compact-folding-electric-bike",
       "affiliateUrl": "https://gebikeglobal.com/?ref=SEBASTIANBASSOLINO",
       "code": "SEBASTIANBASSOL",
-      "reportedBenefit": "\u20ac10.00 off",
+      "reportedBenefit": "€10.00 off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": null,
-      "nextStep": "Review commit c1f50bb deployed successfully to Cloudflare Pages as a11050ef-15a3-4819-a424-b212267d94be. Production review, GEBIKE promo, transparent product image and agent feed return 200; review canonical, exact partner destination and both related guide links are correct. The live image SHA-256 matches local. Exact Gray / Standard EU variant 52002247475521 is listed at \u20ac349.99; G01 code eligibility and sale stacking remain untested, so no after-code price is claimed. Visual browser QA unavailable because the Mac is locked."
+      "nextStep": "Review commit c1f50bb deployed successfully to Cloudflare Pages as a11050ef-15a3-4819-a424-b212267d94be. Production review, GEBIKE promo, transparent product image and agent feed return 200; review canonical, exact partner destination and both related guide links are correct. The live image SHA-256 matches local. Exact Gray / Standard EU variant 52002247475521 is listed at €349.99; G01 code eligibility and sale stacking remain untested, so no after-code price is claimed. Visual browser QA unavailable because the Mac is locked."
     },
     {
       "brand": "Hiboy",
@@ -1169,6 +1169,134 @@
       "offerDetailNeeded": false,
       "checkoutTestedOn": null,
       "nextStep": "Published and production-verified: the review, official product image, FinBike offer destination and supporting bike-or-scooter guide link are live. The selected W3 Europe variant was listed at €218.00 on October 28, 2026. No W3 cart test, address or order; code eligibility and sale-price stacking remain unconfirmed."
+    },
+    {
+      "brand": "Gunai",
+      "brandSlug": "gunai",
+      "category": "electric-bikes",
+      "status": "link-only-partner-added",
+      "priority": 4,
+      "product": null,
+      "officialSource": null,
+      "reviewUrl": null,
+      "affiliateUrl": "https://gunai.store/?ref=enfvmkid",
+      "code": null,
+      "reportedBenefit": null,
+      "offerDetailNeeded": false,
+      "checkoutTestedOn": null,
+      "nextStep": "Partner link added to the deals directory. No supplied reader code or discount is listed."
+    },
+    {
+      "brand": "Tesgo",
+      "brandSlug": "tesgo",
+      "category": "electric-bikes",
+      "status": "link-only-partner-added",
+      "priority": 4,
+      "product": null,
+      "officialSource": null,
+      "reviewUrl": null,
+      "affiliateUrl": "https://tesgous.myshopify.com/?ref=meqsqwfn",
+      "code": null,
+      "reportedBenefit": null,
+      "offerDetailNeeded": false,
+      "checkoutTestedOn": null,
+      "nextStep": "Partner link added to the deals directory. No supplied reader code or discount is listed."
+    },
+    {
+      "brand": "Touroll",
+      "brandSlug": "touroll",
+      "category": "electric-bikes",
+      "status": "offer-added-review-prioritized",
+      "priority": 1,
+      "product": null,
+      "officialSource": null,
+      "reviewUrl": null,
+      "affiliateUrl": "https://touroll.com/?ref=SEBASTIANBASSOLINO",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "2% off",
+      "offerDetailNeeded": true,
+      "checkoutTestedOn": null,
+      "nextStep": "Research an exact product only when supported by a primary source; preserve owner-supplied offer scope and verify any model-specific eligibility before claiming savings."
+    },
+    {
+      "brand": "Eleglide",
+      "brandSlug": "eleglide",
+      "category": "electric-bikes",
+      "status": "offer-added-review-prioritized",
+      "priority": 1,
+      "product": null,
+      "officialSource": null,
+      "reviewUrl": null,
+      "affiliateUrl": "https://eleglide.com/?ref=pkkdfmbw",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "€20.00 off",
+      "offerDetailNeeded": true,
+      "checkoutTestedOn": null,
+      "nextStep": "Research an exact product only when supported by a primary source; preserve owner-supplied offer scope and verify any model-specific eligibility before claiming savings."
+    },
+    {
+      "brand": "FVKING",
+      "brandSlug": "fvking",
+      "category": "electric-bikes",
+      "status": "link-only-partner-added",
+      "priority": 4,
+      "product": null,
+      "officialSource": null,
+      "reviewUrl": null,
+      "affiliateUrl": "https://fvkingbike.com/?ref=fhqsyxiw",
+      "code": null,
+      "reportedBenefit": null,
+      "offerDetailNeeded": false,
+      "checkoutTestedOn": null,
+      "nextStep": "Partner link added to the deals directory. No supplied reader code or discount is listed."
+    },
+    {
+      "brand": "Hoverfly",
+      "brandSlug": "hoverfly",
+      "category": "electric-bikes",
+      "status": "link-only-partner-added",
+      "priority": 4,
+      "product": null,
+      "officialSource": null,
+      "reviewUrl": null,
+      "affiliateUrl": "https://www.hoverflys.com/?ref=SEBASTIANBASSOLINO",
+      "code": null,
+      "reportedBenefit": null,
+      "offerDetailNeeded": false,
+      "checkoutTestedOn": null,
+      "nextStep": "Link-only listing added. Partner row notes category exceptions; keep the public listing in electric bikes and confirm exact category eligibility before representing any commission exceptions."
+    },
+    {
+      "brand": "Maintebike",
+      "brandSlug": "maintebike",
+      "category": "electric-bikes",
+      "status": "link-only-partner-added",
+      "priority": 4,
+      "product": null,
+      "officialSource": null,
+      "reviewUrl": null,
+      "affiliateUrl": "https://maintebike.com/?ref=SEBASTIANBASSOLINO",
+      "code": null,
+      "reportedBenefit": null,
+      "offerDetailNeeded": false,
+      "checkoutTestedOn": null,
+      "nextStep": "Partner link added to the deals directory. No supplied reader code or discount is listed."
+    },
+    {
+      "brand": "ADO e-bike",
+      "brandSlug": "ado-e-bike",
+      "category": "electric-bikes",
+      "status": "link-only-partner-added",
+      "priority": 4,
+      "product": null,
+      "officialSource": null,
+      "reviewUrl": null,
+      "affiliateUrl": "https://www.adoebike.com/?ref=aprddsrt",
+      "code": null,
+      "reportedBenefit": null,
+      "offerDetailNeeded": false,
+      "checkoutTestedOn": null,
+      "nextStep": "Partner link added to the deals directory. No supplied reader code or discount is listed."
     }
   ]
 }
