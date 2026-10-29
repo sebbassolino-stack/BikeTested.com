@@ -1,5 +1,5 @@
 ---
-interface Props {kind: 'gifts' | 'deals'; config: {name:string; domain:string; topic:string; gifts:string[][]}; offers: {brand:string;code?:string|null;benefit?:string|null;url:string;path:string;expiresOn?:string|null}[]}
+interface Props {kind: 'gifts' | 'deals'; config: {name:string; domain:string; topic:string; gifts:string[][];guideBase?:string;guideHub?:string;reviewHub?:string;trailingSlash?:boolean;sitemapPath?:string}; offers: {brand:string;code?:string|null;benefit?:string|null;url:string;path:string;expiresOn?:string|null}[]}
 const {kind,config,offers}=Astro.props;
 const gift=kind==='gifts';
 const faqs=gift?[
