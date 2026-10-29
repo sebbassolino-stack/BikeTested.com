@@ -1238,7 +1238,7 @@
       "brand": "Touroll",
       "brandSlug": "touroll",
       "category": "electric-bikes",
-      "status": "review-selected-ready-to-publish",
+      "status": "review-published-live-routes-verified",
       "priority": 1,
       "product": "Touroll U2 Pro Mountain Electric Bike, EU (variant 45017053233288; SKU 1286581)",
       "officialSource": "https://touroll.com/products/touroll-u2-pro-mountain-electric-bike?variant=45017053233288",
@@ -1248,7 +1248,7 @@
       "reportedBenefit": "2% off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": null,
-      "nextStep": "Selected on October 29, 2026 from the currently available EU variant. The official feed lists €839.00 and variant 45017053233288 / SKU 1286581; the page specifies a 29 × 2.35-inch hardtail, 720Wh removable battery, 80mm fork and Shimano eight-speed drivetrain. The U2 Pro article uses manufacturer specifications and an unchanged official image. Reader-code eligibility and stacking with the sale price are unresolved; publish, then verify the exact live route and image."
+      "nextStep": "Published in review commit b933d74 and pushed to origin/main. `npm run build` passed with 90 reviews, 217 HTML pages and 52 partners. The exact review canonical, EU variant 45017053233288 / SKU 1286581, €839 listed price, supplied 2% code state, official unchanged image, Touroll promo, Deals, feeds and sitemap are live on biketested.com and biketested.pages.dev; the live image SHA-256 matches local. The code's model eligibility and sale-price stacking remain untested, with no savings estimate or checkout claim. Desktop and 375px mobile review QA found no overflow; the image loaded, code-copy feedback worked and the browser console had no warnings or errors. GitHub deployment metadata was unavailable; production routes were directly verified. Continue with another coded-brand gap when source and availability support it."
     },
     {
       "brand": "Eleglide",
