@@ -1206,7 +1206,7 @@
       "brand": "Touroll",
       "brandSlug": "touroll",
       "category": "electric-bikes",
-      "status": "review-selected-ready-to-publish",
+      "status": "review-published-live-routes-verified",
       "priority": 1,
       "product": "Touroll S3 Folding Fat Tire Electric Bike, EU / Black (variant 46121561194632; SKU 1296313)",
       "officialSource": "https://touroll.com/products/touroll-s3-folding-fat-tire-electric-bike-1?variant=46121561194632",
@@ -1216,7 +1216,7 @@
       "reportedBenefit": "2% off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": null,
-      "nextStep": "Publish the specification-backed review. Exact EU / Black product eligibility and sale-price code stacking are untested; do not claim a discounted price."
+      "nextStep": "Published in review commit b70fda1, pushed to origin/main. The live review, exact official image and agent feed return 200 on biketested.com and biketested.pages.dev; the live image SHA-256 matches local. The exact EU / Black variant 46121561194632 (SKU 1296313) was listed at €689 on October 28. SEBASTIANBASSOL reports 2% off, but eligibility for this model and stacking with the listed sale price are untested; agent feed eligibility is unresolved, checkoutObservation and codeCheckObservation are null, and afterCodePrice is null. npm run check and npm run build passed with 88 reviews; local desktop and 375px review QA, no-overflow check and code-copy feedback passed. GitHub deployment metadata was unavailable. Continue with Eleglide after this release."
     },
     {
       "brand": "Eleglide",
