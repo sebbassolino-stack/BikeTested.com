@@ -1222,7 +1222,7 @@
       "brand": "Touroll",
       "brandSlug": "touroll",
       "category": "electric-bikes",
-      "status": "review-selected-ready-to-publish",
+      "status": "review-published-live-routes-verified",
       "priority": 1,
       "product": "Touroll Urbano 3 Mid-Drive Electric Bike, EU / Teal (variant 44894115725448; SKU 1290595)",
       "officialSource": "https://touroll.com/products/touroll-urbano-3-mid-drive-electric-bike?variant=44894115725448",
@@ -1232,7 +1232,23 @@
       "reportedBenefit": "2% off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": null,
-      "nextStep": "Publish the specification-backed review. The exact EU / Teal product is listed at €1,299 and currently available. Model-specific code eligibility and sale-price stacking are untested; do not claim an after-code price."
+      "nextStep": "Published in review commit 8152a6f, pushed to origin/main. The live review, image, mid-drive guide and Touroll promo return 200 on biketested.com and biketested.pages.dev; the live image SHA-256 6d81e5b7957e3c9b120e4a87c9389fb511c4e1b151e7a943a0893e503c15d947 matches local. The EU / Teal variant 44894115725448 (SKU 1290595) was listed at €1,299 on October 28 and the product feed marked it available. SEBASTIANBASSOL reports 2% off, but exact-model eligibility and sale-price stacking are untested; agent feeds show unresolved eligibility and null checkoutObservation, codeCheckObservation and afterCodePrice. npm run check and npm run build passed with 89 reviews; local desktop and 375px QA passed with no overflow, the exact image loaded, code-copy feedback succeeded and the console was clean. GitHub deployment metadata was unavailable. Eleglide bike reviews remain held while the listed bike models show unavailable; the later U2 Pro review adds a full-size hardtail option."
+    },
+    {
+      "brand": "Touroll",
+      "brandSlug": "touroll",
+      "category": "electric-bikes",
+      "status": "review-selected-ready-to-publish",
+      "priority": 1,
+      "product": "Touroll U2 Pro Mountain Electric Bike, EU (variant 45017053233288; SKU 1286581)",
+      "officialSource": "https://touroll.com/products/touroll-u2-pro-mountain-electric-bike?variant=45017053233288",
+      "reviewUrl": "/reviews/touroll-u2-pro-mountain-electric-bike",
+      "affiliateUrl": "https://touroll.com/?ref=SEBASTIANBASSOLINO",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "2% off",
+      "offerDetailNeeded": false,
+      "checkoutTestedOn": null,
+      "nextStep": "Selected on October 29, 2026 from the currently available EU variant. The official feed lists €839.00 and variant 45017053233288 / SKU 1286581; the page specifies a 29 × 2.35-inch hardtail, 720Wh removable battery, 80mm fork and Shimano eight-speed drivetrain. The U2 Pro article uses manufacturer specifications and an unchanged official image. Reader-code eligibility and stacking with the sale price are unresolved; publish, then verify the exact live route and image."
     },
     {
       "brand": "Eleglide",
@@ -1248,7 +1264,7 @@
       "reportedBenefit": "€20.00 off",
       "offerDetailNeeded": false,
       "checkoutTestedOn": null,
-      "nextStep": "Review held on October 28, 2026: official Shopify feeds list the T2 EU, Mopride 2 EU 27.5 / 29, T1 EU, T1 ST EU Grey / White, and Mopride 3 EU variants as unavailable. No purchase-led review was published. Recheck after an exact regional e-bike variant returns to stock; the owner-supplied €20 code's eligibility and currency rules are unresolved."
+      "nextStep": "Review rechecked and held on October 29, 2026: official Shopify feeds for the T2, Mopride 2, T1, T1 ST and Mopride 3 returned zero available variants, including the documented EU configurations. No purchase-led review was published. Recheck after an exact regional e-bike variant returns to stock; the owner-supplied €20 code's product eligibility, currency conditions and sale-price stacking remain unresolved."
     },
     {
       "brand": "FVKING",

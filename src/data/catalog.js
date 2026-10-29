@@ -7919,6 +7919,121 @@ export const products = [
      "evidence": "docs/evidence/touroll-urbano-3-mid-drive-electric-bike.md#offer-evidence"
    }
  },
+ {
+   "slug": "touroll-u2-pro-mountain-electric-bike",
+   "brand": "touroll",
+   "name": "Touroll U2 Pro Mountain Electric Bike",
+   "model": "U2 Pro / EU",
+   "image": "/images/products/touroll-u2-pro-mountain-electric-bike.jpg",
+   "imageAlt": "Black and orange Touroll U2 Pro EU electric mountain bike with 29-inch tires and a front suspension fork",
+   "imageWidth": 1600,
+   "imageHeight": 1600,
+   "category": "electric-bikes",
+   "use": "recreation",
+   "label": "For mixed paths and forest roads",
+   "headline": "A full-size hardtail whose range claim needs careful planning.",
+   "description": "The EU U2 Pro pairs 29 × 2.35-inch tires, an 80mm front fork, Shimano eight-speed gearing and a removable 720Wh battery. Touroll lists 25.5kg net weight and up to 150km of assist-mode range, so fit, handling and a realistic route plan matter more than the headline figures.",
+   "verdict": "On paper, the Touroll U2 Pro suits riders looking for a full-size 29er with front suspension, eight-speed gearing and a removable 720Wh battery for paved routes and maintained dirt. Touroll lists up to 750W maximum power and 70Nm of torque, but its technical table does not identify the motor's location; confirm the exact configuration, service options and local e-bike rules before relying on the mountain-bike label. The 25.5kg listed net weight is not a carry-friendly folding-bike brief, and the 150km range is a best-case seller claim. Its EU variant was listed at €839 on October 29; the supplied 2% code's model eligibility and sale-price stacking remain unconfirmed.",
+   "strengths": [
+     "The removable 48V 15Ah / 720Wh battery gives buyers a clearly stated capacity and the option to plan charging off the bike.",
+     "A 29 × 2.35-inch tire setup, 80mm front fork, Shimano eight-speed rear drivetrain and hydraulic disc brakes provide a straightforward full-size hardtail specification for mixed paved routes and maintained dirt.",
+     "The EU listing gives a 25km/h cut-off, 4km/h walk mode, 19-inch frame and recommended 165–195cm rider-height range, useful starting points for checking fit and regional configuration.",
+     "Touroll lists 70Nm maximum torque and hydraulic discs with an e-brake; these are component specifications, not measured climbing or stopping results."
+   ],
+   "tradeoffs": [
+     "The claimed 150km assist-mode range assumes a 70kg load, 15km/h, mild temperatures, low wind and flat, dry pavement. Build a return-trip estimate with reserve rather than planning around that ceiling.",
+     "The detailed table lists 25.5kg net weight, while the product page gives 33kg gross package weight and the Shopify variant record carries a separate 30kg weight field. Confirm the packed delivery weight and handling plan before ordering.",
+     "The 29 × 2.35-inch tires are narrower than a fat-tire setup and the bike is full-size rather than foldable; check tire replacement access, storage clearance and whether its 19-inch frame fits your reach.",
+     "The owner-supplied SEBASTIANBASSOL benefit is 2% off, but this exact variant has not had a code check and stacking with its listed sale price is unconfirmed."
+   ],
+   "specs": {
+     "Selected configuration": "EU; Shopify variant 45017053233288; SKU 1286581",
+     "Motor": "48V system; up to 750W maximum power and 70Nm maximum output torque (manufacturer-listed); motor location is not stated in the technical table",
+     "Battery": "Removable 48V 15Ah battery; 720Wh (manufacturer-listed)",
+     "Claimed range": "Up to 150km in assist mode; Touroll's stated conditions include a 70kg load, 15km/h, 20–25°C, wind below 3m/s and dry, flat, hardened roads",
+     "Assist settings": "12, 18 and 25km/h levels; 4km/h walk mode",
+     "Cut-off speed": "25km/h (EU listing)",
+     "Drivetrain": "Shimano eight-speed rear derailleur",
+     "Wheels and tires": "29 × 2.35-inch pneumatic tires; listed 40–65 PSI, with 55–60 PSI marked best",
+     "Fork": "Front suspension fork with 80mm travel",
+     "Brakes": "Hydraulic disc brakes and e-brake; 180mm rotors",
+     "Frame and fit": "Step-over 29 × 19-inch frame; recommended rider height 165–195cm; 680mm handlebar width",
+     "Listed net weight": "25.5kg in the product-page specification table; seller page also lists 33kg gross package weight",
+     "Maximum load": "120kg (manufacturer-listed; confirm whether rider and cargo are counted together)",
+     "Charging time": "About 8 hours (manufacturer-listed)",
+     "Water resistance": "IPX4 (manufacturer-listed; not a waterproof claim)"
+   },
+   "source": "https://touroll.com/products/touroll-u2-pro-mountain-electric-bike?variant=45017053233288",
+   "evidence": "Manufacturer specifications",
+   "sections": [
+     [
+       "A full-size hardtail asks for a different fit and storage plan",
+       "The U2 Pro uses a step-over 29 × 19-inch frame, 29 × 2.35-inch wheels and a listed 680mm handlebar width. Touroll recommends riders from 165–195cm, but that range cannot establish comfortable reach, standover clearance or control access for an individual. Check the frame geometry and try a similar-size bike if possible. The product table lists 25.5kg net weight; its page separately lists a 33kg gross package weight, so plan for delivery handling and ground-level storage rather than frequent carrying."
+     ],
+     [
+       "Confirm motor configuration and local rules",
+       "Touroll lists a 48V system, up to 750W maximum power, up to 70Nm of torque and a 25km/h EU cut-off. Its detailed specification table does not say where the motor is mounted or identify its continuous rated output. Ask the seller to confirm the exact motor labeling, drivetrain arrangement and local classification for your country before treating it as a public-road e-bike. The figures alone do not establish climbing feel or legal status."
+     ],
+     [
+       "Plan a route from battery capacity, not the maximum range",
+       "The removable battery is listed as 48V / 15Ah / 720Wh. Touroll claims up to 150km in assist mode, with a stated setup of a 70kg load, constant 15km/h, 20–25°C, wind below 3m/s, dry and flat hardened roads, and a route longer than 1km. Hills, starts, higher assistance, cargo, cold weather and tire pressure all change usable distance. Plan around your own return trip with a charging reserve; the 150km figure is not a Bike Tested measurement."
+     ],
+     [
+       "Choose the tire and brake brief for the surface you ride",
+       "The 29 × 2.35-inch pneumatic tires, 80mm front fork and hydraulic disc brakes with e-brake create an equipment list for mixed routes, but the specifications do not show how the bike behaves on a particular trail. Check tire availability and pressure guidance, and ask a local shop whether it can service the exact brake, fork and electrical parts. The narrower tires and full-size frame also make this a different storage choice from Touroll's folding S3."
+     ],
+     [
+       "Our buying advice: verify fit, support and the final price",
+       "Before buying, confirm the EU variant, motor configuration, recommended rider fit, assembly requirements and a nearby service path. Touroll's product feed marked variant 45017053233288 / SKU 1286581 available at €839 on October 29, compared with a €1,099 regular price; both stock and price can change. The owner-supplied SEBASTIANBASSOL code reports 2% off, but eligibility for this U2 Pro and stacking with the sale are untested. Check the final cart total before paying; no after-code amount or saving is claimed here."
+     ]
+   ],
+   "faqs": [
+     [
+       "What is the exact Touroll U2 Pro variant covered here?",
+       "This review covers the EU configuration, Shopify variant 45017053233288 and SKU 1286581. The official feed listed it at €839 on October 29, 2026; stock and price can change."
+     ],
+     [
+       "How far can the Touroll U2 Pro travel on a charge?",
+       "Touroll claims up to 150km in assist mode under specified mild, flat-road conditions with a 70kg load and 15km/h constant speed. Treat that as the seller's maximum-range claim, not a measured route estimate."
+     ],
+     [
+       "Does the U2 Pro use a hub motor or a mid-drive?",
+       "The detailed U2 Pro specification table lists 48V, up to 750W maximum power and 70Nm maximum output torque, but does not identify the motor's location. Confirm that detail with Touroll for the exact EU variant."
+     ],
+     [
+       "Will SEBASTIANBASSOL work on the EU U2 Pro sale price?",
+       "The owner-supplied partner roster reports 2% off, but exact U2 Pro eligibility and stacking with the displayed sale price have not been tested. Confirm the final cart total before paying."
+     ]
+   ],
+   "relatedReviews": [
+     {
+       "slug": "touroll-s3-folding-fat-tire-electric-bike",
+       "reason": "Compare the full-size 29-inch U2 Pro with the S3's 20-inch folding frame and wider 3-inch tires; the tradeoff is between wheel format, storage and route needs."
+     },
+     {
+       "slug": "touroll-urbano-3-mid-drive-electric-bike",
+       "reason": "Compare the U2 Pro's mountain-bike layout and unspecified motor placement with the Urbano 3's explicitly identified mid-drive and torque sensor."
+     }
+   ],
+   "publishedOn": "2026-10-29",
+   "updatedOn": "2026-10-29",
+   "specsCheckedOn": "2026-10-29",
+   "price": {
+     "amountMinor": 83900,
+     "currency": "EUR",
+     "region": "EU",
+     "variantId": "45017053233288",
+     "variantLabel": "EU (SKU 1286581)",
+     "source": "https://touroll.com/products/touroll-u2-pro-mountain-electric-bike?variant=45017053233288",
+     "checkedOn": "2026-10-29",
+     "isSalePrice": true
+   },
+   "eligibility": {
+     "status": "unresolved",
+     "variantId": "45017053233288",
+     "evidence": "docs/evidence/touroll-u2-pro-mountain-electric-bike.md#offer-evidence"
+   }
+ },
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
 const checkoutProductsFor=brand=>products.filter(p=>p.brand===brand&&p.checkoutObservation);
