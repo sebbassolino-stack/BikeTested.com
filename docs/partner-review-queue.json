@@ -1537,7 +1537,7 @@
       "brand": "Dispatch.bike",
       "brandSlug": "dispatch-bike",
       "category": "gear-and-tech",
-      "status": "draft-ready-local-only",
+      "status": "review-published-live-routes-verified",
       "priority": 2,
       "affiliateUrl": "https://checkout.dispatch.bike/?ref=qwpxpztz",
       "code": "SEBASTIANBASSOL",
@@ -1547,7 +1547,7 @@
       "reviewUrl": "/reviews/dispatch-carbon-fiber-bicycle-headset-cap",
       "offerDetailNeeded": true,
       "checkoutTestedOn": null,
-      "nextStep": "Wave140 local draft prepared October 30, 2026. Official US storefront listed the exact option at $23.98 USD and displayed Add to cart; the specification identifies 6061 aluminum despite the Carbon Fiber title. Owner-supplied code SEBASTIANBASSOL is reported as 10% off, but exact-option eligibility, stacking, and color selection are unverified. No checkout, order, publication, or after-code price."
+      "nextStep": "Wave140 review published in commit 9a57b85 and verified in Cloudflare Pages deployment 9d9735b7-a7fa-4dca-a2b1-c42bb368d820. Production review, Dispatch offer page, brand page, upgrade guide, agent feed, sitemap, and exact image return HTTP 200; canonical, exact Add bolt: Yes variant, $23.98 USD listing, code eligibility caveat, affiliate URL, and guide link match. Live image SHA-256 matches local. No checkout or order; no after-code price."
     },
     {
       "brand": "COOSPO",
