@@ -8233,6 +8233,100 @@ export const products = [
      "evidence": "docs/evidence/the-beam-corky-urban-bike-mirror.md#offer-evidence"
    }
  },
+  {
+    "slug": "dispatch-carbon-fiber-bicycle-headset-cap",
+    "brand": "dispatch-bike",
+    "name": "Dispatch Carbon Fiber Bicycle Headset Cap",
+    "model": "Add bolt: Yes (variant 45919754486002)",
+    "image": "/images/products/dispatch-carbon-fiber-bicycle-headset-cap.webp",
+    "imageAlt": "Dispatch bicycle headset cap with a woven-pattern face and center bolt",
+    "imageWidth": 1173,
+    "imageHeight": 1200,
+    "category": "components",
+    "use": "recreation",
+    "label": "For a small cockpit detail",
+    "headline": "A headset cap with a clear fit spec and a material check.",
+    "description": "A glossy aluminum headset cap for 1 1/8-inch steerer tubes. Dispatch's product title says Carbon Fiber, while its specifications identify 6061 aluminum; confirm the exact fit and bolt option before ordering.",
+    "verdict": "We recommend the Dispatch headset cap for riders who want a small cockpit detail and have a compatible 1 1/8-inch steerer tube. The title uses carbon-fiber language, but Dispatch's specification identifies the cap as 6061 aluminum. The selected Add bolt: Yes option was listed at $23.98 on October 30. Check the dimensions, bolt requirements, and the color selection on the live product page before ordering; this is a finish choice, not a riding-performance upgrade.",
+    "strengths": [
+      "Dispatch lists a 1 1/8-inch steerer-tube fit and 1 1/4-inch (32 mm) cap width, giving buyers two concrete dimensions to check.",
+      "The specification identifies a glossy 6061 aluminum cap, so the material is clearer than the product title alone suggests.",
+      "The Add bolt: Yes option gives shoppers an explicit bolt-included choice."
+    ],
+    "tradeoffs": [
+      "The title says Carbon Fiber, but Dispatch specifies 6061 aluminum; do not buy it expecting carbon-fiber construction.",
+      "The page mentions 11 colors, while the Shopify variant record exposes bolt inclusion only. Confirm the cap color shown and selected on the live product page.",
+      "The listed steerer size does not establish compatibility with every fork, headset, or integrated cockpit; check the interface and bolt requirements for your bike.",
+      "This is primarily a styling detail. The product listing makes no ride-quality or performance claim."
+    ],
+    "specs": {
+      "Selected option": "Add bolt: Yes (Shopify variant 45919754486002)",
+      "Fit": "Designed for 1 1/8-inch steerer tubes (manufacturer-listed)",
+      "Cap width": "1 1/4-inch (32 mm) (manufacturer-listed)",
+      "Material": "6061 aluminum (manufacturer-listed)",
+      "Finish": "Glossy (manufacturer-listed)",
+      "Color selection": "The product description mentions 11 colors; color is not exposed as a Shopify variant"
+    },
+    "source": "https://checkout.dispatch.bike/products/carbon-fiber-bicycle-headset-cap?variant=45919754486002",
+    "evidence": "Manufacturer-specification editorial evaluation; exact Add bolt: Yes variant and US storefront price and availability checked October 30, 2026. Code eligibility for this option is unverified. No purchase, checkout, fit, or installation test.",
+    "sections": [
+      [
+        "Choose it for the cockpit detail",
+        "The Dispatch cap is a small visual change for a compatible bike. We would consider it when replacing a worn or missing top cap, or when a colored detail suits the rest of the cockpit. Its product page presents the item as an easy style update; it does not provide evidence of a change to handling or ride quality."
+      ],
+      [
+        "Match the steerer and bolt",
+        "Dispatch says the cap is designed for 1 1/8-inch steerer tubes and measures 1 1/4 inches (32 mm) across. Check those details against your fork and headset before ordering. The selected Add bolt: Yes option was variant 45919754486002; the product page does not document compatibility with every fork, stem, or integrated cockpit, so confirm the required bolt and interface for your bike."
+      ],
+      [
+        "Read the material specification carefully",
+        "Although the product title says Carbon Fiber, the specification calls the cap 6061 aluminum. The woven pattern in the gallery describes its appearance, not proof of carbon-fiber construction. If you specifically need a cap made from carbon fiber, this listing does not establish that material."
+      ],
+      [
+        "Confirm color and price at the storefront",
+        "The product description says 11 colors are available, but the Shopify variant feed records only the Add bolt choice. Confirm the actual color selection on the page before ordering. On October 30, 2026, the US storefront showed Add bolt: Yes at $23.98 USD and an Add to cart control. The owner-supplied partner record lists code SEBASTIANBASSOL for 10% off, but eligibility for this exact option and any combination with other promotions are unverified. No after-code price is claimed."
+      ]
+    ],
+    "relatedGuides": [
+      "plan-your-bike-upgrades"
+    ],
+    "faqs": [
+      [
+        "Is the Dispatch Carbon Fiber Bicycle Headset Cap made of carbon fiber?",
+        "Dispatch's product title uses the words Carbon Fiber, but its specification identifies the cap as 6061 aluminum. The listing does not specify carbon-fiber construction."
+      ],
+      [
+        "What steerer size does this headset cap fit?",
+        "Dispatch says it is designed for 1 1/8-inch steerer tubes and lists a 1 1/4-inch (32 mm) cap width. Check the exact top-cap interface and bolt requirements on your bike before ordering."
+      ],
+      [
+        "What does the Add bolt: Yes option mean?",
+        "The official product options label variant 45919754486002 as Add bolt: Yes. Dispatch listed that option at $23.98 USD on October 30, 2026; confirm its fit and color selection on the live product page."
+      ],
+      [
+        "What price did the US storefront list for this option?",
+        "On October 30, 2026, the official US storefront listed Add bolt: Yes, variant 45919754486002, at $23.98 USD and displayed Add to cart. Price and availability can change; this is the pre-code listing, with no after-code amount claimed."
+      ]
+    ],
+    "publishedOn": "2026-10-30",
+    "updatedOn": "2026-10-30",
+    "specsCheckedOn": "2026-10-30",
+    "price": {
+      "amountMinor": 2398,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "45919754486002",
+      "variantLabel": "Add bolt: Yes",
+      "source": "https://checkout.dispatch.bike/products/carbon-fiber-bicycle-headset-cap?variant=45919754486002",
+      "checkedOn": "2026-10-30",
+      "isSalePrice": false
+    },
+    "eligibility": {
+      "status": "unresolved",
+      "variantId": "45919754486002",
+      "evidence": "docs/evidence/dispatch-carbon-fiber-bicycle-headset-cap.md#partner-offer"
+    }
+  },
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
 const checkoutProductsFor=brand=>products.filter(p=>p.brand===brand&&p.checkoutObservation);
