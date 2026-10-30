@@ -8423,6 +8423,112 @@ export const products = [
       "exclusions": "Exact Black V9-G60 single-bike variant only; $664 item subtotal before tax and shipping. No address or order. The product page also showed Sold Out / Notify Me despite feed and cart acceptance; the isolated cart was cleared."
     }
   },
+  {
+    slug: 'vipcoo-h3-electric-dirt-bike',
+    brand: 'hidoes',
+    name: 'VIPCOO H3 Electric Dirt Bike',
+    model: 'Default Title (variant 51227085963561; SKU VIPCOO H3)',
+    image: '/images/products/vipcoo-h3-electric-dirt-bike.jpg',
+    imageAlt: 'Black and green VIPCOO H3 electric dirt bike shown from the side on a white background',
+    imageWidth: 1500,
+    imageHeight: 1500,
+    category: 'electric-mobility',
+    use: 'private',
+    label: 'For riders with a suitable dirt-bike riding area',
+    headline: 'A motorcycle-style dirt bike calls for a route and fit check.',
+    description: 'Hidoes lists a 3,500W mid-drive, removable 23Ah battery, off-road tires, suspension and hydraulic disc brakes. The title advertises 37 mph; vehicle classification, fit and delivery timing still need direct confirmation.',
+    verdict: 'We recommend the VIPCOO H3 only to a rider seeking a seated, motorcycle-style electric dirt bike who has already identified a suitable riding area. Hidoes markets it as an electric motorcycle and advertises 37 mph in the product title; this is a different buying brief from a conventional pedal-assist commuter. Before ordering, confirm the H3’s classification and allowed riding locations with the seller and relevant local authority, get measurements for the intended rider, and confirm the delivery date and written support terms. The exact listing is $1,099 USD, but its stock signals conflict and the supplied 7% code has not been confirmed for this SKU.',
+    strengths: [
+      'Hidoes lists a 3,500W mid-drive and removable 23Ah battery, which outline a high-output dirt-bike setup on paper.',
+      'The seller specifies 14-inch front and 12-inch rear off-road tires, front hydraulic suspension and rear nitrogen-filled shocks.',
+      'Hidoes lists front and rear hydraulic disc brakes, a headlight, integrated brake and turn-signal tail lights, hazard flashers and a display.',
+      'The exact product variant and SKU are identifiable in the official feed, making it possible to ask Hidoes about this configuration rather than a general H3 listing.'
+    ],
+    tradeoffs: [
+      'The product title advertises 37 mph, but Hidoes does not establish the H3’s legal vehicle class or where it may be ridden. Confirm requirements and route access for your location; do not infer road eligibility from the product name.',
+      'The reviewed listing does not provide complete-bike weight, payload, seat height, full dimensions or a rider-height range. Get those exact H3 measurements and compare them with the intended rider and storage route.',
+      'Availability is unresolved: the product feed marked the variant available while the Hidoes homepage showed Sold Out and a preorder message. The product page did not supply a ship date.',
+      'Hidoes’ warranty page says heavy vehicles may not be returned because of shipping costs, while its refund policy gives electric dirt bikes a 14-day return period with fees. Ask which current written warranty and return terms apply to this exact H3.',
+      'The partner-supplied SEBASTIANBASSOL code reports 7% off, but exact H3 eligibility and stacking are unconfirmed. No after-code price or checkout result is claimed.'
+    ],
+    specs: {
+      'Selected configuration': 'Default Title; Shopify variant 51227085963561; SKU VIPCOO H3',
+      'Seller description': 'Electric dirt bike; Hidoes also calls it an electric motorcycle',
+      'Motor': '3,500W mid-drive (seller-listed)',
+      'Battery': 'Removable 23Ah battery (seller-listed; voltage, range and test conditions not established on the reviewed page)',
+      'Advertised top speed': '37 mph in the product title (seller claim; not independently measured)',
+      'Wheels and tires': '14-inch front / 12-inch rear off-road tires (seller-listed)',
+      'Suspension': 'Front hydraulic suspension and rear nitrogen-filled shocks (seller-listed)',
+      'Brakes': 'Front and rear hydraulic disc brakes (seller-listed)',
+      'Lighting and display': 'Headlight, integrated brake and turn-signal tail lights, hazard flashers and display (seller-listed)',
+      'Fit, weight and payload': 'Complete-bike weight, payload, seat height, full dimensions and rider-height guidance not supplied on the reviewed listing',
+      'Listed price': '$1,099 USD for variant 51227085963561 on October 30, 2026; availability signals conflicted'
+    },
+    source: 'https://hidoes.com/products/vipcoo-h3-electric-dirt-bikes?variant=51227085963561',
+    sourceLinks: [
+      { label: 'Hidoes shipping policy', url: 'https://hidoes.com/policies/shipping-policy' },
+      { label: 'Hidoes warranty page', url: 'https://hidoes.com/pages/warranty' },
+      { label: 'Hidoes refund policy', url: 'https://hidoes.com/policies/refund-policy' }
+    ],
+    evidence: 'Official Hidoes product page and Shopify feed checked October 30, 2026; exact variant 51227085963561 / SKU VIPCOO H3 and $1,099 USD listing recorded; feed and homepage availability conflict; partner-supplied 7% offer recorded but exact-SKU eligibility and stacking unconfirmed; no checkout, ride or performance testing',
+    sections: [
+      [
+        'A dirt-bike brief, not an ordinary commuter brief',
+        'Hidoes describes the VIPCOO H3 as an electric dirt bike and calls it an electric motorcycle. The seller lists a 3,500W mid-drive, compact 14-inch front and 12-inch rear off-road tires, and a 37 mph maximum in the product title. Those are seller specifications and claims, not Bike Tested measurements. If your main goal is day-to-day pedal-assist travel, compare a conventional commuter e-bike designed for your route and jurisdiction instead of assuming this motorcycle-style format is an equivalent substitute.'
+      ],
+      [
+        'Confirm classification and access before choosing a route',
+        'A product label or advertised speed does not establish the H3’s vehicle classification or permission to use a particular road, bike facility, private track or off-highway trail. Ask Hidoes for the classification and supplied documentation for variant 51227085963561, then confirm rider requirements and access with the relevant local authority or land manager. Decide where it can actually be ridden before weighing its motor and equipment list.'
+      ],
+      [
+        'Get measurements for the rider, storage and delivery plan',
+        'The reviewed Hidoes listing does not give a complete-bike weight, payload, seat height, full dimensions or rider-height band. Ask for the exact assembled measurements and weight for SKU VIPCOO H3, then compare seat height, reach and control access with the intended rider. Measure the path from delivery to storage and ask about boxed dimensions and unloading support; the page does not establish whether this machine can be moved easily by one person.'
+      ],
+      [
+        'Treat the $1,099 listing and delivery timing separately',
+        'On October 30, 2026, Hidoes’ product feed listed variant 51227085963561 (SKU VIPCOO H3) at $1,099 USD and marked it available. The homepage showed the H3 as Sold Out with a preorder message, and the product page did not show a ship date. Treat availability and delivery timing as unresolved. Confirm that the exact US variant can be ordered, its current ship window, delivery region and any freight or unloading arrangements before planning around the listing.'
+      ],
+      [
+        'Get the H3 support and return terms in writing',
+        'Hidoes’ warranty page describes a general one-year bike warranty and six-month battery warranty, but also says heavy vehicles may not be returned because of shipping costs. Its refund policy separately lists a 14-day return period for electric dirt bikes with handling, logistics and depreciation fees. The pages do not resolve which terms apply to the VIPCOO H3. Ask Hidoes to confirm the written warranty, return eligibility and likely return cost for this exact SKU, and how replacement parts or local service are handled.'
+      ],
+      [
+        'The reader code remains a partner-reported offer',
+        'Bike Tested’s Hidoes partner record supplies SEBASTIANBASSOL and reports 7% off at the Hidoes referral storefront. Eligibility for VIPCOO H3 variant 51227085963561 and combination with the listed price have not been confirmed. Check the exact SKU and final total with Hidoes; no after-code price or checkout result is reported.'
+      ]
+    ],
+    publishedOn: '2026-10-30',
+    updatedOn: '2026-10-30',
+    specsCheckedOn: '2026-10-30',
+    faqs: [
+      ['Is the VIPCOO H3 a commuter e-bike or is it road-legal?', 'Hidoes describes the H3 as an electric dirt bike and an electric motorcycle. This review does not determine its vehicle classification or local road access. Ask Hidoes for documentation for the exact variant and check the applicable requirements and route rules with your local authority.'],
+      ['What rider size does it fit, and how heavy is it?', 'The reviewed Hidoes listing does not provide complete-bike weight, payload, seat height, full dimensions or a rider-height range. Ask Hidoes for the exact H3 measurements and compare them with the intended rider, storage and transport plan.'],
+      ['Is the VIPCOO H3 available now?', 'Availability signals conflicted on October 30, 2026: Hidoes’ feed marked the selected variant available while its homepage displayed Sold Out and a preorder message. No ship date was visible on the product page, so confirm current availability and delivery timing directly with Hidoes.'],
+      ['Does SEBASTIANBASSOL apply to this VIPCOO H3?', 'Hidoes’ Bike Tested partner record reports 7% off with SEBASTIANBASSOL. Eligibility for variant 51227085963561 and whether it combines with the listed price have not been checked. Confirm the code and final total with Hidoes; no H3 saving or after-code price is claimed.'],
+      ['Which warranty and return terms apply?', 'Hidoes’ general warranty page and refund policy present different return statements for heavy vehicles and electric dirt bikes. Ask Hidoes to confirm in writing the current warranty, return eligibility and fees for the exact VIPCOO H3 SKU before ordering.']
+    ],
+    relatedReviews: [
+      { slug: 'happyrun-g300-se-ultra-electric-dirt-bike', reason: 'Compare another motorcycle-style electric dirt bike with a different motor, battery and clearly documented variant-specific code result.' },
+      { slug: 'hiknight-gtx2-electric-dirt-bike', reason: 'Compare another compact-wheel electric dirt bike and its published fit and weight details.' },
+      { slug: 'eskute-nova-rr-5500w-electric-dirt-bike', reason: 'Compare a different high-output dirt-bike configuration and seller-published specifications.' }
+    ],
+    relatedGuides: ['choose-your-first-ebike'],
+    price: {
+      amountMinor: 109900,
+      currency: 'USD',
+      region: 'US',
+      variantId: '51227085963561',
+      variantLabel: 'Default Title (SKU VIPCOO H3)',
+      source: 'https://hidoes.com/products/vipcoo-h3-electric-dirt-bikes?variant=51227085963561',
+      checkedOn: '2026-10-30',
+      isSalePrice: true
+    },
+    eligibility: {
+      status: 'unresolved',
+      variantId: '51227085963561',
+      evidence: 'docs/evidence/vipcoo-h3-electric-dirt-bike.md#offer-and-availability'
+    }
+  },
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
 const checkoutProductsFor=brand=>products.filter(p=>p.brand===brand&&p.checkoutObservation);
