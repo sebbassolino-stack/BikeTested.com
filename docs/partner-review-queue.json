@@ -1543,12 +1543,17 @@
       "brand": "COOSPO",
       "brandSlug": "coospo",
       "category": "gear-and-tech",
-      "status": "research-needed",
+      "status": "draft",
       "priority": 2,
+      "product": "COOSPO BC107 GPS Bike Computer, Black (variant 42572273352960; SKU BC107-B-L)",
+      "officialSource": "https://www.coospo.com/products/bc107-gps-bike-computer?variant=42572273352960",
+      "reviewUrl": "/reviews/coospo-bc107-gps-bike-computer",
       "affiliateUrl": "https://www.coospo.com/?ref=zfofvpsw",
       "code": "SEBASTIANBASSOL",
       "reportedBenefit": "10% off",
-      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+      "offerDetailNeeded": true,
+      "checkoutTestedOn": null,
+      "nextStep": "Local manufacturer-specification draft added. The October 30 feed listed the exact Black variant at $48.29 USD and marked it available. Exact-item partner-code eligibility and stacking with the separate product-page promotion remain unverified; no after-code amount is shown. Await production live verification before updating the published-path baseline."
     }
   ]
 }

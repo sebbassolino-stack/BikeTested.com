@@ -8034,6 +8034,115 @@ export const products = [
      "evidence": "docs/evidence/touroll-u2-pro-mountain-electric-bike.md#offer-evidence"
    }
  },
+ {
+   "slug": "coospo-bc107-gps-bike-computer",
+   "brand": "coospo",
+   "name": "COOSPO BC107 GPS Bike Computer",
+   "model": "BC107 GPS Bike Computer",
+   "image": "/images/products/coospo-bc107-gps-bike-computer.webp",
+   "imageAlt": "COOSPO BC107 GPS bike computer, Black variant, shown from the front with its display and buttons",
+   "imageWidth": 1200,
+   "imageHeight": 1200,
+   "category": "cycling-technology",
+   "use": "recreation",
+   "label": "For basic GPS ride data",
+   "headline": "GPS basics for ANT+ setups, with two workflow limits.",
+   "description": "A GPS bike computer for U.S. riders who want ANT+ sensor support and app-based activity sync, provided the limits around Bluetooth sensors and USB file export fit their setup.",
+   "verdict": "We recommend the COOSPO BC107 to U.S. riders who want a straightforward GPS bike computer and already use ANT+ sensors. COOSPO says it supports heart-rate, speed, cadence, and power sensors, then syncs .FIT activity to Strava through the CoospoRide app. The two limits are decisive: it does not connect to Bluetooth sensors, and it cannot export .FIT files by USB. Choose another computer if either connection path is essential.",
+   "strengths": [
+     "GPS + BeiDou positioning and a listed set of ride-data functions give it a clear basic-computer brief.",
+     "ANT+ support covers compatible heart-rate, speed, cadence, and power sensors.",
+     "The CoospoRide app supports setup, firmware updates, and activity sync to Strava.",
+     "COOSPO lists an IP67 rating and up to 28 hours of GPS use; both are manufacturer claims."
+   ],
+   "tradeoffs": [
+     "The BC107 does not support Bluetooth sensor connections; confirm your existing sensors use ANT+.",
+     "COOSPO says the device cannot export .FIT files by USB, so its app is the supported transfer path.",
+     "The 28-hour GPS runtime is a manufacturer estimate, and COOSPO says actual use varies.",
+     "COOSPO lists the screen as 2.3-inch FSTN in the product-page parameters, 2.4-inch FSTN in its comparison table, and 2.4-inch LCD in the listing title. Ask which specification applies to this unit if screen size or display type affects your choice."
+   ],
+   "specs": {
+     "Positioning": "GPS + BeiDou (manufacturer-listed)",
+     "Sensor connection": "ANT+; COOSPO says Bluetooth sensor connections are not supported",
+     "Compatible sensors": "Heart rate, speed, cadence, and power (ANT+)",
+     "Activity sync": "CoospoRide app; COOSPO says .FIT activity can sync to Strava through the app",
+     "USB file export": "COOSPO says the BC107 cannot export .FIT files by USB",
+     "Claimed GPS battery life": "Up to 28 hours; manufacturer estimate",
+     "Water-resistance rating": "IP67 (manufacturer-listed)",
+     "Weight": "64 g (manufacturer-listed)",
+     "Dimensions": "80 × 54 × 20.64 mm (manufacturer-listed)",
+     "Included": "BC107 device, USB cable, basic mount"
+   },
+   "source": "https://www.coospo.com/products/bc107-gps-bike-computer?variant=42572273352960",
+   "sourceLinks": [
+     {
+       "label": "COOSPO shipping policy",
+       "url": "https://www.coospo.com/pages/shipping-policy"
+     },
+     {
+       "label": "COOSPO GPS bike-computer comparison",
+       "url": "https://www.coospo.com/pages/product-comparison"
+     }
+   ],
+   "evidence": "Manufacturer specification evaluation; exact-item code eligibility and stacking unverified",
+   "sections": [
+     [
+       "Start with the sensor protocol",
+       "The BC107 makes sense when its ANT+ connection matches the sensors already on your bike. COOSPO lists heart-rate, speed, cadence, and power sensors as compatible, but explicitly says the computer does not support Bluetooth sensor connections. Check the model and protocol of each sensor before buying; a familiar sensor brand alone does not guarantee that this computer can pair with it."
+     ],
+     [
+       "Plan to use the app for activity transfer",
+       "COOSPO says the CoospoRide app can sync activity files to Strava and handle setup and firmware updates. The product page also says the BC107 cannot export .FIT files by USB. That makes the app part of the normal file workflow. If you need direct cable access to activity files or want to avoid the companion app, choose a computer with the transfer method you prefer."
+     ],
+     [
+       "Treat the runtime as a listing claim",
+       "COOSPO lists up to 28 hours of continuous GPS use and notes that actual time depends on personal use. We treat that as a manufacturer estimate, not a Bike Tested battery result. Plan around the routes you ride and the charging routine you can maintain rather than relying on a maximum figure as a guarantee."
+     ],
+     [
+       "Keep the two displayed codes separate",
+       "On October 30, 2026, the official feed listed the Black variant at $48.29 USD against a $60.39 comparison price and marked it available. The product page separately displayed Hicoospo for 5% off with a zeroed countdown. Bike Tested's owner-supplied COOSPO partner record lists SEBASTIANBASSOL for 10% off eligible purchases, but eligibility for this exact variant and stacking with the product-page offer are unverified. We show no after-code amount; confirm the selected item and final cart total before ordering."
+     ]
+   ],
+   "relatedGuides": [
+     "choose-a-cycling-computer"
+   ],
+   "faqs": [
+     [
+       "Can the BC107 connect to Bluetooth sensors?",
+       "COOSPO says the BC107 does not support Bluetooth sensor connections. The product page lists ANT+ heart-rate, speed, cadence, and power sensors. Confirm the protocol for your exact sensor before buying."
+     ],
+     [
+       "How does the BC107 send activity to Strava?",
+       "COOSPO says the CoospoRide app can sync .FIT activity files to Strava. The BC107 cannot export .FIT files by USB, according to the product page."
+     ],
+     [
+       "How long does the BC107 battery last?",
+       "COOSPO lists up to 28 hours with GPS enabled and says actual use varies with personal use habits. This is a manufacturer claim, not a Bike Tested runtime measurement."
+     ],
+     [
+       "What did COOSPO list for the Black variant?",
+       "The official product feed identified Black variant 42572273352960, SKU BC107-B-L, at $48.29 USD against a $60.39 comparison price on October 30, 2026. The feed marked the variant available at that check; price and availability can change."
+     ]
+   ],
+   "publishedOn": "2026-10-30",
+   "updatedOn": "2026-10-30",
+   "specsCheckedOn": "2026-10-30",
+   "price": {
+     "amountMinor": 4829,
+     "currency": "USD",
+     "region": "US",
+     "variantId": "42572273352960",
+     "variantLabel": "Black (SKU BC107-B-L)",
+     "source": "https://www.coospo.com/products/bc107-gps-bike-computer?variant=42572273352960",
+     "checkedOn": "2026-10-30",
+     "isSalePrice": true
+   },
+   "eligibility": {
+     "status": "unresolved",
+     "variantId": "42572273352960",
+     "evidence": "docs/evidence/coospo-bc107-gps-bike-computer.md#offer-evidence"
+   }
+ },
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
 const checkoutProductsFor=brand=>products.filter(p=>p.brand===brand&&p.checkoutObservation);

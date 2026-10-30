@@ -16,6 +16,7 @@ for(const p of products){
   assert.equal(new URL(p.source).protocol,'https:');
   for(const key of ['publishedOn','updatedOn','specsCheckedOn'])assert(date(p[key]),`Product date ${key}: ${p.slug}`);
   assert(p.updatedOn>=p.publishedOn,`Product date order: ${p.slug}`);
+  for(const slug of p.relatedGuides||[])assert(guides.some(g=>g.slug===slug),`Related guide: ${p.slug} / ${slug}`);
   if(p.faqs){assert(p.faqs.length>=4&&p.faqs.length<=5,`Product FAQ count: ${p.slug}`);assert.equal(new Set(p.faqs.map(([q])=>q)).size,p.faqs.length,`Duplicate product FAQ: ${p.slug}`);for(const [q,a] of p.faqs)assert(q&&a,`Empty product FAQ: ${p.slug}`);}
   if(p.price){
     const price=p.price;
