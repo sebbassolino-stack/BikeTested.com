@@ -1371,7 +1371,7 @@
       "brand": "Hidoes",
       "brandSlug": "hidoes",
       "category": "electric-mobility",
-      "status": "review-authored-release-pending",
+      "status": "review-published-live-routes-verified",
       "priority": 2,
       "product": "VIPCOO H3 Electric Dirt Bike, Default Title (variant 51227085963561; SKU VIPCOO H3)",
       "officialSource": "https://hidoes.com/products/vipcoo-h3-electric-dirt-bikes?variant=51227085963561",
@@ -1380,7 +1380,7 @@
       "code": "SEBASTIANBASSOL",
       "reportedBenefit": "7% off",
       "checkoutTestedOn": null,
-      "nextStep": "Review authored for exact Hidoes variant; release and live verification pending. The supplied 7% code is not tested on this SKU and stacking is unknown. Feed availability conflicts with Sold Out/preorder messaging; no ship date. Evidence: docs/evidence/vipcoo-h3-electric-dirt-bike.md."
+      "nextStep": "Published in content commit 7c809c6; Cloudflare Pages check 124122227213 succeeded for deployment 90b89154-6d48-4333-8448-a8eefe99ab3b. Review, Hidoes promo, Deals, agent.json, llms.txt, sitemap and original image verified on biketested.com, biketested.pages.dev and the deployment preview. Availability remains unresolved; the supplied 7% code was not tested on this SKU and stacking is unknown. Evidence: docs/evidence/vipcoo-h3-electric-dirt-bike.md."
     },
     {
       "brand": "Vipcoo",
