@@ -1356,12 +1356,16 @@
       "brand": "Amyet",
       "brandSlug": "amyet",
       "category": "electric-bikes",
-      "status": "research-needed",
+      "status": "review-published-live-routes-verified",
       "priority": 2,
+      "product": "AMYET V9-G60 Electric Bike, Black / V9-G60 single-bike option (variant 49196588826902; SKU AMYET-G60-B)",
+      "officialSource": "https://www.amyet.com/products/amyet-g60-1000w-20ah-electric-bike?variant=49196588826902",
+      "reviewUrl": "/reviews/amyet-v9-g60-electric-bike-black",
       "affiliateUrl": "https://www.amyet.com/?ref=SEBASTIANBASSOLINO",
       "code": "SEBASTIANBASSOL",
       "reportedBenefit": "$25.00 off",
-      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+      "checkoutTestedOn": "2026-10-30",
+      "nextStep": "Published in content commit 64c7a7e; Cloudflare Pages deployment d352999d-2ef5-4e37-95fa-c098fe036cef is Active for that source. The exact Black single-bike variant accepted the code for $25 off the displayed $689 sale price, leaving $664 before tax and shipping. No address or order; isolated cart cleared. The product page and feed/cart showed conflicting availability signals, so stock remains unresolved."
     },
     {
       "brand": "Hidoes",

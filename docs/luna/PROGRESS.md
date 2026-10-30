@@ -128,3 +128,11 @@ Eleglide's bike review remains held: official Shopify feeds for the T2, Mopride 
 ## Additional coded review — October 30, 2026
 
 THE BEAM CORKY URBAN flat-bar mirror review 93 shipped in commit `c813e6b`; Cloudflare Pages deployment `163ff095-2fde-45e6-9969-60f3b287dd05` is active. The live review, THE BEAM code page, image and sitemap entry returned 200, and the live image hash matches the official image copied unchanged. The France listing showed the exact single-mirror variant at €36.00 including tax. Code `SEBASTIAN` is reported for 5% off, but exact-variant eligibility and stacking remain unverified; no checkout or order was made. The review links the existing commuter gear guide, which was not edited.
+
+### Wave 146 — AMYET V9-G60 Electric Bike — October 30, 2026
+
+The Black single-bike option (variant `49196588826902`; SKU `AMYET-G60-B`) shipped in content commit `64c7a7e`; Cloudflare Pages deployment `d352999d-2ef5-4e37-95fa-c098fe036cef` is Active for that source. AMYET listed the exact option at `$689 USD`; its feed said available while the product page displayed Sold Out / Notify Me. In an isolated cart, `SEBASTIANBASSOL` removed `$25`, leaving `$664` before shipping and tax. No address or order; the cart was cleared. Stock remains unresolved.
+
+The review flags the page's inconsistent `48V / 20Ah` and `1,000Wh` battery figures, missing complete-bike weight and fit dimensions, and the UL 2849 claim without a linked certificate for this configuration. The exact official Black-bike image was copied unchanged as a 1500 × 1500 JPEG; local and live SHA-256 is `ddb040802752d5660a3a302374abb7249261f31055c0076949384c4d4378afb3`.
+
+`npm run check`, `npm run build`, and `git diff --check` passed with 94 reviews, 253 generated and indexed HTML pages, 23 guides and 2 comparisons. The production review, AMYET offer, brand page, sitemap index/child, `llms.txt`, `agent.json` and product image returned 200; canonicals, exact offer/variant, guide link and live image hash matched. Production desktop and 375px mobile renders showed the code and CTA near the top with no horizontal overflow. In the local preview, the copy button showed success feedback and the browser console had no errors. This is one new review, zero new guides/comparisons and zero substantive existing-page improvements. No PaddleReviewHub work was performed.
