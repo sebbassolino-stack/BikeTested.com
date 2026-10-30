@@ -8143,6 +8143,96 @@ export const products = [
      "evidence": "docs/evidence/coospo-bc107-gps-bike-computer.md#offer-evidence"
    }
  },
+ {
+   "slug": "the-beam-corky-urban-bike-mirror",
+   "brand": "the-beam",
+   "name": "THE BEAM CORKY URBAN Flat-Bar Rearview Bike Mirror",
+   "model": "CORKY URBAN (variant 39864269570142; SKU BEAM-BM0021-RETR)",
+   "image": "/images/products/the-beam-corky-urban-bike-mirror.jpg",
+   "imageAlt": "THE BEAM CORKY URBAN rearview mirror shown open and closed",
+   "imageWidth": 2126,
+   "imageHeight": 2126,
+   "category": "gear-and-tech",
+   "use": "commute",
+   "label": "For a compact rear view on flat bars",
+   "headline": "A fold-out mirror with two mounting options.",
+   "description": "The CORKY URBAN gives flat-bar city and hybrid riders a compact bar-end view with two listed mounting methods. Its 35 mm mirror and 18–23 mm expansion-bolt fit call for a quick check of the handlebar before ordering.",
+   "verdict": "We recommend the THE BEAM CORKY URBAN for flat-bar commuters who want a small rearview mirror they can fold away between rides. Its 35 mm convex mirror rotates through 360 degrees, and the package includes an expansion-bolt mount plus a silicone mount. Buy only after checking the listed 18–23 mm bar-end fit and the room around your grips and controls; no listing can guarantee a useful view from every riding position.",
+   "strengths": [
+     "The package includes both an expansion-bolt mount and a universal silicone mount.",
+     "The flip-out mirror rotates through 360 degrees, so riders can adjust it around their cockpit layout.",
+     "A 35 mm mirror keeps the rearview accessory compact for flat-bar setups."
+   ],
+   "tradeoffs": [
+     "Check the listed 18–23 mm expansion-bolt fit and bar-end clearance before ordering; existing plugs or accessories may conflict.",
+     "A 35 mm mirror favors a compact setup over a large reflected area; compare a larger mirror if viewing area is the priority.",
+     "The product listing does not establish the useful rearward view from your own riding position or handlebar layout."
+   ],
+   "specs": {
+     "Mirror type": "120-degree convex (manufacturer-listed)",
+     "Mirror diameter": "35 mm (manufacturer-listed)",
+     "Adjustment": "360-degree rotation (manufacturer-listed)",
+     "Mounting options": "Expansion-bolt mount and universal silicone mount (manufacturer-listed)",
+     "Expansion-bolt fit": "Handlebars Ø 18–23 mm (manufacturer-listed)",
+     "Materials": "ABS body, polycarbonate (PC) glass, steel bolt (manufacturer-listed)",
+     "Included": "Rearview mirror, silicone mount, ABS body and expansion-bolt mount, two six-angle wrenches"
+   },
+   "source": "https://thebeamofficial.com/products/corky-urban?variant=39864269570142",
+   "evidence": "Manufacturer specification evaluation; exact-item code eligibility and bundle stacking unverified",
+   "sections": [
+     [
+       "Check the fit at the bar end",
+       "THE BEAM sells the CORKY URBAN as a flat-bar rearview mirror. The product page lists an expansion-bolt mount for 18–23 mm handlebars and includes a silicone mount as an alternative. That gives commuters two attachment options, but it does not confirm that every bar-end plug, shifter or accessory will fit alongside the mirror. Check your handlebar-end size and available clearance before choosing how to mount it."
+     ],
+     [
+       "Choose it for a compact, adjustable view",
+       "The mirror is 35 mm across and described as a 120-degree convex surface that flips out and rotates through 360 degrees. That combination suits riders who want a small mirror they can adjust or fold away with the cockpit. The size is also the main compromise: compare a larger mirror if reflected area matters more than a tidy bar end, and confirm the view from your own riding position."
+     ],
+     [
+       "Keep the single-item price and partner code separate",
+       "On October 30, 2026, THE BEAM’s France storefront displayed the single CORKY URBAN option at €36.00 with tax included and said it was in stock and shipped immediately; the official product feed marked the exact variant available. The page also showed separate multi-mirror offers. Bike Tested’s owner-supplied partner record lists code SEBASTIAN for 5% off, but eligibility for this exact variant and combination with those offers are unverified. No after-code amount is shown; confirm the final item total and delivery terms for your destination before ordering."
+     ]
+   ],
+   "relatedGuides": [
+     "commuter-gear-checklist"
+   ],
+   "faqs": [
+     [
+       "Who should choose the THE BEAM CORKY URBAN?",
+       "We recommend the THE BEAM CORKY URBAN for flat-bar commuters who want a small rearview mirror they can fold away between rides. Its 35 mm convex mirror rotates through 360 degrees, and the package includes an expansion-bolt mount plus a silicone mount. Buy only after checking the listed 18–23 mm bar-end fit and the room around your grips and controls; no listing can guarantee a useful view from every riding position."
+     ],
+     [
+       "Which handlebar size fits the expansion-bolt mount?",
+       "THE BEAM lists a fit of 18–23 mm for the expansion-bolt mount and includes a silicone alternative. Check your bar-end size and clearance; the listing does not confirm compatibility with every plug, shifter or handlebar accessory."
+     ],
+     [
+       "How does the CORKY URBAN mirror adjust?",
+       "THE BEAM describes a 120-degree convex mirror that flips out and rotates through 360 degrees. The mirror itself measures 35 mm across; how much useful rearward view it gives depends on your cockpit and riding position."
+     ],
+     [
+       "What did THE BEAM list for the France option?",
+       "On October 30, 2026, the official France storefront displayed the CORKY URBAN single-mirror variant 39864269570142, SKU BEAM-BM0021-RETR, at €36.00 with tax included and marked it in stock. The product feed also returned the variant as available. Price and stock can change."
+     ]
+   ],
+   "publishedOn": "2026-10-30",
+   "updatedOn": "2026-10-30",
+   "specsCheckedOn": "2026-10-30",
+   "price": {
+     "amountMinor": 3600,
+     "currency": "EUR",
+     "region": "France",
+     "variantId": "39864269570142",
+     "variantLabel": "CORKY URBAN single-mirror option (SKU BEAM-BM0021-RETR)",
+     "source": "https://thebeamofficial.com/products/corky-urban?variant=39864269570142",
+     "checkedOn": "2026-10-30",
+     "isSalePrice": false
+   },
+   "eligibility": {
+     "status": "unresolved",
+     "variantId": "39864269570142",
+     "evidence": "docs/evidence/the-beam-corky-urban-bike-mirror.md#offer-evidence"
+   }
+ },
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
 const checkoutProductsFor=brand=>products.filter(p=>p.brand===brand&&p.checkoutObservation);

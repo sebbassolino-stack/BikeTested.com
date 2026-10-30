@@ -1444,12 +1444,17 @@
       "brand": "THE BEAM",
       "brandSlug": "the-beam",
       "category": "gear-and-tech",
-      "status": "research-needed",
+      "status": "draft",
       "priority": 2,
       "affiliateUrl": "https://thebeamofficial.com/?ref=tbnjcvtg",
       "code": "SEBASTIAN",
       "reportedBenefit": "5% off",
-      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+      "nextStep": "Wave137 local draft and rendered route are prepared. France storefront listed the exact single-mirror variant at €36.00 including tax and marked it available on 2026-10-30. SEBASTIAN is owner-supplied for 5% off; exact-item eligibility and stacking with separate multi-mirror offers remain unverified. No checkout or publication; do not update published paths or campaign ledger.",
+      "product": "THE BEAM CORKY URBAN Flat-Bar Rearview Bike Mirror, France / EUR (variant 39864269570142; SKU BEAM-BM0021-RETR)",
+      "officialSource": "https://thebeamofficial.com/products/corky-urban?variant=39864269570142",
+      "reviewUrl": "/reviews/the-beam-corky-urban-bike-mirror",
+      "offerDetailNeeded": true,
+      "checkoutTestedOn": null
     },
     {
       "brand": "JKING",
