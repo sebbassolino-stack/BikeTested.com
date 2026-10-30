@@ -8327,6 +8327,102 @@ export const products = [
       "evidence": "docs/evidence/dispatch-carbon-fiber-bicycle-headset-cap.md#partner-offer"
     }
   },
+  {
+    "slug": "amyet-v9-g60-electric-bike-black",
+    "brand": "amyet",
+    "name": "AMYET V9-G60 Electric Bike",
+    "model": "V9-G60, Black / 20Ah",
+    "image": "/images/products/amyet-v9-g60-electric-bike-black.jpg",
+    "imageAlt": "Black AMYET V9-G60 electric bike with a long bench seat and 20-inch fat tires on a white background",
+    "imageWidth": 1500,
+    "imageHeight": 1500,
+    "category": "electric-bikes",
+    "use": "weekend",
+    "label": "For moped-style fat-tire rides",
+    "headline": "A distinctive layout, with key details to confirm.",
+    "description": "AMYET pairs a long saddle and 20 × 4-inch tires with a removable 48V/20Ah battery. The listing leaves complete-bike weight and rider-fit dimensions unanswered.",
+    "verdict": "We would shortlist the V9-G60 for riders specifically drawn to its moped-inspired shape, 20 × 4-inch tires and removable battery. The Black single-bike variant accepted SEBASTIANBASSOL in an October 30 cart check: $25 came off the displayed $689 sale price, leaving a $664 item subtotal before tax and shipping. Before ordering, confirm the complete bike's weight and dimensions, and ask AMYET to reconcile its 48V/20Ah battery description with a separate 1,000Wh specification. Its page also presents conflicting stock signals. Finally, verify that the advertised 32mph configuration and the seller's UL 2849 claim match the exact bike and your intended use. If those details fit your storage, rider fit and local requirements, this is a compelling option for its particular long-seat, small-wheel format.",
+    "strengths": [
+      "The seller lists a removable 48V/20Ah battery, which lets owners charge the pack away from the bike if the chosen storage location suits the removal process.",
+      "The 20 × 4-inch tires, long bench-style saddle and moped-inspired frame give the bike a distinctive format for shoppers who want that look and equipment mix.",
+      "AMYET lists dual suspension, seven-speed gearing, disc brakes, three riding modes, lights, turn signals and an electric horn.",
+      "The selected single-bike variant accepted the supplied $25 code in an isolated cart, and the observed discount applied to its displayed sale price."
+    ],
+    "tradeoffs": [
+      "AMYET advertises speeds up to 32mph. That figure is a seller claim, not a Bike Tested measurement or a statement of where this configuration may be used; check the rules for your destination and route.",
+      "The listing says 48V/20Ah, which equals 960Wh by calculation, but another product detail states 1,000Wh. Ask AMYET to confirm the exact battery label and rated capacity before comparing range or replacement packs.",
+      "AMYET's 30–65-mile range is an estimate without clearly stated test conditions. Plan from a conservative route and charging margin rather than treating 65 miles as a dependable ride distance.",
+      "The product page does not give complete-bike weight, overall dimensions or a rider-height/geometry chart. Confirm these before planning stair storage, vehicle transport or fit.",
+      "The product page's selected-variant feed and cart accepted the V9-G60, but the page also displayed a Sold Out / Notify Me notice. Availability is unresolved.",
+      "AMYET's title and feature copy claim UL 2849 certification, but the accessible product page does not link to a certificate for this exact configuration. Request the matching documentation before relying on that claim."
+    ],
+    "specs": {
+      "Configuration / SKU": "Black V9-G60 single-bike option; variant 49196588826902; SKU AMYET-G60-B",
+      "Motor": "1,000W with up to 1,500W peak (AMYET-listed; not independently measured)",
+      "Advertised top speed": "Up to 32mph (seller claim)",
+      "Battery": "Removable 48V/20Ah; another product detail states 1,000Wh, while 48V × 20Ah equals 960Wh by calculation",
+      "Advertised range": "30–65 miles (seller estimate; test conditions not stated)",
+      "Tires": "20 × 4 inches",
+      "Maximum payload": "330lb (AMYET-listed)",
+      "Equipment": "Dual suspension, seven-speed gearing, disc brakes, three riding modes, front light, rear light, turn signals and horn (AMYET-listed)",
+      "Included items": "Bike, charger, user manual, toolkit and key (AMYET-listed)",
+      "Assembly": "AMYET says approximately 90% pre-assembled; final setup is required",
+      "Certification claim": "The listing says UL 2849; the page does not link a certificate for this selected configuration"
+    },
+    "source": "https://www.amyet.com/products/amyet-g60-1000w-20ah-electric-bike?variant=49196588826902",
+    "sourceLinks": [
+      {"label": "AMYET shipping policy", "url": "https://www.amyet.com/policies/shipping-policy"},
+      {"label": "AMYET return and refund policy", "url": "https://www.amyet.com/policies/refund-policy"},
+      {"label": "AMYET user manuals", "url": "https://www.amyet.com/pages/user-manuals"}
+    ],
+    "evidence": "Manufacturer-specification review; exact-variant code accepted in cart",
+    "relatedGuides": ["fat-tire-vs-regular-tire-ebikes"],
+    "sections": [
+      ["A moped-inspired format with 20-inch wheels", "The V9-G60's long saddle, compact-looking frame and 20 × 4-inch tires make a very different proposition from a conventional city commuter. AMYET also lists dual suspension, a removable battery, seven-speed gears and three riding modes. That equipment mix is why the bike may appeal to someone seeking this particular style. The tire width alone does not establish comfort, traction or suitability for every surface; compare the full geometry and intended route, then use our fat-tire versus regular-tire guide to think through the trade-offs."],
+      ["Resolve the battery and range before choosing", "AMYET describes a removable 48V/20Ah pack and a 30–65-mile range, but another product detail lists 1,000Wh. Multiplying the stated voltage and amp-hours gives 960Wh, so the listing does not present one consistent energy figure. Ask the seller to confirm the battery label, exact pack supplied with variant 49196588826902, charger rating and replacement-pack availability. Treat the range as a manufacturer estimate; the product page does not give test conditions that would let you plan a route around its upper figure."],
+      ["Check fit, storage and intended use", "The product page leaves out complete-bike weight, full dimensions and a rider-size chart. Those are central buying details for a long-seat bike: measure your access path and storage area, and get the exact bike weight and frame measurements before deciding whether it can be moved or parked where you need it. AMYET advertises up to 32mph and describes UL 2849 certification, but the page does not link documentation for this configuration or establish which local rules apply. Ask for the certificate and the applicable vehicle classification for your location before relying on the listing's labels."],
+      ["What the cart check and stock notice mean", "On October 30, 2026, the isolated US cart accepted SEBASTIANBASSOL for Black V9-G60 variant 49196588826902 / SKU AMYET-G60-B. It removed $25 from the displayed $689 sale price, leaving a $664 item subtotal before tax and shipping. No delivery address was entered and no order was placed; the isolated cart was cleared afterward. The same day's product page showed Sold Out / Notify Me even though its product feed and add-to-cart endpoint accepted the selected variant. Treat stock as unresolved and check the live listing directly before making plans around the bike."]
+    ],
+    "publishedOn": "2026-10-30",
+    "updatedOn": "2026-10-30",
+    "specsCheckedOn": "2026-10-30",
+    "faqs": [
+      ["Which AMYET V9-G60 version does this review cover?", "The Black single-bike V9-G60 option, variant 49196588826902 / SKU AMYET-G60-B. AMYET lists a separate two-bike bundle as another option; its price and contents are not treated as part of this review."],
+      ["What battery comes with the V9-G60?", "AMYET lists a removable 48V/20Ah battery, which works out to 960Wh by calculation. Another product detail says 1,000Wh. Ask AMYET to confirm the exact pack and label for the selected variant."],
+      ["Is the AMYET V9-G60 available now?", "Availability signals conflicted on October 30, 2026: the selected-variant feed and cart accepted the bike, while the product page also displayed Sold Out / Notify Me. Check the live listing directly; this review does not claim it is in stock."],
+      ["Did SEBASTIANBASSOL work on this V9-G60?", "Yes. In an isolated cart on October 30, 2026, the code removed $25 from the displayed $689 sale price for Black V9-G60 variant 49196588826902, leaving a $664 item subtotal before tax and shipping. No address or order was entered, and other AMYET products and variants were not checked."],
+      ["How much does the V9-G60 weigh?", "AMYET's product page does not provide a complete-bike weight. Ask for the exact boxed and assembled weights before planning stair storage, vehicle transport or a bike rack. Check the rack's per-bike and total limits separately."]
+    ],
+    "price": {
+      "amountMinor": 68900,
+      "currency": "USD",
+      "region": "US",
+      "variantId": "49196588826902",
+      "variantLabel": "Black / V9-G60 single-bike option (SKU AMYET-G60-B)",
+      "source": "https://www.amyet.com/products/amyet-g60-1000w-20ah-electric-bike?variant=49196588826902",
+      "checkedOn": "2026-10-30",
+      "isSalePrice": true,
+      "codeStackingEvidence": "docs/evidence/amyet-v9-g60-electric-bike-black.md#exact-variant-cart-code-check"
+    },
+    "eligibility": {
+      "status": "eligible",
+      "variantId": "49196588826902",
+      "evidence": "docs/evidence/amyet-v9-g60-electric-bike-black.md#exact-variant-cart-code-check"
+    },
+    "checkoutObservation": {
+      "code": "SEBASTIANBASSOL",
+      "stage": "cart",
+      "result": "discount-applied",
+      "variantId": "49196588826902",
+      "baseAmountMinor": 68900,
+      "discountMinor": 2500,
+      "afterAmountMinor": 66400,
+      "currency": "USD",
+      "checkedOn": "2026-10-30",
+      "message": "An isolated US cart accepted the code for the selected Black single-bike V9-G60; the $25 discount applied to the displayed $689 sale price.",
+      "exclusions": "Exact Black V9-G60 single-bike variant only; $664 item subtotal before tax and shipping. No address or order. The product page also showed Sold Out / Notify Me despite feed and cart acceptance; the isolated cart was cleared."
+    }
+  },
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
 const checkoutProductsFor=brand=>products.filter(p=>p.brand===brand&&p.checkoutObservation);
