@@ -124,3 +124,7 @@ Touroll reviews now cover the S3 (`b70fda1`), Urbano 3 (`8152a6f`) and U2 Pro (`
 Eleglide's bike review remains held: official Shopify feeds for the T2, Mopride 2, T1, T1 ST and Mopride 3 returned zero available variants on October 29. No purchase-led review was added while the current bike range is unavailable.
 
 `npm run build` passed with 90 reviews, 217 HTML pages, 23 guides and 52 partners; `git diff --check` and JSON parsing passed. U2 Pro desktop and 375px mobile QA found no horizontal overflow; the image loaded, code-copy feedback worked, and the browser console had no warnings or errors. The eight offer/brand pages were HTTP-verified but not re-inspected visually in this follow-on. Commit `b933d74` is pushed to `origin/main`; GitHub deployment metadata returned no deployment record, while the exact production routes and image were verified on both domains.
+
+## Additional coded review — October 30, 2026
+
+THE BEAM CORKY URBAN flat-bar mirror review 93 shipped in commit `c813e6b`; Cloudflare Pages deployment `163ff095-2fde-45e6-9969-60f3b287dd05` is active. The live review, THE BEAM code page, image and sitemap entry returned 200, and the live image hash matches the official image copied unchanged. The France listing showed the exact single-mirror variant at €36.00 including tax. Code `SEBASTIAN` is reported for 5% off, but exact-variant eligibility and stacking remain unverified; no checkout or order was made. The review links the existing commuter gear guide, which was not edited.
