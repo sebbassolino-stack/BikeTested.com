@@ -1593,7 +1593,7 @@
       "brand": "THE BEAM",
       "brandSlug": "the-beam",
       "category": "gear-and-tech",
-      "status": "review-ready-for-release",
+      "status": "review-published-live-routes-verified",
       "priority": 2,
       "product": "THE BEAM CORKY X Sunglasses Rear-View Mirror, France / EUR (Black variant 39412261093470; SKU BEAM-BM0023-RETR)",
       "officialSource": "https://thebeamofficial.com/products/tbm-rear-view-mirror?variant=39412261093470",
@@ -1603,7 +1603,7 @@
       "reportedBenefit": "5% off",
       "offerDetailNeeded": true,
       "checkoutTestedOn": null,
-      "nextStep": "Official France storefront and product feed checked October 31, 2026: Black variant 39412261093470 / SKU BEAM-BM0023-RETR listed at €49.00 including tax and feed marked available. Owner-supplied code SEBASTIAN reports 5% off; exact-item eligibility and stacking remain unverified. No cart, checkout or order."
+      "nextStep": "Wave 197 published in content commit 452081505703b216ba6c69fa2042a7a95a3787a1. Cloudflare Pages check 124557468525 succeeded for deployment 53e3d593-e086-4b90-b267-cb3c4807836d; preview https://53e3d593.biketested.pages.dev. Production and preview review, promo, brand, gear-and-tech category, commuter gear guide, agent.json, llms.txt, sitemap index/child and exact image returned HTTP 200. Canonical, selected Black variant 39412261093470 / SKU BEAM-BM0023-RETR, code, affiliate destination, guide relationship and image SHA-256 1a713742afca22e4c90457708c99551334eafe47f2a281f19e64082e1385dbde match. France store listed €49.00 including tax and marked the variant available on October 31, 2026. SEBASTIAN reports 5% off; exact-item eligibility and stacking remain unresolved. No after-code price, cart, checkout, order or attribution. IndexNow was not submitted because the repository has no configured key or established scoped submission workflow; no new key setup was added."
     }
   ]
 }
