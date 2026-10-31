@@ -1523,12 +1523,17 @@
       "brand": "Joyor (EU)",
       "brandSlug": "joyor-eu",
       "category": "electric-mobility",
-      "status": "research-needed",
+      "status": "review-published-live-routes-verified",
       "priority": 2,
       "affiliateUrl": "https://www.joyor-escooter.com/?ref=hdpupfrr",
       "code": "SEBASTIANBASSOL",
       "reportedBenefit": "€20.00 off",
-      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+      "nextStep": "Wave 211 is in its link-only release follow-up: the existing bike-versus-scooter guide now includes the exact C10E review in its product list. Exact C10 E is a single listing without a selectable variant ID. The €20 code eligibility and sale stacking are unverified; no checkout or after-code price. Final guide/review deployment readback is pending.",
+      "product": "Joyor C10E Electric Scooter, SKU C10 E (single listing; no selectable variant)",
+      "officialSource": "https://www.joyor-escooter.com/products/joyor-c10e-electric-scooter-500w-motor-40km-range-dual-disc-brakes-abe-certified",
+      "reviewUrl": "/reviews/joyor-c10e-electric-scooter",
+      "offerDetailNeeded": true,
+      "checkoutTestedOn": null
     },
     {
       "brand": "Sigma eScooter",

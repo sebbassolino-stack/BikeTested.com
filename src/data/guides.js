@@ -109,11 +109,11 @@ export const guides = [
       ["A seated scooter is its own shortlist", "The Gyroor C2 Max adds a seat and front-and-rear baskets to the scooter decision. We like that layout for riders who want a seated errand setup. Compare its storage footprint and approved carrying limits with a standing scooter or a bike rack: a seat and baskets change daily usefulness, but they do not make the vehicle as compact as every folding last-mile option."]
     ],
     "publishedOn": "2026-10-19",
-    "updatedOn": "2026-10-26",
+    "updatedOn": "2026-10-31",
     "topics": [
       "electric-mobility"
     ],
-    "products": ["gyroor-c2-max-electric-scooter-with-seat-and-baskets","ausom-gosoul-2-electric-scooter","ekx-x21-max-electric-dirt-bike","leoout-t85-electric-scooter","voltrover-m5-electric-dirt-bike","gyroor-c5-electric-trike","zwheel-d3-d-electric-scooter","actbest-striker-max-awd-moped-ebike","ausom-l2-max-dual-electric-scooter","ausom-k20-pro-dual-motor-electric-scooter","hiboy-s2-pro-electric-scooter","happyrun-g100-pro-6000w-electric-bike","finbike-w3-commuter-electric-scooter"],
+    "products": ["gyroor-c2-max-electric-scooter-with-seat-and-baskets","ausom-gosoul-2-electric-scooter","ekx-x21-max-electric-dirt-bike","leoout-t85-electric-scooter","voltrover-m5-electric-dirt-bike","gyroor-c5-electric-trike","zwheel-d3-d-electric-scooter","actbest-striker-max-awd-moped-ebike","ausom-l2-max-dual-electric-scooter","ausom-k20-pro-dual-motor-electric-scooter","hiboy-s2-pro-electric-scooter","happyrun-g100-pro-6000w-electric-bike","finbike-w3-commuter-electric-scooter","joyor-c10e-electric-scooter"],
     "related": [
       "folding-vs-full-size-ebike",
       "panniers-vs-backpack",
