@@ -150,7 +150,7 @@ export const guides = [
       ]
     ],
     "publishedOn": "2026-10-19",
-    "updatedOn": "2026-10-19",
+    "updatedOn": "2026-10-31",
     "topics": [
       "gear-and-tech"
     ],
@@ -159,7 +159,7 @@ export const guides = [
       "presta-vs-schrader",
       "how-to-clean-lube-bike-chain"
     ],
-    "products": ["mooncool-tk2-folding-electric-trike", "gyroor-folding-scooter-lock", "gyroor-electric-scooter-handlebar-bag"]
+    "products": ["mooncool-tk2-folding-electric-trike", "gyroor-folding-scooter-lock", "gyroor-electric-scooter-handlebar-bag", "the-beam-corky-x-sunglasses-mirror"]
   },
   {
     "slug": "plan-your-bike-upgrades",

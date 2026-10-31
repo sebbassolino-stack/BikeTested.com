@@ -8633,6 +8633,96 @@ export const products = [
       evidence: 'docs/evidence/vipcoo-h3-electric-dirt-bike.md#offer-and-availability'
     }
   },
+  {
+    "slug": "the-beam-corky-x-sunglasses-mirror",
+    "brand": "the-beam",
+    "name": "THE BEAM CORKY X Sunglasses Rear-View Mirror",
+    "model": "CORKY X Black (variant 39412261093470; SKU BEAM-BM0023-RETR)",
+    "image": "/images/products/the-beam-corky-x-sunglasses-mirror.jpg",
+    "imageAlt": "THE BEAM CORKY X Black sunglasses rear-view mirror shown beside eyewear and packaging",
+    "imageWidth": 3024,
+    "imageHeight": 3024,
+    "category": "gear-and-tech",
+    "use": "commute",
+    "label": "For a rear view without handlebar mounting",
+    "headline": "A left-side mirror that attaches to compatible eyewear.",
+    "description": "CORKY X moves the mirror from the handlebar to a sunglasses arm. THE BEAM lists the left-side version and an 8 mm minimum arm-thickness fit, so check your eyewear before ordering.",
+    "verdict": "CORKY X suits riders who already wear cycling sunglasses and want a rear-view accessory away from the handlebar. THE BEAM identifies this as the left-side version and lists compatibility from 8 mm arm thickness, so measure the arm and check where the mirror would sit before ordering. Its housing is listed as adjustable through 360 degrees; the useful reflection will still depend on your eyewear position and riding posture. Treat it as an additional glance point, not a substitute for awareness around traffic.",
+    "strengths": [
+      "The glasses-arm mount avoids using handlebar-end space for the mirror.",
+      "The mirror housing is adjustable through 360 degrees according to THE BEAM.",
+      "The official page lists black, white and yellow color variants."
+    ],
+    "tradeoffs": [
+      "THE BEAM labels this the left-side version and does not specify a paired set in the listing.",
+      "THE BEAM lists eyewear-arm compatibility from 8 mm thickness, but the page does not document every frame shape or clearance.",
+      "The listing does not give mirror-surface dimensions or establish the view from your own glasses and riding position."
+    ],
+    "specs": {
+      "Selected option": "Black, variant 39412261093470, SKU BEAM-BM0023-RETR",
+      "Mount": "Attaches to eyewear; left-side version only (manufacturer-listed)",
+      "Eyewear compatibility": "Sunglasses arms from 8 mm thickness (manufacturer-listed)",
+      "Adjustment": "360-degree rotation (manufacturer-listed)",
+      "Mirror material": "Acrylic PC mirror (manufacturer-listed)",
+      "Price and listing status": "€49.00 including tax; exact Black variant marked available in the France storefront on October 31, 2026"
+    },
+    "source": "https://thebeamofficial.com/products/tbm-rear-view-mirror?variant=39412261093470",
+    "evidence": "THE BEAM's official product page and Shopify product feed checked October 31, 2026. Black variant 39412261093470 / SKU BEAM-BM0023-RETR was listed at €49.00 including tax and marked available. Manufacturer-listed fit, left-side orientation, adjustment and mirror material are summarized; no riding test or checkout was performed. Partner-code eligibility for this exact variant is unresolved.",
+    "sections": [
+      [
+        "Move the mirror off the handlebar",
+        "CORKY X attaches to an eyewear arm, which gives riders who use cycling sunglasses a way to add a rear-view mirror without choosing a bar-end mount. That placement is the main reason to consider it. If you prefer a mirror attached to the bike or ride without glasses, compare a handlebar-mounted option instead; CORKY X is built around the eyewear you wear on the ride."
+      ],
+      [
+        "Check the side and eyewear fit first",
+        "THE BEAM describes this as the left-side version and lists compatibility with sunglasses arms from 8 mm thick. Measure the part of your frame where the mirror would attach, then check that the mount can sit securely without interfering with your usual fit. The product page does not list full frame-shape limits or mirror dimensions, so it cannot establish a clear view for every pair of glasses."
+      ],
+      [
+        "Keep the listed price separate from the partner code",
+        "On October 31, 2026, the France storefront listed the selected Black variant at €49.00 including tax and the official product feed marked it available. Bike Tested's owner-supplied partner record lists code SEBASTIAN for 5% off, but eligibility for variant 39412261093470 and combination with other offers have not been confirmed. No after-code amount is shown; check the final total and delivery terms before ordering."
+      ]
+    ],
+    "publishedOn": "2026-10-31",
+    "updatedOn": "2026-10-31",
+    "specsCheckedOn": "2026-10-31",
+    "faqs": [
+      [
+        "Who should consider the THE BEAM CORKY X?",
+        "It is aimed at cyclists who wear sunglasses and want a mirror attached to the eyewear rather than the handlebar. Check the frame fit and left-side orientation before choosing it; the useful view depends on where it sits on your glasses and how you ride."
+      ],
+      [
+        "Will CORKY X fit my sunglasses?",
+        "THE BEAM lists compatibility with eyewear arms from 8 mm thickness. Its page does not document every arm shape or clearance, so compare the mounting area on your glasses with the product instructions before ordering."
+      ],
+      [
+        "Is this a pair of mirrors?",
+        "THE BEAM labels CORKY X as the version for the left side only; the listing does not specify a two-mirror set. Confirm the package contents with the store if you need mirrors for both sides."
+      ],
+      [
+        "Does code SEBASTIAN apply to the Black variant?",
+        "Bike Tested's partner record reports code SEBASTIAN for 5% off at THE BEAM. Eligibility for Black variant 39412261093470 and whether it combines with other offers have not been checked. Confirm the final total with THE BEAM; no after-code price or checkout result is claimed."
+      ]
+    ],
+    "relatedReviews": [
+      { "slug": "the-beam-corky-urban-bike-mirror", "reason": "Compare a flat-bar, bar-end mirror if you prefer mounting the rear view to the bike instead of your sunglasses." }
+    ],
+    "relatedGuides": ["commuter-gear-checklist"],
+    "price": {
+      "amountMinor": 4900,
+      "currency": "EUR",
+      "region": "France",
+      "variantId": "39412261093470",
+      "variantLabel": "Black (SKU BEAM-BM0023-RETR)",
+      "source": "https://thebeamofficial.com/products/tbm-rear-view-mirror?variant=39412261093470",
+      "checkedOn": "2026-10-31",
+      "isSalePrice": false
+    },
+    "eligibility": {
+      "status": "unresolved",
+      "variantId": "39412261093470",
+      "evidence": "docs/evidence/the-beam-corky-x-sunglasses-mirror.md#offer-and-eligibility"
+    }
+  },
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
 const checkoutProductsFor=brand=>products.filter(p=>p.brand===brand&&p.checkoutObservation);
