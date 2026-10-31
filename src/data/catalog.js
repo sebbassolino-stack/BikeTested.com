@@ -8841,6 +8841,107 @@ export const products = [
       "evidence": "docs/evidence/eleglide-t1-step-thru-trekking-electric-bike.md#offer-and-eligibility"
     }
   },
+  {
+    "slug": "joyor-c10e-electric-scooter",
+    "brand": "joyor-eu",
+    "name": "Joyor C10E Electric Scooter",
+    "model": "C10E",
+    "image": "/images/products/joyor-c10e-electric-scooter.webp",
+    "imageAlt": "Joyor C10E electric scooter in a rear three-quarter studio view on white",
+    "imageWidth": 540,
+    "imageHeight": 540,
+    "category": "electric-mobility",
+    "use": "commute",
+    "label": "For measured city trips",
+    "headline": "A removable-battery scooter with a clear carry tradeoff.",
+    "description": "A 500 W scooter with a removable 48 V battery, 10-inch pneumatic tires and front suspension. Joyor lists 19.5 kg net weight and 30–40 km of ideal-condition range; confirm folded dimensions, vehicle documents and local rules before buying.",
+    "verdict": "We would shortlist the Joyor C10E for shoppers who want a folding electric scooter for short urban trips and are comfortable handling its listed 19.5 kg net weight. Its removable 48 V battery, 10-inch pneumatic tires, front shock and dual disc brakes give it a practical everyday setup. Joyor lists a 20 km/h maximum and 30–40 km range under ideal conditions. Confirm the folded dimensions and exact vehicle paperwork for your route before ordering.",
+    "strengths": [
+      "The removable 48 V, 10.4 Ah battery gives you the option to charge the battery separately from the scooter.",
+      "Joyor lists 10-inch pneumatic tires, a front shock absorber and front/rear disc brakes as part of the C10E setup.",
+      "A listed 20 km/h maximum speed and 19.5 kg net weight give shoppers concrete limits to compare with their routes and storage.",
+      "The folding design and 120 kg maximum-load listing cover useful practical details for a compact scooter shortlist."
+    ],
+    "tradeoffs": [
+      "At 19.5 kg, the C10E remains a substantial stair carry even when folded.",
+      "Joyor lists a front shock but no rear shock; compare the setup with the surfaces on your regular route.",
+      "The 30–40 km range is a manufacturer claim under ideal conditions, not a Bike Tested distance measurement.",
+      "The product page gives conflicting folded dimensions. Its title and Germany information also use ABE language; verify exact vehicle paperwork and local requirements before public-road use."
+    ],
+    "specs": {
+      "Motor": "500 W (manufacturer-listed)",
+      "Battery": "48 V, 10.4 Ah, removable",
+      "Claimed range": "30–40 km under ideal conditions (manufacturer-listed)",
+      "Listed maximum speed": "20 km/h",
+      "Brakes": "Front and rear disc brakes",
+      "Suspension": "Front shock absorber listed; no rear shock listed",
+      "Tires": "10-inch pneumatic",
+      "Maximum load": "120 kg (manufacturer-listed)",
+      "Net weight": "19.5 kg (manufacturer-listed)",
+      "Folded dimensions": "Conflicting: descriptive text lists 1160 × 620 × 550 mm; technical table prints malformed 1190**590*560 mm"
+    },
+    "source": "https://www.joyor-escooter.com/products/joyor-c10e-electric-scooter-500w-motor-40km-range-dual-disc-brakes-abe-certified",
+    "evidence": "Manufacturer-specification editorial evaluation; no riding or checkout observation",
+    "sourceLinks": [
+      {
+        "label": "Joyor Germany ABE scooter information",
+        "url": "https://www.joyor-escooter.com/pages/joyor-abe-electric-scooters-germany-strassenzulassung"
+      }
+    ],
+    "sections": [
+      [
+        "A straightforward commuter specification",
+        "Joyor lists a 500 W motor, a maximum speed of 20 km/h and a removable 48 V, 10.4 Ah battery. The advertised 30–40 km range is explicitly tied to ideal conditions, so treat it as the maker’s ceiling rather than a promise for your commute. Route length, rider load, temperature and riding style all matter. We would plan around your actual daily distance and charging access, then leave room for detours rather than buying to the best-case range alone."
+      ],
+      [
+        "Useful equipment, with the full carry weight in view",
+        "The product page lists 10-inch pneumatic tires, front suspension and disc brakes at both ends. It does not list a rear shock absorber. Those are clear equipment choices to compare with your typical pavement; they are not a substitute for trying a similar scooter if comfort is decisive. Joyor lists a 19.5 kg net weight. The removable battery helps with charging, but the complete scooter still needs a realistic lifting and storage plan."
+      ],
+      [
+        "Resolve the fold and paperwork before ordering",
+        "Joyor’s descriptive copy lists folded dimensions of 1160 × 620 × 550 mm, while the technical table gives a different, malformed value. Ask the seller for the exact folded measurements before relying on a vehicle trunk or narrow closet fit. Joyor markets the C10E with ABE wording and includes it in its Germany-specific ABE scooter information. We have not verified a model-specific approval document; request paperwork matching the exact scooter and confirm the requirements for your intended route before public-road use."
+      ]
+    ],
+    "publishedOn": "2026-10-31",
+    "updatedOn": "2026-10-31",
+    "specsCheckedOn": "2026-10-31",
+    "faqs": [
+      [
+        "What range does the Joyor C10E list?",
+        "Joyor lists 30–40 km under ideal conditions. That is a manufacturer claim, not a Bike Tested measurement. Plan around your actual route, load, temperature and riding style, with a battery margin for detours."
+      ],
+      [
+        "How heavy is the Joyor C10E, and what is its folded size?",
+        "Joyor lists a 19.5 kg net weight. The page’s descriptive text gives 1160 × 620 × 550 mm folded, while its technical table prints a different malformed value. Confirm the exact dimensions with Joyor before planning a tight storage fit."
+      ],
+      [
+        "Does the Joyor C10E have rear suspension?",
+        "Joyor’s specification table lists a front shock absorber and no rear shock absorber. Compare that equipment with the surfaces on your route; the product page does not establish how comfortable it will feel for you."
+      ],
+      [
+        "Is the Joyor C10E approved for public-road use?",
+        "Joyor markets the C10E with ABE wording and includes it in its Germany-specific ABE scooter information. We have not verified a model-specific approval document or rules for another location. Ask Joyor for paperwork tied to the exact scooter and confirm the requirements where you plan to ride."
+      ]
+    ],
+    "relatedGuides": [
+      "bike-or-electric-scooter"
+    ],
+    "price": {
+      "amountMinor": 44598,
+      "currency": "EUR",
+      "region": "EU",
+      "variantId": "C10 E",
+      "variantLabel": "C10E / SKU C10 E (single listing)",
+      "source": "https://www.joyor-escooter.com/products/joyor-c10e-electric-scooter-500w-motor-40km-range-dual-disc-brakes-abe-certified",
+      "checkedOn": "2026-10-31",
+      "isSalePrice": true
+    },
+    "eligibility": {
+      "status": "unresolved",
+      "variantId": "C10 E",
+      "evidence": "docs/evidence/joyor-c10e-electric-scooter.md#offer-and-eligibility"
+    }
+  }
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
 const checkoutProductsFor=brand=>products.filter(p=>p.brand===brand&&p.checkoutObservation);
