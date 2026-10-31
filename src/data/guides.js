@@ -242,7 +242,7 @@ export const guides = [
     "topics": [
       "cycling-technology"
     ],
-    "products": ["cycplus-t7-smart-bike"],
+    "products": ["cycplus-t7-smart-bike", "coospo-realroad-cs600-gps-bike-computer"],
     "related": [
       "ebike-range-explained",
       "commuter-gear-checklist",

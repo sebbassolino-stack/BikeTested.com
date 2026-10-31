@@ -8144,6 +8144,110 @@ export const products = [
    }
  },
  {
+   "slug": "coospo-realroad-cs600-gps-bike-computer",
+   "brand": "coospo",
+   "name": "COOSPO REALROAD CS600 GPS Bike Computer",
+   "model": "REALROAD CS600 GPS Bike Computer",
+   "image": "/images/products/coospo-realroad-cs600-gps-bike-computer.webp",
+   "imageAlt": "Front view of the COOSPO REALROAD CS600 with a colored navigation map on screen",
+   "imageWidth": 1200,
+   "imageHeight": 1200,
+   "category": "cycling-technology",
+   "use": "recreation",
+   "label": "For riders who want offline maps",
+   "headline": "Offline maps and GPX navigation on a color touchscreen.",
+   "description": "A GPS bike computer for riders who want offline maps, GPX route navigation, and connections to compatible sensors and training accessories.",
+   "verdict": "We recommend the COOSPO REALROAD CS600 to riders who will use its offline maps, color touchscreen, and accessory connections. Its main buying decision is the route workflow: COOSPO says navigation needs a GPX file, which can come from ride history, the CoospoRide app, or USB. Riders who mostly follow familiar routes or prefer a simpler setup may be better served by a basic GPS computer or the phone they already carry.",
+   "strengths": [
+     "A 2.4-inch color touchscreen and offline maps make the route view the main reason to choose it over a simpler GPS unit.",
+     "COOSPO lists five satellite systems: GPS, BDS, QZSS, GLONASS, and Galileo.",
+     "The listing says it can connect to compatible speed, cadence, heart-rate, and power sensors, plus smart trainers, electronic shifters, radar tail lights, e-bikes, and smart bike lights.",
+     "The standalone package includes the computer, Type-C cable, basic mount, screen protector, manual, two rubber rings, rubber mat, and anti-lost rope."
+   ],
+   "tradeoffs": [
+     "Route navigation requires a GPX file, so check that your route-planning and transfer routine fits the CoospoRide app or USB workflow.",
+     "The 36-hour GPS battery figure is a manufacturer claim, not a Bike Tested runtime measurement; keep charging margin for longer rides.",
+     "The storefront lists several CS600 bundles alongside the standalone computer. Check the selected option and included accessories before checkout.",
+     "The owner-supplied SEBASTIANBASSOL code is reported for 10% off eligible purchases, but CS600 eligibility and stacking are unconfirmed. The product page separately displays a COOSPO code promotion for 5%; neither code was tested here."
+   ],
+   "specs": {
+     "Display": "2.4-inch color touchscreen (manufacturer-listed)",
+     "Navigation": "Offline maps; GPX file required for route navigation",
+     "Positioning": "GPS, BDS, QZSS, GLONASS, and Galileo (manufacturer-listed)",
+     "Sensor compatibility": "Speed, cadence, heart-rate and power sensors; smart trainers, electronic shifters, radar tail lights, e-bikes and smart bike lights (manufacturer-listed)",
+     "Storage": "8 GB (manufacturer-listed)",
+     "Claimed GPS battery life": "36 hours (manufacturer-listed; not independently measured)",
+     "Charging": "Type-C; 2 hours (manufacturer-listed)",
+     "Water-resistance rating": "IPX7 (manufacturer-listed)",
+     "Weight": "69 g (manufacturer-listed)",
+     "Dimensions": "84 × 53 × 18 mm (manufacturer-listed)",
+     "Standalone package": "Computer, Type-C cable, basic mount, screen protector, user manual, two rubber rings, rubber mat, anti-lost rope"
+   },
+   "source": "https://www.coospo.com/products/cs600-bike-computer?variant=47166935236864",
+   "evidence": "Manufacturer-specification editorial evaluation; no Bike Tested ride, navigation, battery, sensor-connection, or file-transfer test; exact-variant code eligibility and offer stacking unresolved",
+   "sections": [
+     [
+       "Choose it for routes, not just another speed display",
+       "The CS600 makes its case with a 2.4-inch color touchscreen and offline maps. COOSPO lists GPS, BDS, QZSS, GLONASS, and Galileo positioning, plus 8 GB storage. That is a more navigation-focused brief than a basic computer for recording familiar rides. If your route is already easy to follow, decide whether a dedicated map screen adds enough to your cockpit to justify another device."
+     ],
+     [
+       "Plan the GPX file before the ride",
+       "COOSPO says route navigation needs a GPX document. Its instructions describe three ways to get one: convert ride history on the computer, import a file from a third-party app through CoospoRide, or copy it over USB. We like that the listing describes more than one transfer path, but the workflow still depends on a route file. Check that it fits the apps and devices you already use before choosing the CS600 for turn-by-turn route guidance."
+     ],
+     [
+       "Check the rest of your setup",
+       "The product page says the CS600 connects with compatible speed, cadence, heart-rate, and power sensors, and also lists smart trainers, electronic shifters, radar tail lights, e-bikes, and smart bike lights. Confirm the exact model and connection protocol for any accessory you plan to pair; a broad compatibility list does not prove every device works with every configuration. COOSPO lists up to 36 hours of GPS use, a 69 g weight, and IPX7. Treat the runtime and specifications as manufacturer claims, not Bike Tested measurements."
+     ],
+     [
+       "Keep the selected variant and offers separate",
+       "On October 30, 2026, COOSPO's feed showed the standalone CS600 option, variant 47166935236864 and SKU CS600, available at $120.89 USD against a $164.89 comparison price. The same listing also offers several bundles, so verify the selected option and included accessories. Bike Tested's owner-supplied SEBASTIANBASSOL code is reported for 10% off eligible purchases, while the CS600 product page separately displays a COOSPO 5% code promotion and a countdown. Eligibility for this exact variant, promotion validity, and stacking are unresolved; no after-code price is shown."
+     ]
+   ],
+   "relatedGuides": [
+     "choose-a-cycling-computer"
+   ],
+   "faqs": [
+     [
+       "What do I need for CS600 route navigation?",
+       "COOSPO says navigation requires a GPX file. Its product FAQ describes converting ride history on the computer, importing a file through the CoospoRide app, or copying one from a computer over USB."
+     ],
+     [
+       "How long does the CS600 battery last?",
+       "COOSPO lists 36 hours with GPS enabled. This is a manufacturer claim, not a Bike Tested runtime measurement; actual use can depend on settings and conditions."
+     ],
+     [
+       "What is included with the standalone CS600?",
+       "COOSPO lists the CS600 main unit, Type-C cable, basic mount, screen protector, user manual, two rubber rings, rubber mat, and anti-lost rope. Other product options are bundles with different inclusions."
+     ],
+     [
+       "Does the SEBASTIANBASSOL code work on the CS600?",
+       "The owner-supplied COOSPO partner record reports SEBASTIANBASSOL for 10% off eligible purchases, but eligibility for this exact CS600 variant has not been confirmed. The product page separately displays a COOSPO code promotion for 5%. Neither code nor their combination was tested; confirm the selected item and final total at checkout."
+     ],
+     [
+       "What did COOSPO list for the standalone CS600?",
+       "On October 30, 2026, the official product feed marked standalone variant 47166935236864, SKU CS600, available at $120.89 USD against a $164.89 comparison price. Price and availability can change."
+     ]
+   ],
+   "publishedOn": "2026-10-30",
+   "updatedOn": "2026-10-30",
+   "specsCheckedOn": "2026-10-30",
+   "price": {
+     "amountMinor": 12089,
+     "currency": "USD",
+     "region": "US",
+     "variantId": "47166935236864",
+     "variantLabel": "CS600 standalone (SKU CS600)",
+     "source": "https://www.coospo.com/products/cs600-bike-computer?variant=47166935236864",
+     "checkedOn": "2026-10-30",
+     "isSalePrice": true
+   },
+   "eligibility": {
+     "status": "unresolved",
+     "variantId": "47166935236864",
+     "evidence": "docs/evidence/coospo-realroad-cs600-gps-bike-computer.md#offer-evidence"
+   }
+ },
+ {
    "slug": "the-beam-corky-urban-bike-mirror",
    "brand": "the-beam",
    "name": "THE BEAM CORKY URBAN Flat-Bar Rearview Bike Mirror",

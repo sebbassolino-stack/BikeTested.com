@@ -1572,6 +1572,22 @@
       "offerDetailNeeded": true,
       "checkoutTestedOn": null,
       "nextStep": "Production review and exact Black-variant image live-verified October 30, 2026. The feed listed the exact variant at $48.29 USD. Exact-item partner-code eligibility and stacking with the separate product-page promotion remain unverified; no after-code amount or checkout claim is shown."
+    },
+    {
+      "brand": "COOSPO",
+      "brandSlug": "coospo",
+      "category": "gear-and-tech",
+      "status": "review-ready-for-release",
+      "priority": 2,
+      "product": "COOSPO REALROAD CS600 GPS Bike Computer, standalone (variant 47166935236864; SKU CS600)",
+      "officialSource": "https://www.coospo.com/products/cs600-bike-computer?variant=47166935236864",
+      "reviewUrl": "/reviews/coospo-realroad-cs600-gps-bike-computer",
+      "affiliateUrl": "https://www.coospo.com/?ref=zfofvpsw",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "10% off",
+      "offerDetailNeeded": true,
+      "checkoutTestedOn": null,
+      "nextStep": "Authored from the official product page and feed. The standalone variant was listed at $120.89 USD against $164.89 and marked available on October 30, 2026. Exact partner-code eligibility and stacking with the sale price or the separate page-displayed COOSPO 5% promotion remain unresolved; no after-code amount is shown."
     }
   ]
 }
