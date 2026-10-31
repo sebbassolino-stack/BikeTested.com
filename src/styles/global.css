@@ -14,3 +14,6 @@
 
 @media(max-width:720px){.review-top-copy{order:1;display:flex;flex-direction:column}.review-top-copy .buybox{order:1}.review-top-copy .meta{order:2}.review-photo{order:2}}
 @media(max-width:720px){.article-grid{grid-template-columns:minmax(0,1fr)}.article-grid>.prose{min-width:0;overflow-wrap:anywhere}.article-grid .specs{table-layout:fixed}.article-grid .specs th,.article-grid .specs td{overflow-wrap:anywhere;word-break:break-word}}
+
+/* Long grids show a page of matches (public/site.js). */
+.js-paged [data-page-hidden]{display:none!important}.page-more{display:flex;flex-direction:column;align-items:center;gap:8px;margin-top:36px}.page-more p{margin:0;font-size:13px}
