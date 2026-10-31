@@ -1254,7 +1254,7 @@
       "brand": "Eleglide",
       "brandSlug": "eleglide",
       "category": "electric-bikes",
-      "status": "review-in-progress",
+      "status": "review-published-live-routes-verified",
       "priority": 1,
       "product": "Eleglide T1 ST Step-Through Trekking E-Bike, EU / Grey (variant 41033430958285; SKU 1295591)",
       "officialSource": "https://eleglide.com/collections/electric-bike/products/removable-battery-100km-range-electric-trekking-touring-bike-t1-step-thru?variant=41033430958285",
@@ -1264,7 +1264,7 @@
       "reportedBenefit": "€20.00 off",
       "offerDetailNeeded": true,
       "checkoutTestedOn": null,
-      "nextStep": "Wave201 candidate selected from the exact official EU / Grey T1 ST listing and matching image. The variant was listed at €769 and marked sold out on October 31, 2026; coverage follows the documented temporary-stockout policy and makes no availability claim. Code eligibility, currency conditions and sale-price stacking remain untested; no after-code price or checkout claim. Build validation and release pending."
+      "nextStep": "Wave201 published in review commit afeaa62ebc8645c4e11804c6142eaf83314dd3e6 and pushed to origin/main. Cloudflare Pages exact-head check 124563667745 succeeded for deployment c7e3e8a8-7c14-4997-b6e6-12df4a7688bc; preview https://c7e3e8a8.biketested.pages.dev. npm run check, npm run build and git diff --check passed with 98 reviews, 257 generated HTML pages, 23 guides and 2 comparisons. Production and preview review, Eleglide promo/brand, linked step-through guide, electric-bike category, Deals, agent.json, llms.txt, sitemap index/child and exact image return 200. The review canonical, EU / Grey variant 41033430958285 / SKU 1295591, €769 listing, SEBASTIANBASSOL code, unresolved exact-variant eligibility, no after-code price and no availability claim match; the variant was marked out of stock on October 31, 2026. Exact official image SHA-256 df28fd5ce5f3f3d764776891c8b214ba834821c0f51b6528af72f53423fd9f14 matches local and live. Desktop review and promo plus 375px review/promo samples were visually checked; local promo copy feedback succeeded. Code acceptance, checkout, order, attribution and revenue are unverified. The existing step-through guide received only a product relationship and date bookkeeping: no substantive guide or existing-page improvement. No IndexNow request was sent because no configured key or scoped submission workflow exists."
     },
     {
       "brand": "FVKING",
