@@ -1254,17 +1254,17 @@
       "brand": "Eleglide",
       "brandSlug": "eleglide",
       "category": "electric-bikes",
-      "status": "review-held-current-bike-range-unavailable",
+      "status": "review-in-progress",
       "priority": 1,
-      "product": "Electric Trekking Bike T2, EU (variant 48134803488973; SKU 1292887)",
-      "officialSource": "https://eleglide.com/products/electric-trekking-bike-t2-st?variant=48134803488973",
-      "reviewUrl": null,
+      "product": "Eleglide T1 ST Step-Through Trekking E-Bike, EU / Grey (variant 41033430958285; SKU 1295591)",
+      "officialSource": "https://eleglide.com/collections/electric-bike/products/removable-battery-100km-range-electric-trekking-touring-bike-t1-step-thru?variant=41033430958285",
+      "reviewUrl": "/reviews/eleglide-t1-step-thru-trekking-electric-bike",
       "affiliateUrl": "https://eleglide.com/?ref=pkkdfmbw",
       "code": "SEBASTIANBASSOL",
       "reportedBenefit": "€20.00 off",
-      "offerDetailNeeded": false,
+      "offerDetailNeeded": true,
       "checkoutTestedOn": null,
-      "nextStep": "Review rechecked and held on October 29, 2026: official Shopify feeds for the T2, Mopride 2, T1, T1 ST and Mopride 3 returned zero available variants, including the documented EU configurations. No purchase-led review was published. Recheck after an exact regional e-bike variant returns to stock; the owner-supplied €20 code's product eligibility, currency conditions and sale-price stacking remain unresolved."
+      "nextStep": "Wave201 candidate selected from the exact official EU / Grey T1 ST listing and matching image. The variant was listed at €769 and marked sold out on October 31, 2026; coverage follows the documented temporary-stockout policy and makes no availability claim. Code eligibility, currency conditions and sale-price stacking remain untested; no after-code price or checkout claim. Build validation and release pending."
     },
     {
       "brand": "FVKING",

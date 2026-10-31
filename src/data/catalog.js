@@ -8723,6 +8723,124 @@ export const products = [
       "evidence": "docs/evidence/the-beam-corky-x-sunglasses-mirror.md#offer-and-eligibility"
     }
   },
+  {
+    "slug": "eleglide-t1-step-thru-trekking-electric-bike",
+    "brand": "eleglide",
+    "name": "Eleglide T1 ST Step-Through Trekking E-Bike",
+    "model": "T1 ST, EU / Grey (variant 41033430958285; SKU 1295591)",
+    "image": "/images/products/eleglide-t1-step-thru-trekking-electric-bike.webp",
+    "imageAlt": "Grey Eleglide T1 ST step-through trekking e-bike with 27.5-inch wheels, front suspension and fenders",
+    "imageWidth": 1200,
+    "imageHeight": 1200,
+    "category": "electric-bikes",
+    "use": "commute",
+    "label": "For step-through everyday rides",
+    "headline": "A practical trekking build with a substantial lift.",
+    "description": "A full-size EU step-through e-bike with a removable battery, adjustable stem, lockout fork and Shimano seven-speed gearing.",
+    "verdict": "We would shortlist the Eleglide T1 ST for EU riders who want a full-size step-through e-bike for paved commutes and relaxed mixed-surface rides. The removable battery, adjustable stem, seven-speed Shimano drivetrain and lockout fork make a practical specification mix, while the single 17.5-inch frame and broad height range call for a careful fit check. We would choose another bike if stairs are part of the routine: Eleglide lists 30kg net weight, and its product feed separately records 31kg.",
+    "strengths": [
+      "The step-through frame and adjustable stem give riders more choice in how they mount and set the cockpit, while fit still depends on reach and saddle position.",
+      "The 36V battery detaches for charging away from the bike, useful when the storage area has no nearby outlet.",
+      "A lockout front fork with 80mm travel and 27.5 × 2.1-inch pneumatic tires suit paved routes and occasional smoother paths without presenting the T1 ST as a trail bike.",
+      "Seven-speed Shimano gearing, five pedal-assist speed levels and a listed 25km/h cutoff provide a straightforward setup for everyday riding."
+    ],
+    "tradeoffs": [
+      "Eleglide lists 30kg net weight on the product page while its Shopify feed records a 31kg variant-weight field with no explanation; plan for a heavy full-size bike and confirm the actual weight if you need to lift it.",
+      "The current product page lists a 468Wh battery and 45Nm maximum torque, while older official T1/ST material lists 450Wh and 50Nm. Confirm the exact battery label and specification for the unit offered.",
+      "The listing gives one 17.5-inch frame and a broad 155–195cm recommended height range rather than a detailed geometry chart; check reach and control access for your own fit.",
+      "Eleglide lists mechanical disc brakes with an electronic brake function, not hydraulic discs. The official product page and feed marked both EU colors out of stock on October 31, 2026."
+    ],
+    "specs": {
+      "Selected configuration": "EU / Grey; Shopify variant 41033430958285; SKU 1295591",
+      "Listed price and availability": "€769.00 EUR including VAT; marked out of stock on October 31, 2026",
+      "Frame and fit": "27.5 × 17.5-inch step-through frame; recommended rider height 155–195cm (manufacturer-listed)",
+      "Motor": "250W / 36V rated; 45Nm maximum output torque on current product page (older official T1/ST introduction says 50Nm)",
+      "Battery": "Current product page: 36V 13Ah / 468Wh; separate Eleglide battery table lists T1 ST at 36V 12.5Ah / 450Wh",
+      "Claimed range": "Up to 100km in assist mode (manufacturer claim; not measured by Bike Tested)",
+      "Assistance": "Five pedal-assist speed levels: 12, 15, 18, 21 and 25km/h; 25km/h cutoff (manufacturer-listed)",
+      "Drivetrain": "Shimano seven-speed rear derailleur (manufacturer-listed)",
+      "Wheels and tires": "27.5 × 2.1-inch pneumatic tires (manufacturer-listed)",
+      "Fork": "Front suspension with lockout; 80mm travel (manufacturer-listed)",
+      "Brakes": "Mechanical disc brakes and electronic brake function; 160mm rotors (manufacturer-listed)",
+      "Listed weight": "30kg net on the product page; Shopify variant feed separately records 31kg, with field meaning unspecified",
+      "Dimensions": "1,810 × 720 × 1,130mm unfolded; 720mm handlebar width",
+      "Maximum load": "120kg (seller-listed; confirm how rider and cargo are counted)",
+      "Display and charging": "1.8-inch LCD; 36V 2A charger; 6–8 hours listed charging time"
+    },
+    "source": "https://eleglide.com/collections/electric-bike/products/removable-battery-100km-range-electric-trekking-touring-bike-t1-step-thru?variant=41033430958285",
+    "sourceLinks": [
+      {
+        "label": "Eleglide T1 and T1 Step-Thru introduction (older official specifications)",
+        "url": "https://eleglide.com/blogs/blog/eleglide-t1-t1-step-thru"
+      },
+      {
+        "label": "Eleglide battery maintenance table (T1 Step-Thru capacity)",
+        "url": "https://eleglide.com/pages/battery-maintenance"
+      }
+    ],
+    "evidence": "Manufacturer-specification editorial evaluation; exact EU / Grey variant, €769 listing and sold-out status checked October 31, 2026. Current product details conflict with older official T1/ST specifications and variant weight metadata; code eligibility is untested. No Bike Tested ride, fit or performance test.",
+    "sections": [
+      [
+        "A low step and adjustable stem shape the everyday fit",
+        "The T1 ST is aimed at riders who prefer a lower frame opening for repeated stops and starts. Eleglide pairs that layout with an adjustable stem, a 27.5 × 17.5-inch frame and a recommended height range of 155–195cm. Those numbers are a starting point, not a fit guarantee: check reach, saddle range and brake access on the exact bike before ordering."
+      ],
+      [
+        "The equipment leans toward paved utility",
+        "Eleglide lists a 250W rated motor, five pedal-assist speed levels up to a 25km/h cutoff, Shimano seven-speed gearing and a front fork with 80mm of lockable travel. The 27.5 × 2.1-inch tires can make sense for paved commuting and smoother paths. The listing specifies mechanical disc brakes plus an electronic brake function; shoppers who prioritize hydraulic braking should compare another configuration. These are specifications, not Bike Tested ride or stopping-distance results."
+      ],
+      [
+        "Resolve battery and weight details before planning around it",
+        "Eleglide's current T1 ST page lists 36V 13Ah / 468Wh and 45Nm maximum torque. Its older T1/ST introduction lists 450Wh and 50Nm, and the battery-maintenance table still lists 36V 12.5Ah / 450Wh. The current product page calls the bike 30kg net while its Shopify variant feed records 31kg in a weight field. We use the current product-page values in the specification summary and keep both conflicts visible; confirm the battery label, torque specification and complete-bike weight for the offered unit."
+      ],
+      [
+        "Check the listing, stock and code as separate details",
+        "On October 31, 2026, Eleglide listed the EU / Grey variant at €769.00 including VAT, with shipping calculated at checkout; the product page and official feed marked both EU color variants out of stock. Check the exact listing for a restock and delivery window. Bike Tested's current partner roster reports code SEBASTIANBASSOL for €20 off at Eleglide, but this model's eligibility, currency conditions and stacking with the listed sale price have not been tested. No after-code amount is shown."
+      ]
+    ],
+    "publishedOn": "2026-10-31",
+    "updatedOn": "2026-10-31",
+    "specsCheckedOn": "2026-10-31",
+    "faqs": [
+      [
+        "Who should consider the Eleglide T1 ST?",
+        "It suits riders looking for a full-size step-through e-bike for paved commutes and relaxed mixed-surface trips. Check the single 17.5-inch frame and recommended height range against your reach and control access; the listed 30kg net weight also makes stairs and frequent lifting a poor fit."
+      ],
+      [
+        "Is the T1 ST battery 468Wh or 450Wh?",
+        "Eleglide's current T1 ST product page lists 36V 13Ah / 468Wh, while its separate battery-maintenance table and older T1/ST introduction list 36V 12.5Ah / 450Wh. Confirm the battery label and specification for the exact bike before relying on capacity or range."
+      ],
+      [
+        "How heavy is the Eleglide T1 ST?",
+        "The product page lists 30kg net, while the Shopify variant feed separately records 31kg in a weight field that Eleglide does not define. Treat it as a heavy full-size e-bike and ask the seller to confirm the complete-bike weight if carrying it matters."
+      ],
+      [
+        "Can I order the EU / Grey T1 ST now?",
+        "Eleglide's official product page and product feed marked the EU / Grey variant out of stock on October 31, 2026. The listing does not provide a restock date. Check the live page for current availability and delivery timing."
+      ]
+    ],
+    "relatedReviews": [
+      {
+        "slug": "touroll-urbano-3-mid-drive-electric-bike",
+        "reason": "Compare a full-size EU trekking e-bike with a mid-drive, torque sensor and hydraulic brakes if those features matter more than the T1 ST's current equipment mix."
+      }
+    ],
+    "relatedGuides": ["step-through-vs-step-over"],
+    "price": {
+      "amountMinor": 76900,
+      "currency": "EUR",
+      "region": "EU",
+      "variantId": "41033430958285",
+      "variantLabel": "EU / Grey (SKU 1295591)",
+      "source": "https://eleglide.com/collections/electric-bike/products/removable-battery-100km-range-electric-trekking-touring-bike-t1-step-thru?variant=41033430958285",
+      "checkedOn": "2026-10-31",
+      "isSalePrice": true
+    },
+    "eligibility": {
+      "status": "unresolved",
+      "variantId": "41033430958285",
+      "evidence": "docs/evidence/eleglide-t1-step-thru-trekking-electric-bike.md#offer-and-eligibility"
+    }
+  },
 ];
 for(const p of products){p.publishedOn??='2026-10-19';p.updatedOn??=p.publishedOn;p.specsCheckedOn??=p.publishedOn;}
 const checkoutProductsFor=brand=>products.filter(p=>p.brand===brand&&p.checkoutObservation);
