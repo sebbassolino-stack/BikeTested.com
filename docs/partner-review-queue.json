@@ -1528,7 +1528,7 @@
       "affiliateUrl": "https://www.joyor-escooter.com/?ref=hdpupfrr",
       "code": "SEBASTIANBASSOL",
       "reportedBenefit": "€20.00 off",
-      "nextStep": "Wave 211 is in its link-only release follow-up: the existing bike-versus-scooter guide now includes the exact C10E review in its product list. Exact C10 E is a single listing without a selectable variant ID. The €20 code eligibility and sale stacking are unverified; no checkout or after-code price. Final guide/review deployment readback is pending.",
+      "nextStep": "Wave 211 review and guide return link are live. Review commit 9733803 and link-only follow-up commit 13352ba are pushed; final Cloudflare check 124620273762 succeeded for deployment d0513917-c059-4ad7-80ae-0deaeae82988. Production and preview review/guide, Joyor promo, electric-mobility category, brand, sitemap and official image routes returned 200; the C10E canonical and both guide-review links passed, and live image SHA-256 matches local. C10 E is a single listing with no variant ID; exact €20 code eligibility and sale stacking remain unverified. No checkout or after-code price.",
       "product": "Joyor C10E Electric Scooter, SKU C10 E (single listing; no selectable variant)",
       "officialSource": "https://www.joyor-escooter.com/products/joyor-c10e-electric-scooter-500w-motor-40km-range-dual-disc-brakes-abe-certified",
       "reviewUrl": "/reviews/joyor-c10e-electric-scooter",
