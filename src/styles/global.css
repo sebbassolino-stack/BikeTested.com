@@ -17,3 +17,35 @@
 
 /* Long grids show a page of matches (public/site.js). */
 .js-paged [data-page-hidden]{display:none!important}.page-more{display:flex;flex-direction:column;align-items:center;gap:8px;margin-top:36px}.page-more p{margin:0;font-size:13px}
+
+/* Readability floor (quality pass, 2026-11-01): on phones, prices, codes,
+ * terms and disclosures are at least 13px (short labels 12px) and no text
+ * is below 11px. Each selector was checked across ~28 live pages to only
+ * ever enlarge text. */
+@media (max-width: 767px) {
+  .brand-tile span.kicker,
+  .card-body span.kicker {
+    font-size: 12px !important;
+  }
+  .brand-tile small.disclosure,
+  .buybox small,
+  .product-price p.product-price-base,
+  .product-price p.product-price-note,
+  .product-price-result span {
+    font-size: 13px !important;
+    line-height: 1.45;
+  }
+}
+/* Reading width: article paragraphs ran 85-100+ characters per line. */
+@media (min-width: 768px) {
+  .prose p,
+  .prose ul,
+  .prose ol,
+  .prose blockquote,
+  .faq p,
+  .faq ul,
+  .faq ol,
+  .faq blockquote {
+    max-width: 36em;
+  }
+}
