@@ -1,0 +1,32 @@
+# Promo titles use the New York month at build time (editionMonth). Rebuild after rollover;
+# a calendar update never changes a checked/verified date or claims a new offer check.
+name: Monthly promo rebuild
+on:
+  schedule:
+    - cron: '15 5 1 * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: monthly-promo-rebuild
+  cancel-in-progress: false
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - name: Validate the monthly edition before requesting a release
+        run: npm run build
+      - name: Trigger the Cloudflare Pages build from main
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit --allow-empty -m "Monthly promo rebuild: $(TZ=America/New_York date +'%B %Y')"
+          git push origin HEAD:main
