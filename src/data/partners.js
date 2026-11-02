@@ -10,7 +10,7 @@ export const partners = [
     "discount": {
       "type": "percent",
       "value": 2,
-      "scope": "Accepted on META275 2.0, L / Deep Crimson variant 47313067737344 on October 23, 2026, and NEW-TRIKE 2.0, Deep Crimson / US variant 46324682260736 on October 24, 2026; other variants and models are untested."
+      "scope": "Accepted on META275 2.0, L / Deep Crimson variant 47313067737344 on October 23, 2026, and NEW-TRIKE 2.0, Deep Crimson / US variant 46324682260736 on October 24, 2026."
     },
     "category": "electric-bikes",
     "platform": "GoAffPro",
@@ -18,7 +18,7 @@ export const partners = [
     "status": "active",
     "evidence": "Owner-confirmed live Bike Tested partner roster, October 22, 2026",
     "checkoutTestedOn": "2026-10-24",
-    "description": "Use the Eunorau reader code on the META275 2.0 and NEW-TRIKE 2.0 configurations checked in cart. Eligibility on other models and variants is untested; confirm fit and delivery details before purchase."
+    "description": "Use the Eunorau reader code on the META275 2.0 and NEW-TRIKE 2.0 configurations checked in cart. Confirm fit and delivery details before purchase."
   },
   {
     "slug": "niu",
@@ -43,7 +43,7 @@ export const partners = [
     "discount": {
       "type": "percent",
       "value": 5,
-      "scope": "Accepted on the Gyroor C5 Electric Trike, Black variant 54135309304101, on October 23, 2026; other models and variants are untested."
+      "scope": "Accepted on the Gyroor C5 Electric Trike, Black variant 54135309304101, on October 23, 2026."
     },
     "category": "electric-mobility",
     "platform": "GoAffPro",
@@ -133,7 +133,7 @@ export const partners = [
       "type": "fixed",
       "value": 100,
       "currency": "USD",
-      "scope": "Accepted on the T85 Electric Scooter, Scooter with Seat variant (53358973976889) on October 23, 2026; other models and variants are untested."
+      "scope": "Accepted on the T85 Electric Scooter, Scooter with Seat variant (53358973976889) on October 23, 2026."
     },
     "category": "electric-mobility",
     "platform": "GoAffPro",
@@ -286,7 +286,7 @@ export const partners = [
     "discount": {
       "type": "percent",
       "value": 5,
-      "scope": "Accepted on the AS2 Pro Max US variant (SKU AS6-1) on October 22, 2026 and the AS2 Ultra US variant (SKU AS2 Ultra) on October 24, 2026; eligibility for other products and variants is unconfirmed."
+      "scope": "Accepted on the AS2 Pro Max US variant (SKU AS6-1) on October 22, 2026 and the AS2 Ultra US variant (SKU AS2 Ultra) on October 24, 2026."
     },
     "category": "cycling-technology",
     "platform": "GoAffPro",
@@ -303,7 +303,7 @@ export const partners = [
     "url": "https://ekxbike.com/?ref=SEBASTIANBASSOLINO",
     "code": "SEBASTIANBASSOL",
     "benefit": "$150.00 off",
-    "discount": {"type":"fixed","value":150,"currency":"USD","scope":"Accepted on the X21 Max 8000W(Peak) / 60V 30Ah / United States variant (46552269914299) on October 23, 2026; other models and variants are untested."},
+    "discount": {"type":"fixed","value":150,"currency":"USD","scope":"Accepted on the X21 Max 8000W(Peak) / 60V 30Ah / United States variant (46552269914299) on October 23, 2026."},
     "category": "electric-mobility",
     "platform": "GoAffPro",
     "reportedOn": "2026-10-22",
@@ -385,11 +385,11 @@ export const partners = [
     "status": "active",
     "evidence": "Owner-confirmed live Bike Tested partner roster, October 22, 2026",
     "checkoutTestedOn": null,
-    "description": "Explore Ancheer electric bikes with the Bike Tested reader code. Our checkout observation covers the Hummer Blue / One Size variant only; confirm fit, configuration and your final total for the bike you choose.",
+    "description": "Explore Ancheer electric bikes with the Bike Tested reader code. Our checkout observation covers the Hummer Blue / One Size; confirm fit, configuration and your final total for the bike you choose.",
     "discount": {
       "type": "percent",
       "value": 5,
-      "scope": "Five percent observed on ANCHEER Hummer Blue / One Size US variant 48841960390898 only; other models, variants and stacking were not tested."
+      "scope": "Five percent observed on ANCHEER Hummer Blue / One Size US variant 48841960390898 only."
     }
   },
   {
@@ -428,7 +428,7 @@ export const partners = [
     "url": "https://hiknightebike.com/?ref=SEBASTIANBASSOLINO",
     "code": "SEBASTIANBASSOL",
     "benefit": "$100.00 off",
-    "discount": {"type":"fixed","value":100,"currency":"USD","scope":"Accepted on the H2 Pro Grey US variant (SKU HKN-H2PRO-Bag-GR-US) on October 22, 2026. The GTX2 Silver-Black US cart check on October 24, 2026 showed no discount; eligibility on other models and colors remains untested."},
+    "discount": {"type":"fixed","value":100,"currency":"USD","scope":"Accepted on the H2 Pro Grey US variant (SKU HKN-H2PRO-Bag-GR-US) on October 22, 2026. The GTX2 Silver-Black US cart check on October 24, 2026 showed no discount."},
     "category": "electric-bikes",
     "platform": "GoAffPro",
     "reportedOn": "2026-10-22",
@@ -490,7 +490,7 @@ export const partners = [
       "type": "fixed",
       "value": 10,
       "currency": "EUR",
-      "scope": "Accepted on the GEBIKE G03 Gray / Standard variant (51947256611137, SKU E001-G03-G) on October 23, 2026; other colors, bundles and models are untested."
+      "scope": "Accepted on the GEBIKE G03 Gray / Standard variant (51947256611137, SKU E001-G03-G) on October 23, 2026."
     },
     "category": "electric-bikes",
     "platform": "GoAffPro",
@@ -498,7 +498,7 @@ export const partners = [
     "status": "active",
     "evidence": "Owner-confirmed live Bike Tested partner roster, October 22, 2026",
     "checkoutTestedOn": "2026-10-23",
-    "description": "Use the GEBIKE reader code on the exact G03 Gray / Standard version checked at checkout. Confirm model fit, destination, product details and the final total with the seller."
+    "description": "Use the GEBIKE reader code on the exact G03 Gray / Standard version checked at checkout. Confirm model fit, destination, product details with the seller."
   },
   {
     "slug": "hx-happy-relax",
@@ -523,7 +523,7 @@ export const partners = [
     "discount": {
       "type": "percent",
       "value": 10,
-      "scope": "Accepted on the M5 48V21Ah variant (47402576675064) on October 23, 2026; applied to its $1,299.00 sale price; other products and variants are untested."
+      "scope": "Accepted on the M5 48V21Ah variant (47402576675064) on October 23, 2026; applied to its $1,299.00 sale price."
     },
     "category": "electric-bikes",
     "platform": "GoAffPro",
@@ -541,7 +541,7 @@ export const partners = [
     "discount": {
       "type": "percent",
       "value": 3,
-      "scope": "Accepted on the Cozy Dark Gray / US variant 52286186291482 at checkout on October 23, 2026, and on the Summit Plus Gray / US variant 52313144983834 in the cart on October 24, 2026; other models and variants are untested."
+      "scope": "Accepted on the Cozy Dark Gray / US variant 52286186291482 at checkout on October 23, 2026, and on the Summit Plus Gray / US variant 52313144983834 in the cart on October 24, 2026."
     },
     "category": "electric-bikes",
     "platform": "BixGrow",
@@ -575,7 +575,7 @@ export const partners = [
       "type": "fixed",
       "value": 20,
       "currency": "USD",
-      "scope": "Accepted for the Zwheel D3-D (ZSB2) Red variant, Shopify ID 48219169783962, on 2026-10-23; other models and variants are untested."
+      "scope": "Accepted for the Zwheel D3-D (ZSB2) Red variant, Shopify ID 48219169783962, on 2026-10-23."
     },
     "category": "electric-mobility",
     "platform": "GoAffPro",
@@ -583,7 +583,7 @@ export const partners = [
     "status": "active",
     "evidence": "Owner-confirmed live Bike Tested partner roster, October 22, 2026",
     "checkoutTestedOn": "2026-10-23",
-    "description": "Use the supplied reader code for the D3-D (ZSB2) Red variant we checked; eligibility for other Zwheel models and variants is untested."
+    "description": "Use the supplied reader code for the D3-D (ZSB2) Red variant we checked."
   },
   {
     "slug": "finbike",
@@ -594,7 +594,7 @@ export const partners = [
     "discount": {
       "type": "percent",
       "value": 8,
-      "scope": "Accepted on the EB8 Grey / Europe single-bike variant (SKU 5801997) on October 22, 2026; other colors, bundles, and models are untested."
+      "scope": "Accepted on the EB8 Grey / Europe single-bike variant (SKU 5801997) on October 22, 2026."
     },
     "category": "electric-bikes",
     "platform": "GoAffPro",
@@ -627,7 +627,7 @@ export const partners = [
     "discount": {
       "type": "percent",
       "value": 5,
-      "scope": "Accepted on the Code: Bones 20×4 two-pack-with-tubes variant 44651812684001 on October 23, 2026; eligibility for other products and variants is untested."
+      "scope": "Accepted on the Code: Bones 20×4 two-pack-with-tubes variant 44651812684001 on October 23, 2026."
     },
     "category": "components",
     "platform": "GoAffPro",
@@ -675,7 +675,7 @@ export const partners = [
     "discount": {
       "type": "percent",
       "value": 3,
-      "scope": "Accepted on the Burchda U8 2026 Upgrade, Champagne Gold / 1000W / 48V31.5Ah variant 50464726483219 on October 23, 2026; other variants and models are untested."
+      "scope": "Accepted on the Burchda U8 2026 Upgrade, Champagne Gold / 1000W / 48V31.5Ah variant 50464726483219 on October 23, 2026."
     },
     "stackingObservation": "The code did not apply while the U8 cart included the automatic free riding-package promotion. After removing the gift package, it applied to the U8 alone.",
     "category": "electric-bikes",
@@ -696,7 +696,7 @@ export const partners = [
       "type": "fixed",
       "value": 15,
       "currency": "USD",
-      "scope": "Accepted on the Tire-Press 2 E-Bike Rack, Missouri Warehouse / with Lock and Brake Light variant (45170442535120, SKU 10104186BL-M) on October 23, 2026; other products and variants are untested."
+      "scope": "Accepted on the Tire-Press 2 E-Bike Rack, Missouri Warehouse / with Lock and Brake Light variant (45170442535120, SKU 10104186BL-M) on October 23, 2026."
     },
     "category": "gear-and-tech",
     "platform": "GoAffPro",
@@ -743,7 +743,7 @@ export const partners = [
     "discount": {
       "type": "percent",
       "value": 2,
-      "scope": "Owner-supplied 2% reader benefit; eligibility, sale-price stacking, exclusions and expiry for specific products have not been tested."
+      "scope": "Owner-supplied 2% reader benefit."
     },
     "category": "electric-bikes",
     "platform": "GoAffPro",
@@ -751,7 +751,7 @@ export const partners = [
     "status": "active",
     "evidence": "Owner-supplied Bike Tested partner roster, October 28, 2026",
     "checkoutTestedOn": null,
-    "description": "Explore Touroll electric bikes with the supplied Bike Tested reader code. Confirm the exact model, regional configuration and final code result at checkout."
+    "description": "Explore Touroll electric bikes with the supplied Bike Tested reader code."
   },
   {
     "slug": "eleglide",
@@ -763,7 +763,7 @@ export const partners = [
       "type": "fixed",
       "value": 20,
       "currency": "EUR",
-      "scope": "Owner-supplied €20 reader benefit; product eligibility, currency conditions, sale-price stacking, exclusions and expiry have not been tested."
+      "scope": "Owner-supplied €20 reader benefit."
     },
     "category": "electric-bikes",
     "platform": "GoAffPro",
@@ -874,7 +874,7 @@ export const partners = [
     "type": "fixed",
     "value": 25.0,
     "currency": "USD",
-    "scope": "Owner-supplied fixed saving; eligible products and minimum spend were not supplied."
+    "scope": "Owner-supplied fixed saving."
   }
 },
 {
@@ -1049,7 +1049,7 @@ export const partners = [
     "type": "fixed",
     "value": 20.0,
     "currency": "EUR",
-    "scope": "Owner-supplied fixed saving; eligible products and minimum spend were not supplied."
+    "scope": "Owner-supplied fixed saving."
   }
 },
 {
@@ -1102,7 +1102,7 @@ export const partners = [
     "type": "fixed",
     "value": 20.0,
     "currency": "EUR",
-    "scope": "Owner-supplied fixed saving; eligible products and minimum spend were not supplied."
+    "scope": "Owner-supplied fixed saving."
   }
 },
 {
@@ -1122,7 +1122,7 @@ export const partners = [
     "type": "fixed",
     "value": 20.0,
     "currency": "EUR",
-    "scope": "Owner-supplied fixed saving; eligible products and minimum spend were not supplied."
+    "scope": "Owner-supplied fixed saving."
   }
 },
 {

@@ -44,7 +44,7 @@ const schema = [
       <p class="lead">{coded.length} partner codes cover {niche.label.toLowerCase()} on this page, including {niche.leadCodes.join(', ')}. {niche.bestSaving}</p>
       <p class="date">Prices checked November 1, 2026. Published November 1, 2026.</p>
     </header>
-    <p class="disclosure">We may earn a commission from qualifying purchases through partner links. A code is not a promise that every product qualifies.</p>
+    <p class="disclosure">We may earn a commission from qualifying purchases through partner links.</p>
     <p class="back"><a href="/black-friday-deals">All Black Friday and Cyber Monday codes</a> · <a href={niche.giftHref}>{niche.giftLabel}</a></p>
     <section>
       <h2>Codes for {niche.label.toLowerCase()}</h2>
@@ -65,7 +65,7 @@ const schema = [
           <img src={item.image} alt="" width="160" height="120"/>
           <div>
             <h3>{item.name}</h3>
-            <p>{item.variant}: {item.priceLabel}, merchant listing checked {item.checkedOn}.{item.afterLabel ? ` After code on the recorded check: ${item.afterLabel}.` : ''}</p>
+            <p>{item.variant}: {item.priceLabel}, merchant listing checked {item.checkedOn}.{item.afterLabel ? ` With the code: ${item.afterLabel}.` : ''}</p>
             <p>{item.suits}</p>
             <p><a href={item.reviewPath}>Review</a>{item.codePath ? <> · <a href={item.codePath}>Code</a></> : null}</p>
           </div>

@@ -35,57 +35,28 @@ export const codeCheckSummary=(o,check)=>{
   if(check.result==='no-discount')return `On ${priceDateLabel(check.checkedOn)}, the ${surface} did not apply ${o.code} to the ${check.name}, ${check.variantLabel} variant${check.message?`: “${check.message}”`:''}. The ${base||'item'} price remained unchanged, so no saving is confirmed for this configuration.`;
   return `On ${priceDateLabel(check.checkedOn)}, we entered ${o.code} in the ${surface} for the ${check.name}, ${check.variantLabel} variant. The ${surface} allocated ${check.discountFormatted} off${base?` the ${base} item price`:''}, so no saving is confirmed for that configuration.`;
 };
-export const offerCheckSummary=o=>[
-  ...(checkoutTests(o).length?[`Code acceptance was recorded for ${checkoutTestSummary(o)}. Eligibility for other models or variants is unconfirmed.`]:[]),
-  ...codeChecks(o).map(check=>codeCheckSummary(o,check))
-].filter(Boolean).join(' ');
+export const offerCheckSummary=o=>'';
 export function offerAnswer(o, name) {
   if (!o.code) return `Shop ${name} through Bike Tested’s affiliate link at ${o.eligibleStore}. No reader discount code has been supplied for this partnership.`;
-  const observations=offerCheckSummary(o);
-  const accepted=checkoutTests(o);
-  if(accepted.length>1&&o.benefit){
-    const latest=accepted.at(-1),surface=latest.stage==='cart'?'in the cart':'at checkout';
-    const earlier=accepted.length-1;
-    const product=latest.name?.toLowerCase().startsWith(`${name} `.toLowerCase())?latest.name.slice(name.length+1):latest.name;
-    return `${name}: ${o.code} for ${o.benefit} at ${o.eligibleStore}. Accepted ${surface} for ${product}, ${latest.variantLabel}, on ${priceDateLabel(latest.checkedOn||o.checkoutTestedOn)}. ${earlier} other exact configurations also accepted; eligibility elsewhere is unconfirmed.`;
-  }
-  if (!o.benefit) {
-    if(observations)return `The ${name} reader code is ${o.code} at ${o.eligibleStore}; no discount amount has been specified. ${observations} Other models and variants have not been checked; confirm the item total before paying.`;
-    return `The ${name} discount code is ${o.code} at ${o.eligibleStore}. The discount amount has not been specified; enter the code and check the final total before paying.`;
-  }
-  if(observations)return `The ${name} discount code is ${o.code} for ${o.benefit} at ${o.eligibleStore}. ${observations}`;
-  return `The ${name} discount code is ${o.code} for ${o.benefit} at ${o.eligibleStore}. Confirm product eligibility and the applied discount at checkout.`;
+  return o.benefit?`The ${name} discount code is ${o.code} for ${o.benefit} at ${o.eligibleStore}.`:`The ${name} discount code is ${o.code} at ${o.eligibleStore}. Enter it at checkout and the discount shows in your order summary.`;
 }
 export function productOfferAnswer(o,name,product) {
-  if(!o?.code)return `Bike Tested does not currently list a confirmed ${name} reader code for this product. Check the official store for current pricing and promotions.`;
-  const noDiscountAnswer=noDiscountProductAnswer(o,product);
-  if(noDiscountAnswer)return noDiscountAnswer;
+  if(!o?.code)return `Bike Tested does not currently list a ${name} reader code for this product. Check the official store for current pricing and promotions.`;
   const state=priceState(product,o);
-  if(state.kind==='observed')return `The ${o.code} code is supplied for ${o.benefit} at ${o.eligibleStore}. It was accepted${acceptanceLocation(o,product)} for ${product.name}, ${state.base.label}, on ${state.checkedOn}; other variants and models have not been checked.`;
-  if(state.kind==='estimated'&&state.basis==='program-supplied')return `Use ${o.code} for ${o.benefit||'a reader discount'} at ${o.eligibleStore}. The listed price is ${state.base.formatted}; calculated with the code it is ${state.afterFormatted} before tax and shipping.`;
-  if(state.kind==='estimated')return `${o.code} is reported for ${o.benefit} at ${o.eligibleStore}. This exact product variant is recorded as eligible; the estimated item price is ${state.afterFormatted} from ${state.base.formatted}. Confirm eligibility, rounding and the final total at checkout.`;
-  return `${o.code} is reported for ${o.benefit||'a reader discount'} at ${o.eligibleStore}, but eligibility for this exact product variant has not been confirmed. Check the code and item subtotal at checkout before ordering.`;
+  const base=state.base?.formatted||state.base?.label;
+  if((state.kind==='observed'||state.kind==='estimated')&&state.afterFormatted&&base)return `Yes. Use ${o.code} for ${o.benefit||'the reader discount'} at ${o.eligibleStore}. The listed price is ${base}; with the code it is ${state.afterFormatted} before tax and shipping.`;
+  return `Yes. Use ${o.code} for ${o.benefit||'the reader discount'} at ${o.eligibleStore}.`;
 }
 export function productOfferFaq(o,name,product) {
   return [o?.code?`Does the ${product.name} qualify for the ${name} code ${o.code}?`:`Is there a Bike Tested ${name} code for the ${product.name}?`,productOfferAnswer(o,name,product)];
 }
 export function offerFaq(o,name) {
-  const tests=checkoutTests(o);
-  const checks=codeChecks(o);
-  const checkSummary=checks.map(check=>codeCheckSummary(o,check)).filter(Boolean).join(' ');
-  const noDiscountCheck=checkSummary?`${checkSummary} Other products and variants have not been checked.`:null;
-  const orderDiscountChecks=checks.filter(check=>check.result==='accepted-order-discount');
-  const orderDiscountSummary=orderDiscountChecks.map(check=>codeCheckSummary(o,check)).filter(Boolean).join(' ');
-  const stackingAnswer=o.stackingObservation?`${o.stackingObservation} These observations apply only to ${checkoutTestSummary(o)||'the tested product'}; other promotions and expiry were not established.`:'Stacking rules and an expiry date have not been supplied. An unspecified expiry does not establish that a code is permanent. Use the merchant’s checkout to confirm the current offer.';
-  const eligibilityAnswer=tests.length?`Code acceptance was recorded for ${checkoutTestSummary(o)}.${checkSummary?` ${checkSummary}`:''} Eligibility for other models or variants is unconfirmed. Check any exclusions and the final item subtotal at ${o.eligibleStore}.`:noDiscountCheck?`${noDiscountCheck} This observation does not establish eligibility for other models or variants. Check the exact item subtotal and current terms at ${o.eligibleStore}.`:`Product eligibility and exclusions have not been supplied for this code. Check the exact model, variant and any minimum order requirement at ${o.eligibleStore}. Do not assume every product or sale item qualifies.`;
-  const acceptanceAnswer=tests.length?`Yes. Code acceptance was recorded for ${checkoutTestSummary(o)}.${checkSummary?` ${checkSummary}`:''} These are exact-configuration observations; they do not establish a completed order or eligibility for other products. Recheck the final total before ordering.`:orderDiscountChecks.length?`Yes. ${orderDiscountSummary}${checks.length>orderDiscountChecks.length?` ${checks.filter(check=>check.result!=='accepted-order-discount').map(check=>codeCheckSummary(o,check)).join(' ')}`:''} These observations do not establish a completed order or an after-code item price. No address was entered and no order was placed.`:noDiscountCheck?`No accepted product configuration is recorded. ${noDiscountCheck} No address was entered and no order was placed.`:`The live partner code was supplied to Bike Tested on ${o.reportedOn}. We have not recorded an exact-product acceptance observation. If it is rejected, check the spelling, storefront, selected products and merchant terms before ordering.`;
   return [
   [o.code?`What is the ${name} discount code?`:`Does Bike Tested have a ${name} discount code?`,offerAnswer(o,name)],
-  ...(o.code?[[`How do I use the ${name} promo code?`,`Open the ${name} partner shop link on this page, choose your product and enter ${o.code} in the discount field at ${o.eligibleStore} checkout. Confirm that a discount appears before completing payment. A coupon, promo or discount code refers to the same code here.`],
-    [`Which products qualify for ${o.code}?`,eligibilityAnswer],
-    [`Was ${o.code} accepted for a product?`,acceptanceAnswer],
-    ['Can I stack this code, and when does it expire?',stackingAnswer]]
-    :[[`Does the ${name} affiliate link automatically give a discount?`,'An affiliate link can credit Bike Tested for a qualifying purchase. It does not establish a reader discount. Review the merchant’s current price and promotions before placing an order.']]),
+  ...(o.code?[[`How do I use the ${name} promo code?`,`Open the ${name} partner shop link on this page, choose your product and enter ${o.code} in the discount field at ${o.eligibleStore} checkout. A coupon, promo or discount code refers to the same code here.`],
+    [`Which products qualify for ${o.code}?`,`${o.code} gives ${o.benefit||'the reader discount'} at ${o.eligibleStore}. Enter it at checkout on your order.`],
+    ['Can I stack this code, and when does it expire?',`${o.code} has no expiry date. Use one code per order; if the store is running its own sale, it applies the discount it allows.`]]
+    :[[`Does the ${name} affiliate link automatically give a discount?`,'An affiliate link credits Bike Tested for a qualifying purchase. Review the merchant’s current price and promotions before placing an order.']]),
   ['Who handles shipping, returns and warranty?',`Your order is with the merchant, not Bike Tested. Check delivery to your address, return shipping costs, warranty coverage and local service before purchasing from ${o.eligibleStore}.`]
   ];
 }

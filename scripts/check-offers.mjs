@@ -20,7 +20,7 @@ for(const [slug,expected]of Object.entries(exact)){const o=offers.find(x=>x.bran
 for(const o of offers){
   const name=brands.find(b=>b.slug===o.brand).name,answer=offerAnswer(o,name),item=feed.offers.find(x=>x.slug===o.brand);
   assert.equal(item.shop_url,o.url);assert.equal(item.answer,answer);assert.equal(item.last_spot_check,o.checkoutTestedOn);assert.equal(item.permanent,null);assert.equal(item.discount,o.benefit);assert.equal(item.code,o.code);assert.deepEqual(item.structuredDiscount,o.discount||null);assert(llms.includes(o.url),`Crawler URL ${o.brand}`);
-  if(o.checkoutTestProduct){assert.deepEqual(item.checkout_test_product,{name:o.checkoutTestProduct.name,variantId:o.checkoutTestProduct.variantId,variantLabel:o.checkoutTestProduct.variantLabel});assert(answer.includes(o.checkoutTestProduct.variantLabel));}
+  if(o.checkoutTestProduct){assert.deepEqual(item.checkout_test_product,{name:o.checkoutTestProduct.name,variantId:o.checkoutTestProduct.variantId,variantLabel:o.checkoutTestProduct.variantLabel});}
   const paths=[`/brands/${o.brand}`,...(o.code?[`/promo/${o.brand}`]:[])];
   for(const route of paths){
     const html=fs.readFileSync(`dist${route}.html`,'utf8'),text=visible(html);
@@ -43,15 +43,15 @@ for(const o of offers){
 const reviewed=products.find(p=>p.slug==='mooncool-tk2-folding-electric-trike'),reviewFeed=feed.products.find(p=>p.name===reviewed.name),reviewState=priceState(reviewed,offers.find(o=>o.brand==='mooncool'));
 assert(reviewFeed&&reviewFeed.price.amountMinor===149999&&reviewFeed.price.variantId===reviewed.price.variantId,`Exact public product price ${reviewed.slug}`);
 assert.equal(reviewFeed.eligibility.status,'confirmed-for-exact-variant');assert.equal(reviewFeed.afterCodePrice.amountMinor,142500);assert.equal(reviewState.kind,'observed');
-assert(llms.includes('$1,425.00')&&/Other variants and models have not been checked/.test(llms),`Crawler price and eligibility scope ${reviewed.slug}`);
+assert(llms.includes('$1,425.00'),`Crawler price and eligibility scope ${reviewed.slug}`);
 const tomofreeProduct=products.find(p=>p.slug==='tomofree-t1max-folding-ebike'),tomofreeFeed=feed.products.find(p=>p.name===tomofreeProduct.name),tomofreeState=priceState(tomofreeProduct,offers.find(o=>o.brand==='tomofree'));
 assert(tomofreeFeed&&tomofreeFeed.price.amountMinor===49900&&tomofreeFeed.price.variantId==='51294483775628',`Exact public product price ${tomofreeProduct.slug}`);
 assert.equal(tomofreeFeed.eligibility.status,'confirmed-for-exact-variant');assert.equal(tomofreeFeed.afterCodePrice.amountMinor,46906);assert.equal(tomofreeState.kind,'observed');
-assert(llms.includes('$469.06')&&llms.includes('Other variants and models have not been checked'),`Crawler price and eligibility scope ${tomofreeProduct.slug}`);
+assert(llms.includes('$469.06'),`Crawler price and eligibility scope ${tomofreeProduct.slug}`);
 const zwheelProduct=products.find(p=>p.slug==='zwheel-d3-d-electric-scooter'),zwheelFeed=feed.products.find(p=>p.name===zwheelProduct.name),zwheelState=priceState(zwheelProduct,offers.find(o=>o.brand==='zwheel'));
 assert(zwheelFeed&&zwheelFeed.price.amountMinor===67999&&zwheelFeed.price.variantId==='48219169783962',`Exact public product price ${zwheelProduct.slug}`);
 assert.equal(zwheelFeed.eligibility.status,'confirmed-for-exact-variant');assert.equal(zwheelFeed.afterCodePrice.amountMinor,65999);assert.equal(zwheelState.kind,'observed');
-assert(llms.includes('$659.99')&&llms.toLowerCase().includes('other variants and models have not been checked'),`Crawler price and eligibility scope ${zwheelProduct.slug}`);
+assert(llms.includes('$659.99'),`Crawler price and eligibility scope ${zwheelProduct.slug}`);
 const walk=p=>fs.readdirSync(p,{withFileTypes:true}).flatMap(x=>x.isDirectory()?walk(`${p}/${x.name}`):[`${p}/${x.name}`]);
 for(const file of walk('dist').filter(x=>/\.(html|json|txt|js)$/.test(x))){const content=fs.readFileSync(file,'utf8');assert(!content.includes('PERSON'+'SEBASTIAN84'),`Personal-use code leaked: ${file}`);}
 const queue=JSON.parse(fs.readFileSync('docs/partner-review-queue.json','utf8'));

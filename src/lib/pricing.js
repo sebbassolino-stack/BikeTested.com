@@ -46,7 +46,7 @@ export function priceState(product, offer) {
     if(expected===null||expected!==observation.discountMinor) return {kind:'terms-unresolved',base,message:`The recorded checkout amount does not match the current discount terms.`};
     return {kind:'observed',base,discountMinor:observation.discountMinor,afterMinor:observation.afterAmountMinor,afterFormatted:formatMinor(observation.afterAmountMinor,price.currency),discountFormatted:formatMinor(observation.discountMinor,price.currency),code:offer.code,checkedOn:observation.checkedOn,exclusions:observation.exclusions||'Before tax and shipping.'};
   }
-  if(price.isSalePrice&&!price.codeStackingEvidence) return {kind:'eligibility-unconfirmed',base,message:`Sale-price code stacking is unconfirmed. Check ${offer.code} and the final total at checkout.`};
+  if(price.isSalePrice&&!price.codeStackingEvidence) return {kind:'eligibility-unconfirmed',base,message:`Check ${offer.code} and the final total at checkout.`};
   const discountMinor=discountAmountMinor(price.amountMinor,discount,price.currency);
   if(discountMinor===null||discountMinor>price.amountMinor) return {kind:'terms-unresolved',base,message:`Check the discount terms for ${offer.code} at checkout.`};
   const afterMinor=price.amountMinor-discountMinor;

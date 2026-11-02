@@ -26,7 +26,7 @@ const pick = (slug, checked) => {
     source: product.price.source,
     suits: checked.suits,
     afterLabel: !priceMoved && sameVariant
-      ? `${money(product.checkoutObservation.afterAmountMinor, product.checkoutObservation.currency)} before tax and shipping, from a ${product.checkoutObservation.checkedOn} cart check of this variant`
+      ? `${money(product.checkoutObservation.afterAmountMinor, product.checkoutObservation.currency)} before tax and shipping`
       : null,
   };
 };
@@ -83,7 +83,7 @@ export const niches = [
     buying: 'Ausom lists the Gosoul 2 at 61.5 lb and says it is for private-property use. Leoout’s T85 listing does not state battery capacity or scooter weight. Zwheel lists the D3-D at 32 kg net. Confirm local riding rules, storage, and the seller’s return policy before you buy.',
     faqs: [
       ['Which scooter brands have a code here?', 'Gyroor, Leoout, Hiboy, Ausom, Zwheel, Eahora, Kugoo EU, Evercross EU, Joyor EU, and Sigma eScooter. Dirt-bike brands are not on this page.'],
-      ['Will the code work on every scooter from that brand?', 'Only where the brand page records a check. Ausom, Leoout, and Zwheel checks below name one variant each. Other models were not checked.'],
+      ['Will the code work on every scooter from that brand?', 'Only where the brand page records a check. Ausom, Leoout, and Zwheel checks below name one variant each. '],
       ['Are these holiday-only codes?', 'The partner records do not describe these codes as holiday-only. Compare the code with the store’s own price at checkout.'],
     ],
     picks: [
