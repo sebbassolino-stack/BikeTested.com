@@ -11,7 +11,7 @@ const feed=JSON.parse(fs.readFileSync('dist/agent.json','utf8'));
 const llms=fs.readFileSync('dist/llms.txt','utf8');
 const deals=fs.readFileSync('dist/deals.html','utf8');
 const sitemap=fs.readFileSync('dist/sitemap-0.xml','utf8');
-const added=JSON.parse(fs.readFileSync('docs/partners-2026-10-29.json','utf8'));
+const added=[...JSON.parse(fs.readFileSync('docs/partners-2026-10-29.json','utf8')),...JSON.parse(fs.readFileSync('docs/partners-2026-11-01.json','utf8'))];
 for(const row of added){const o=offers.find(x=>x.name===row.brand);assert(o,'Missing new partner '+row.brand);assert.equal(o.url,row.url);assert.equal(o.code,row.code);}
 assert.equal(offers.length,52+added.length);assert.equal(offers.filter(o=>o.code).length,26+added.filter(x=>x.code).length);assert.equal(offers.filter(o=>o.benefit).length,22+added.filter(x=>x.benefit).length);assert.equal(new Set(offers.map(o=>o.brand)).size,52+added.length);
 assert.equal(feed.offers.length,52+added.length);

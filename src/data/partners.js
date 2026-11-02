@@ -1162,5 +1162,19 @@ export const partners = [
     "value": 10.0,
     "scope": "Owner-supplied reader benefit; store product eligibility and promotion-combination terms apply."
   }
+},
+{
+  "slug": "hitway",
+  "name": "Hitway",
+  "url": "https://hitway.eu/?ref=SEBASTIANBASSOLINO",
+  "code": null,
+  "benefit": null,
+  "category": "electric-bikes",
+  "platform": "GoAffPro",
+  "reportedOn": "2026-11-01",
+  "status": "active",
+  "evidence": "Owner-supplied BikeTested partner sheet received November 1, 2026",
+  "checkoutTestedOn": null,
+  "description": "The supplied Hitway EU electric-bike storefront. Compare geometry, motor and battery configuration, and confirm delivery to your region for the selected model."
 }
 ];
