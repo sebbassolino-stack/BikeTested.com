@@ -2,6 +2,15 @@
 import Layout from "../layouts/Layout.astro";
 import HolidayShopping from "../components/HolidayShopping.astro";
 import {config,offers} from "../data/holiday-2026.js";
+import {niches} from "../data/bf-niches.js";
 const edition=new Date().toLocaleDateString('en-US',{month:'long',year:'numeric',timeZone:'UTC'});
 ---
-<Layout title={`Black Friday & Cyber Monday Cycling Deals (${edition}) | BikeTested`} description="Compare BikeTested partner codes before Black Friday November 27 and Cyber Monday November 30, 2026. Current benefits, store links and sale-comparison advice."><HolidayShopping kind="deals" config={config} offers={offers}/></Layout>
+<Layout title={`Black Friday & Cyber Monday Cycling Deals (${edition}) | BikeTested`} description="Compare BikeTested partner codes before Black Friday November 27 and Cyber Monday November 30, 2026. Current benefits, store links and sale-comparison advice.">
+<nav class="shop-cats" aria-label="Shop by category"><p>Shop by category</p>{niches.map((niche) => <a href={`/black-friday-deals/${niche.slug}`}>{niche.label}</a>)}</nav>
+<HolidayShopping kind="deals" config={config} offers={offers}/>
+</Layout>
+<style>
+  .shop-cats {max-width: 1120px; margin: 24px auto 0; padding: 0 24px; display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center;}
+  .shop-cats p {margin: 0; font-size: 13px; text-transform: uppercase; letter-spacing: .08em;}
+  .shop-cats a {font-size: 16px;}
+</style>

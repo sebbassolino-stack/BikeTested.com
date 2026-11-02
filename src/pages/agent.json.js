@@ -140,4 +140,4 @@ function originalAgentGET() {
   return new Response(JSON.stringify(payload, null, 2), { headers: { 'Content-Type': 'application/json' } });
 }
 
-export async function GET(context){const response=await originalAgentGET();const data=await response.json();return new Response(JSON.stringify({...data,site_directory:'https://biketested.com/ai-directory.json',seasonal_pages:['https://biketested.com/black-friday-deals','https://biketested.com/holiday-gift-guide']}),{status:response.status,headers:response.headers});}
+export async function GET(context){const response=await originalAgentGET();const data=await response.json();return new Response(JSON.stringify({...data,site_directory:'https://biketested.com/ai-directory.json',seasonal_pages:['https://biketested.com/black-friday-deals','https://biketested.com/black-friday-deals/e-bikes','https://biketested.com/black-friday-deals/scooters','https://biketested.com/holiday-gift-guide']}),{status:response.status,headers:response.headers});}
