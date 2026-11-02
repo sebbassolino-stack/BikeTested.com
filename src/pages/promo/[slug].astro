@@ -1,4 +1,6 @@
 ---
+// Calendar edition for promo titles (build month, New York); the monthly rebuild rolls it over. Not a verification date.
+const editionMonth = new Date().toLocaleDateString('en-US', { month: 'long', year: 'numeric', timeZone: 'America/New_York' });
 import Layout from '../../layouts/Layout.astro';import Faq from '../../components/Faq.astro';import PartnerOffer from '../../components/PartnerOffer.astro';
 import ProductCard from '../../components/ProductCard.astro';
 import {offers,brands,products} from '../../data/catalog';import {guides} from '../../data/guides';
@@ -9,7 +11,7 @@ const reading=guides.filter(g=>path.guides.includes(g.slug));const coverage=prod
 const productCheck=offerCheckSummary(o)||'Not recorded';
 const others=offers.filter(x=>x.code&&x.brand!==o.brand&&x.category===o.category).slice(0,3);
 ---
-<Layout title={`${brand.name} discount code ${o.code}${o.benefit?`: ${o.benefit}`:''}`} description={answer} schema={[offerSchema(o,brand.name),faqSchema(faq)]}>
+<Layout title={`${brand.name} discount code ${o.code} (${editionMonth})${o.benefit?`: ${o.benefit}`:''}`} description={answer} schema={[offerSchema(o,brand.name),faqSchema(faq)]}>
 <div class="wrap"><div class="page-head promo-head"><div class="breadcrumb"><a href="/">Home</a> / <a href="/deals">Offers & codes</a> / {brand.name}</div><span class="kicker">Reader offer · {o.eligibleStore}</span><h1>{brand.name}<br/>discount code</h1><p class="intro">{answer}</p></div>
 <div class="promo-layout"><article class="prose"><PartnerOffer offer={o} name={brand.name}/>
 <nav class="toc" aria-label="On this page"><a href="#use-code">How to use it</a><a href="#terms">Offer terms</a><a href="#buying">Before you choose</a><a href="#questions">FAQs</a></nav>
