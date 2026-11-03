@@ -67,7 +67,7 @@ const schema = [
             <h3>{item.name}</h3>
             <p>{item.variant}: {item.priceLabel}, merchant listing checked {item.checkedOn}.{item.afterLabel ? ` With the code: ${item.afterLabel}.` : ''}</p>
             <p>{item.suits}</p>
-            <p><a href={item.reviewPath}>Review</a>{item.codePath ? <> · <a href={item.codePath}>Code</a></> : null}</p>
+            <p><a href={item.reviewPath}>{/\/(best|best-picks|guides)\//.test(item.reviewPath) ? 'Buying guide' : 'Review'}</a>{item.codePath ? <> · <a href={item.codePath}>Code</a></> : null}</p>
           </div>
         </li>)}
       </ul>

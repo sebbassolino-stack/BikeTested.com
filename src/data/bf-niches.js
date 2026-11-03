@@ -121,3 +121,7 @@ export const nicheForPartner = (slug, category) => {
 export const offersFor = (niche) => partners
   .filter((item) => item.status === 'active' && item.code && niche.partnerSlugs.includes(item.slug))
   .map((item) => ({brand: item.name, code: item.code, benefit: item.benefit, url: item.url, path: `/promo/${item.slug}`}));
+
+// Niches whose product picks link to this review page (used by HolidayLinks).
+const normPath = (p) => String(p || '').replace(/\.html$/, '').replace(/\/$/, '');
+export const nicheForReview = (path) => niches.filter((n) => (n.picks || []).some((k) => k && k.reviewPath && normPath(k.reviewPath) === normPath(path)));
