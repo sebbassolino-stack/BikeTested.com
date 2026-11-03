@@ -48,7 +48,7 @@ export function productOfferAnswer(o,name,product) {
   return `Yes. Use ${o.code} for ${o.benefit||'the reader discount'} at ${o.eligibleStore}.`;
 }
 export function productOfferFaq(o,name,product) {
-  return [o?.code?`Does the ${product.name} qualify for the ${name} code ${o.code}?`:`Is there a Bike Tested ${name} code for the ${product.name}?`,productOfferAnswer(o,name,product)];
+  return [o?.code?`What is the discount code for the ${product.name}?`:`Is there a Bike Tested ${name} code for the ${product.name}?`,productOfferAnswer(o,name,product)];
 }
 export function offerFaq(o,name) {
   return [
