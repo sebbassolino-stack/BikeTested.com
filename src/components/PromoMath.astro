@@ -1,0 +1,36 @@
+---
+// Code, saving and dollar math, placed directly under the promo H1. Self-contained styles so it fits any site theme.
+import { mathRows, mathSentence } from '../lib/promo-format.mjs';
+interface Props { code: string; also?: string[]; saving?: string; store?: string }
+const { code, also = [], saving = '', store = '' } = Astro.props;
+const rows = mathRows(saving);
+const sentence = mathSentence(code, saving);
+---
+<div class="pm-box">
+  <p class="pm-line"><span class="pm-label">Code</span> <strong class="pm-code">{code}</strong>{also.map((c) => <> or <strong class="pm-code">{c}</strong></>)}{saving && <><span class="pm-sep" aria-hidden="true">·</span><span class="pm-label">Saving</span> <strong>{saving}</strong></>}{store && <span class="pm-store">at {store}</span>}</p>
+  {sentence && <p class="pm-sentence">{sentence}</p>}
+  {rows.length > 0 && (
+    <table class="pm-table">
+      <caption class="pm-sr">Dollar savings with code {code}</caption>
+      <thead><tr><th scope="row">Order</th>{rows.map((r) => <th scope="col">{r.orderText}</th>)}</tr></thead>
+      <tbody>
+        <tr><th scope="row">You save</th>{rows.map((r) => <td>{r.saveText}</td>)}</tr>
+        <tr><th scope="row">You pay</th>{rows.map((r) => <td><strong>{r.payText}</strong></td>)}</tr>
+      </tbody>
+    </table>
+  )}
+</div>
+<style>
+  .pm-box { margin: 14px 0 18px; padding: 14px 16px; max-width: 560px; border: 1px solid color-mix(in srgb, currentColor 22%, transparent); border-radius: 12px; background: color-mix(in srgb, currentColor 4%, transparent); text-align: left; box-sizing: border-box; }
+  .pm-line { margin: 0; font-size: 1.05rem; line-height: 1.45; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 8px; }
+  .pm-label { font-size: 0.72rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; opacity: 0.7; }
+  .pm-code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; letter-spacing: 0.04em; word-break: break-all; }
+  .pm-sep { opacity: 0.45; }
+  .pm-store { opacity: 0.8; }
+  .pm-sentence { margin: 8px 0 0; font-size: 1rem; line-height: 1.5; }
+  .pm-table { width: 100%; margin: 10px 0 0; border-collapse: collapse; font-size: 0.93rem; font-variant-numeric: tabular-nums; }
+  .pm-table th, .pm-table td { padding: 5px 6px; text-align: right; border: 0; border-top: 1px solid color-mix(in srgb, currentColor 16%, transparent); background: none; }
+  .pm-table thead th { border-top: 0; }
+  .pm-table th[scope='row'] { text-align: left; font-weight: 600; opacity: 0.75; }
+  .pm-sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+</style>

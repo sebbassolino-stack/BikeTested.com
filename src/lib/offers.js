@@ -1,3 +1,4 @@
+import {savingFor,mathSentence,savingFaqs} from './promo-format.mjs';
 // One public answer reused by pages, review FAQs, schema and crawler feeds.
 import {priceState,formatMinor,priceDateLabel} from './pricing.js';
 export const offerPath = o => o.code ? `/promo/${o.brand}` : `/brands/${o.brand}`;
@@ -38,6 +39,8 @@ export const codeCheckSummary=(o,check)=>{
 export const offerCheckSummary=o=>'';
 export function offerAnswer(o, name) {
   if (!o.code) return `Shop ${name} through Bike Tested’s affiliate link at ${o.eligibleStore}. No reader discount code has been supplied for this partnership.`;
+  const saving=savingFor(name,o.code,o.benefit);
+  if(mathSentence(o.code,saving))return `The ${name} discount code is ${o.code} for ${saving} at ${o.eligibleStore}. ${mathSentence(o.code,saving)}`;
   return o.benefit?`The ${name} discount code is ${o.code} for ${o.benefit} at ${o.eligibleStore}.`:`The ${name} discount code is ${o.code} at ${o.eligibleStore}. Enter it at checkout and the discount shows in your order summary.`;
 }
 export function productOfferAnswer(o,name,product) {
@@ -53,6 +56,7 @@ export function productOfferFaq(o,name,product) {
 export function offerFaq(o,name) {
   return [
   [o.code?`What is the ${name} discount code?`:`Does Bike Tested have a ${name} discount code?`,offerAnswer(o,name)],
+  ...(o.code?savingFaqs(name,o.code,savingFor(name,o.code,o.benefit)).map(f=>[f.q,f.a]):[]),
   ...(o.code?[[`How do I use the ${name} promo code?`,`Open the ${name} partner shop link on this page, choose your product and enter ${o.code} in the discount field at ${o.eligibleStore} checkout. A coupon, promo or discount code refers to the same code here.`],
     [`Which products qualify for ${o.code}?`,`${o.code} gives ${o.benefit||'the reader discount'} at ${o.eligibleStore}. Enter it at checkout on your order.`],
     ['Can I stack this code, and when does it expire?',`${o.code} has no expiry date. Use one code per order; if the store is running its own sale, it applies the discount it allows.`]]
