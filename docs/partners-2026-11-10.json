@@ -10,5 +10,17 @@
     "url": "https://www.onsra.com/?ref=sagwojwa",
     "code": "SEBASTIANBASSOL",
     "benefit": "4% off"
+  },
+  {
+    "brand": "Soleil Supplies",
+    "url": "https://soleilsupplies.com/?ref=SEBASTIANBASSOLINO",
+    "code": "SEBASTIANBASSOL",
+    "benefit": "5% off"
+  },
+  {
+    "brand": "GhostCat Bikes",
+    "url": "https://ghostcatbikes.com/?rfsn=9394330.71f07f8",
+    "code": "RIDE",
+    "benefit": null
   }
 ]

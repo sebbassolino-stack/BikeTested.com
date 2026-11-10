@@ -1642,6 +1642,28 @@
       "code": "SEBASTIANBASSOL",
       "reportedBenefit": "4% off",
       "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "Soleil Supplies",
+      "brandSlug": "soleil-supplies",
+      "category": "electric-bikes",
+      "status": "research-needed",
+      "priority": 2,
+      "affiliateUrl": "https://soleilsupplies.com/?ref=SEBASTIANBASSOLINO",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "5% off",
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "GhostCat Bikes",
+      "brandSlug": "ghostcat-bikes",
+      "category": "electric-bikes",
+      "status": "research-needed",
+      "priority": 2,
+      "affiliateUrl": "https://ghostcatbikes.com/?rfsn=9394330.71f07f8",
+      "code": "RIDE",
+      "reportedBenefit": null,
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
     }
   ]
 }

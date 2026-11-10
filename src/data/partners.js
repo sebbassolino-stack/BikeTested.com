@@ -1214,5 +1214,38 @@ export const partners = [
     "value": 4.0,
     "scope": "Owner-supplied reader benefit; store product eligibility and promotion-combination terms apply."
   }
+},
+{
+  "slug": "soleil-supplies",
+  "name": "Soleil Supplies",
+  "url": "https://soleilsupplies.com/?ref=SEBASTIANBASSOLINO",
+  "code": "SEBASTIANBASSOL",
+  "benefit": "5% off",
+  "category": "electric-bikes",
+  "platform": "GoAffPro",
+  "reportedOn": "2026-11-10",
+  "status": "active",
+  "evidence": "Owner-supplied master deals sheet, November 10, 2026",
+  "checkoutTestedOn": null,
+  "description": "Upgrades and parts for the Tuttio Soleil 01 and Yozma In 10 e-bikes: frame guards, throttles, seat covers and fenders. Confirm the part fits your exact bike model.",
+  "discount": {
+    "type": "percent",
+    "value": 5.0,
+    "scope": "Owner-supplied reader benefit; store product eligibility and promotion-combination terms apply."
+  }
+},
+{
+  "slug": "ghostcat-bikes",
+  "name": "GhostCat Bikes",
+  "url": "https://ghostcatbikes.com/?rfsn=9394330.71f07f8",
+  "code": "RIDE",
+  "benefit": null,
+  "category": "electric-bikes",
+  "platform": "Refersion",
+  "reportedOn": "2026-11-10",
+  "status": "active",
+  "evidence": "Owner-supplied master deals sheet, November 10, 2026",
+  "checkoutTestedOn": null,
+  "description": "Fat-tire, full-suspension electric bikes built for off-road and street riding. Compare motor power, top speed and local e-bike rules for the exact model."
 }
 ];
