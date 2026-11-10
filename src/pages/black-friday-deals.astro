@@ -5,7 +5,7 @@ import {config,offers} from "../data/holiday-2026.js";
 import {niches} from "../data/bf-niches.js";
 const edition=new Date().toLocaleDateString('en-US',{month:'long',year:'numeric',timeZone:'UTC'});
 ---
-<Layout title={`Black Friday & Cyber Monday Cycling Deals (${edition}) | BikeTested`} description="Compare BikeTested partner codes before Black Friday November 27 and Cyber Monday November 30, 2026. Current benefits, store links and sale-comparison advice.">
+<Layout title={`Black Friday & Cyber Monday Cycling Deals (${edition}) | BikeTested`} description="BikeTested Black Friday codes, active through Black Friday November 27 and Cyber Monday November 30, 2026. Every code works on Black Friday and Cyber Monday orders.">
 <nav class="shop-cats" aria-label="Shop by category"><p>Shop by category</p>{niches.map((niche) => <a href={`/black-friday-deals/${niche.slug}`}>{niche.label}</a>)}</nav>
 <HolidayShopping kind="deals" config={config} offers={offers}/>
 </Layout>

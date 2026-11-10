@@ -24,7 +24,7 @@ const faqs=gift?[
 ['Will these codes work throughout the holiday sale?','Yes. The codes listed here are active and have no expiry date, so you can use them on Black Friday, Cyber Monday or any other day.']
 ];
 const title=gift?`${config.name} Holiday Gift Guide (${edition}): ${config.topic} Gifts`:`Black Friday ${config.topic} Discount Codes 2026 & Cyber Monday Deals | ${config.name}`;
-const description=gift?`Choose thoughtful ${config.topic.toLowerCase()} gifts with recipient-fit guidance, useful buying guides and ${config.name} partner codes.`:`Compare ${config.name} partner codes before Black Friday November 27 and Cyber Monday November 30, 2026. Every code works on Black Friday and Cyber Monday orders.`;
+const description=gift?`Choose thoughtful ${config.topic.toLowerCase()} gifts with recipient-fit guidance, useful buying guides and ${config.name} partner codes.`:`${config.name} Black Friday codes, active through Black Friday November 27 and Cyber Monday November 30, 2026. Every code works on Black Friday and Cyber Monday orders.`;
 const schema=[{'@type':'WebPage',name:title,description,url:'https://'+config.domain+(gift?'/holiday-gift-guide':'/black-friday-deals'),datePublished:'2026-10-29',dateModified:'2026-11-10'}, {'@type':'FAQPage',mainEntity:faqs.map(([name,text])=>({'@type':'Question',name,acceptedAnswer:{'@type':'Answer',text}}))}];
 ---
 <script type="application/ld+json" set:html={JSON.stringify({"@context":"https://schema.org","@graph":schema})}/>

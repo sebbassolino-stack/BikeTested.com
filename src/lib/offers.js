@@ -59,7 +59,7 @@ export function offerFaq(o,name) {
   ...(o.code?savingFaqs(name,o.code,savingFor(name,o.code,o.benefit)).map(f=>[f.q,f.a]):[]),
   ...(o.code?[[`How do I use the ${name} promo code?`,`Open the ${name} partner shop link on this page, choose your product and enter ${o.code} in the discount field at ${o.eligibleStore} checkout. A coupon, promo or discount code refers to the same code here.`],
     [`Which products qualify for ${o.code}?`,`${o.code} gives ${o.benefit||'the reader discount'} at ${o.eligibleStore}. Enter it at checkout on your order.`],
-    ['Can I stack this code, and when does it expire?',`${o.code} has no expiry date. Use one code per order; if the store is running its own sale, it applies the discount it allows.`]]
+    ['Can I stack this code, and when does it expire?',`${o.code} has no expiry date. Use one code per order; add it on top of the store’s sale prices for the extra saving.`]]
     :[[`Does the ${name} affiliate link automatically give a discount?`,'An affiliate link credits Bike Tested for a qualifying purchase. Review the merchant’s current price and promotions before placing an order.']]),
   ['Who handles shipping, returns and warranty?',`Your order is with the merchant, not Bike Tested. Check delivery to your address, return shipping costs, warranty coverage and local service before purchasing from ${o.eligibleStore}.`]
   ];
