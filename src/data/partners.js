@@ -1176,5 +1176,43 @@ export const partners = [
   "evidence": "Owner-supplied BikeTested partner sheet received November 1, 2026",
   "checkoutTestedOn": null,
   "description": "The supplied Hitway EU electric-bike storefront. Compare geometry, motor and battery configuration, and confirm delivery to your region for the selected model."
+},
+{
+  "slug": "engwe",
+  "name": "Engwe",
+  "url": "https://engwe.com/?ref=SEBASTIANBASSOLINO",
+  "code": "SEBASTIANBASSOL",
+  "benefit": "10% off",
+  "category": "electric-bikes",
+  "platform": "GoAffPro",
+  "reportedOn": "2026-11-10",
+  "status": "active",
+  "evidence": "Owner-supplied master deals sheet, November 10, 2026",
+  "checkoutTestedOn": null,
+  "description": "Electric bikes, including fat-tire and folding e-bikes. Compare motor, battery range and frame size for the exact model, and confirm delivery to your region.",
+  "discount": {
+    "type": "percent",
+    "value": 10.0,
+    "scope": "Owner-supplied reader benefit; store product eligibility and promotion-combination terms apply."
+  }
+},
+{
+  "slug": "onsra",
+  "name": "ONSRA",
+  "url": "https://www.onsra.com/?ref=sagwojwa",
+  "code": "SEBASTIANBASSOL",
+  "benefit": "4% off",
+  "category": "electric-bikes",
+  "platform": "GoAffPro",
+  "reportedOn": "2026-11-10",
+  "status": "active",
+  "evidence": "Owner-supplied master deals sheet, November 10, 2026",
+  "checkoutTestedOn": null,
+  "description": "Swiss-engineered e-bikes and electric skateboards with CNC-machined parts. Compare motor, battery and warranty terms for the exact model.",
+  "discount": {
+    "type": "percent",
+    "value": 4.0,
+    "scope": "Owner-supplied reader benefit; store product eligibility and promotion-combination terms apply."
+  }
 }
 ];
