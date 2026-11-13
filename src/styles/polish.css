@@ -1,0 +1,36 @@
+/* Design pass, November 13, 2026. A finishing layer loaded after global.css. Keeps the Bike Tested look (white page, ink, blue and
+   lime, DM Sans, square frames) and improves reading contrast, section rhythm, tables and offer boxes. */
+
+/* Reading: darker body copy, a comfortable measure, a hairline between sections. */
+.prose p { color: #26323a; line-height: 1.75; max-width: 68ch; }
+.prose ul, .prose ol { color: #26323a; font-size: 16.5px; }
+.prose > section + section { border-top: 1px solid var(--line); padding-top: 34px; margin-top: 36px; }
+.prose > section > h2:first-child { margin-top: 0; }
+.answer { border: 1px solid #dbe4e6; border-left: 3px solid var(--blue); }
+.card-body p, .guide-card p { color: #3d484e; }
+
+/* Tables: framed and banded. */
+.specs { border: 1px solid var(--line); }
+.specs th, .specs td { padding: 14px 18px; }
+.specs tr:nth-child(even) th, .specs tr:nth-child(even) td { background: var(--soft); }
+.specs tr:last-child th, .specs tr:last-child td { border-bottom: 0; }
+.offer-facts { border: 1px solid var(--line); }
+.offer-facts > div { padding-left: 18px; padding-right: 18px; }
+.offer-facts > div:nth-child(even) { background: var(--soft); }
+.offer-facts > div:last-child { border-bottom: 0; }
+.pros-cons { border: 1px solid var(--line); padding: 24px 26px; }
+
+/* Offer boxes: a clear surface, the accent edge, a lift. */
+.buybox { background: #fff; border: 1px solid var(--line); border-top: 3px solid var(--blue); box-shadow: 0 26px 46px -36px rgb(16 27 32 / 0.5); }
+.partner-offer { border-top: 4px solid var(--lime); box-shadow: 0 30px 50px -36px rgb(16 27 32 / 0.7); }
+.buybox small { font-size: 12.5px; }
+main .promo-head .pm-box { border-radius: 0; border: 1px solid var(--line); border-top: 3px solid var(--blue); background: #fff; padding: 20px 22px; max-width: 620px; box-shadow: 0 26px 46px -36px rgb(16 27 32 / 0.5); }
+main .promo-head .pm-table th, main .promo-head .pm-table td { padding: 8px 6px; }
+
+@media (max-width: 760px) {
+  .prose p { font-size: 16.5px; line-height: 1.72; }
+  .specs th, .specs td { padding: 12px; font-size: 14.5px; }
+  .pros-cons { padding: 20px; }
+}
+/* Text inside the dark offer panel keeps its light colour. */
+.prose .partner-offer p { color: #d1d9da; max-width: none; }
