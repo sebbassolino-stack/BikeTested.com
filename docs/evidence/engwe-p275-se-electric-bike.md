@@ -22,7 +22,7 @@ The official product page lists a 250 W motor, 55 Nm torque, torque sensor, remo
 
 Official image: https://cdn.shopify.com/s/files/1/0683/8560/3641/files/P275SE03_220573d7-23f8-489d-ad7d-898d68acb251.jpg?v=1794548754
 
-Retrieved from ENGWE’s official product gallery on November 14, 2026. The Grey variant image was cropped to remove blank white margins, resized to 1200 × 1200 and converted to lossless WebP with Sharp. Product color, details and white background were preserved; no generated edits or retouching were made.
+Retrieved from ENGWE’s official product gallery on November 14, 2026. The official Grey image was edited with image_gen to remove only the white background, preserving the bicycle, color, branding and components. Sharp converted the transparent cutout to a 1200 × 1200 lossless WebP. The full silhouette and alpha edges were inspected before publication.
 
 ## Editorial basis
 
