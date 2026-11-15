@@ -1658,12 +1658,15 @@
       "brand": "GhostCat Bikes",
       "brandSlug": "ghostcat-bikes",
       "category": "electric-bikes",
-      "status": "research-needed",
+      "status": "review-published-live-routes-verified",
       "priority": 2,
       "affiliateUrl": "https://ghostcatbikes.com/?rfsn=9394330.71f07f8",
       "code": "RIDE",
       "reportedBenefit": null,
-      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+      "nextStep": "Review published in commit 67548ae. Cloudflare Pages check 132901035735 succeeded for deployment 39732883-793b-49a7-a0dc-0291fff19f3c. Production review, code page, brand page, seasonal pages, guide, category, index and image returned HTTP 200. The exact Blackout variant is listed at $2,349 USD; code RIDE has no supplied savings amount. Range claims conflict and product-page/feed stock signals differ. The transparent product image hash matched live. IndexNow returned HTTP 200 for 10 affected URLs.",
+      "product": "GhostCat F3X Class 2 (Blackout variant 45212144861254, SKU BKGC20056BLK)",
+      "officialSource": "https://ghostcatbikes.com/products/f3x-class-2?variant=45212144861254",
+      "reviewUrl": "/reviews/ghostcat-f3x-class-2"
     }
   ]
 }
