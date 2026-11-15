@@ -30,11 +30,11 @@ export const guides = [
       ]
     ],
     "publishedOn": "2026-10-19",
-    "updatedOn": "2026-10-24",
+    "updatedOn": "2026-11-15",
     "topics": [
       "electric-bikes"
     ],
-    "products": ["mooncool-tk2-folding-electric-trike", "mooncool-ft1-fat-tire-electric-trike", "mooncool-pop-folding-electric-bike", "mooncool-tk-pro-electric-trike", "finbike-eb8-electric-bike", "hiknight-h2-pro-off-road-ebike", "ancheer-hummer-electric-bike", "burchda-u8-step-thru-electric-bike", "eunorau-meta275-2-electric-bike", "actbest-cozy-wide-tire-step-through-electric-bike", "lankeleisi-mg740plus-dual-motor-electric-bike", "gebike-g01-compact-folding-electric-bike", "hiboy-ex11-full-suspension-electric-bike", "young-electric-e-scout-pro-electric-bike", "eunorau-urus-2-electric-mountain-bike", "gebike-gt20-fat-tire-electric-bike", "gebike-g02-hybrid-electric-bike", "ancheer-streetrider-electric-bike", "actbest-summit-plus-full-suspension-fat-tire-electric-bike", "happyrun-g100-pro-6000w-electric-bike", "lankeleisi-x3000-max-dual-motor-electric-bike", "eunorau-new-trike-2-electric-trike", "touroll-urbano-3-mid-drive-electric-bike"],
+    "products": ["mooncool-tk2-folding-electric-trike", "mooncool-ft1-fat-tire-electric-trike", "mooncool-pop-folding-electric-bike", "mooncool-tk-pro-electric-trike", "finbike-eb8-electric-bike", "hiknight-h2-pro-off-road-ebike", "ancheer-hummer-electric-bike", "burchda-u8-step-thru-electric-bike", "eunorau-meta275-2-electric-bike", "actbest-cozy-wide-tire-step-through-electric-bike", "lankeleisi-mg740plus-dual-motor-electric-bike", "gebike-g01-compact-folding-electric-bike", "hiboy-ex11-full-suspension-electric-bike", "young-electric-e-scout-pro-electric-bike", "eunorau-urus-2-electric-mountain-bike", "gebike-gt20-fat-tire-electric-bike", "gebike-g02-hybrid-electric-bike", "ancheer-streetrider-electric-bike", "actbest-summit-plus-full-suspension-fat-tire-electric-bike", "happyrun-g100-pro-6000w-electric-bike", "lankeleisi-x3000-max-dual-motor-electric-bike", "eunorau-new-trike-2-electric-trike", "touroll-urbano-3-mid-drive-electric-bike", "ghostcat-f3x-class-2"],
     "related": [
       "torque-sensor-vs-cadence-sensor",
       "mid-drive-vs-hub-motor",

@@ -51,7 +51,7 @@ const schema = [
       <ul class="code-cards">
         {coded.map((offer) => <li>
           <a href={offer.path}>{offer.brand}</a>
-          <p>{statedBenefit(offer.benefit) || 'Shown at checkout'}</p>
+          <p>{statedBenefit(offer.benefit) || 'No amount listed'}</p>
           <p class="code">{offer.code}</p>
           <button type="button" data-holiday-code={offer.code} data-placement="holiday-code-card">Copy</button>
           <a href={offer.url} rel="sponsored noopener" target="_blank" data-commerce-shop data-brand={offer.brand}>Shop {storeLabel(offer.url, offer.brand)}</a>
