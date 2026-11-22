@@ -38,7 +38,8 @@ export const guides = [
     "related": [
       "torque-sensor-vs-cadence-sensor",
       "mid-drive-vs-hub-motor",
-      "ebike-range-explained"
+      "ebike-range-explained",
+      "best-commuter-electric-bikes"
     ]
   },
   {
@@ -1828,6 +1829,76 @@ export const guides = [
       "gyroor-cargo-net-for-electric-scooter",
       "gyroor-360-rotation-cup-holder-for-e-bike-scooter",
       "gyroor-led-light-strips-for-scooter-green"
+    ]
+  },
+  {
+    "slug": "best-commuter-electric-bikes",
+    "title": "Best Commuter E-Bikes of 2026",
+    "description": "Compare four BikeTested e-bike reviews by riding position, commute style, and maker-listed price.",
+    "image": "/images/lifestyle.webp",
+    "category": "Buying guide",
+    "answer": "Choose a commuter e-bike around your usual route, the riding position that fits you, and where you will store it. This BikeTested shortlist includes an upright cruiser, a low-profile city bike, a commuter with front suspension, and a folding low-step model.",
+    "sections": [
+      {
+        "heading": "Compare four reviewed commuter bikes",
+        "paragraphs": [
+          "These picks come from BikeTested reviews in the electric-bikes category. Prices are the maker-listed U.S. amounts checked on November 22, 2026."
+        ],
+        "table": {
+          "caption": "Four commuter e-bikes reviewed by BikeTested",
+          "headers": ["Reviewed model", "Best fit in our review", "Maker-listed price"],
+          "rows": [
+            ["Aventon Pace 5 REC", "Relaxed, upright everyday rides", "$1,599"],
+            ["Ride1Up Roadster V3", "A pared-back city commute", "$1,295"],
+            ["Lectric XPress2 Commuter", "A daily commute with front suspension", "$1,399"],
+            ["Hiboy EX6F Low-Step Foldable", "A folding bike for commuting", "$949.99"]
+          ]
+        }
+      },
+      {
+        "heading": "Choose the riding position first",
+        "paragraphs": [
+          "The Pace 5 REC review focuses on an upright cruiser setup. BikeTested describes the Roadster V3 as a conventional-looking city commuter, while the Lectric XPress2 review highlights its front suspension and adjustable assistance settings. The Hiboy EX6F review covers a low-step folding model. Start with the shape and fit you can manage on your daily route, then compare equipment."
+        ]
+      },
+      {
+        "heading": "Compare the exact model and configuration",
+        "paragraphs": [
+          "The manufacturer pages list different equipment across this group. Aventon lists a 733Wh removable battery for the Pace 5 REC; Ride1Up lists a 360Wh removable battery for the Roadster V3; Lectric lists a 672Wh removable battery for the XPress2 Commuter; and Hiboy lists a 48V 14.5Ah battery for the EX6F. Use each model's own review and maker page when comparing range, dimensions, frame choices, and charging."
+        ]
+      },
+      {
+        "heading": "Plan for carrying and storage",
+        "paragraphs": [
+          "Measure the space where the bike will live and include any stairs, doorways, elevators, or vehicle racks on the route. A folding frame may help with storage, but check the complete bike's listed weight and folded dimensions before relying on that advantage. Our first e-bike guide covers the wider fit and ownership decision."
+        ]
+      }
+    ],
+    "publishedOn": "2026-11-22",
+    "updatedOn": "2026-11-22",
+    "topics": ["electric-bikes"],
+    "related": [
+      "choose-your-first-ebike",
+      "folding-vs-full-size-ebike",
+      "commuter-gear-checklist"
+    ],
+    "products": [
+      "aventon-pace-5-rec",
+      "ride1up-roadster-v3",
+      "lectric-xpress2",
+      "hiboy-ex6f-foldable-electric-bike"
+    ],
+    "sources": [
+      {"name": "Aventon Pace 5 REC product page", "url": "https://www.aventon.com/products/pace-5-rec-step-through-ebike"},
+      {"name": "Ride1Up Roadster V3 product page", "url": "https://ride1up.com/product/roadster-v3/"},
+      {"name": "Lectric XPress2 Commuter product page", "url": "https://lectricebikes.com/products/xpress-750-high-step-black-ebike"},
+      {"name": "Hiboy EX6F product page", "url": "https://www.hiboy.com/products/hiboy-ex6f-foldable-low-step-electric-bike?variant=46519631053049"}
+    ],
+    "faq": [
+      ["Which commuter e-bike should I compare first?", "Start with the riding position and storage plan that match your route. The Pace 5 REC is the upright cruiser in this shortlist; the Roadster V3 is the more conventional city setup; the XPress2 review highlights front suspension; and the EX6F folds for compact storage."],
+      ["Are the prices current?", "The table records the U.S. maker-listed prices checked on November 22, 2026. Each manufacturer's listing can change its model price or configuration."],
+      ["Should I choose by advertised range?", "Use range as one comparison point. The reviewed models have different batteries, configurations, and manufacturer range conditions, so compare the exact model specification and the route you expect to ride."],
+      ["Do e-bike classes work the same everywhere?", "Local definitions and access rules vary. Check the exact bike's class and speed settings against the rules for the roads and paths you plan to use."]
     ]
   }
 ];
