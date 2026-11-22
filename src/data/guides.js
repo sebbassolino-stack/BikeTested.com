@@ -1001,7 +1001,8 @@ export const guides = [
     "related": [
       "presta-vs-schrader",
       "fat-tire-vs-regular-tire-ebikes",
-      "plan-your-bike-upgrades"
+      "plan-your-bike-upgrades",
+      "best-cycplus-bike-pumps-2026"
     ],
     "products": [
       "cycplus-as2-pro-max-tiny-e-pump",
@@ -1899,6 +1900,65 @@ export const guides = [
       ["Are the prices current?", "The table records the U.S. maker-listed prices checked on November 22, 2026. Each manufacturer's listing can change its model price or configuration."],
       ["Should I choose by advertised range?", "Use range as one comparison point. The reviewed models have different batteries, configurations, and manufacturer range conditions, so compare the exact model specification and the route you expect to ride."],
       ["Do e-bike classes work the same everywhere?", "Local definitions and access rules vary. Check the exact bike's class and speed settings against the rules for the roads and paths you plan to use."]
+    ]
+  },
+  {
+    "slug": "best-cycplus-bike-pumps-2026",
+    "title": "Best CYCPLUS Bike Pumps of 2026",
+    "description": "Compare four BikeTested CYCPLUS pump reviews by carry weight, pressure ceiling, controls, and dated U.S. listing price.",
+    "image": "/images/products/cycplus-as2-ultra-tiny-e-pump.webp",
+    "category": "Buying guide",
+    "answer": "Choose around how you carry and use the pump. The AS2 Ultra is the lightest reviewed option at a maker-listed 87 g; the AS2 Pro Max has a larger 205 g body and manufacturer-listed fill references; the A8 is a fuller-featured 461 g pump with a 150 PSI ceiling; and the A4 Mini has an integrated rotating hose. Prices below are dated U.S. variant listings checked October 22 or 24, 2026.",
+    "sections": [
+      {
+        "heading": "Compare four reviewed CYCPLUS pumps",
+        "paragraphs": ["These picks are based on the BikeTested reviews and the manufacturer details cited there. Price rows are dated selected-variant listings, not current-price promises."],
+        "table": {
+          "caption": "Four BikeTested CYCPLUS bike pumps and dated U.S. listing prices",
+          "headers": ["Reviewed model", "Best fit in the review", "Listed price and date"],
+          "rows": [
+            ["CYCPLUS AS2 Ultra", "Light pocket carry; 87 g and a 120 PSI ceiling", "$94.99 · October 24, 2026"],
+            ["CYCPLUS AS2 Pro Max", "Roadside use with an integrated display and 205 g body", "$89.99 · October 22, 2026"],
+            ["CYCPLUS A8", "A fuller-featured kit pump; 461 g and up to 150 PSI", "$39.99 · October 24, 2026"],
+            ["CYCPLUS A4 Mini", "Compact carry with a built-in 180° rotating hose", "$59.99 · October 24, 2026"]
+          ]
+        }
+      },
+      {
+        "heading": "Choose by where it will ride",
+        "paragraphs": ["The AS2 Ultra is the lightest of these reviewed pumps and has the smallest listed body. The AS2 Pro Max is larger but its review records more manufacturer-referenced high-pressure fills on a full charge. The A8 weighs more than either pocket model and is better suited to a pannier, backpack, or home shelf. The A4 Mini keeps its hose attached to the pump, which changes what you need to pack separately."]
+      },
+      {
+        "heading": "Read the pressure and battery details together",
+        "paragraphs": ["The A8 review lists a 150 PSI ceiling and four preset modes. The AS2 Ultra, AS2 Pro Max, and A4 Mini reviews list 120 PSI ceilings. A maximum-pressure label is not a target for every tire. Follow the tire and rim limits, and check the manual for hose, valve, charging, and full-charge reference details."]
+      },
+      {
+        "heading": "Compare the two closest pairs",
+        "paragraphs": ["BikeTested compares the AS2 Pro Max with the AS2 Ultra and the A8 with the A4 Mini. Read those model comparisons for the differences in carry weight, battery, hose design, and intended kit size."]
+      }
+    ],
+    "publishedOn": "2026-11-21",
+    "updatedOn": "2026-11-21",
+    "topics": ["gear-and-tech", "cycling-technology"],
+    "related": ["commuter-gear-checklist", "presta-vs-schrader", "bike-tire-pressure"],
+    "products": ["cycplus-as2-ultra-tiny-e-pump", "cycplus-as2-pro-max-tiny-e-pump", "cycplus-a8-electric-air-pump", "cycplus-a4-mini-electric-air-pump"],
+    "productsIntro": "Open each review for the exact model specifications, pressure guidance, and manufacturer sources.",
+    "comparisonLinks": [
+      {"slug": "cycplus-as2-pro-max-vs-as2-ultra", "title": "CYCPLUS AS2 Pro Max vs AS2 Ultra"},
+      {"slug": "cycplus-a8-vs-a4-mini", "title": "CYCPLUS A8 vs A4 Mini: Which Pump?"}
+    ],
+    "sources": [
+      {"name": "CYCPLUS AS2 Ultra product listing", "url": "https://www.cycplus.com/products/as2ultra?variant=45372870623390"},
+      {"name": "CYCPLUS AS2 Pro Max product listing", "url": "https://www.cycplus.com/products/tiny-pump-as2-pro-max"},
+      {"name": "CYCPLUS A8 product listing", "url": "https://www.cycplus.com/products/cycplus-a8-electric-air-pump?variant=39714726215838"},
+      {"name": "CYCPLUS A4 Mini product listing", "url": "https://www.cycplus.com/products/a4-mini-electric-tire-pump?variant=67561506898078"}
+    ],
+    "sourceNote": "Selected U.S. variant listings checked October 22 or 24, 2026. Manufacturer specifications and fill references are quoted in the individual BikeTested reviews; they are not BikeTested measurements.",
+    "faq": [
+      ["Which reviewed CYCPLUS pump is lightest?", "The AS2 Ultra review lists 87 g. The AS2 Pro Max is listed at 205 g and the A8 at 461 g; the A4 Mini is listed at 0.46 lb."],
+      ["Which pump has the highest listed pressure ceiling?", "The A8 review lists up to 150 PSI. The AS2 Ultra, AS2 Pro Max, and A4 Mini list ceilings of 120 PSI. Use the pressure limit for your exact tire and rim."],
+      ["Are the prices current?", "No. The table records selected U.S. variant listings checked October 22 or 24, 2026. The maker can change the listing, price, and package."],
+      ["Do the listed fill counts guarantee a result?", "No. The AS2 Ultra and AS2 Pro Max manuals call their full-charge inflation figures experimental reference data. Actual results can vary with tire, starting pressure, charge, and conditions."]
     ]
   }
 ];
