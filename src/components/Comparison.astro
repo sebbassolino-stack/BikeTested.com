@@ -1,5 +1,80 @@
 ---
-import {products,brandFor} from '../data/catalog';
-const {a,b}=Astro.props;const keys=[...new Set([...Object.keys(a.specs),...Object.keys(b.specs)])];
+import Faq from './Faq.astro';
+
+const { a, b, c } = Astro.props;
+const keys = [...new Set([...Object.keys(a.specs), ...Object.keys(b.specs)])];
+const useCase = (product) => product.use === 'weekend'
+  ? 'for a relaxed, upright ride'
+  : product.use === 'commute'
+    ? 'for a commuter-focused setup with suspension'
+    : 'for a simpler city setup';
+const answer = c?.answer || `Choose the ${a.model} ${useCase(a)}. The ${b.model} is the alternative when its riding position and equipment better match your route. Start with fit and storage, then compare the specifications below.`;
+const categoryPath = `/category/${a.category}`;
 ---
-<div class="answer"><span class="kicker">The quick answer</span><p>Choose the {a.model} {a.use==='weekend'?'for a relaxed, upright ride':a.use==='commute'?'for a commuter-focused setup with suspension':'for a simpler city setup'}. The {b.model} is the alternative {b.use==='city'?'for a pared-back urban routine':'when its riding position and equipment better match your route'}. Start with fit and storage, then compare the specifications below.</p></div><div class="compare-scroll"><table class="compare-table"><caption class="hidden">Bike specifications and rider fit comparison</caption><thead><tr><th scope="col">The shortlist</th>{[a,b].map(p=><th scope="col"><a class="product-image" href={`/reviews/${p.slug}`}><img src={p.image} width="600" height="400" alt={p.name}/></a><h2>{p.name}</h2><p>{p.label}</p><a class="text-link" href={`/reviews/${p.slug}`}>Full review →</a></th>)}</tr></thead><tbody>{keys.map(k=><tr><th scope="row">{k}</th>{[a,b].map(p=><td>{p.specs[k]||'Not listed here'}</td>)}</tr>)}<tr><th scope="row">Consider</th>{[a,b].map(p=><td>{p.tradeoffs[0]}</td>)}</tr><tr><th scope="row">Next step</th>{[a,b].map(p=><td><a class="text-link" href={p.source} target="_blank" rel="noopener">See {brandFor(p).name} ↗</a></td>)}</tr></tbody></table></div><p class="disclosure">Manufacturer specifications checked October 19, 2026. Range figures are manufacturer claims, not comparable independent range tests. Check the selected configuration before ordering.</p>
+
+<div class="answer">
+  <span class="kicker">The quick answer</span>
+  <p>{answer}</p>
+</div>
+
+<div class="compare-scroll">
+  <table class="compare-table">
+    <caption class="hidden">Bike specifications and rider fit comparison</caption>
+    <thead>
+      <tr>
+        <th scope="col">The shortlist</th>
+        {[a, b].map((product) => (
+          <th scope="col">
+            <a class="product-image" href={`/reviews/${product.slug}`}>
+              <img src={product.image} width="600" height="400" alt={product.name} />
+            </a>
+            <h2>{product.name}</h2>
+            <p>{product.label}</p>
+            <a class="text-link" href={`/reviews/${product.slug}`}>Full review →</a>
+          </th>
+        ))}
+      </tr>
+    </thead>
+    <tbody>
+      {c?.tableRows?.length
+        ? c.tableRows.map(([label, left, right]) => (
+            <tr>
+              <th scope="row">{label}</th>
+              <td>{left}</td>
+              <td>{right}</td>
+            </tr>
+          ))
+        : keys.map((key) => (
+            <tr>
+              <th scope="row">{key}</th>
+              {[a, b].map((product) => <td>{product.specs[key] || 'Not listed here'}</td>)}
+            </tr>
+          ))}
+      {!c?.tableRows?.length && (
+        <tr>
+          <th scope="row">Consider</th>
+          {[a, b].map((product) => <td>{product.tradeoffs[0]}</td>)}
+        </tr>
+      )}
+    </tbody>
+  </table>
+</div>
+
+{c?.sections?.map(([heading, body]) => (
+  <section class="section">
+    <h2>{heading}</h2>
+    <p>{body}</p>
+  </section>
+))}
+
+{c?.faqs?.length > 0 && <Faq items={c.faqs} />}
+
+<section class="section">
+  <h2>Keep exploring.</h2>
+  <ul>
+    <li><a class="text-link" href={`/reviews/${a.slug}`}>{a.name}: full review →</a></li>
+    <li><a class="text-link" href={`/reviews/${b.slug}`}>{b.name}: full review →</a></li>
+    <li><a class="text-link" href={categoryPath}>Explore related bikes and gear →</a></li>
+  </ul>
+  <p class="disclosure">This comparison summarizes the Bike Tested reviews linked above and the manufacturer information they cite. Manufacturer range and performance figures are not Bike Tested measurements.</p>
+</section>

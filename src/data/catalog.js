@@ -8972,7 +8972,186 @@ export const offers=partners.map(p=>{
   const checkedDates=[...testedProducts.map(t=>t.checkoutObservation.checkedOn),...codeCheckedProducts.map(t=>t.codeCheckObservation.checkedOn)].sort();
   return {...p,benefit:p.benefit??(discount?discountLabel(discount):null),discount,brand:p.slug,eligibleStore:new URL(p.url).hostname,terms,checkoutTestedOn:checkedDates.at(-1)||p.checkoutTestedOn||null,checkoutTestProduct,checkoutTestProducts,codeCheckProduct,codeCheckProducts};
 });
-export const comparisons=[{slug:'aventon-pace-5-rec-vs-ride1up-roadster-v3',a:products[0].slug,b:products[1].slug,title:'Pace 5 REC vs Roadster V3',description:'Relaxed cruiser or pared-back city bike? Start with how you want to ride.'},{slug:'lectric-xpress2-vs-ride1up-roadster-v3',a:products[2].slug,b:products[1].slug,title:'XPress2 vs Roadster V3',description:'A suspension-equipped commuter or a simpler urban setup: where each makes sense.'}];
+export const comparisons=[
+ {slug:'aventon-pace-5-rec-vs-ride1up-roadster-v3',a:products[0].slug,b:products[1].slug,title:'Pace 5 REC vs Roadster V3',description:'Relaxed cruiser or pared-back city bike? Start with how you want to ride.'},
+ {slug:'lectric-xpress2-vs-ride1up-roadster-v3',a:products[2].slug,b:products[1].slug,title:'XPress2 vs Roadster V3',description:'A suspension-equipped commuter or a simpler urban setup: where each makes sense.'},
+ {
+  slug:'mooncool-tk2-vs-tk2-pro',publishedOn:'2026-11-22',updatedOn:'2026-11-22',a:'mooncool-tk2-folding-electric-trike',b:'mooncool-tk2-pro-electric-trike',
+  title:'Mooncool TK2 vs TK2 Pro: Which Trike Fits?',
+  description:'Compare the Mooncool TK2 and TK2 Pro by battery, drive, range claims, and the storage space each heavy folding trike needs.',
+  answer:'Choose the TK2 for a 48V 15Ah removable battery, cadence sensing and a listed 500W nominal motor. Choose the TK2 Pro for its 48V 20Ah battery, torque sensing and 750W rated motor. Both have 20 × 3-inch tires, front and rear baskets, and a listed 450 lb maximum load; both are heavy, 29-inch-wide trikes that need roll-in storage.',
+  tableRows:[
+   ['Motor and sensor','500W nominal, 1,092W peak, 65Nm; cadence sensor','750W rated, 1,310W peak, 90 N·m; torque and cadence sensors'],
+   ['Battery','48V 15Ah, removable','48V 20Ah'],
+   ['Tires and cargo','20 × 3-inch tires; front and rear baskets','20 × 3-inch tires; front and rear baskets'],
+   ['Listed weight and width','41kg in specifications; 66 inches long × 29 inches wide assembled','45kg; 66 inches long × 29 inches wide assembled'],
+   ['Range listing','35-75 miles in highlights; up to 75 miles in specifications','45-75 miles in description; highlights and specifications say up to 100 miles, with no shared test conditions']
+  ],
+  sections:[
+   ['The Pro adds battery capacity and torque sensing','The TK2 Pro has the larger listed battery, a higher rated motor output and a torque sensor alongside cadence sensing. The TK2 pairs a 48V 15Ah removable battery with a cadence sensor. Both records list five pedal-assist levels, a half-twist throttle, hydraulic disc brakes and a differential.'],
+   ['Plan storage before comparing the range claims','Both trikes are about 29 inches wide assembled and weigh around 90 lb or more. The folding frames do not make either model convenient to carry. Mooncool publishes different range figures across page sections for both models, without matching test conditions, so use neither range number as a direct performance comparison.']
+  ],
+  faqs:[
+   ['Which TK2 model has the larger battery?','The TK2 Pro lists a 48V 20Ah battery. The TK2 lists a removable 48V 15Ah battery.'],
+   ['Can I carry either trike up stairs?','Both are heavy, wide three-wheelers. The reviews list about 41kg for the TK2 and 45kg for the TK2 Pro, with each assembled model 29 inches wide. Plan for roll-in access rather than routine lifting.'],
+   ['Are the advertised ranges directly comparable?','No. Mooncool gives different range figures in different sections of both product pages, and the listings do not supply shared test conditions. The published figures are maker estimates, not Bike Tested range measurements.']
+  ]
+ },
+ {
+  slug:'mooncool-tk2-vs-gyroor-c5',publishedOn:'2026-11-22',updatedOn:'2026-11-22',a:'mooncool-tk2-folding-electric-trike',b:'gyroor-c5-electric-trike',
+  title:'Mooncool TK2 vs Gyroor C5 Electric Trike',
+  description:'Compare two seated electric trikes by battery access, brakes, basket capacity, listed load, and storage requirements.',
+  answer:'Choose the Mooncool TK2 if a removable battery, front and rear baskets and its listed 450 lb maximum load fit your errands. The Gyroor C5 lists a 650W nominal motor, reverse and rear suspension, but its battery is not removable and its 300 lb maximum includes rider and cargo. Both are large trikes better suited to roll-in storage than frequent lifting.',
+  tableRows:[
+   ['Motor','500W nominal, 1,092W peak','650W nominal, 1,000W peak'],
+   ['Battery','48V 15Ah, removable','48V 13.5Ah; not removable'],
+   ['Brakes','Front and rear hydraulic discs','Front disc and rear drum'],
+   ['Cargo and maximum load','Front and rear baskets; 450 lb maximum payload','Two baskets; 300 lb maximum combined rider and cargo'],
+   ['Listed weight','41kg in specifications; about 29 inches wide assembled','84 lb; 53.46 × 26.45 × 43.30 inches unfolded']
+  ],
+  sections:[
+   ['Battery access and cargo capacity separate the choices','The TK2 battery is removable for charging, while the C5 listing says its battery is not removable. The TK2 lists a 450 lb maximum payload. Gyroor lists a 300 lb maximum combined load for rider and cargo, so include groceries or other carried items in that limit.'],
+   ['Check the full parking route','Both reviews describe substantial trikes. The C5 weighs 84 lb and measures 53.46 × 26.45 × 43.30 inches unfolded; the TK2 is listed at 41kg and 29 inches wide when assembled. Folding does not remove the need to measure doorways, turns and storage access.']
+  ],
+  faqs:[
+   ['Which trike has a removable battery?','The Mooncool TK2 review lists a removable 48V 15Ah battery. The Gyroor C5 review says its 48V 13.5Ah battery is not removable.'],
+   ['Which has the higher listed load limit?','The TK2 lists a 450 lb maximum payload. Gyroor lists 300 lb combined for the C5 rider and cargo. Follow each maker’s load guidance for the exact configuration.'],
+   ['Do the listed range figures prove which trike goes farther?','No. Mooncool shows different range figures in different page sections, while Gyroor’s about-30-mile figure is a maker estimate under favorable conditions. The reviews do not establish a shared test, so these numbers are not a direct range test.']
+  ]
+ },
+ {
+  slug:'cycplus-as2-pro-max-vs-as2-ultra',publishedOn:'2026-11-22',updatedOn:'2026-11-22',a:'cycplus-as2-pro-max-tiny-e-pump',b:'cycplus-as2-ultra-tiny-e-pump',
+  title:'CYCPLUS AS2 Pro Max vs AS2 Ultra',
+  description:'Compare CYCPLUS pocket inflators by weight, battery, pressure controls, and the maker’s full-charge inflation references.',
+  answer:'Choose the AS2 Ultra when minimizing carry weight is the priority: CYCPLUS lists it at 87g, compared with 205g for the AS2 Pro Max. Choose the Pro Max if its larger 600mAh battery and the maker’s four-fill 700 × 25 reference matter more. Both list a 120 PSI maximum, a pressure display and automatic shutoff; use the included hose above 100 PSI.',
+  tableRows:[
+   ['Maximum pressure','120 PSI, manufacturer-listed','120 PSI, manufacturer-listed'],
+   ['Listed weight and size','205g; 81 × 60 × 32mm','87g; 65 × 47.5 × 28mm'],
+   ['Battery','600mAh, 11.1V, 6.66Wh','400mAh, 7.4V, 2.96Wh'],
+   ['Pressure control','Live display, adjustable target and automatic shutoff','LED screen, adjustable target and automatic shutoff'],
+   ['Maker 700 × 25 reference','Four 0-120 PSI fills, 75-85 seconds each','One 0-120 PSI fill, 120-140 seconds']
+  ],
+  sections:[
+   ['The Ultra saves carry weight; the Pro Max lists more battery','CYCPLUS lists the AS2 Ultra at 87g and the AS2 Pro Max at 205g. The Pro Max has a 600mAh battery versus 400mAh for the Ultra, and its manual lists more 700 × 25 fills per full charge. Those are manufacturer experimental references, not Bike Tested inflation tests.'],
+   ['Use the hose for high-pressure inflation','Both product reviews say to use the supplied hose above 100 PSI. CYCPLUS also calls out heat at resin valves and advises cooling breaks after sustained use. Neither review records an ingress-protection rating for the pump itself.']
+  ],
+  faqs:[
+   ['Which CYCPLUS pump is lighter?','The AS2 Ultra is listed at 87g. The AS2 Pro Max is listed at 205g.'],
+   ['How many road tires can each inflate on one charge?','CYCPLUS’s manual reference for the Pro Max lists four 700 × 25 fills from 0 to 120 PSI; the Ultra manual lists one. CYCPLUS labels these experimental reference data, not a Bike Tested measurement.'],
+   ['Do I need the hose with either pump?','The product reviews say to use the included hose above 100 PSI. The Ultra review also notes that CYCPLUS calls for the hose with resin valves to reduce overheating risk.']
+  ]
+ },
+ {
+  slug:'cycplus-a8-vs-a4-mini',publishedOn:'2026-11-22',updatedOn:'2026-11-22',a:'cycplus-a8-electric-air-pump',b:'cycplus-a4-mini-electric-air-pump',
+  title:'CYCPLUS A8 vs A4 Mini: Which Pump?',
+  description:'Compare CYCPLUS’s larger A8 compressor with the lighter A4 Mini by pressure ceiling, hose, battery and carry weight.',
+  answer:'Choose the A4 Mini when a lighter ride-kit pump and built-in rotating hose matter most. Choose the A8 for a higher listed 150 PSI ceiling, four preset modes and two 2,600mAh cells, with a 461g carry weight. The A4 Mini lists 120 PSI and 0.46 lb; its advertised 19-fill count does not include starting pressure or test conditions.',
+  tableRows:[
+   ['Maximum pressure','Up to 150 PSI, manufacturer-listed','120 PSI, manufacturer-listed'],
+   ['Listed weight','461g','0.46 lb'],
+   ['Battery','Two 2,600mAh 18650 cells','2,000mAh'],
+   ['Hose','Air hose included','Integrated hose rotates 180 degrees'],
+   ['Pressure controls','Live display, four presets and automatic shutoff','Digital display and automatic shutoff']
+  ],
+  sections:[
+   ['The A8 suits a larger kit; the A4 Mini is lighter to carry','The A8 review describes a 461g pump suited to a home, pannier, backpack or vehicle kit. The A4 Mini is listed at 0.46 lb and has an integrated rotating hose. Both provide a digital pressure display and automatic shutoff.'],
+   ['Treat the pressure and tire-count figures carefully','A pump’s maximum PSI is not a target for every tire. Use the tire and rim makers’ pressure guidance. CYCPLUS advertises up to 19 A4 Mini fills of a 700 × 25c tire but does not publish starting pressure or test conditions; the A8 review records no tire-by-tire inflation count.']
+  ],
+  faqs:[
+   ['Which pump is lighter to carry?','The A4 Mini is listed at 0.46 lb, while the A8 is listed at 461g. The A4 Mini is the lighter format in the two reviews.'],
+   ['Which has the higher listed pressure ceiling?','CYCPLUS lists up to 150 PSI for the A8 and 120 PSI for the A4 Mini. Those are pump ceilings, not recommended tire pressures.'],
+   ['Does the A4 Mini really inflate 19 tires per charge?','CYCPLUS advertises up to 19 fills of a 700 × 25c tire, but its product information does not state the starting pressure or test conditions. The review treats that as an unverified maker claim, not a guaranteed ride result.']
+  ]
+ },
+ {
+  slug:'cycplus-t2-vs-r200-smart-trainers',publishedOn:'2026-11-22',updatedOn:'2026-11-22',a:'cycplus-t2-bldc-direct-drive-smart-trainer',b:'cycplus-r200-smart-trainer',
+  title:'CYCPLUS T2 vs R200 Smart Trainers',
+  description:'Compare CYCPLUS direct-drive trainers by gradient, torque, weight, cassette setup and self-powered operation.',
+  answer:'Choose the T2 if its listed 20% gradient, 85 N·m torque and pre-installed 11-speed cassette fit your setup. Choose the R200 if its 13.6kg listed weight and self-powered ordinary sessions matter more; it lists 19% gradient and 80 N·m torque. Both list up to 2,200W and within-1% power accuracy, which are manufacturer specifications rather than Bike Tested measurements.',
+  tableRows:[
+   ['Trainer design','Beltless BLDC direct-drive','Direct-drive magnetic resistance'],
+   ['Maximum listed power','2,200W','2,200W'],
+   ['Gradient and torque','Up to 20%; 85 N·m','Up to 19%; 80 N·m'],
+   ['Weight','17.3kg with cassette','13.6kg'],
+   ['Cassette setup','11-speed 11-28T cassette pre-installed','HG freehub; cassette choice and included parts depend on package']
+  ],
+  sections:[
+   ['The T2 lists slightly higher grade and torque figures','CYCPLUS lists the T2 at up to 20% gradient and 85 N·m, compared with 19% and 80 N·m for the R200. Both list up to 2,200W and power accuracy within 1%. These are maker specifications, not Bike Tested power measurements.'],
+   ['Check the drivetrain and power setup','The T2 review lists an 11-speed 11-28T cassette pre-installed and Shimano 8-12 speed and SRAM 8-11 speed compatibility. The R200 review covers an HG freehub configuration and notes that an SRAM 12-speed XDR hub is sold separately. The R200 is listed at 13.6kg; the T2 is 17.3kg with its cassette.']
+  ],
+  faqs:[
+   ['Which trainer is lighter?','The R200 is listed at 13.6kg. The T2 is listed at 17.3kg with its cassette.'],
+   ['Which trainer lists the steeper gradient?','The T2 is listed for up to 20% gradient simulation; the R200 lists up to 19%. These are manufacturer specifications.'],
+   ['Will my cassette fit both trainers?','Check the exact drivetrain and freehub. The T2 listing includes an 11-speed 11-28T cassette and names Shimano 8-12 speed and SRAM 8-11 speed compatibility. The reviewed R200 configuration is an HG freehub; its record says SRAM 12-speed XDR needs a separately sold hub.']
+  ]
+ },
+ {
+  slug:'ausom-l2-max-vs-k20-pro-scooters',publishedOn:'2026-11-22',updatedOn:'2026-11-22',a:'ausom-l2-max-dual-electric-scooter',b:'ausom-k20-pro-dual-motor-electric-scooter',
+  title:'Ausom L2 Max vs K20 Pro Scooters',
+  description:'Compare two private-property Ausom scooters by battery, motor output, tires, suspension and listed weight.',
+  answer:'Choose the L2 Max for its 48V 20.8Ah battery, 10 × 3-inch tires and adjustable dual swingarm suspension. Choose the K20 Pro for its listed 2,800W combined peak output and 33% climbing grade, with 10 × 2.75-inch tires and a 66.1 lb listed weight. Ausom says both scooters are for private-property use only; measure the storage route for either heavy model.',
+  tableRows:[
+   ['Motor system','Two 1,000W motors; 2,688W combined peak listed','Two motors; 2,800W combined peak listed'],
+   ['Battery','48V, 20.8Ah, 998.4Wh','48V, 18Ah, 864Wh'],
+   ['Tires and suspension','10 × 3-inch tubeless tires; adjustable dual swingarm suspension','10 × 2.75-inch tubeless tires; front fork and adjustable rear swingarm'],
+   ['Listed weight','73.4 lb','66.1 lb'],
+   ['Maker use note','For private-property use only','For private-property use only']
+  ],
+  sections:[
+   ['Battery size and riding setup','The L2 Max review lists a 48V 20.8Ah battery and adjustable dual swingarm suspension. The K20 Pro lists a 48V 18Ah battery, front fork and adjustable rear swingarm. Their tire widths also differ: 3 inches for the L2 Max and 2.75 inches for the K20 Pro.'],
+   ['Neither is a light carry','The L2 Max is listed at 73.4 lb and the K20 Pro at 66.1 lb. Ausom says both are for private-property use only. Check the route, storage and applicable rules for the exact place you plan to ride.']
+  ],
+  faqs:[
+   ['Which Ausom scooter is lighter?','The K20 Pro is listed at 66.1 lb; the L2 Max is listed at 73.4 lb. Both require a storage plan that accounts for their weight.'],
+   ['Which has the larger battery?','The L2 Max lists 48V and 20.8Ah (998.4Wh). The K20 Pro lists 48V and 18Ah (864Wh).'],
+   ['Can either model be used on public roads?','Ausom’s product pages describe both reviewed scooters as for private-property use only. Check the rules for the exact route and location before riding.']
+  ]
+ },
+ {
+  slug:'finbike-eb8-vs-m50',publishedOn:'2026-11-22',updatedOn:'2026-11-22',a:'finbike-eb8-electric-bike',b:'finbike-m50-electric-bike',
+  title:'FinBike EB8 vs M50: Folding or Full Size?',
+  description:'Compare FinBike’s EB8 and M50 by wheel size, battery, weight and the range details each review could confirm.',
+  answer:'Choose the EB8 if folding storage, 20 × 4-inch tires, torque sensing and a removable 48V 15Ah battery fit your ride. Choose the M50 for a 27.5 × 2.3-inch wheel format and its lower 28kg listed weight. Both have unresolved range guidance in their reviews, so treat advertised distances as maker references rather than a direct comparison.',
+  tableRows:[
+   ['Wheel and tire size','20 × 4.0 inches','27.5 × 2.3 inches'],
+   ['Battery','Removable 48V 15Ah (720Wh calculated in the review)','Removable 36V 13Ah (468Wh calculated in the review)'],
+   ['Listed weight','32.3kg','28kg, per the M50 manual'],
+   ['Maximum load','150kg','150kg'],
+   ['Range information','144+ km in manufacturer laboratory reference data','62-70 km on the product page; 88+ km in the manual']
+  ],
+  sections:[
+   ['Folding and wheel format are the clearest difference','The EB8 is a folding 20 × 4-inch e-bike with a torque sensor, dual suspension and hydraulic disc brakes. FinBike lists it at 32.3kg. The M50 review describes a 27.5 × 2.3-inch full-size setup, with a 28kg weight in its manual.'],
+   ['Do not choose by the range numbers alone','The EB8 manual gives 144+ km as laboratory reference data. The M50 product page lists 62-70 km while its manual lists 88+ km under laboratory conditions. Neither figure is a Bike Tested measurement, and the M50 record also notes conflicting warranty, return and wet-weather information.']
+  ],
+  faqs:[
+   ['Which FinBike is lighter?','The M50 manual lists 28kg. The EB8 listing gives 32.3kg.'],
+   ['Which has wider tires?','The EB8 review lists 20 × 4.0-inch tires. The M50 review lists 27.5 × 2.3-inch tires.'],
+   ['Are their advertised range figures directly comparable?','No. The M50 product page and manual give different ranges, while the EB8’s 144+ km figure is manufacturer laboratory reference data. These are not Bike Tested route results or a shared test.']
+  ]
+ },
+ {
+  slug:'the-beam-corky-urban-vs-corky-x',publishedOn:'2026-11-22',updatedOn:'2026-11-22',a:'the-beam-corky-urban-bike-mirror',b:'the-beam-corky-x-sunglasses-mirror',
+  title:'THE BEAM CORKY URBAN vs CORKY X',
+  description:'Compare two THE BEAM rear-view mirrors by mounting point, fit, adjustment and the details each product page leaves unspecified.',
+  answer:'Choose CORKY URBAN for a flat-bar end mount with an expansion bolt that fits 18-23mm handlebars, plus a silicone mount. Choose CORKY X when attaching the mirror to cycling sunglasses suits your setup; THE BEAM lists an 8mm minimum arm thickness and a left-side version. Both rotate through 360 degrees, and the useful view depends on your position and fit.',
+  tableRows:[
+   ['Mounting point','Flat handlebar end','Sunglasses arm; left-side version'],
+   ['Fit to check','Expansion bolt for 18-23mm handlebar ends; silicone mount also included','THE BEAM lists eyewear arms from 8mm thick'],
+   ['Adjustment','360-degree rotation','360-degree rotation'],
+   ['Mirror information','120-degree convex mirror, 35mm diameter','Acrylic PC mirror; surface dimensions not listed'],
+   ['Main limitation','Check bar-end space around grips and existing plugs','Listing does not document every frame shape or riding view']
+  ],
+  sections:[
+   ['Choose the mount that fits your current setup','CORKY URBAN attaches at a flat handlebar end and includes an expansion-bolt mount plus a silicone mount. CORKY X attaches to eyewear and is identified as the left-side version. THE BEAM lists compatibility with sunglasses arms from 8mm thick.'],
+   ['Check fit and sight line before relying on it','The CORKY URBAN review lists a 35mm convex mirror and a handlebar fit range of 18-23mm. CORKY X has no published mirror-surface dimensions in the reviewed listing. Neither product record establishes the useful rearward view from every riding position.']
+  ],
+  faqs:[
+   ['Which mirror attaches to the handlebar?','CORKY URBAN uses an expansion-bolt mount for 18-23mm handlebar ends and includes a silicone mount. CORKY X attaches to a sunglasses arm.'],
+   ['Is CORKY X sold as a left and right pair?','The reviewed listing identifies CORKY X as the left-side version and does not specify a paired set.'],
+   ['Which mirror has published surface dimensions?','THE BEAM lists a 35mm diameter for CORKY URBAN. The CORKY X listing reviewed here does not give mirror-surface dimensions.']
+  ]
+ }
+];
 export const categories=[{slug:'electric-bikes',name:'Electric bikes',text:'A little assistance. A lot more possibility.',guide:'choose-your-first-ebike'},{slug:'traditional-bikes',name:'Traditional bikes',text:'Road, gravel, hybrid, or mountain. Start with your route.',guide:'road-gravel-or-hybrid'},{slug:'electric-mobility',name:'Electric mobility',text:'Think through your last mile before choosing your next ride.',guide:'bike-or-electric-scooter'},{slug:'gear-and-tech',name:'Gear & tech',text:'The essentials that make every ride work better.',guide:'commuter-gear-checklist'},{slug:'components',name:'Components & upgrades',text:'Compatibility first. Better upgrades follow.',guide:'plan-your-bike-upgrades'},{slug:'cycling-technology',name:'Cycling technology',text:'Useful data, without losing sight of the ride.',guide:'choose-a-cycling-computer'}];
 export const brandFor=p=>brands.find(b=>b.slug===p.brand);
 export const offerFor=p=>offers.find(o=>o.brand===p.brand&&o.status==='active');
