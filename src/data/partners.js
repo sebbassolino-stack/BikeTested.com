@@ -797,7 +797,7 @@ export const partners = [
     "platform": "GoAffPro",
     "reportedOn": "2026-10-28",
     "status": "active",
-    "evidence": "Owner-supplied Bike Tested partner roster, October 28, 2026; category exceptions remain unverified for public listings",
+    "evidence": "Owner-supplied Bike Tested partner roster, October 28, 2026; category exceptions lack evidence for public listings",
     "checkoutTestedOn": null,
     "description": "Explore Hoverfly electric bikes through our partner store link. Compare intended use, rider fit, battery configuration and support for the exact model."
   },

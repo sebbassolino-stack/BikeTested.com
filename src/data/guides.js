@@ -527,7 +527,7 @@ export const guides = [
         "heading": "A belt is not a universal chain replacement",
         "paragraphs": [
           "A conventional endless bicycle belt needs a way to fit into a compatible frame, plus the correct alignment and tension arrangement. A standard chain-drive frame is not automatically suitable. Check the bicycle and drivetrain manufacturer’s documentation before considering a conversion.",
-          "We would generally choose a purpose-designed belt bike if that is the ownership experience you want. It gives you a clearer starting point for supported parts and setup than building a shopping list of components around an unverified frame."
+          "We would generally choose a purpose-designed belt bike if that is the ownership experience you want. It gives you a clearer starting point for supported parts and setup than building a shopping list of components around a frame with no published compatibility evidence."
         ]
       },
       {

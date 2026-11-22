@@ -1352,7 +1352,7 @@ export const products = [
     ],
     [
       "Our buying advice for the EX6F",
-      "The EX6F belongs on a shortlist when low-step access, fat tires, a removable battery, and a folding frame solve a real daily need. It is a poor match for regular stair carries or storage plans that depend on an unverified folded footprint. Confirm the frame fit, the exact load limit, local service, and written return and warranty terms. The US Navy item was listed at $949.99 on October 23, 2026. We entered the supplied Bike Tested code in an isolated cart for that exact variant and saw $0.00 allocated. Hiboy also displayed a separate store code on its product page, but that code did not change the cart total in our check; confirm any promotion in the final checkout total."
+      "The EX6F belongs on a shortlist when low-step access, fat tires, a removable battery, and a folding frame solve a real daily need. It is a poor match for regular stair carries or storage plans that depend on a folded footprint the listing does not establish. Confirm the frame fit, the exact load limit, local service, and written return and warranty terms. The US Navy item was listed at $949.99 on October 23, 2026. In an isolated single-item check for the exact variant, the supplied Bike Tested code allocated $0.00. Hiboy also displayed a separate store code, which made no change in that recorded check."
     ]
   ],
   "publishedOn": "2026-10-23",
@@ -1425,7 +1425,7 @@ export const products = [
   "label": "For short trips and measured storage",
   "headline": "A feature-rich folder with a very small package.",
   "description": "The 16 × 3-inch T1MAX folds to a listed footprint around 33 × 16 × 24 inches, with a removable battery, suspension and turn signals. Its 68–70 lb listing makes the fold more useful for storage than carrying.",
-  "verdict": "We recommend the Tomofree T1MAX Folding E-Bike for riders who want a compact folded footprint, wide tires, a removable battery and a broad feature set for neighborhood trips. The $499 20Ah configuration is compelling when measured storage—not stair carrying—is the problem. Its three-step fold, suspension listing, lights and turn signals make the appeal clear, while the roughly 70-pound listing points to roll-in storage. Confirm the speed, voltage and weight details for your exact bike before ordering.",
+  "verdict": "We recommend the Tomofree T1MAX Folding E-Bike for riders who want a compact folded footprint, wide tires, a removable battery and a broad feature set for neighborhood trips. The $499 20Ah configuration is compelling when measured storage, not stair carrying, is the problem. Its three-step fold, suspension listing, lights and turn signals make the appeal clear, while the roughly 70-pound listing points to roll-in storage. Confirm the speed, voltage and weight details for your exact bike before ordering.",
   "strengths": [
     "The three-step fold has a listed footprint of about 33.1 × 15.7 × 24.4 inches, a useful size to compare against a closet, vehicle opening or apartment storage space.",
     "Tomofree lists 16 × 3-inch tires, full suspension, dual mechanical disc brakes, a headlight, rear lighting and turn signals in one compact-wheel package.",
@@ -1469,7 +1469,7 @@ export const products = [
     ],
     [
       "Use the fold to solve storage, not frequent lifting",
-      "Tomofree publishes a 70.11 lb weight in its specification section and 68 lb in the comparison table. The difference is unresolved, so plan around a roughly 70 lb bike. The battery is removable, but the seller does not state its separate weight; removing it cannot be assumed to make the remaining frame manageable on stairs. The listed folded width also varies between 15.72 and 15.75 inches. Measure the whole path into your storage space—including doors, vehicle openings and corners—and confirm the exact folded package before treating it as a compact carry-on option."
+      "Tomofree publishes a 70.11 lb weight in its specification section and 68 lb in the comparison table. The difference is unresolved, so plan around a roughly 70 lb bike. The battery is removable, but the seller does not state its separate weight; removing it cannot be assumed to make the remaining frame manageable on stairs. The listed folded width also varies between 15.72 and 15.75 inches. Measure the whole path into your storage space, including doors, vehicle openings and corners, and confirm the exact folded package before treating it as a compact carry-on option."
     ],
     [
       "Choose the battery size and read the performance claims carefully",
@@ -1548,7 +1548,7 @@ export const products = [
   "tradeoffs": [
     "At a listed 84.7 lb, the R700 is a ground-level storage choice. The battery is removable, but the bike is not presented as a folding model and no folded dimensions are supplied.",
     "Tomofree’s page lists a 20–40 mile range in its highlights and specifications, while its Shopify product description says 30 miles. Both are seller figures, not measured Bike Tested range.",
-    "Speed is listed as 20/28 mph in the page highlights and specifications, while the motor copy says 25 mph. Treat the seller’s Class 2/3 road-use label as unverified until the exact configuration and local rules are confirmed.",
+    "Speed is listed as 20/28 mph in the page highlights and specifications, while the motor copy says 25 mph. The seller’s Class 2/3 road-use label remains unresolved until the exact configuration and local rules are confirmed.",
     "The feed suggests riders 154–184 cm tall while the product table says 5–6 ft; the page lists a 34.6-inch seat height but no standover figure. Check fit in person or request a current geometry guide.",
     "The product page says a manual is included, but Tomofree’s public downloads page does not list an R700 manual. The change-of-mind return policy also lists a 12% restocking fee and customer-paid shipping."
   ],
@@ -2320,7 +2320,7 @@ export const products = [
     sections: [
       ['A readable target and automatic stop for routine top-ups', 'CYCPLUS lists four preset modes, a digital pressure display, automatic shutoff at the selected target and memory for the previous setting. That combination makes the A8 straightforward to use when you want the pump to stop without watching the display through the full inflation. Its 150 PSI maximum is a capability limit, not a pressure recommendation. Start with the tire and rim makers’ guidance for your wheel, casing, rider load and riding surface, then set the target on the pump.'],
       ['Match the hose and converter to your valve', 'The A8 is a larger compressor-style pump with a separate air hose. Its manual’s package list includes a valve converter, and the illustrations show common bicycle valve connections alongside the hose. That gives the package a more complete bike setup, but it is still important to learn the right connection before a roadside repair. Confirm the converter is in the box, identify your valve, and follow the manual’s matching diagram rather than forcing a fitting onto the stem.'],
-      ['Choose where you will carry 461 grams', 'CYCPLUS lists the A8 at 461g and equips it with two 2,600mAh 18650 cells. It makes more sense when you want a larger electric pump with a readable display than when every gram in a jersey pocket matters. A pannier, backpack, car or home repair shelf is a more natural fit. CYCPLUS advertises a two-hour full charge over Type-C; the manual lists a charging cable in the package. The product page does not state a bicycle tire count per charge, so keep the pump charged and avoid planning a long ride around an unverified number of fills.'],
+      ['Choose where you will carry 461 grams', 'CYCPLUS lists the A8 at 461g and equips it with two 2,600mAh 18650 cells. It makes more sense when you want a larger electric pump with a readable display than when every gram in a jersey pocket matters. A pannier, backpack, car or home repair shelf is a more natural fit. CYCPLUS advertises a two-hour full charge over Type-C; the manual lists a charging cable in the package. The product page does not state a bicycle tire count per charge, so keep the pump charged and avoid planning a long ride around a specific number of fills, which the product page does not provide.'],
       ['Keep the gauge claim in perspective', 'The product page says the sensor measures within 0.1 bar. That is a CYCPLUS accuracy claim, not a Bike Tested calibration result. The screen helps you set and monitor pressure, but the correct number still comes from your tire and wheel setup. The same 150 PSI ceiling does not make 150 PSI suitable for every tire; use the component makers’ limits and a pressure recommendation that reflects your load and riding conditions.'],
       ['Check the exact variant and code terms', 'The CYCPLUS US page listed the Grey A8, variant 39714726215838 (SKU 气筒A8灰色), at $39.99 against a $49.99 compare-at price on October 24, 2026. Bike Tested’s CYCPLUS code is SEBASTIANBASSOL for a supplied 5% benefit. The shop block keeps the code and price visible while asking you to check eligibility at checkout; it does not calculate an A8 after-code price.']
     ],
@@ -2897,7 +2897,7 @@ export const products = [
     },
     source: 'https://www.cycplus.com/products/r200-smart-trainer?variant=45979103527070',
     sourceLinks: [],
-    evidence: 'Manufacturer-specification editorial evaluation; official R200 listing and product feed checked October 24, 2026. No exact R200 cart test or Bike Tested performance test was performed.',
+    evidence: 'Manufacturer-specification editorial evaluation; official R200 listing and product feed checked October 24, 2026. Neither exact R200 code acceptance nor Bike Tested ride performance is documented.',
     sections: [
       [
         'A direct-drive trainer for a bike you already own',
@@ -3278,7 +3278,7 @@ export const products = [
       ['What is included with the E-Scout Pro?', 'Young Electric lists a rear rack, front and rear fenders, a front light, a brake rear light, and five levels of pedal assist. The seller says the bike ships 95% pre-assembled. Confirm the package contents for your selected variant before ordering.']
     ],
     relatedReviews: [
-      {slug: 'young-electric-tire-press-2-ebike-rack', reason: 'Young Electric’s rack review covers load limits and fit checks; compatibility with the E-Scout Pro was not tested.'},
+      {slug: 'young-electric-tire-press-2-ebike-rack', reason: 'Young Electric’s rack review covers load limits and fit checks; the review does not establish compatibility with the E-Scout Pro.'},
       {slug: 'hiknight-h2-pro-off-road-ebike', reason: 'Compare another 26 × 4-inch fat-tire e-bike with a different motor and weight profile.'}
     ],
     price: {
@@ -3935,7 +3935,7 @@ export const products = [
     label: 'For compact local rides and measured storage',
     headline: 'A small-wheel folder that still weighs 48.5 pounds.',
     description: 'The StreetRider pairs 14-inch wheels and a 374Wh battery with a folding frame and suspension. Its 48.5 lb weight, incomplete folded-size detail, and conflicting seller claims deserve a careful fit and storage check.',
-    verdict: 'We recommend the ANCHEER StreetRider for riders who want a compact, small-wheel e-bike for errands and short commutes and can roll it into storage. Its listed 14 × 2.125-inch tires, 374Wh battery, front suspension fork, and shock-absorbing seatpost give this mini folding model a comfort-oriented setup. Check fit carefully—the one-size chart is broad—and plan around its 48.5 lb weight. ANCHEER’s range and speed statements conflict across the product page.',
+    verdict: 'We recommend the ANCHEER StreetRider for riders who want a compact, small-wheel e-bike for errands and short commutes and can roll it into storage. Its listed 14 × 2.125-inch tires, 374Wh battery, front suspension fork, and shock-absorbing seatpost give this mini folding model a comfort-oriented setup. Check fit carefully; the one-size chart is broad—and plan around its 48.5 lb weight. ANCHEER’s range and speed statements conflict across the product page.',
     strengths: [
       'The 14-inch wheels and folding design give the StreetRider a small-bike profile for neighborhood trips and storage where a full-size bike is awkward.',
       'The seller lists a 48V 7.8Ah battery (374Wh) with a throttle and three-level pedal assist.',
@@ -3974,7 +3974,7 @@ export const products = [
     sections: [
       [
         'A mini folder for nearby rides',
-        'The StreetRider’s appeal is its small-wheel layout: 14 × 2.125-inch tires, a step-through frame, and a folding design in a package ANCHEER presents for urban commuting. That combination can make sense for errands, short neighborhood trips, and storage-constrained homes when the bike can be rolled into place. The 500W peak motor and 48V 7.8Ah battery are seller specifications; they make the bike look capable on paper, but the listing does not establish how assistance feels on a rider’s route. We would choose it for a compact setup, not for an unverified long-distance promise.'
+        'The StreetRider’s appeal is its small-wheel layout: 14 × 2.125-inch tires, a step-through frame, and a folding design in a package ANCHEER presents for urban commuting. That combination can make sense for errands, short neighborhood trips, and storage-constrained homes when the bike can be rolled into place. The 500W peak motor and 48V 7.8Ah battery are seller specifications; they make the bike look capable on paper, but the listing does not establish how assistance feels on a rider’s route. We would choose it for a compact setup, rather than rely on a long-distance claim the listing does not substantiate.'
       ],
       [
         'Check the rider fit and the whole storage path',
@@ -4249,7 +4249,7 @@ export const products = [
     description: 'The Tank G100 Pro combines dual 72 V batteries, full suspension, hydraulic brakes and 20 × 4-inch tires. HappyRun advertises speeds up to 50 mph but also describes a 28 mph commuter limit; the manual’s speed table tops out at 28+ mph. At 159 lb, storage, transport, route fit and return costs all deserve a plan.',
     verdict: 'We recommend the HappyRun Tank G100 Pro to experienced riders who have a suitable route, ground-level storage and a practical way to move a 159 lb motorcycle-style bike. Its two removable 72 V batteries, full suspension and hydraulic brakes make a substantial equipment package on paper. Before buying, confirm the delivered speed setting: the product page claims up to 50 mph, while its commuter FAQ and manual describe a 28 mph limit. Check the 32/33-inch seat-height difference and local route rules, too; the supplied partner code did not reduce the exact Black cart.',
     strengths: [
-      'Two removable batteries—72 V / 18 Ah and 72 V / 15 Ah—provide a listed combined 33 Ah capacity. HappyRun says the batteries can be removed for charging and lists a dual-battery management system.',
+      'Two removable batteries, 72 V / 18 Ah and 72 V / 15 Ah, provide a listed combined 33 Ah capacity. HappyRun says the batteries can be removed for charging and lists a dual-battery management system.',
       'Full suspension, a hydraulic front fork, power-off hydraulic brakes, 180 mm front and 203 mm rear rotors, front and rear turn signals, and an NFC-unlock display are a broad equipment list for this motorcycle-style format.',
       'HappyRun lists 20 × 4-inch road tires, 400 lb total payload and a 33 lb rear-rack load limit. The separate rack rating gives buyers a more useful cargo boundary than total payload alone.',
       'The product page and manual provide a five-level speed selector and an advertised 28 mph limited mode. Confirm how the exact Black variant is configured before planning a route around that setting.'
@@ -4290,7 +4290,7 @@ export const products = [
       ],
       [
         'Resolve the advertised 50 mph and the 28 mph setting',
-        'HappyRun’s product headline and specification block advertise up to 50 mph, but the same page says a commuter mode limits the bike to 28 mph. Its manual lists five speed levels—6, 12, 18, 24 and 28+ mph. Ask the seller to confirm the exact Black / US speed setting and supplied documentation before ordering. Check local route rules for that configuration; neither a product name nor a speed-limiter setting alone establishes where it can be used.'
+        'HappyRun’s product headline and specification block advertise up to 50 mph, but the same page says a commuter mode limits the bike to 28 mph. Its manual lists five speed levels: 6, 12, 18, 24 and 28+ mph. Ask the seller to confirm the exact Black / US speed setting and supplied documentation before ordering. Check local route rules for that configuration; neither a product name nor a speed-limiter setting alone establishes where it can be used.'
       ],
       [
         'Check fit, cargo and transport as one decision',
@@ -7655,18 +7655,18 @@ export const products = [
       "Claimed range": "Up to 34km (FinBike claim; conditions are not stated on the product page)",
       "Maximum speed": "30km/h (manufacturer-listed)",
       "Wheel": "8.5 inches (manufacturer-listed)",
-      "Brakes": "Rear drum brake + EABS (manufacturer-listed; not independently tested)",
+      "Brakes": "Rear drum brake + EABS (manufacturer-listed; no independent braking result is reported)",
       "Maximum load": "120kg (manufacturer-listed)",
       "Dimensions": "102.5 × 44.7 × 107.5cm unfolded; 102.5 × 44.7 × 47.5cm folded (manufacturer-listed)",
-      "Net weight": "12.2kg in FinBike's product specification panel; Shopify Europe variant record carries 23.2kg weight—confirm actual scooter weight"
+      "Net weight": "12.2kg in FinBike's product specification panel; Shopify Europe variant record carries 23.2kg weight; confirm the actual scooter weight"
     },
     "source": "https://www.finbike.com/products/finbike-w3-commuter-electric-scooter?variant=50861587497017",
     "evidence": "Manufacturer-specification editorial evaluation; exact W3 / Europe listing checked 2026-10-28; no Bike Tested ride, braking or range test",
     "sections": [
       ["A folding format for the last mile", "FinBike lists the W3 at 102.5 × 44.7 × 107.5cm unfolded and 102.5 × 44.7 × 47.5cm folded, with an 8.5-inch wheel. Measure the folded footprint against the place where the scooter will live and the vehicle or transit space it must fit. Those dimensions do not settle whether it is easy to carry; the seller's weight figures need a separate check."],
-      ["Use the range claim as context, not a route guarantee", "FinBike advertises up to 34km from a 36V 7.8Ah battery. The voltage and capacity calculate to 280.8Wh, but that energy figure does not predict distance. The product page does not describe the range-test conditions, and Bike Tested has not tested the scooter. Treat 34km as a manufacturer claim and leave a charging margin for the route you expect to ride."],
+      ["Use the range claim as context, not a route guarantee", "FinBike advertises up to 34km from a 36V 7.8Ah battery. The voltage and capacity calculate to 280.8Wh, but that energy figure does not predict distance. The product page does not describe the range-test conditions, and this manufacturer-specification review reports no ride results. Treat 34km as a manufacturer claim and leave a charging margin for the route you expect to ride."],
       ["Confirm carry weight and local access", "The product specification panel calls the W3 12.2kg net, while the Shopify record for the selected Europe variant contains a 23.2kg weight value. That record may be a shipping field rather than the finished scooter weight; ask FinBike to confirm the carry weight and packaged weight before planning stairs. The listing also gives a 30km/h maximum speed but no legal classification for your location. Check the exact vehicle and local access rules before relying on it for public-road commuting."],
-      ["Check the code on the selected model", "FinBike supplies code SEBASTIANBASSOL with an 8% benefit. The recorded accepted checkout is for the EB8 Grey / Europe only; no W3 test establishes that the code applies to this model or stacks with its current listed price. This review makes no after-code calculation. Check the selected W3 Europe variant and final item total at the storefront."]
+      ["Check the code on the selected model", "FinBike supplies code SEBASTIANBASSOL with an 8% benefit. The recorded acceptance covers EB8 Grey / Europe; it does not establish use with the W3 or stacking with its listed price. This review makes no after-code calculation."]
     ],
     "publishedOn": "2026-10-28",
     "updatedOn": "2026-10-28",
