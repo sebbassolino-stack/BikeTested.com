@@ -3935,7 +3935,7 @@ export const products = [
     label: 'For compact local rides and measured storage',
     headline: 'A small-wheel folder that still weighs 48.5 pounds.',
     description: 'The StreetRider pairs 14-inch wheels and a 374Wh battery with a folding frame and suspension. Its 48.5 lb weight, incomplete folded-size detail, and conflicting seller claims deserve a careful fit and storage check.',
-    verdict: 'We recommend the ANCHEER StreetRider for riders who want a compact, small-wheel e-bike for errands and short commutes and can roll it into storage. Its listed 14 × 2.125-inch tires, 374Wh battery, front suspension fork, and shock-absorbing seatpost give this mini folding model a comfort-oriented setup. Check fit carefully; the one-size chart is broad—and plan around its 48.5 lb weight. ANCHEER’s range and speed statements conflict across the product page.',
+    verdict: 'We recommend the ANCHEER StreetRider for riders who want a compact, small-wheel e-bike for errands and short commutes and can roll it into storage. Its listed 14 × 2.125-inch tires, 374Wh battery, front suspension fork, and shock-absorbing seatpost give this mini folding model a comfort-oriented setup. Check fit carefully; the one-size chart is broad. Plan around its 48.5 lb weight. ANCHEER’s range and speed statements conflict across the product page.',
     strengths: [
       'The 14-inch wheels and folding design give the StreetRider a small-bike profile for neighborhood trips and storage where a full-size bike is awkward.',
       'The seller lists a 48V 7.8Ah battery (374Wh) with a throttle and three-level pedal assist.',
@@ -9060,7 +9060,7 @@ export const comparisons=[
   faqs:[
    ['Which pump is lighter to carry?','The A4 Mini is listed at 0.46 lb, while the A8 is listed at 461g. The A4 Mini is the lighter format in the two reviews.'],
    ['Which has the higher listed pressure ceiling?','CYCPLUS lists up to 150 PSI for the A8 and 120 PSI for the A4 Mini. Those are pump ceilings, not recommended tire pressures.'],
-   ['Does the A4 Mini really inflate 19 tires per charge?','CYCPLUS advertises up to 19 fills of a 700 × 25c tire, but its product information does not state the starting pressure or test conditions. The review treats that as an unverified maker claim, not a guaranteed ride result.']
+   ['Does the A4 Mini really inflate 19 tires per charge?','CYCPLUS advertises up to 19 fills of a 700 × 25c tire, but its product information does not state the starting pressure or test conditions. The review treats that as a maker claim without stated test conditions, not as a guaranteed ride result.']
   ]
  },
  {
