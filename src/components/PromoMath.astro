@@ -1,13 +1,14 @@
 ---
 // Code, saving and dollar math, placed directly under the promo H1. Self-contained styles so it fits any site theme.
 import { mathRows, mathSentence } from '../lib/promo-format.mjs';
-interface Props { code: string; also?: string[]; saving?: string; store?: string }
-const { code, also = [], saving = '', store = '' } = Astro.props;
+interface Props { code: string; also?: string[]; saving?: string; store?: string; example?: string }
+const { code, also = [], saving = '', store = '', example = '' } = Astro.props;
 const rows = mathRows(saving);
 const sentence = mathSentence(code, saving);
 ---
 <div class="pm-box">
   <p class="pm-line"><span class="pm-label">Code</span> <strong class="pm-code">{code}</strong>{also.map((c) => <> or <strong class="pm-code">{c}</strong></>)}{saving && <><span class="pm-sep" aria-hidden="true">·</span><span class="pm-label">Saving</span> <strong>{saving}</strong></>}{store && <span class="pm-store">at {store}</span>}</p>
+  {example && <p class="pm-sentence"><strong>{example}</strong></p>}
   {sentence && <p class="pm-sentence">{sentence}</p>}
   {rows.length > 0 && (
     <table class="pm-table">

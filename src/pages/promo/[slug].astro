@@ -7,19 +7,24 @@ import {offers,brands,products} from '../../data/catalog';import {guides} from '
 import {offerAnswer,offerFaq,offerSchema,faqSchema,pathFor,offerCheckSummary} from '../../lib/offers';
 import {nicheForPartner} from '../../data/bf-niches.js';
 import PromoMath from '../../components/PromoMath.astro';
+import {priceState,formatMinor} from '../../lib/pricing.js';
 import {savingFor,promoHeadline} from '../../lib/promo-format.mjs';
 export function getStaticPaths(){return offers.filter(o=>o.status==='active'&&o.code).map(o=>({params:{slug:o.brand},props:{o}}))};
 const {o}=Astro.props;const brand=brands.find(b=>b.slug===o.brand);const saving=savingFor(brand.name,o.code,o.benefit);const headline=promoHeadline(brand.name,o.code,saving);const answer=offerAnswer(o,brand.name);const faq=offerFaq(o,brand.name);const path=pathFor(o);
 const reading=guides.filter(g=>path.guides.includes(g.slug));const coverage=products.filter(p=>p.brand===o.brand);
+// Opening line: a reviewed product with an eligible after-code price the site already records, 50 or more when possible.
+const exRows=coverage.map(p=>({p,s:priceState(p,o)})).filter(({s})=>['observed','estimated'].includes(s.kind)&&s.discountMinor>0&&Number.isSafeInteger(s.afterMinor));
+const exX=exRows.find(({s})=>s.base.amountMinor>=5000)??[...exRows].sort((a,b)=>b.s.base.amountMinor-a.s.base.amountMinor)[0];
+const topExample=exX&&saving?`${o.code} takes ${formatMinor(exX.s.discountMinor,exX.s.base.currency)} off the ${exX.p.name??exX.p.title}: ${formatMinor(exX.s.base.amountMinor,exX.s.base.currency)} becomes ${formatMinor(exX.s.afterMinor,exX.s.base.currency)} before tax and shipping.`:'';
 const productCheck=offerCheckSummary(o)||'Not recorded';
 const others=offers.filter(x=>x.code&&x.brand!==o.brand&&x.category===o.category).slice(0,3);
 const niche=nicheForPartner(o.brand, o.category);
 ---
 <Layout title={headline} description={answer} schema={[offerSchema(o,brand.name),faqSchema(faq)]}>
-<div class="wrap"><div class="page-head promo-head"><div class="breadcrumb"><a href="/">Home</a> / <a href="/deals">Offers & codes</a> / {brand.name}</div><span class="kicker">Reader offer · {o.eligibleStore}</span><h1>{headline}</h1><PromoMath code={o.code} saving={saving} store={o.eligibleStore}/><p class="intro">{answer}</p><p><a href="/black-friday-deals">Compare this offer with the other partner codes for Black Friday and Cyber Monday</a>{niche ? <> · <a href={`/black-friday-deals/${niche.slug}`}>Black Friday {niche.label.toLowerCase()} deals</a></> : null}</p></div>
+<div class="wrap"><div class="page-head promo-head"><div class="breadcrumb"><a href="/">Home</a> / <a href="/deals">Offers & codes</a> / {brand.name}</div><span class="kicker">Reader offer · {o.eligibleStore}</span><h1>{headline}</h1><PromoMath code={o.code} saving={saving} store={o.eligibleStore} example={topExample}/><p class="intro">{answer}</p><p><a href="/black-friday-deals">Compare this offer with the other partner codes for Black Friday and Cyber Monday</a>{niche ? <> · <a href={`/black-friday-deals/${niche.slug}`}>Black Friday {niche.label.toLowerCase()} deals</a></> : null}</p></div>
 <div class="promo-layout"><article class="prose"><PartnerOffer offer={o} name={brand.name}/>
 <nav class="toc" aria-label="On this page"><a href="#use-code">How to use it</a><a href="#terms">Offer terms</a><a href="#buying">Before you choose</a><a href="#questions">FAQs</a></nav>
-<h2 id="use-code">A few clicks to your next ride.</h2><ol class="guide-steps"><li>Copy <strong>{o.code}</strong> exactly{o.code.includes('%')?', including the percent symbol':''}.</li><li>Open the <a href={o.url} rel="sponsored noopener" target="_blank" data-outbound data-affiliate="true" data-brand={o.brand} data-placement="promo-steps">{brand.name} partner shop</a> at {o.eligibleStore} and select your product and variant.</li><li>Paste the code into the merchant’s discount field and review the order amount shown for your selection.</li></ol>
+<h2 id="use-code">A few clicks to your next ride.</h2><ol class="guide-steps"><li>Copy <strong>{o.code}</strong> exactly{o.code.includes('%')?', including the percent symbol':''}.</li><li>Open {brand.name} with our link: the <a href={o.url} rel="sponsored noopener" target="_blank" data-outbound data-affiliate="true" data-brand={o.brand} data-placement="promo-steps">{brand.name} partner shop</a> at {o.eligibleStore}.</li><li>Add to cart and go to checkout. Select your product and variant.</li><li>Paste {o.code} in the discount box.</li></ol>
 <h2 id="terms">The details that matter.</h2><dl class="offer-facts"><div><dt>Reader code</dt><dd><code>{o.code}</code></dd></div><div><dt>Reader benefit</dt><dd>{o.benefit||'No amount listed'}</dd></div><div><dt>Storefront</dt><dd>{o.eligibleStore}</dd></div>{o.expiresOn&&<div><dt>Expiry</dt><dd>{o.expiresOn}</dd></div>}</dl><p>Use the code exactly as listed in the merchant’s discount field.</p>
 <h2 id="buying">Choosing from {brand.name}.</h2><p>{brand.description}</p>{path.checks.map(([h,t])=><section><h3>{h}</h3><p>{t}</p></section>)}
 {coverage.length>0&&<><h2>Our {brand.name} reviews</h2><div class="product-grid promo-products">{coverage.map(p=><ProductCard product={p}/>)}</div></>}

@@ -58,8 +58,10 @@ export function offerFaq(o,name) {
   return [
     [o.code?`What is the ${name} discount code?`:`Does Bike Tested have a ${name} discount code?`,offerAnswer(o,name)],
     ...(o.code?savingFaqs(name,o.code,savingFor(name,o.code,o.benefit)).map(f=>[f.q,f.a]):[]),
+    ...(o.code?[[`Is there a ${name} promo code or coupon code?`,`Yes. ${o.code} is the ${name} promo code, coupon code, discount code and voucher code we list. Copy it from the code box and paste it in the discount box at checkout.`]]:[]),
     ...(o.code?[[`How do I use the ${name} promo code?`,`Copy ${o.code} exactly and enter it in the merchant’s discount field for your selected product.`]]
       :[[`Does the ${name} affiliate link automatically give a discount?`,'An affiliate link credits Bike Tested for a qualifying purchase. Review the merchant’s current price and promotions before placing an order.']]),
+    ...(o.code?[[`What if the ${name} code doesn't work?`,`Type ${o.code} exactly as shown, or tap the code to copy it, and open ${name} through our link. Paste it in the discount box at checkout. If the order summary does not change, contact us and we will raise it with ${name}.`]]:[]),
     ['Who handles shipping, returns and warranty?',`Your order is with the merchant, not Bike Tested. Check delivery to your address, return shipping costs, warranty coverage and local service before purchasing from ${o.eligibleStore}.`]
   ];
 }
