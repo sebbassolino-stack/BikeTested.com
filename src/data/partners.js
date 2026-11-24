@@ -1197,6 +1197,234 @@ export const partners = [
   }
 },
 {
+  "slug": "engwe-eu",
+  "name": "Engwe EU",
+  "url": "https://engwe-bikes-eu.com/?ref=SEBASTIANBASSOLINO",
+  "code": "SEBASTIANBASSOL",
+  "benefit": "10% off",
+  "category": "electric-bikes",
+  "platform": "GoAffPro",
+  "reportedOn": "2026-11-24",
+  "status": "active",
+  "evidence": "Owner-supplied master deals sheet, November 24, 2026",
+  "checkoutTestedOn": null,
+  "description": "Electric bikes from the Engwe Europe storefront. Compare motor, battery range and frame size for the exact model, and confirm delivery to your region.",
+  "discount": {
+    "type": "percent",
+    "value": 10.0,
+    "scope": "Owner-supplied reader benefit; store product eligibility and promotion-combination terms apply."
+  }
+},
+{
+  "slug": "engwe-pl",
+  "name": "Engwe PL",
+  "url": "https://pl.engwe.com/?ref=SEBASTIANBASSOLINO",
+  "code": "SEBASTIANBASSOL",
+  "benefit": "10% off",
+  "category": "electric-bikes",
+  "platform": "GoAffPro",
+  "reportedOn": "2026-11-24",
+  "status": "active",
+  "evidence": "Owner-supplied master deals sheet, November 24, 2026",
+  "checkoutTestedOn": null,
+  "description": "Electric bikes from the Engwe Poland storefront. Compare motor, battery range and frame size for the exact model, and confirm delivery to your region.",
+  "discount": {
+    "type": "percent",
+    "value": 10.0,
+    "scope": "Owner-supplied reader benefit; store product eligibility and promotion-combination terms apply."
+  }
+},
+{
+  "slug": "engwe-hu",
+  "name": "Engwe HU",
+  "url": "https://hu.engwe.com/?ref=SEBASTIANBASSOLINO",
+  "code": "SEBASTIANBASSOL",
+  "benefit": "10% off",
+  "category": "electric-bikes",
+  "platform": "GoAffPro",
+  "reportedOn": "2026-11-24",
+  "status": "active",
+  "evidence": "Owner-supplied master deals sheet, November 24, 2026",
+  "checkoutTestedOn": null,
+  "description": "Electric bikes from the Engwe Hungary storefront. Compare motor, battery range and frame size for the exact model, and confirm delivery to your region.",
+  "discount": {
+    "type": "percent",
+    "value": 10.0,
+    "scope": "Owner-supplied reader benefit; store product eligibility and promotion-combination terms apply."
+  }
+},
+{
+  "slug": "engwe-dk",
+  "name": "Engwe DK",
+  "url": "https://dk.engwe.com/?ref=SEBASTIANBASSOLINO",
+  "code": "SEBASTIANBASSOL",
+  "benefit": "10% off",
+  "category": "electric-bikes",
+  "platform": "GoAffPro",
+  "reportedOn": "2026-11-24",
+  "status": "active",
+  "evidence": "Owner-supplied master deals sheet, November 24, 2026",
+  "checkoutTestedOn": null,
+  "description": "Electric bikes from the Engwe Denmark storefront. Compare motor, battery range and frame size for the exact model, and confirm delivery to your region.",
+  "discount": {
+    "type": "percent",
+    "value": 10.0,
+    "scope": "Owner-supplied reader benefit; store product eligibility and promotion-combination terms apply."
+  }
+},
+{
+  "slug": "engwe-se",
+  "name": "Engwe SE",
+  "url": "https://se.engwe.com/?ref=SEBASTIANBASSOLINO",
+  "code": "SEBASTIANBASSOL",
+  "benefit": "10% off",
+  "category": "electric-bikes",
+  "platform": "GoAffPro",
+  "reportedOn": "2026-11-24",
+  "status": "active",
+  "evidence": "Owner-supplied master deals sheet, November 24, 2026",
+  "checkoutTestedOn": null,
+  "description": "Electric bikes from the Engwe Sweden storefront. Compare motor, battery range and frame size for the exact model, and confirm delivery to your region.",
+  "discount": {
+    "type": "percent",
+    "value": 10.0,
+    "scope": "Owner-supplied reader benefit; store product eligibility and promotion-combination terms apply."
+  }
+},
+{
+  "slug": "engwe-uk",
+  "name": "Engwe UK",
+  "url": "https://uk.engwe.com/?ref=SEBASTIANBASSOLINO",
+  "code": "SEBASTIANBASSOL",
+  "benefit": "10% off",
+  "category": "electric-bikes",
+  "platform": "GoAffPro",
+  "reportedOn": "2026-11-24",
+  "status": "active",
+  "evidence": "Owner-supplied master deals sheet, November 24, 2026",
+  "checkoutTestedOn": null,
+  "description": "Electric bikes from the Engwe the UK storefront. Compare motor, battery range and frame size for the exact model, and confirm delivery to your region.",
+  "discount": {
+    "type": "percent",
+    "value": 10.0,
+    "scope": "Owner-supplied reader benefit; store product eligibility and promotion-combination terms apply."
+  }
+},
+{
+  "slug": "engwe-de",
+  "name": "Engwe DE",
+  "url": "https://de.engwe.com/?ref=SEBASTIANBASSOLINO",
+  "code": "SEBASTIANBASSOL",
+  "benefit": "10% off",
+  "category": "electric-bikes",
+  "platform": "GoAffPro",
+  "reportedOn": "2026-11-24",
+  "status": "active",
+  "evidence": "Owner-supplied master deals sheet, November 24, 2026",
+  "checkoutTestedOn": null,
+  "description": "Electric bikes from the Engwe Germany storefront. Compare motor, battery range and frame size for the exact model, and confirm delivery to your region.",
+  "discount": {
+    "type": "percent",
+    "value": 10.0,
+    "scope": "Owner-supplied reader benefit; store product eligibility and promotion-combination terms apply."
+  }
+},
+{
+  "slug": "engwe-us",
+  "name": "Engwe US",
+  "url": "https://us.engwe.com/?ref=SEBASTIANBASSOLINO",
+  "code": "SEBASTIANBASSOL",
+  "benefit": "10% off",
+  "category": "electric-bikes",
+  "platform": "GoAffPro",
+  "reportedOn": "2026-11-24",
+  "status": "active",
+  "evidence": "Owner-supplied master deals sheet, November 24, 2026",
+  "checkoutTestedOn": null,
+  "description": "Electric bikes from the Engwe the US storefront. Compare motor, battery range and frame size for the exact model, and confirm delivery to your region.",
+  "discount": {
+    "type": "percent",
+    "value": 10.0,
+    "scope": "Owner-supplied reader benefit; store product eligibility and promotion-combination terms apply."
+  }
+},
+{
+  "slug": "engwe-it",
+  "name": "Engwe IT",
+  "url": "https://it.engwe.com/?ref=SEBASTIANBASSOLINO",
+  "code": "SEBASTIANBASSOL",
+  "benefit": "10% off",
+  "category": "electric-bikes",
+  "platform": "GoAffPro",
+  "reportedOn": "2026-11-24",
+  "status": "active",
+  "evidence": "Owner-supplied master deals sheet, November 24, 2026",
+  "checkoutTestedOn": null,
+  "description": "Electric bikes from the Engwe Italy storefront. Compare motor, battery range and frame size for the exact model, and confirm delivery to your region.",
+  "discount": {
+    "type": "percent",
+    "value": 10.0,
+    "scope": "Owner-supplied reader benefit; store product eligibility and promotion-combination terms apply."
+  }
+},
+{
+  "slug": "engwe-es",
+  "name": "Engwe ES",
+  "url": "https://es.engwe.com/?ref=SEBASTIANBASSOLINO",
+  "code": "SEBASTIANBASSOL",
+  "benefit": "10% off",
+  "category": "electric-bikes",
+  "platform": "GoAffPro",
+  "reportedOn": "2026-11-24",
+  "status": "active",
+  "evidence": "Owner-supplied master deals sheet, November 24, 2026",
+  "checkoutTestedOn": null,
+  "description": "Electric bikes from the Engwe Spain storefront. Compare motor, battery range and frame size for the exact model, and confirm delivery to your region.",
+  "discount": {
+    "type": "percent",
+    "value": 10.0,
+    "scope": "Owner-supplied reader benefit; store product eligibility and promotion-combination terms apply."
+  }
+},
+{
+  "slug": "engwe-fr",
+  "name": "Engwe FR",
+  "url": "https://fr.engwe.com/?ref=SEBASTIANBASSOLINO",
+  "code": "SEBASTIANBASSOL",
+  "benefit": "10% off",
+  "category": "electric-bikes",
+  "platform": "GoAffPro",
+  "reportedOn": "2026-11-24",
+  "status": "active",
+  "evidence": "Owner-supplied master deals sheet, November 24, 2026",
+  "checkoutTestedOn": null,
+  "description": "Electric bikes from the Engwe France storefront. Compare motor, battery range and frame size for the exact model, and confirm delivery to your region.",
+  "discount": {
+    "type": "percent",
+    "value": 10.0,
+    "scope": "Owner-supplied reader benefit; store product eligibility and promotion-combination terms apply."
+  }
+},
+{
+  "slug": "engwe-nl",
+  "name": "Engwe NL",
+  "url": "https://nl.engwe.com/?ref=SEBASTIANBASSOLINO",
+  "code": "SEBASTIANBASSOL",
+  "benefit": "10% off",
+  "category": "electric-bikes",
+  "platform": "GoAffPro",
+  "reportedOn": "2026-11-24",
+  "status": "active",
+  "evidence": "Owner-supplied master deals sheet, November 24, 2026",
+  "checkoutTestedOn": null,
+  "description": "Electric bikes from the Engwe the Netherlands storefront. Compare motor, battery range and frame size for the exact model, and confirm delivery to your region.",
+  "discount": {
+    "type": "percent",
+    "value": 10.0,
+    "scope": "Owner-supplied reader benefit; store product eligibility and promotion-combination terms apply."
+  }
+},
+{
   "slug": "onsra",
   "name": "ONSRA",
   "url": "https://www.onsra.com/?ref=sagwojwa",

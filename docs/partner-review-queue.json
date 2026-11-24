@@ -1667,6 +1667,138 @@
       "product": "GhostCat F3X Class 2 (Blackout variant 45212144861254, SKU BKGC20056BLK)",
       "officialSource": "https://ghostcatbikes.com/products/f3x-class-2?variant=45212144861254",
       "reviewUrl": "/reviews/ghostcat-f3x-class-2"
+    },
+    {
+      "brand": "Engwe EU",
+      "brandSlug": "engwe-eu",
+      "category": "electric-bikes",
+      "status": "research-needed",
+      "priority": 2,
+      "affiliateUrl": "https://engwe-bikes-eu.com/?ref=SEBASTIANBASSOLINO",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "10% off",
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "Engwe PL",
+      "brandSlug": "engwe-pl",
+      "category": "electric-bikes",
+      "status": "research-needed",
+      "priority": 2,
+      "affiliateUrl": "https://pl.engwe.com/?ref=SEBASTIANBASSOLINO",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "10% off",
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "Engwe HU",
+      "brandSlug": "engwe-hu",
+      "category": "electric-bikes",
+      "status": "research-needed",
+      "priority": 2,
+      "affiliateUrl": "https://hu.engwe.com/?ref=SEBASTIANBASSOLINO",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "10% off",
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "Engwe DK",
+      "brandSlug": "engwe-dk",
+      "category": "electric-bikes",
+      "status": "research-needed",
+      "priority": 2,
+      "affiliateUrl": "https://dk.engwe.com/?ref=SEBASTIANBASSOLINO",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "10% off",
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "Engwe SE",
+      "brandSlug": "engwe-se",
+      "category": "electric-bikes",
+      "status": "research-needed",
+      "priority": 2,
+      "affiliateUrl": "https://se.engwe.com/?ref=SEBASTIANBASSOLINO",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "10% off",
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "Engwe UK",
+      "brandSlug": "engwe-uk",
+      "category": "electric-bikes",
+      "status": "research-needed",
+      "priority": 2,
+      "affiliateUrl": "https://uk.engwe.com/?ref=SEBASTIANBASSOLINO",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "10% off",
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "Engwe DE",
+      "brandSlug": "engwe-de",
+      "category": "electric-bikes",
+      "status": "research-needed",
+      "priority": 2,
+      "affiliateUrl": "https://de.engwe.com/?ref=SEBASTIANBASSOLINO",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "10% off",
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "Engwe US",
+      "brandSlug": "engwe-us",
+      "category": "electric-bikes",
+      "status": "research-needed",
+      "priority": 2,
+      "affiliateUrl": "https://us.engwe.com/?ref=SEBASTIANBASSOLINO",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "10% off",
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "Engwe IT",
+      "brandSlug": "engwe-it",
+      "category": "electric-bikes",
+      "status": "research-needed",
+      "priority": 2,
+      "affiliateUrl": "https://it.engwe.com/?ref=SEBASTIANBASSOLINO",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "10% off",
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "Engwe ES",
+      "brandSlug": "engwe-es",
+      "category": "electric-bikes",
+      "status": "research-needed",
+      "priority": 2,
+      "affiliateUrl": "https://es.engwe.com/?ref=SEBASTIANBASSOLINO",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "10% off",
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "Engwe FR",
+      "brandSlug": "engwe-fr",
+      "category": "electric-bikes",
+      "status": "research-needed",
+      "priority": 2,
+      "affiliateUrl": "https://fr.engwe.com/?ref=SEBASTIANBASSOLINO",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "10% off",
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "Engwe NL",
+      "brandSlug": "engwe-nl",
+      "category": "electric-bikes",
+      "status": "research-needed",
+      "priority": 2,
+      "affiliateUrl": "https://nl.engwe.com/?ref=SEBASTIANBASSOLINO",
+      "code": "SEBASTIANBASSOL",
+      "reportedBenefit": "10% off",
+      "nextStep": "Select an exact audience-relevant model and obtain official specifications and imagery before authoring a review."
     }
   ]
 }
