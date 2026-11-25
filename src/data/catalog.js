@@ -9155,7 +9155,7 @@ export const comparisons=[
   ]
  },
  {
-  slug:'tomofree-t1max-vs-r700-folding-fat-tire-ebike',publishedOn:'2026-11-25',updatedOn:'2026-11-25',a:'tomofree-t1max-folding-ebike',b:'tomofree-r700-electric-bike',
+  slug:'tomofree-t1max-vs-r700-folding-fat-tire-ebike',publishedOn:'2026-11-24',updatedOn:'2026-11-24',a:'tomofree-t1max-folding-ebike',b:'tomofree-r700-electric-bike',
   title:'Tomofree T1MAX vs R700: Folding or Full Size?',
   description:'Compare the reviewed Tomofree T1MAX and R700 by storage format, tires, battery, suspension and listed weight.',
   answer:'Choose the T1MAX when a folding frame and its smaller 16 × 3-inch wheels suit your storage plan; its listing puts the bike around 68–70 lb. Choose the R700 if you want 20 × 4-inch tires and front and rear suspension and can store a full-size 84.7 lb bike at ground level. Both reviewed US configurations list removable 48V 20Ah batteries and 330 lb maximum loads. Their listed speeds and ranges contain seller-side conflicts, so do not treat the numbers as a direct performance comparison.',
