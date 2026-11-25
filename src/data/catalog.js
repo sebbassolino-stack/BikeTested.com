@@ -9153,6 +9153,30 @@ export const comparisons=[
    ['Is CORKY X sold as a left and right pair?','The reviewed listing identifies CORKY X as the left-side version and does not specify a paired set.'],
    ['Which mirror has published surface dimensions?','THE BEAM lists a 35mm diameter for CORKY URBAN. The CORKY X listing reviewed here does not give mirror-surface dimensions.']
   ]
+ },
+ {
+  slug:'tomofree-t1max-vs-r700-folding-fat-tire-ebike',publishedOn:'2026-11-25',updatedOn:'2026-11-25',a:'tomofree-t1max-folding-ebike',b:'tomofree-r700-electric-bike',
+  title:'Tomofree T1MAX vs R700: Folding or Full Size?',
+  description:'Compare the reviewed Tomofree T1MAX and R700 by storage format, tires, battery, suspension and listed weight.',
+  answer:'Choose the T1MAX when a folding frame and its smaller 16 × 3-inch wheels suit your storage plan; its listing puts the bike around 68–70 lb. Choose the R700 if you want 20 × 4-inch tires and front and rear suspension and can store a full-size 84.7 lb bike at ground level. Both reviewed US configurations list removable 48V 20Ah batteries and 330 lb maximum loads. Their listed speeds and ranges contain seller-side conflicts, so do not treat the numbers as a direct performance comparison.',
+  tableRows:[
+   ['Format','Folding frame; folded dimensions listed around 33.1 × 15.75 × 24.41 in','Full-size frame; no folded dimensions supplied'],
+   ['Wheels and tires','16 × 3.0 in','20 × 4.0 in'],
+   ['Battery','Removable; reviewed 20Ah configuration; product sections list 48V and 48.1V','Removable 48V 20Ah'],
+   ['Suspension and brakes','Full suspension; dual mechanical disc brakes','Adjustable front fork, rear spring; dual mechanical disc brakes'],
+   ['Listed bike weight','68 lb in comparison table; 70.11 lb in specifications','84.7 lb; battery is separately listed at 9.92 lb'],
+   ['Range and speed claims','20–40 miles; 28 mph in details and 30 mph in title','20–40 miles or 30 miles; 20/28 mph or 25 mph'],
+   ['Maximum load','330 lb','330 lb']
+  ],
+  sections:[
+   ['Storage format is the clearest distinction','The T1MAX folds and has a much smaller listed wheel format, but its weight is still roughly 70 lb. Its listed folded footprint is about 33.1 × 15.75 × 24.41 inches. The R700 is described as a full-size, non-folding bike with 20 × 4-inch tires and no folded dimensions. At 84.7 lb, it calls for ground-level storage and a route that does not depend on lifting it regularly.'],
+   ['Compare equipment, then verify the details that affect your ride','Both reviewed US configurations list removable 20Ah batteries and a 330 lb maximum load. Tomofree lists full suspension on the T1MAX; the R700 page specifies an adjustable front fork and rear spring. The seller gives conflicting speed figures for both bikes and conflicting range figures for the R700. Those are listing claims, not Bike Tested measurements. Check the exact variant, current product documentation, rider fit and local road-use rules before relying on either bike for a fixed commute.']
+  ],
+  faqs:[
+   ['Which Tomofree bike folds?','The T1MAX is the folding model. The reviewed R700 listing does not present the bike as folding and supplies no folded dimensions.'],
+   ['Which model is lighter?','The T1MAX listing gives 68 lb in its comparison table and 70.11 lb in its specifications. Tomofree lists the R700 at 84.7 lb and lists its battery separately at 9.92 lb.'],
+   ['Are the listed ranges and speeds directly comparable?','No. The T1MAX page lists 20–40 miles and gives conflicting 28 mph and 30 mph figures. The R700 lists 20–40 miles in some sections and 30 miles in its product description, with speed figures of 20/28 mph and 25 mph. These are conflicting seller claims, not shared Bike Tested measurements.']
+  ]
  }
 ];
 export const categories=[{slug:'electric-bikes',name:'Electric bikes',text:'A little assistance. A lot more possibility.',guide:'choose-your-first-ebike'},{slug:'traditional-bikes',name:'Traditional bikes',text:'Road, gravel, hybrid, or mountain. Start with your route.',guide:'road-gravel-or-hybrid'},{slug:'electric-mobility',name:'Electric mobility',text:'Think through your last mile before choosing your next ride.',guide:'bike-or-electric-scooter'},{slug:'gear-and-tech',name:'Gear & tech',text:'The essentials that make every ride work better.',guide:'commuter-gear-checklist'},{slug:'components',name:'Components & upgrades',text:'Compatibility first. Better upgrades follow.',guide:'plan-your-bike-upgrades'},{slug:'cycling-technology',name:'Cycling technology',text:'Useful data, without losing sight of the ride.',guide:'choose-a-cycling-computer'}];
