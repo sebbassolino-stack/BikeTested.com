@@ -450,7 +450,7 @@ export const products = [
       "Two wheel trays, tire clamps and front-wheel holders are designed for two bikes without touching their frames; the seller lists tires up to 5 inches wide.",
       "An included ramp and folding trays reduce lifting at the bike-loading step; the official manual shows the assembly and loading sequence.",
       "Young Electric lists a 200 lb maximum load and a lower 160 lb maximum for RV use.",
-      "SEBASTIANBASSOL was accepted for the exact selected configuration at checkout."
+      "BIKE was accepted for the exact selected configuration at checkout."
     ],
     "tradeoffs":[
       "The product page lists the rack at 90 lb. Its 44 × 57 × 16.5 inch dimensions are substantial, and no folded dimensions are given.",
@@ -485,7 +485,7 @@ export const products = [
       ["Count the rack before checking the load","Young Electric lists a 90 lb rack weight and a 200 lb maximum load, with a separate 160 lb maximum for RV use. The product page does not explain how the load figures should be applied to every vehicle and installation. Confirm the carrier's rating with the seller and compare the whole setup with the vehicle and hitch maker's instructions. A 2-inch receiver is required."],
       ["Plan around the rack's size and movement","The official manual lists dimensions of 44 × 57 × 16.5 inches. The product page says it folds but does not give folded dimensions, and its specification table says it does not tilt. Measure the storage space and check whether the loaded rack will block a hatch. Assembly calls for 5 mm and 6 mm Allen keys plus 13 mm, 17 mm and 24 mm wrenches, which the manual marks as not included."],
       ["Confirm the light, shipping and return terms","The current product option selector reads 'with Lock and Brake Light,' and the product title includes a brake light; a feature bullet also says brake-light compatibility is optional and the light is sold separately. The hero image shows the rack, two lamps and a lock. Confirm the exact contents of SKU 10104186BL-M before ordering. The shipping policy lists free standard shipping for U.S. orders over $99, while the product page says shipping is calculated at checkout; no address was entered to verify a destination rate. The current return policy gives just 3 calendar days for unopened personal-preference requests, with a 35% deduction plus $35 return-label fee; opened or installed items have a 50% refund cap before that label fee. It also describes a one-year limited warranty for eligible new products."],
-      ["What the Bike Tested code changed","At checkout, SEBASTIANBASSOL reduced the $669.99 sale price for this exact configuration by $15, to a $654.99 item subtotal. Shipping remained uncalculated without an address; checkout displayed an estimated $43.39 tax before address details. "
+      ["What the Bike Tested code changed","At checkout, BIKE reduced the $669.99 sale price for this exact configuration by $15, to a $654.99 item subtotal. Shipping remained uncalculated without an address; checkout displayed an estimated $43.39 tax before address details. "
       ]
     ],
     "publishedOn":"2026-10-23",
@@ -495,12 +495,12 @@ export const products = [
       ["How many bikes can the Tire-Press 2 carry?","Young Electric's product specifications list two bikes and a maximum load of 200 lb, reduced to 160 lb for RV use. Confirm with the seller how those limits apply to your vehicle and use, then check both the bike and hitch maker's ratings."],
       ["Will the rack fit a fat-tire e-bike?","Young Electric lists a maximum tire width of 5 inches. Check the width and shape of your exact tire, fender clearance and wheelbase against the carrier instructions; this review does not include a physical fit test."],
       ["Does the selected version include brake lights and a lock?","The selected option is labeled 'with Lock and Brake Light' and the product image shows both, but a feature bullet says brake-light compatibility is optional and sold separately. Ask the seller to confirm the package for SKU 10104186BL-M."],
-      ["Does SEBASTIANBASSOL work on this rack?","The code was accepted at checkout for variant 45170442535120, SKU 10104186BL-M, selected as Missouri Warehouse / with Lock and Brake Light, on October 23, 2026. It reduced the $669.99 sale price by $15 to a $654.99 item subtotal before delivery charges. No address was entered or order placed."],
+      ["Does BIKE work on this rack?","The code was accepted at checkout for variant 45170442535120, SKU 10104186BL-M, selected as Missouri Warehouse / with Lock and Brake Light, on October 23, 2026. It reduced the $669.99 sale price by $15 to a $654.99 item subtotal before delivery charges. No address was entered or order placed."],
       ["What should I know about returns and warranty?","The current store policy allows unopened personal-preference return requests within 3 calendar days, with a 35% deduction and $35 return-label fee. For opened or installed items, it caps the refund at 50% before a separate $35 label fee. The policy describes a one-year limited warranty for eligible new products; review the current terms before ordering."]
     ],
     "price":{"amountMinor":66999,"currency":"USD","region":"US","variantId":"45170442535120","variantLabel":"Missouri Warehouse / with Lock and Brake Light","source":"https://youngelectricbikes.com/products/200lbs-capacity-tire-clamp-e-bike-rack-with-ramp-adn-brake-light?variant=45170442535120","checkedOn":"2026-10-23","isSalePrice":true},
     "eligibility":{"status":"eligible","variantId":"45170442535120","evidence":"docs/evidence/young-electric-tire-press-2-ebike-rack.md#checkout-observation"},
-    "checkoutObservation":{"code":"SEBASTIANBASSOL","variantId":"45170442535120","baseAmountMinor":66999,"discountMinor":1500,"afterAmountMinor":65499,"currency":"USD","checkedOn":"2026-10-23","exclusions":"Shipping was not calculated because no address was entered; checkout displayed a $43.39 estimated tax before address details; no order placed."}
+    "checkoutObservation":{"code":"BIKE","variantId":"45170442535120","baseAmountMinor":66999,"discountMinor":1500,"afterAmountMinor":65499,"currency":"USD","checkedOn":"2026-10-23","exclusions":"Shipping was not calculated because no address was entered; checkout displayed a $43.39 estimated tax before address details; no order placed."}
   },
   {
     "slug": "gebike-g01-compact-folding-electric-bike",
@@ -3276,7 +3276,7 @@ export const products = [
       ['How far can the E-Scout Pro travel on a charge?', 'Young Electric lists up to 80 miles, depending on pedal effort. The specification page does not give full test conditions, so this is a manufacturer maximum rather than a Bike Tested range result or a route guarantee. Rider load, speed, terrain, temperature, and assist level affect range.'],
       ['Is the E-Scout Pro a Class 2 or Class 3 e-bike?', 'Young Electric describes it as Class 2 and says it can be unlocked to Class 3, up to 28 mph with pedal assist and 20 mph by throttle. Confirm the delivered setting and current local rules for the routes you plan to use.'],
       ['How heavy is the E-Scout Pro?', 'Young Electric lists an 82 lb net weight and a 76-inch body length. Measure storage and vehicle-rack access, and plan for a ground-level parking space if you do not want to lift a full-size bike regularly.'],
-      ['Does the Bike Tested code apply to the E-Scout Pro?', 'SEBASTIANBASSOL is the supplied Young Electric reader code, reported as $15 off and accepted on the Tire-Press 2 rack. No bike saving or after-code amount is reported.'],
+      ['Does the Bike Tested code apply to the E-Scout Pro?', 'BIKE is the supplied Young Electric reader code, reported as $15 off and accepted on the Tire-Press 2 rack. No bike saving or after-code amount is reported.'],
       ['What is included with the E-Scout Pro?', 'Young Electric lists a rear rack, front and rear fenders, a front light, a brake rear light, and five levels of pedal assist. The seller says the bike ships 95% pre-assembled. Confirm the package contents for your selected variant before ordering.']
     ],
     relatedReviews: [

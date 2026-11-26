@@ -84,7 +84,7 @@ export const partners = [
   {
     "slug": "unagi",
     "name": "Unagi",
-    "url": "https://unagiscooters.com/?ref=SEBASTIANBASSOLINO",
+    "url": "https://unagiscooters.com/?ref=BIKE",
     "code": null,
     "benefit": null,
     "category": "electric-mobility",
@@ -98,7 +98,7 @@ export const partners = [
   {
     "slug": "lumos",
     "name": "Lumos",
-    "url": "https://ridelumos.com/?ref=SEBASTIANBASSOLINO",
+    "url": "https://ridelumos.com/?ref=BIKE",
     "code": null,
     "benefit": null,
     "category": "gear-and-tech",
@@ -126,7 +126,7 @@ export const partners = [
   {
     "slug": "leoout",
     "name": "Leoout",
-    "url": "https://leoout.com/?ref=SEBASTIANBASSOLINO",
+    "url": "https://leoout.com/?ref=BIKE",
     "code": "SEBASTIANBASSOL",
     "benefit": "$100.00 off",
     "discount": {
@@ -174,7 +174,7 @@ export const partners = [
   {
     "slug": "hiboy",
     "name": "Hiboy",
-    "url": "https://hiboy.com/?ref=SEBASTIANBASSOLINO",
+    "url": "https://hiboy.com/?ref=BIKE",
     "code": "SEBASTIANBASSOL",
     "benefit": null,
     "category": "electric-mobility",
@@ -221,7 +221,7 @@ export const partners = [
   {
     "slug": "ridstar",
     "name": "Ridstar",
-    "url": "https://ridstar.com/?ref=SEBASTIANBASSOLINO",
+    "url": "https://ridstar.com/?ref=BIKE",
     "code": null,
     "benefit": null,
     "category": "electric-bikes",
@@ -235,7 +235,7 @@ export const partners = [
   {
     "slug": "kukirin",
     "name": "KuKirin EU",
-    "url": "https://kukirin.ltd/?ref=SEBASTIANBASSOLINO",
+    "url": "https://kukirin.ltd/?ref=BIKE",
     "code": null,
     "benefit": null,
     "category": "electric-mobility",
@@ -266,8 +266,8 @@ export const partners = [
   {
     "slug": "gaciron",
     "name": "Gaciron",
-    "url": "https://gaciron.myshoplaza.com/?ref=SEBASTIANBASSOLINO",
-    "code": null,
+    "url": "https://www.gaciron-shop.com/?ref=BIKE",
+    "code": "BIKE",
     "benefit": null,
     "category": "gear-and-tech",
     "platform": "GoAffPro",
@@ -300,7 +300,7 @@ export const partners = [
   {
     "slug": "ekx",
     "name": "EKX",
-    "url": "https://ekxbike.com/?ref=SEBASTIANBASSOLINO",
+    "url": "https://ekxbike.com/?ref=BIKE",
     "code": "SEBASTIANBASSOL",
     "benefit": "$150.00 off",
     "discount": {"type":"fixed","value":150,"currency":"USD","scope":"Accepted on the X21 Max 8000W(Peak) / 60V 30Ah / United States variant (46552269914299) on October 23, 2026."},
@@ -343,7 +343,7 @@ export const partners = [
   {
     "slug": "ewheels",
     "name": "eWheels",
-    "url": "https://ewheels.com/?ref=SEBASTIANBASSOLINO",
+    "url": "https://ewheels.com/?ref=BIKE",
     "code": null,
     "benefit": null,
     "category": "electric-mobility",
@@ -425,7 +425,7 @@ export const partners = [
   {
     "slug": "hiknight",
     "name": "Hiknight",
-    "url": "https://hiknightebike.com/?ref=SEBASTIANBASSOLINO",
+    "url": "https://hiknightebike.com/?ref=BIKE",
     "code": "SEBASTIANBASSOL",
     "benefit": "$100.00 off",
     "discount": {"type":"fixed","value":100,"currency":"USD","scope":"Accepted on the H2 Pro Grey US variant (SKU HKN-H2PRO-Bag-GR-US) on October 22, 2026. The GTX2 Silver-Black US cart check on October 24, 2026 showed no discount."},
@@ -440,7 +440,7 @@ export const partners = [
   {
     "slug": "reddydy",
     "name": "Reddydy",
-    "url": "https://reddydyscooter.myshopline.com/?ref=SEBASTIANBASSOLINO",
+    "url": "https://reddydyscooter.myshopline.com/?ref=BIKE",
     "code": null,
     "benefit": null,
     "category": "electric-mobility",
@@ -483,7 +483,7 @@ export const partners = [
   {
     "slug": "gebike",
     "name": "GEBIKE",
-    "url": "https://gebikeglobal.com/?ref=SEBASTIANBASSOLINO",
+    "url": "https://gebikeglobal.com/?ref=BIKE",
     "code": "SEBASTIANBASSOL",
     "benefit": "€10.00 off",
     "discount": {
@@ -503,8 +503,8 @@ export const partners = [
   {
     "slug": "hx-happy-relax",
     "name": "HX Happy Relax",
-    "url": "https://hxebike.com/?ref=SEBASTIANBASSOLINO",
-    "code": null,
+    "url": "https://hxebike.com/?ref=BIKE",
+    "code": "BIKE",
     "benefit": null,
     "category": "electric-bikes",
     "platform": "GoAffPro",
@@ -517,7 +517,7 @@ export const partners = [
   {
     "slug": "voltrover",
     "name": "Voltrover",
-    "url": "https://voltrover.shop/?ref=SEBASTIANBASSOLINO",
+    "url": "https://voltrover.shop/?ref=BIKE",
     "code": "SEBASTIANBASSOL",
     "benefit": "10% off",
     "discount": {
@@ -554,7 +554,7 @@ export const partners = [
   {
     "slug": "tstescooter",
     "name": "TsTescooter",
-    "url": "https://tstescooter.com/?ref=SEBASTIANBASSOLINO",
+    "url": "https://tstescooter.com/?ref=BIKE",
     "code": null,
     "benefit": null,
     "category": "electric-mobility",
@@ -568,7 +568,7 @@ export const partners = [
   {
     "slug": "zwheel",
     "name": "ZWheel",
-    "url": "https://zwheelsport.com/?ref=SEBASTIANBASSOLINO",
+    "url": "https://zwheelsport.com/?ref=BIKE",
     "code": "SEBASTIANBASSOL",
     "benefit": "$20.00 off",
     "discount": {
@@ -588,7 +588,7 @@ export const partners = [
   {
     "slug": "finbike",
     "name": "FinBike",
-    "url": "https://www.finbike.com/?ref=SEBASTIANBASSOLINO",
+    "url": "https://www.finbike.com/?ref=BIKE",
     "code": "SEBASTIANBASSOL",
     "benefit": "8% off",
     "discount": {
@@ -689,8 +689,8 @@ export const partners = [
   {
     "slug": "young-electric",
     "name": "Young Electric",
-    "url": "https://youngelectricbikes.com/?ref=SEBASTIANBASSOLINO",
-    "code": "SEBASTIANBASSOL",
+    "url": "https://youngelectricbikes.com/?ref=BIKE",
+    "code": "BIKE",
     "benefit": "$15.00 off",
     "discount": {
       "type": "fixed",
@@ -705,6 +705,25 @@ export const partners = [
     "evidence": "Owner-confirmed live Bike Tested partner roster, October 22, 2026",
     "checkoutTestedOn": "2026-10-23",
     "description": "Use the Young Electric reader code on the rack configuration we checked at checkout. Confirm hitch and bike compatibility, the package contents, shipping, and the current total with the seller."
+  },
+  {
+    "slug": "buybestgear",
+    "name": "Buybestgear",
+    "url": "https://www.buybestgear.com/?click_id=428940&utm_campaign=collab&utm_medium=affiliate&utm_source=goaffpro",
+    "code": "BBGBIKETEST3",
+    "benefit": "3% off",
+    "discount": {
+      "type": "percent",
+      "value": 3,
+      "scope": "Partner-supplied reader code for buybestgear.com."
+    },
+    "category": "electric-bikes",
+    "platform": "GoAffPro",
+    "reportedOn": "2026-11-25",
+    "status": "active",
+    "evidence": "Owner master deals sheet, November 25, 2026",
+    "checkoutTestedOn": null,
+    "description": "Buybestgear sells e-bikes shipped from local warehouses. Use BBGBIKETEST3 for 3% off at buybestgear.com."
   },
   {
     "slug": "gunai",
@@ -737,7 +756,7 @@ export const partners = [
   {
     "slug": "touroll",
     "name": "Touroll",
-    "url": "https://touroll.com/?ref=SEBASTIANBASSOLINO",
+    "url": "https://touroll.com/?ref=BIKE",
     "code": "SEBASTIANBASSOL",
     "benefit": "2% off",
     "discount": {
@@ -790,7 +809,7 @@ export const partners = [
   {
     "slug": "hoverfly",
     "name": "Hoverfly",
-    "url": "https://www.hoverflys.com/?ref=SEBASTIANBASSOLINO",
+    "url": "https://www.hoverflys.com/?ref=BIKE",
     "code": null,
     "benefit": null,
     "category": "electric-bikes",
@@ -804,7 +823,7 @@ export const partners = [
   {
     "slug": "maintebike",
     "name": "Maintebike",
-    "url": "https://maintebike.com/?ref=SEBASTIANBASSOLINO",
+    "url": "https://maintebike.com/?ref=BIKE",
     "code": null,
     "benefit": null,
     "category": "electric-bikes",
@@ -832,7 +851,7 @@ export const partners = [
 {
   "slug": "mearth",
   "name": "Mearth",
-  "url": "https://mearth.com.au/?ref=SEBASTIANBASSOLINO",
+  "url": "https://mearth.com.au/?ref=BIKE",
   "code": null,
   "benefit": null,
   "category": "electric-mobility",
@@ -880,7 +899,7 @@ export const partners = [
 {
   "slug": "hidoes",
   "name": "Hidoes",
-  "url": "https://hidoes.com/?ref=SEBASTIANBASSOLINO",
+  "url": "https://hidoes.com/?ref=BIKE",
   "code": "SEBASTIANBASSOL",
   "benefit": "7% off",
   "category": "electric-mobility",
@@ -899,7 +918,7 @@ export const partners = [
 {
   "slug": "vipcoo",
   "name": "Vipcoo",
-  "url": "https://vipcoo.com/?ref=SEBASTIANBASSOLINO",
+  "url": "https://vipcoo.com/?ref=BIKE",
   "code": null,
   "benefit": null,
   "category": "electric-mobility",
@@ -927,7 +946,7 @@ export const partners = [
 {
   "slug": "dttzh",
   "name": "DTTZH",
-  "url": "https://www.dttzh.com/?ref=SEBASTIANBASSOLINO",
+  "url": "https://www.dttzh.com/?ref=BIKE",
   "code": null,
   "benefit": null,
   "category": "electric-mobility",
@@ -941,7 +960,7 @@ export const partners = [
 {
   "slug": "shyre-bikes",
   "name": "Shyre Bikes",
-  "url": "https://shyrebikes.co.uk/sebastianbassolino",
+  "url": "https://shyrebikes.co.uk/bike",
   "code": null,
   "benefit": null,
   "category": "electric-bikes",
@@ -1016,7 +1035,7 @@ export const partners = [
 {
   "slug": "skatec-soka-technology",
   "name": "Skatec (Soka Technology)",
-  "url": "https://sokatec.com/?ref=SEBASTIANBASSOLINO",
+  "url": "https://sokatec.com/?ref=BIKE",
   "code": "SEBASTIANBASSOL",
   "benefit": "10% off",
   "category": "electric-mobility",
@@ -1089,7 +1108,7 @@ export const partners = [
   "slug": "joyor-eu",
   "name": "Joyor (EU)",
   "url": "https://www.joyor-escooter.com/?ref=hdpupfrr",
-  "code": "SEBASTIANBASSOL",
+  "code": "biketesting",
   "benefit": "€20.00 off",
   "category": "electric-mobility",
   "platform": "GoAffPro",
@@ -1108,7 +1127,7 @@ export const partners = [
 {
   "slug": "sigma-escooter",
   "name": "Sigma eScooter",
-  "url": "https://www.sigma-escooter.com/?ref=SEBASTIANBASSOLINO",
+  "url": "https://www.sigma-escooter.com/?ref=BIKE",
   "code": "SEBASTIANBASSOL",
   "benefit": "€20.00 off",
   "category": "electric-mobility",
@@ -1166,8 +1185,8 @@ export const partners = [
 {
   "slug": "hitway",
   "name": "Hitway",
-  "url": "https://hitway.eu/?ref=SEBASTIANBASSOLINO",
-  "code": null,
+  "url": "https://hitway.eu/?ref=BIKE",
+  "code": "BIKE",
   "benefit": null,
   "category": "electric-bikes",
   "platform": "GoAffPro",
