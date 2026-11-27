@@ -4,8 +4,8 @@ const on = '2026-11-27';
 export const guidesNov27 = [
   {
     slug: 'best-electric-dirt-bikes',
-    title: 'Best Electric Dirt Bikes of 2026: 7 Reviewed',
-    description: 'Seven electric dirt bikes reviewed by BikeTested, compared by motor, battery, claimed speed, rider fit and reader code.',
+    title: 'Best Electric Dirt Bikes of 2026: 8 Reviewed',
+    description: 'Eight electric dirt bikes reviewed by BikeTested, compared by motor, battery, claimed speed, rider fit and reader code.',
     image: '/images/lifestyle.webp',
     category: 'Buying guide',
     topics: ['electric-mobility'],
@@ -14,12 +14,13 @@ export const guidesNov27 = [
     answer: 'For an adult rider with private land, the EKX X21 Max is the most complete package in our reviews: 3,000W rated, a 1,800Wh removable battery, adjustable inverted fork and hydraulic discs, and $150 off with SEBASTIANBASSOL. For less money, the HiKNiGHT GTX2 lists a 5,000W peak mid-drive at $799 and takes $100 off. For teens, start with the EUNORAU S1 or Voltrover M5. Every one of these is for permitted off-road riding only.',
     sections: [
       {
-        heading: 'Seven reviewed electric dirt bikes',
+        heading: 'Eight reviewed electric dirt bikes',
         paragraphs: ['Specifications are maker-listed and come from the linked reviews; prices are the U.S. listings checked in October 2026.'],
         table: {
           caption: 'Electric dirt bikes reviewed by BikeTested',
           headers: ['Model', 'Motor (maker-listed)', 'Battery', 'Claimed top speed', 'Listed price', 'Reader code'],
           rows: [
+            ['EKX GTS X22', '6,000W rated / 12,000W peak, 280 N·m', '72V 30Ah, 2,160Wh', '62 mph', '$2,449', 'SEBASTIANBASSOL, $150 off'],
             ['EKX X21 Max', '3,000W rated / 8,000W peak, 240 N·m', '60V 30Ah, 1,800Wh, removable', 'Up to 60 mph', '$1,949', 'SEBASTIANBASSOL, $150 off'],
             ['Eskute NOVA RR', '5,500W peak', '60V 30Ah (1,800Wh calculated)', '35–50 mph', '$1,299', 'SEBASTIANBASSOL'],
             ['HappyRun G300 SE Ultra', '6,000W peak mid-drive, 240 N·m', '60V 31Ah (1,860Wh calculated)', '44 mph', '$1,189', 'SEBASTIANBASSOL23'],
@@ -31,6 +32,7 @@ export const guidesNov27 = [
         },
       },
       { heading: 'Best overall: EKX X21 Max', paragraphs: ['The X21 Max pairs the largest listed battery in this group with the fullest chassis: an adjustable inverted front fork, an adjustable rear shock, two-piston hydraulic discs and 19-inch off-road tires. EKX recommends riders from 5 ft 5 in to 6 ft 5 in and lists a 330 lb payload. At 106 lb it is a full-size machine.'] },
+      { heading: 'Most powerful: EKX GTS X22', paragraphs: ['EKX’s flagship steps up to a 72V, 2,160Wh battery, 6,000W rated and 12,000W peak, and 280 N·m, with a linkage rear shock. At 124 lb and a 62 mph claim it is for experienced adults on private land.'] },
       { heading: 'Best value: HiKNiGHT GTX2', paragraphs: ['At a $799 listing, the GTX2 has the lowest price here while still listing a 5,000W peak mid-drive, 255 N·m, dual hydraulic suspension with 200mm front travel and a removable 52V battery. Its 14 and 12-inch wheels make it a smaller bike than the EKX, and the listing gives conflicting weight figures, so check the size against the rider.'] },
       { heading: 'For teens and smaller riders', paragraphs: ['EUNORAU describes the S1 as an electric dirt bike for kids and teens, with a 710mm seat height. Voltrover markets the M5 to riders aged 14 and up. Both are fast machines: follow the maker age guidance, use full protective gear and supervise younger riders.'] },
       { heading: 'Rules, gear and where to ride', paragraphs: ['None of these is a road vehicle as sold. Ride only where off-road electric vehicles are permitted, check local age and registration rules, and wear a full-face helmet, gloves, boots and body protection. Claimed speeds and ranges are maker figures, not BikeTested measurements.'] },
@@ -43,7 +45,7 @@ export const guidesNov27 = [
     ],
     sources: [{ name: 'BikeTested electric dirt bike reviews (maker specifications cited in each)', url: 'https://biketested.com/category/electric-mobility' }],
     related: ['bike-or-electric-scooter', 'helmet-and-gloves-for-scooter-and-e-bike-riding'],
-    products: ['ekx-x21-max-electric-dirt-bike', 'hiknight-gtx2-electric-dirt-bike', 'eskute-nova-rr-5500w-electric-dirt-bike', 'happyrun-g300-se-ultra-electric-dirt-bike', 'vipcoo-h3-electric-dirt-bike', 'eunorau-s1-electric-dirt-bike', 'voltrover-m5-electric-dirt-bike'],
+    products: ['ekx-x21-max-electric-dirt-bike', 'ekx-gts-x22-electric-dirt-bike', 'hiknight-gtx2-electric-dirt-bike', 'eskute-nova-rr-5500w-electric-dirt-bike', 'happyrun-g300-se-ultra-electric-dirt-bike', 'vipcoo-h3-electric-dirt-bike', 'eunorau-s1-electric-dirt-bike', 'voltrover-m5-electric-dirt-bike'],
   },
   {
     slug: 'best-electric-trikes',

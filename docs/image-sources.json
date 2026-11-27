@@ -1,59 +1,383 @@
 [
- {"file":"/images/pace-5.webp","owner":"Aventon","source":"https://cdn.shopify.com/s/files/1/1520/2468/files/Pace-5-REC-Anvil-01_e42b56cd-32b9-4bdc-bc52-c7a16b132112_jpg.png","retrievedOn":"2026-10-19"},
- {"file":"/images/hero.webp","owner":"Aventon","source":"https://aventon-images.imgix.net/files/Pace5-Lifestyle-02.jpg","retrievedOn":"2026-10-19"},
- {"file":"/images/lifestyle.webp","owner":"Aventon","source":"https://aventon-images.imgix.net/files/Pace5-Lifestyle-03.jpg","retrievedOn":"2026-10-19"},
- {"file":"/images/roadster-v3.webp","owner":"Ride1Up","source":"https://ride1up.com/wp-content/uploads/2026/03/RV3-MedLrg_Grn-1400x869.webp","retrievedOn":"2026-10-19"},
- {"file":"/images/xpress2.webp","owner":"Lectric","source":"https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_1st-Image_XPress2_Tempest_Grey_Standard_Seatpost.webp?v=1781295271","retrievedOn":"2026-10-19"},
- {"file":"/images/logo.webp","owner":"Bike Tested","source":"Owner-provided horizontal logo package","transformation":"Whitespace cropped and resized, artwork preserved"},
- {"file":"/images/products/mooncool-tk2-folding-electric-trike.webp","owner":"Mooncool","source":"https://cdn.shopify.com/s/files/1/0567/3821/8156/files/180_33ebc588-fcba-4565-9b14-a3c46b4240c5.png?v=1790651200","retrievedOn":"2026-10-22","transformation":"Lossless WebP conversion only; source PNG already has transparency. Exact Cyan Green-Matte TK2 inspected on light and dark backgrounds; complete trike, spokes, controls and edges preserved."},
- {"file":"/images/products/ausom-gosoul-2-electric-scooter.webp","owner":"Ausom","source":"https://ausomstore.com/cdn/shop/files/gosoul-2-single-motor-1.jpg?v=1771817933","retrievedOn":"2026-10-22","transformation":"The exact official single-motor studio image was inspected, edited to remove only its plain white background, then resized to 1200 × 1200 transparent lossless WebP. Full scooter identity and parts checked on light and dark backgrounds."},
- {"file":"/images/products/cycplus-as2-pro-max-tiny-e-pump.webp","owner":"CYCPLUS","source":"https://cdn.shopify.com/s/files/1/0413/9597/8398/files/5_c2be38e7-3ce8-4baa-8635-f1fa19d3554f.png?v=1784623141","retrievedOn":"2026-10-22","transformation":"Background-removal edit of the exact official AS2 Pro Max studio image, then resized to 1200 × 1200 transparent lossless WebP. Model, branding, pressure display and controls visually compared with the source; no accessory or alternate product added."},
- {"file":"/images/products/finbike-eb8-electric-bike.webp","owner":"FinBike","source":"https://cdn.shopify.com/s/files/1/0690/7808/9785/files/finbike-eb8-e-bike_3.webp?v=1787204743","retrievedOn":"2026-10-22","transformation":"Background-removal edit of the exact official Grey EB8 studio image, then resized to 1200 × 1200 transparent lossless WebP. Frame, EB8 lettering, battery, wheels, spokes, controls, rack, lights and edges visually compared with the original on light and dark backgrounds."},
- {"file":"/images/products/hiknight-h2pro-off-road-electric-bike.webp","owner":"HiKNiGHT","source":"https://cdn.shopify.com/s/files/1/0761/1229/8204/files/H2_ProGrey.webp?v=1778310602","retrievedOn":"2026-10-22","transformation":"Background-removal edit of the exact official Grey H2 Pro studio image, padded and resized to a 1200 × 1200 transparent lossless WebP. Frame lettering, battery, rear rack, tires, spokes, cables, brakes, lights and edges were compared with the source on light and dark backgrounds."},
- {"file":"/images/products/hiknight-gtx2-electric-dirt-bike.webp","owner":"HiKNiGHT","source":"https://cdn.shopify.com/s/files/1/0761/1229/8204/files/Electric_Dirt_Bike_GTX2.webp?v=1789360395","retrievedOn":"2026-10-24","transformation":"Inspected the exact official Silver-Black GTX2 product image, removed its remaining studio floor and white backdrop with OpenAI image_gen, then trimmed, centered and padded it to a 1200 × 1200 transparent lossless WebP with Sharp. Compared the GTX2 panels and decals, handlebars, fork, fenders, tires, spokes, brake discs and silhouette with the source on light and dark backgrounds."},
- {"file":"/images/products/ekx-x21-max-electric-dirt-bike.webp","owner":"EKX","source":"https://cdn.shopify.com/s/files/1/0649/3657/5163/files/EKXBIKE-X21_Max-Eectricl_Dirt_Bike_1.png?v=1782825366","retrievedOn":"2026-10-23","transformation":"Inspected the exact official X21 Max gallery image, removed only its light background with OpenAI image_gen, then resized with Sharp to a padded 1200 × 1200 transparent lossless WebP. Compared the frame, EKX marks, orange fork graphics, battery enclosure, suspension, controls, tires, rotors, spokes and cables with the source on light and dark backgrounds; the first edit with a stray background line was discarded."},
- {"file":"/images/products/leoout-t85-electric-scooter.webp","owner":"Leoout","source":"https://cdn.shopify.com/s/files/1/0764/0632/5561/files/5_389bd376-4353-4c1a-ab7a-ed5d9c4125bc.jpg?v=1733809736","retrievedOn":"2026-10-23","transformation":"Inspected the official 1,920 × 1,920 T85 gallery image for the exact Scooter with Seat variant, removed the white and decorative paint-splash background with OpenAI image_gen, then resized to a 1,200 × 1,200 transparent lossless WebP using Sharp. Compared the scooter, seat, tires, controls, gold fork, frame marks and edges against the source on light and dark backgrounds."},
- {"file":"/images/products/voltrover-m5-electric-dirt-bike.webp","owner":"Voltrover","source":"https://voltrover.shop/cdn/shop/files/F1.png?v=1763110335&width=3840","retrievedOn":"2026-10-23","transformation":"Inspected the exact official M5 48V21Ah product gallery image, removed only its nearly black studio background with OpenAI image_gen, then padded, resized and centered it on a transparent 1,200 × 1,200 canvas as a lossless WebP with Sharp. Compared the frame, battery enclosure, Voltrover marks, orange forks and rims, tires, spokes, controls and kickstand against the source on light and dark backgrounds."},
- {"file":"/images/products/young-electric-tire-press-2-ebike-rack.webp","owner":"Young Electric","source":"https://cdn.shopify.com/s/files/1/0614/3262/7408/files/4186withbrakelight_39da0473-d079-4d9a-8f2d-4169c925a731.jpg?v=1789446037","retrievedOn":"2026-10-23","transformation":"Inspected the exact official product image for selected SKU 10104186BL-M, removed only the white canvas with OpenAI image_gen, then trimmed transparent margins and centered the original composition on a transparent 1,200 × 1,200 canvas as a lossless WebP with Sharp. Compared rack rails, red clamps, Young branding, two lamps, lock and key against the source on light and dark backgrounds."},
- {"file":"/images/products/gebike-g03-city-commuter-ebike.webp","owner":"GEBIKE","source":"https://cdn.shopify.com/s/files/1/0980/8904/2241/files/01_535c6e53-8c7c-4b70-a718-93eb3d0320ef.jpg?v=1786011367","retrievedOn":"2026-10-23","transformation":"Inspected the exact official Gray / Standard G03 listing image, removed only the white studio background with OpenAI image_gen, then resized to a 1,200 × 1,200 transparent lossless WebP with Sharp. Compared frame, GEBIKE logo, cable routing, wheels, spokes, fork, rack and lights with the source on light and dark backgrounds."},
- {"file":"/images/products/ancheer-hummer-electric-bike.webp","owner":"ANCHEER","source":"https://cdn.shopify.com/s/files/1/0811/8039/3714/files/AMAK00009_P00_US_BU.jpg?v=1773036378","retrievedOn":"2026-10-23","transformation":"Inspected the exact Blue / One Size variant image, removed only the white studio background with OpenAI image_gen, then centered it on a padded 1,200 × 1,200 transparent lossless WebP using Sharp. Compared ANCHEER branding, blue graphics, frame, battery, controls, wheels, spokes, fork, brakes and cables with the source on light and dark backgrounds."},
- {"file":"/images/products/burchda-u8-step-thru-electric-bike.webp","owner":"Burchda","source":"https://www.burchda-ebike.com/cdn/shop/files/3_3e0e165d-9627-48fe-ad44-cbcc705b0c15.jpg?v=1784822697","retrievedOn":"2026-10-23","transformation":"Inspected the exact Champagne Gold / 1000W / 48V31.5Ah U8 2026 Upgrade image, removed the white studio background and floor reflection with OpenAI image_gen, then trimmed, centered and padded to a transparent 1,200 × 1,200 lossless WebP with Sharp. Compared the frame, Burchda marks, basket, rack cushion, wheels, spokes, battery, fork, controls and brakes against the source on light and dark backgrounds."},
- {"file":"/images/products/eunorau-meta275-2-electric-bike.webp","owner":"Eunorau","source":"https://eunorau-ebike.com/cdn/shop/files/META2752_11.jpg?v=1787045616&width=1946","retrievedOn":"2026-10-23","transformation":"Inspected the exact official Deep Crimson META275 2.0 gallery image, removed only the white studio background with OpenAI image_gen, then resized and padded it to a 1,200 × 1,200 transparent lossless WebP with Sharp. Compared the Eunorau frame marks, battery enclosure, fork, rack, tires, spokes, controls, cables and full wheel outlines with the source on light and dark backgrounds; the first edit clipped tire edges and was discarded."},
- {"file":"/images/products/gyroor-c5-electric-trike.webp","owner":"Gyroor","source":"https://cdn.shopify.com/s/files/1/2191/9995/files/gyroor-c5-electric-trike-front-angle-ffd1c816ea.webp?v=1783052599","retrievedOn":"2026-10-23","transformation":"Inspected the exact official Black C5 studio image, removed only the white background and floor shadow with OpenAI image_gen, then cropped transparent margins, centered and padded it to a 1,200 × 1,200 transparent lossless WebP with Sharp. Compared the frame, seat, rear and front baskets, handlebars, controls, cables, tires, wheel accents, brakes and full outline with the source on light and dark backgrounds."},
- {"file":"/images/products/hycline-code-bones-fat-tire-set.webp","owner":"Hycline","source":"https://cdn.shopify.com/s/files/1/0642/0987/9265/files/code_bone_fat_tire_2.jpg?v=1787562750","retrievedOn":"2026-10-23","transformation":"Inspected the official 20×4 package image showing two Code: Bones tires, two inner tubes and two tire levers. Removed only its white studio background with OpenAI image_gen, then trimmed transparent margins, centered and padded the cutout to a 1,200 × 1,200 transparent lossless WebP with Sharp. Compared tire count, 20×4 sidewall marks, tread, tube count, valve details, lever count and full edges with the source on light and dark backgrounds."},
- {"file":"/images/products/hiboy-ex6f-foldable-electric-bike.webp","owner":"Hiboy","source":"https://cdn.shopify.com/s/files/1/0425/6350/2247/files/5_10a8cce5-1c98-4491-b85d-cb3d3d200158.jpg?v=1765881793","retrievedOn":"2026-10-23","transformation":"Inspected the official Navy EX6F product-gallery image, removed only its white studio background with OpenAI image_gen, then resized and padded it with Sharp to a 1,200 × 1,200 transparent lossless WebP. Compared the frame, navy color, Hiboy and EX6F decals, full tires, spokes, fork, rack, battery, fenders, controls, brakes, cables and edges with the source on light and dark backgrounds."},
- {"file":"/images/products/tomofree-t1max-folding-ebike.webp","owner":"Tomofree","source":"https://cdn.shopify.com/s/files/1/0614/9131/4828/files/T1MAX26092902.png?v=1790675572","retrievedOn":"2026-10-23","transformation":"Inspected the exact official folded T1MAX studio image, removed only the white background with OpenAI image_gen, then resized the 1,056px cutout and centered it with 72px transparent padding in a 1,200 × 1,200 lossless WebP using Sharp. Compared the Tomofree and T1MAX marks, folded frame, both seats, tires, wheels, spokes, pedals, fenders, cables, lights and full edges against the source on light and dark backgrounds."},
- {"file":"/images/products/zwheel-d3-d-electric-scooter.webp","owner":"Zwheel Sport","source":"https://cdn.shopify.com/s/files/1/0746/3075/8554/files/d3-d_114.jpg?v=1785404433","retrievedOn":"2026-10-23","transformation":"Inspected the official Red D3-D gallery image, removed only its plain white background with OpenAI image_gen, then trimmed and centered the transparent cutout in a padded 1,200 × 1,200 lossless WebP using Sharp. Compared the complete scooter, frame, ZWHEEL markings, deck, tires, wheels, suspension, brakes, cables, display, lights and kickstand against the source on light and dark backgrounds."},
- {"file":"/images/products/happyrun-g300-se-ultra-electric-dirt-bike.webp","owner":"HappyRun","source":"https://cdn.shopify.com/s/files/1/0600/6741/4116/files/G300SE-Ultra-electric-bike_2.jpg?v=1783756017","retrievedOn":"2026-10-23","transformation":"Inspected the exact G300 SE Ultra product-only gallery image, removed only its plain white studio background with OpenAI image_gen, then padded and resized it to a 1,200 × 1,200 transparent lossless WebP with Sharp. Compared the complete frame, HappyRun and G300 SE Ultra marks, handlebar, cables, body panels, suspension, tires, wheels, spokes and brakes with the source on light and dark backgrounds."},
- {"file":"/images/products/eskute-nova-rr-5500w-electric-dirt-bike.webp","owner":"Eskute","source":"https://cdn.shopify.com/s/files/1/0551/7053/1496/files/180-3.jpg?v=1787899378","retrievedOn":"2026-10-23","transformation":"Inspected the exact official Black / Bike(5500W，60V 30Ah) gallery image, removed only its white background with OpenAI image_gen, then trimmed transparent margins and resized/padded it to a 1,200 × 1,200 transparent lossless WebP with Sharp. Compared the full bike, yellow details, fork, controls, suspension, tires, spokes, chain, sprockets and brakes with the source on light and dark backgrounds."},
- {"file":"/images/products/actbest-cozy-wide-tire-step-through-electric-bike.webp","owner":"Actbest","source":"https://cdn.shopify.com/s/files/1/0763/1064/2970/files/Actbest_Cozy_gray_electric_commuter_bike_with_step-through_frame_fat_tires_fenders_and_rear_cargo_rack.jpg?v=1780486303","retrievedOn":"2026-10-23","transformation":"Inspected the exact Dark Gray Cozy studio image, removed only its white background with OpenAI image_gen, then resized and centered it as a transparent 1,200 × 1,200 lossless WebP with Sharp. Compared the frame, Actbest mark, wheels and spokes, fork, fenders, rack, cables, lights, controls and full outline with the source on light and dark backgrounds."},
- {"file": "/images/products/lankeleisi-mg740plus-dual-motor-electric-bike.webp", "owner": "LANKELEISI", "source": "https://lankeleisi.com/cdn/shop/files/2025-08-14T173153.233.png?v=1755163969", "retrievedOn": "2026-10-23", "transformation": "Inspected the official default gray product image associated with the MG740Plus US listing. Removed only the white studio background and floor shadow with OpenAI image_gen, preserving the bike, frame branding, geometry, motors, battery, wheels, tires, decals, lights, cables and full outline. Scaled proportionally and padded it to a transparent 1,200 × 1,200 lossless WebP with Sharp; checked the source and cutout on light and dark backgrounds."},
- {"file":"/images/products/cycplus-as2-ultra-tiny-e-pump.webp","owner":"CYCPLUS","source":"https://cdn.shopify.com/s/files/1/0413/9597/8398/files/3_0c3ab418-3006-43d9-8349-026bbd59b8ce.png?v=1784623141","retrievedOn":"2026-10-24","transformation":"Inspected the exact official AS2 Ultra studio image, removed only its plain white background with OpenAI image_gen, then trimmed and padded it as a transparent 1,200 × 1,200 lossless WebP with Sharp. Compared the pump, CYCPLUS mark, 120 PSI display, buttons and complete outline with the source on light and dark backgrounds."},
- {"file":"/images/products/cycplus-a8-electric-air-pump.webp","owner":"CYCPLUS","source":"https://cdn.shopify.com/s/files/1/0413/9597/8398/files/6_1c1714c7-1578-4818-b922-3530d2ab71ba.png?v=1784623141","retrievedOn":"2026-10-24","transformation":"Inspected the exact official A8 Grey studio image and removed only its plain white background with OpenAI image_gen. Resized proportionally as a transparent 1,200 × 1,200 lossless WebP with Sharp. Compared the pump body, CYCPLUS mark, 120 PSI display, controls and full outline on light and dark backgrounds."},
- {"file":"/images/products/cycplus-t7-smart-bike.webp","owner":"CYCPLUS","source":"https://cdn.shopify.com/s/files/1/0413/9597/8398/files/b58ce7b99582c961375527c3c6b27ebb.png?v=1789436664","retrievedOn":"2026-10-24","transformation":"Removed the white background from the exact official T7 image with OpenAI image_gen, then trimmed and centered the transparent cutout in a 1,200 × 1,200 lossless WebP with Sharp. Inspected the open frame area, saddle, bars, drive housing, pedals, orange details and floor supports on light and dark backgrounds."},
- {"file":"/images/products/eahora-m1ps-ironbone-horse.webp","owner":"Eahora","source":"https://eahoraescooter.com/cdn/shop/files/m1ps-ironbone-horse-side-view.png?v=1784712474&width=2000","retrievedOn":"2026-10-24","transformation":"Used the exact official Ironbone Horse side-view image. Removed only its white studio background with OpenAI image_gen, then trimmed transparent margins and centered the intact scooter in a 1,200 × 1,200 transparent lossless WebP with Sharp. Compared the frame, Eahora mark, girder fork, controls, seat, wheels, tires, rotors, cables and complete outline with the source on light and dark backgrounds."},
- {"file":"/images/products/mooncool-tk2-pro-electric-trike.webp","owner":"Mooncool","source":"https://cdn.shopify.com/s/files/1/0567/3821/8156/files/180_abe86531-c67b-45a6-8a3b-88e7a9eda0dc.png?v=1790235074","retrievedOn":"2026-10-24","transformation":"The exact official Burgundy-Matte variant image already had a transparent background. Preserved its transparency and original composition, scaled it proportionally to 1,120 × 1,120 and padded it to a 1,200 × 1,200 lossless WebP with Sharp. Compared the trike, TK2 Pro and Mooncool marks, baskets, seat, fenders, wheels, tires, brakes, controls, cables and complete outline on light and dark backgrounds."},
- {"file":"/images/products/mooncool-ft1-fat-tire-electric-trike.webp","owner":"Mooncool","source":"https://cdn.shopify.com/s/files/1/0567/3821/8156/files/180_25fcbb21-05c1-45a6-8a3b-88e7a9eda0dc.png?v=1792036685","retrievedOn":"2026-10-24","transformation":"The exact official Peacock Green-Matte FT1 image was already 1,200 × 1,200 with a transparent background. Preserved the source composition and transparency in a lossless WebP conversion with Sharp; no background-removal edit was needed. Compared the complete trike, Mooncool and FT1 marks, baskets, seat, backrest, tires, wheels, spokes, controls, cables and full outline on light and dark backgrounds."},
- {"file":"/images/products/actbest-striker-max-awd-moped-ebike.webp","owner":"Actbest","source":"https://cdn.shopify.com/s/files/1/0763/1064/2970/files/520f764beb1954cab793b251ed2a5a3f_ba214073-7989-4dce-bafd-9aa8c634cf1f.jpg?v=1775805569","retrievedOn":"2026-10-24","transformation":"Inspected the exact Red Striker Max gallery image and removed only its white background with OpenAI image_gen. Padded and encoded it as a transparent 1,200 × 1,200 lossless WebP with Sharp. Compared the full bike, red decals, seat, frame, fork, dual rear shocks, tires, spokes, cables, drivetrain and brakes with the official source on light and dark backgrounds."},
- {"file":"/images/products/mooncool-pop-folding-electric-bike.webp","owner":"Mooncool","source":"https://cdn.shopify.com/s/files/1/0567/3821/8156/files/180_bcc6be06-6a77-4227-833a-1a8f6acb8243.png?v=1788141569","retrievedOn":"2026-10-24","transformation":"The exact official Cyan Green-Matte POP image already had a transparent background. Preserved its 1,200 × 1,200 composition and alpha in a lossless WebP conversion with Sharp; no background-removal edit was needed. Compared the frame, Mooncool and POP marks, battery, front and rear suspension, wheels, spokes, cables, controls, rack, lights and full outline on white and dark backgrounds."},
- {"file":"/images/products/cycplus-r200-smart-trainer.webp","owner":"CYCPLUS","source":"https://cdn.shopify.com/s/files/1/0413/9597/8398/files/04_d6423849-d3b7-4cc1-a64f-9ca436b644b0.jpg?v=1754472544","retrievedOn":"2026-10-24","transformation":"Inspected the official 2,000 × 2,000 R200 product image and removed only its white studio background and faint floor shadow with OpenAI image_gen. Preserved the trainer geometry, CYCPLUS mark, resistance housing, axle, carry arch, H-frame support and leveling feet; encoded it as a transparent 1,200 × 1,200 lossless WebP with Sharp and compared source/output on white and dark backgrounds."},
- {"file": "/images/products/ausom-l2-max-dual-electric-scooter.webp", "owner": "Ausom", "source": "https://ausomstore.com/cdn/shop/files/4_a7b09f9c-5c3a-44ae-b018-f9bd8e546792.jpg?v=1773913017&width=2000", "retrievedOn": "2026-10-24", "transformation": "Inspected the exact official 1,000 × 1,000 L2 Max Dual Motor side-profile image and removed only the white background with OpenAI image_gen. Resized and padded it as a 1,200 × 1,200 transparent lossless WebP with Sharp. Compared the full scooter, Ausom and L2 Max marks, handlebar controls, cables, frame, deck, dual swingarms, tires, fenders, disc brakes and kickstand with the source on light and dark backgrounds."},
- {"file": "/images/products/gebike-g01-compact-folding-electric-bike.webp", "owner": "GEBIKE", "source": "https://gebikeglobal.com/cdn/shop/files/1_2c05be3d-eee3-444b-ada3-2198bc1efc7d.jpg?v=1787278480&width=2000", "retrievedOn": "2026-10-24", "transformation": "Inspected the exact official Gray / Standard Edition G01 listing image, removed only the white studio background with OpenAI image_gen, then trimmed, proportionally resized and padded it as a 1,200 × 1,200 transparent lossless WebP with Sharp. Compared frame, GEBIKE/G01 marks, handlebars, cables, battery housing, both wheels, tires, spokes, brakes and full outline with the source on white and dark backgrounds."},
- {"file": "/images/products/hiboy-ex11-full-suspension-electric-bike.webp", "owner": "Hiboy", "source": "https://hiboy.com/cdn/shop/files/Hiboy_EX11_Electric_Bike_Navy_Blue.jpg?v=1775093824&width=2000", "retrievedOn": "2026-10-24", "transformation": "Inspected the official Navy Blue EX11 studio image, removed only the white background with OpenAI image_gen, then trimmed, resized proportionally and padded it as a transparent 1,200 × 1,200 lossless WebP with Sharp. Compared the frame, Hiboy and EX11 marks, Navy Blue finish, battery, fork, rear suspension linkage, rack, wheels, tires, spokes, brakes, cables, lights and full outline with the source on white and dark backgrounds."},
- {"file":"/images/products/ausom-k20-pro-dual-motor-electric-scooter.webp","owner":"Ausom","source":"https://ausomstore.com/cdn/shop/files/laluz-2-pro-dual-motor-3.jpg?v=1769071615&width=2000","retrievedOn":"2026-10-24","transformation":"Inspected the exact official K20 Pro Dual Motor gallery image, removed only its white studio background with OpenAI image_gen, then trimmed transparent margins and proportionally resized/centered it as a 1,200 × 1,200 transparent lossless WebP with Sharp. Compared the source and cutout on light and dark backgrounds, preserving the AUSOM marks, yellow accents, controls, cables, lights, suspension, wheels, brakes, tires, deck, hinge and kickstand."},
- {"file":"/images/products/young-electric-e-scout-pro-electric-bike.webp","owner":"Young Electric","source":"https://youngelectricbikes.com/cdn/shop/files/young-ebike.jpg?v=1762942908&width=1600","retrievedOn":"2026-10-24","transformation":"Inspected the official Matte Gun Metal E-Scout Pro studio image and removed only its white background with OpenAI image_gen. Scaled the transparent cutout proportionally, padded it to 1,200 × 1,200 and encoded a lossless WebP with Sharp. Compared the bike, Young Electric and E-Scout Pro marks, frame, rack, fenders, fork, wheels, tires, spokes, cables and full outline against the source on light and dark backgrounds."},
- {"file":"/images/products/eunorau-urus-2-electric-mountain-bike.webp","owner":"EUNORAU","source":"https://cdn.shopify.com/s/files/1/2389/5887/files/URUS2_1.jpg?v=1787046188&width=1946","retrievedOn":"2026-10-24","transformation":"Inspected the official Amethyst URUS 2.0 studio image and removed its white background with OpenAI image_gen. Cropped transparent margins, scaled the bicycle proportionally and centered it on a transparent 1,200 × 1,200 canvas as a lossless WebP with Sharp. Compared the frame and EUNORAU marks, battery, suspension, cables, drivetrain, wheels, tire sidewalls, spokes and reflectors against the official image on light and dark backgrounds."},
- {"file":"/images/products/eunorau-s1-electric-dirt-bike.webp","owner":"EUNORAU","source":"https://cdn.shopify.com/s/files/1/2389/5887/files/S1_4.jpg?v=1787046075&width=1946","retrievedOn":"2026-10-24","transformation":"Inspected the official Orange S1 studio image and used OpenAI image_gen to remove its white background. Sharp trimmed transparent margins, scaled the bike proportionally and centered it on a transparent 1,200 × 1,200 canvas as a lossless WebP. Compared the S1 and EUNORAU marks, frame graphics, tires, spokes, cables, controls, suspension, rotors and kickstand against the official image on light and dark backgrounds."},
- {"file":"/images/products/gebike-gt20-fat-tire-electric-bike.webp","owner":"GEBIKE","source":"https://cdn.shopify.com/s/files/1/0980/8904/2241/files/1_4fdb645e-231e-486b-8581-edb3661a4c28.jpg?v=1778146759","retrievedOn":"2026-10-24","transformation":"Inspected the exact official GT20 side-profile image, removed only its white studio background with OpenAI image_gen, then trimmed transparent margins and proportionally fitted the complete bike on a 1,200 × 1,200 transparent canvas as a lossless WebP with Sharp. Compared the GT20 marks, brown saddle, handlebars and mirror, frame, fork, fenders, tires, wheels, spokes, cables, drivetrain and full outline with the source on light and dark backgrounds."},
- {"file":"/images/products/gebike-g02-hybrid-electric-bike.webp","owner":"GEBIKE","source":"https://cdn.shopify.com/s/files/1/0980/8904/2241/files/2048x2048-06.jpg?v=1788515963","retrievedOn":"2026-10-24","transformation":"Inspected the exact official Olive Green / Standard G02 featured image, removed only its white studio background with OpenAI image_gen, then trimmed transparent margins and proportionally fitted the complete bike on a 1,200 × 1,200 transparent canvas as a lossless WebP with Sharp. Compared the olive frame and G02 mark, battery, front fork, fenders, lights, tires, wheels, spokes, brakes, cables, chain and full outline with the source on light and dark backgrounds."},
- {"file":"/images/products/tomofree-r700-electric-bike.webp","owner":"Tomofree","source":"https://tomofree.com/cdn/shop/files/R700_26101508.png?v=1792051564","retrievedOn":"2026-10-24","transformation":"Inspected the exact official R700 side-profile image and used OpenAI image_gen only to remove its plain light background. Sharp proportionally fitted the transparent cutout to a 1,200 × 1,200 canvas and encoded a lossless WebP. Compared the complete frame, fork, handlebar, headlight, saddle, red rear spring, battery and Tomofree/R700 marks, chain, pedals, fenders, wheels, tires, reflectors and spokes with the official source on light and dark backgrounds."},
- {"file":"/images/products/cycplus-a4-mini-electric-air-pump.webp","owner":"CYCPLUS","source":"https://cdn.shopify.com/s/files/1/0413/9597/8398/files/AS2.2345.jpg?v=1791858622","retrievedOn":"2026-10-24","transformation":"Inspected the exact A4 Mini product-gallery image, removed only its white background with OpenAI image_gen, then proportionally fit the transparent product to a centered 1,200 × 1,200 canvas and encoded a lossless WebP with Sharp. Compared the pump body, CYCPLUS mark, display, buttons, integrated hose and full outline with the official source on light and dark backgrounds."},
- {"file":"/images/products/mooncool-tk-pro-electric-trike.webp","owner":"Mooncool","source":"https://cdn.shopify.com/s/files/1/0567/3821/8156/files/180_cffe7c96-9915-4730-9669-7545afd75772.png?v=1792553641","retrievedOn":"2026-10-24","transformation":"Inspected the exact Blue Haze TK Pro variant image. The official 1,200 × 1,200 PNG already had a transparent background, so its alpha and composition were preserved in a lossless WebP conversion with Sharp; no background removal was needed. Compared the frame and TK Pro/Mooncool marks, battery, baskets, backrest, controls, lighting, fenders, tires, wheels, spokes, cables, drivetrain and full outline on light and dark backgrounds."},
- {"file":"/images/products/ancheer-streetrider-electric-bike.webp","owner":"ANCHEER","source":"https://cdn.shopify.com/s/files/1/0811/8039/3714/files/AMAK00015_P00_US_B.jpg?v=1773036766","retrievedOn":"2026-10-24","transformation":"Inspected the exact Black / One Size StreetRider variant image, then removed only its plain white background with OpenAI image_gen. Sharp trimmed transparent margins, proportionally fitted the complete product on a transparent 1,200 × 1,200 canvas, and encoded a lossless WebP. Compared the ANCHEER logo, frame, battery, controls, fork, seat spring, tires, wheels, spokes, rotors, cables, pedals and complete outline with the official source on light and dark backgrounds."},
- {"file":"/images/products/hiboy-s2-pro-electric-scooter.webp","owner":"Hiboy","source":"https://cdn.shopify.com/s/files/1/0425/6350/2247/files/1_4_58517d89-e631-4b53-9a96-914cae6f2f44.jpg?v=1735615061","retrievedOn":"2026-10-24","transformation":"Inspected the exact official Basic variant image, removed only the white studio background with OpenAI image_gen, then trimmed transparent margins, proportionally fitted it to a centered 1,200 × 1,200 canvas and encoded a lossless WebP with Sharp. Compared the Hiboy and S2 Pro marks, handlebars, cables, folding latch, deck, tires, rear brake, fenders, lights, kickstand and complete silhouette against the source on light and dark backgrounds."},
- {"file":"/images/products/actbest-summit-plus-full-suspension-fat-tire-electric-bike.webp","owner":"Actbest","source":"https://cdn.shopify.com/s/files/1/0763/1064/2970/files/c0fa7a95c0d800d184d00deba0c193c6_84a8c90d-2eb7-415b-9ee9-c35b379d11a0.jpg?v=1780555662","retrievedOn":"2026-10-24","transformation":"Inspected the exact official Gray variant image and removed only its white studio background with OpenAI image_gen. Sharp trimmed transparent margins, proportionally fitted the cutout to a centered 1,200 × 1,200 canvas and encoded a lossless WebP. Compared the Gray frame and Actbest/Summit Plus marks, handlebars and cables, fork, rear suspension, rack, tires, wheels, spokes, brakes, pedals and complete outline against the official source on light and dark backgrounds."},
- {"file":"/images/products/happyrun-g100-pro-6000w-electric-bike.webp","owner":"HappyRun","source":"https://cdn.shopify.com/s/files/1/0600/6741/4116/files/happyrun-G100pro-electric-motorcycle-product.jpg?v=1783755896","retrievedOn":"2026-10-24","transformation":"Inspected the official Black G100 Pro gallery image and removed only its white studio background with OpenAI image_gen. Sharp trimmed transparent margins, proportionally fitted the bike to a centered 1,200 × 1,200 canvas and encoded a lossless WebP. Compared the frame, HappyRun and G100 Pro marks, handlebars, display, cables, both battery housings, fork, front and rear suspension, tires, wheels, spokes, brakes, seat, footpegs and full outline with the source on light and dark backgrounds. The unrelated current variant image with a Halloween gift overlay was excluded."},
- {"file":"/images/products/lankeleisi-x3000-max-dual-motor-electric-bike.webp","owner":"LANKELEISI","source":"https://cdn.shopify.com/s/files/1/0621/3704/1095/files/lankeleisi-x3000-max-2000w-dual-motor-foldable-electric-mountain-bikenew-arrivals-eu-orange-ebike-313.jpg?v=1704345074","retrievedOn":"2026-10-24","transformation":"Inspected the exact official Orange / US studio image and removed only its white background and floor shadow with OpenAI image_gen. Resized proportionally as a transparent 1,200 × 1,200 lossless WebP with Sharp. Compared the Orange frame and Lankeleisi/X3000 MAX marks, folding hinge, front and rear hub motors, battery, headlight, fork, rack, tires, wheels, spokes, cables, brakes, drivetrain and complete outline against the source on light and dark backgrounds."},
+  {
+    "file": "/images/pace-5.webp",
+    "owner": "Aventon",
+    "source": "https://cdn.shopify.com/s/files/1/1520/2468/files/Pace-5-REC-Anvil-01_e42b56cd-32b9-4bdc-bc52-c7a16b132112_jpg.png",
+    "retrievedOn": "2026-10-19"
+  },
+  {
+    "file": "/images/hero.webp",
+    "owner": "Aventon",
+    "source": "https://aventon-images.imgix.net/files/Pace5-Lifestyle-02.jpg",
+    "retrievedOn": "2026-10-19"
+  },
+  {
+    "file": "/images/lifestyle.webp",
+    "owner": "Aventon",
+    "source": "https://aventon-images.imgix.net/files/Pace5-Lifestyle-03.jpg",
+    "retrievedOn": "2026-10-19"
+  },
+  {
+    "file": "/images/roadster-v3.webp",
+    "owner": "Ride1Up",
+    "source": "https://ride1up.com/wp-content/uploads/2026/03/RV3-MedLrg_Grn-1400x869.webp",
+    "retrievedOn": "2026-10-19"
+  },
+  {
+    "file": "/images/xpress2.webp",
+    "owner": "Lectric",
+    "source": "https://cdn.shopify.com/s/files/1/0229/0735/5214/files/PDP_1st-Image_XPress2_Tempest_Grey_Standard_Seatpost.webp?v=1781295271",
+    "retrievedOn": "2026-10-19"
+  },
+  {
+    "file": "/images/logo.webp",
+    "owner": "Bike Tested",
+    "source": "Owner-provided horizontal logo package",
+    "transformation": "Whitespace cropped and resized, artwork preserved"
+  },
+  {
+    "file": "/images/products/mooncool-tk2-folding-electric-trike.webp",
+    "owner": "Mooncool",
+    "source": "https://cdn.shopify.com/s/files/1/0567/3821/8156/files/180_33ebc588-fcba-4565-9b14-a3c46b4240c5.png?v=1790651200",
+    "retrievedOn": "2026-10-22",
+    "transformation": "Lossless WebP conversion only; source PNG already has transparency. Exact Cyan Green-Matte TK2 inspected on light and dark backgrounds; complete trike, spokes, controls and edges preserved."
+  },
+  {
+    "file": "/images/products/ausom-gosoul-2-electric-scooter.webp",
+    "owner": "Ausom",
+    "source": "https://ausomstore.com/cdn/shop/files/gosoul-2-single-motor-1.jpg?v=1771817933",
+    "retrievedOn": "2026-10-22",
+    "transformation": "The exact official single-motor studio image was inspected, edited to remove only its plain white background, then resized to 1200 × 1200 transparent lossless WebP. Full scooter identity and parts checked on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/cycplus-as2-pro-max-tiny-e-pump.webp",
+    "owner": "CYCPLUS",
+    "source": "https://cdn.shopify.com/s/files/1/0413/9597/8398/files/5_c2be38e7-3ce8-4baa-8635-f1fa19d3554f.png?v=1784623141",
+    "retrievedOn": "2026-10-22",
+    "transformation": "Background-removal edit of the exact official AS2 Pro Max studio image, then resized to 1200 × 1200 transparent lossless WebP. Model, branding, pressure display and controls visually compared with the source; no accessory or alternate product added."
+  },
+  {
+    "file": "/images/products/finbike-eb8-electric-bike.webp",
+    "owner": "FinBike",
+    "source": "https://cdn.shopify.com/s/files/1/0690/7808/9785/files/finbike-eb8-e-bike_3.webp?v=1787204743",
+    "retrievedOn": "2026-10-22",
+    "transformation": "Background-removal edit of the exact official Grey EB8 studio image, then resized to 1200 × 1200 transparent lossless WebP. Frame, EB8 lettering, battery, wheels, spokes, controls, rack, lights and edges visually compared with the original on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/hiknight-h2pro-off-road-electric-bike.webp",
+    "owner": "HiKNiGHT",
+    "source": "https://cdn.shopify.com/s/files/1/0761/1229/8204/files/H2_ProGrey.webp?v=1778310602",
+    "retrievedOn": "2026-10-22",
+    "transformation": "Background-removal edit of the exact official Grey H2 Pro studio image, padded and resized to a 1200 × 1200 transparent lossless WebP. Frame lettering, battery, rear rack, tires, spokes, cables, brakes, lights and edges were compared with the source on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/hiknight-gtx2-electric-dirt-bike.webp",
+    "owner": "HiKNiGHT",
+    "source": "https://cdn.shopify.com/s/files/1/0761/1229/8204/files/Electric_Dirt_Bike_GTX2.webp?v=1789360395",
+    "retrievedOn": "2026-10-24",
+    "transformation": "Inspected the exact official Silver-Black GTX2 product image, removed its remaining studio floor and white backdrop with OpenAI image_gen, then trimmed, centered and padded it to a 1200 × 1200 transparent lossless WebP with Sharp. Compared the GTX2 panels and decals, handlebars, fork, fenders, tires, spokes, brake discs and silhouette with the source on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/ekx-x21-max-electric-dirt-bike.webp",
+    "owner": "EKX",
+    "source": "https://cdn.shopify.com/s/files/1/0649/3657/5163/files/EKXBIKE-X21_Max-Eectricl_Dirt_Bike_1.png?v=1782825366",
+    "retrievedOn": "2026-10-23",
+    "transformation": "Inspected the exact official X21 Max gallery image, removed only its light background with OpenAI image_gen, then resized with Sharp to a padded 1200 × 1200 transparent lossless WebP. Compared the frame, EKX marks, orange fork graphics, battery enclosure, suspension, controls, tires, rotors, spokes and cables with the source on light and dark backgrounds; the first edit with a stray background line was discarded."
+  },
+  {
+    "file": "/images/products/leoout-t85-electric-scooter.webp",
+    "owner": "Leoout",
+    "source": "https://cdn.shopify.com/s/files/1/0764/0632/5561/files/5_389bd376-4353-4c1a-ab7a-ed5d9c4125bc.jpg?v=1733809736",
+    "retrievedOn": "2026-10-23",
+    "transformation": "Inspected the official 1,920 × 1,920 T85 gallery image for the exact Scooter with Seat variant, removed the white and decorative paint-splash background with OpenAI image_gen, then resized to a 1,200 × 1,200 transparent lossless WebP using Sharp. Compared the scooter, seat, tires, controls, gold fork, frame marks and edges against the source on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/voltrover-m5-electric-dirt-bike.webp",
+    "owner": "Voltrover",
+    "source": "https://voltrover.shop/cdn/shop/files/F1.png?v=1763110335&width=3840",
+    "retrievedOn": "2026-10-23",
+    "transformation": "Inspected the exact official M5 48V21Ah product gallery image, removed only its nearly black studio background with OpenAI image_gen, then padded, resized and centered it on a transparent 1,200 × 1,200 canvas as a lossless WebP with Sharp. Compared the frame, battery enclosure, Voltrover marks, orange forks and rims, tires, spokes, controls and kickstand against the source on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/young-electric-tire-press-2-ebike-rack.webp",
+    "owner": "Young Electric",
+    "source": "https://cdn.shopify.com/s/files/1/0614/3262/7408/files/4186withbrakelight_39da0473-d079-4d9a-8f2d-4169c925a731.jpg?v=1789446037",
+    "retrievedOn": "2026-10-23",
+    "transformation": "Inspected the exact official product image for selected SKU 10104186BL-M, removed only the white canvas with OpenAI image_gen, then trimmed transparent margins and centered the original composition on a transparent 1,200 × 1,200 canvas as a lossless WebP with Sharp. Compared rack rails, red clamps, Young branding, two lamps, lock and key against the source on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/gebike-g03-city-commuter-ebike.webp",
+    "owner": "GEBIKE",
+    "source": "https://cdn.shopify.com/s/files/1/0980/8904/2241/files/01_535c6e53-8c7c-4b70-a718-93eb3d0320ef.jpg?v=1786011367",
+    "retrievedOn": "2026-10-23",
+    "transformation": "Inspected the exact official Gray / Standard G03 listing image, removed only the white studio background with OpenAI image_gen, then resized to a 1,200 × 1,200 transparent lossless WebP with Sharp. Compared frame, GEBIKE logo, cable routing, wheels, spokes, fork, rack and lights with the source on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/ancheer-hummer-electric-bike.webp",
+    "owner": "ANCHEER",
+    "source": "https://cdn.shopify.com/s/files/1/0811/8039/3714/files/AMAK00009_P00_US_BU.jpg?v=1773036378",
+    "retrievedOn": "2026-10-23",
+    "transformation": "Inspected the exact Blue / One Size variant image, removed only the white studio background with OpenAI image_gen, then centered it on a padded 1,200 × 1,200 transparent lossless WebP using Sharp. Compared ANCHEER branding, blue graphics, frame, battery, controls, wheels, spokes, fork, brakes and cables with the source on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/burchda-u8-step-thru-electric-bike.webp",
+    "owner": "Burchda",
+    "source": "https://www.burchda-ebike.com/cdn/shop/files/3_3e0e165d-9627-48fe-ad44-cbcc705b0c15.jpg?v=1784822697",
+    "retrievedOn": "2026-10-23",
+    "transformation": "Inspected the exact Champagne Gold / 1000W / 48V31.5Ah U8 2026 Upgrade image, removed the white studio background and floor reflection with OpenAI image_gen, then trimmed, centered and padded to a transparent 1,200 × 1,200 lossless WebP with Sharp. Compared the frame, Burchda marks, basket, rack cushion, wheels, spokes, battery, fork, controls and brakes against the source on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/eunorau-meta275-2-electric-bike.webp",
+    "owner": "Eunorau",
+    "source": "https://eunorau-ebike.com/cdn/shop/files/META2752_11.jpg?v=1787045616&width=1946",
+    "retrievedOn": "2026-10-23",
+    "transformation": "Inspected the exact official Deep Crimson META275 2.0 gallery image, removed only the white studio background with OpenAI image_gen, then resized and padded it to a 1,200 × 1,200 transparent lossless WebP with Sharp. Compared the Eunorau frame marks, battery enclosure, fork, rack, tires, spokes, controls, cables and full wheel outlines with the source on light and dark backgrounds; the first edit clipped tire edges and was discarded."
+  },
+  {
+    "file": "/images/products/gyroor-c5-electric-trike.webp",
+    "owner": "Gyroor",
+    "source": "https://cdn.shopify.com/s/files/1/2191/9995/files/gyroor-c5-electric-trike-front-angle-ffd1c816ea.webp?v=1783052599",
+    "retrievedOn": "2026-10-23",
+    "transformation": "Inspected the exact official Black C5 studio image, removed only the white background and floor shadow with OpenAI image_gen, then cropped transparent margins, centered and padded it to a 1,200 × 1,200 transparent lossless WebP with Sharp. Compared the frame, seat, rear and front baskets, handlebars, controls, cables, tires, wheel accents, brakes and full outline with the source on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/hycline-code-bones-fat-tire-set.webp",
+    "owner": "Hycline",
+    "source": "https://cdn.shopify.com/s/files/1/0642/0987/9265/files/code_bone_fat_tire_2.jpg?v=1787562750",
+    "retrievedOn": "2026-10-23",
+    "transformation": "Inspected the official 20×4 package image showing two Code: Bones tires, two inner tubes and two tire levers. Removed only its white studio background with OpenAI image_gen, then trimmed transparent margins, centered and padded the cutout to a 1,200 × 1,200 transparent lossless WebP with Sharp. Compared tire count, 20×4 sidewall marks, tread, tube count, valve details, lever count and full edges with the source on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/hiboy-ex6f-foldable-electric-bike.webp",
+    "owner": "Hiboy",
+    "source": "https://cdn.shopify.com/s/files/1/0425/6350/2247/files/5_10a8cce5-1c98-4491-b85d-cb3d3d200158.jpg?v=1765881793",
+    "retrievedOn": "2026-10-23",
+    "transformation": "Inspected the official Navy EX6F product-gallery image, removed only its white studio background with OpenAI image_gen, then resized and padded it with Sharp to a 1,200 × 1,200 transparent lossless WebP. Compared the frame, navy color, Hiboy and EX6F decals, full tires, spokes, fork, rack, battery, fenders, controls, brakes, cables and edges with the source on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/tomofree-t1max-folding-ebike.webp",
+    "owner": "Tomofree",
+    "source": "https://cdn.shopify.com/s/files/1/0614/9131/4828/files/T1MAX26092902.png?v=1790675572",
+    "retrievedOn": "2026-10-23",
+    "transformation": "Inspected the exact official folded T1MAX studio image, removed only the white background with OpenAI image_gen, then resized the 1,056px cutout and centered it with 72px transparent padding in a 1,200 × 1,200 lossless WebP using Sharp. Compared the Tomofree and T1MAX marks, folded frame, both seats, tires, wheels, spokes, pedals, fenders, cables, lights and full edges against the source on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/zwheel-d3-d-electric-scooter.webp",
+    "owner": "Zwheel Sport",
+    "source": "https://cdn.shopify.com/s/files/1/0746/3075/8554/files/d3-d_114.jpg?v=1785404433",
+    "retrievedOn": "2026-10-23",
+    "transformation": "Inspected the official Red D3-D gallery image, removed only its plain white background with OpenAI image_gen, then trimmed and centered the transparent cutout in a padded 1,200 × 1,200 lossless WebP using Sharp. Compared the complete scooter, frame, ZWHEEL markings, deck, tires, wheels, suspension, brakes, cables, display, lights and kickstand against the source on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/happyrun-g300-se-ultra-electric-dirt-bike.webp",
+    "owner": "HappyRun",
+    "source": "https://cdn.shopify.com/s/files/1/0600/6741/4116/files/G300SE-Ultra-electric-bike_2.jpg?v=1783756017",
+    "retrievedOn": "2026-10-23",
+    "transformation": "Inspected the exact G300 SE Ultra product-only gallery image, removed only its plain white studio background with OpenAI image_gen, then padded and resized it to a 1,200 × 1,200 transparent lossless WebP with Sharp. Compared the complete frame, HappyRun and G300 SE Ultra marks, handlebar, cables, body panels, suspension, tires, wheels, spokes and brakes with the source on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/eskute-nova-rr-5500w-electric-dirt-bike.webp",
+    "owner": "Eskute",
+    "source": "https://cdn.shopify.com/s/files/1/0551/7053/1496/files/180-3.jpg?v=1787899378",
+    "retrievedOn": "2026-10-23",
+    "transformation": "Inspected the exact official Black / Bike(5500W，60V 30Ah) gallery image, removed only its white background with OpenAI image_gen, then trimmed transparent margins and resized/padded it to a 1,200 × 1,200 transparent lossless WebP with Sharp. Compared the full bike, yellow details, fork, controls, suspension, tires, spokes, chain, sprockets and brakes with the source on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/actbest-cozy-wide-tire-step-through-electric-bike.webp",
+    "owner": "Actbest",
+    "source": "https://cdn.shopify.com/s/files/1/0763/1064/2970/files/Actbest_Cozy_gray_electric_commuter_bike_with_step-through_frame_fat_tires_fenders_and_rear_cargo_rack.jpg?v=1780486303",
+    "retrievedOn": "2026-10-23",
+    "transformation": "Inspected the exact Dark Gray Cozy studio image, removed only its white background with OpenAI image_gen, then resized and centered it as a transparent 1,200 × 1,200 lossless WebP with Sharp. Compared the frame, Actbest mark, wheels and spokes, fork, fenders, rack, cables, lights, controls and full outline with the source on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/lankeleisi-mg740plus-dual-motor-electric-bike.webp",
+    "owner": "LANKELEISI",
+    "source": "https://lankeleisi.com/cdn/shop/files/2025-08-14T173153.233.png?v=1755163969",
+    "retrievedOn": "2026-10-23",
+    "transformation": "Inspected the official default gray product image associated with the MG740Plus US listing. Removed only the white studio background and floor shadow with OpenAI image_gen, preserving the bike, frame branding, geometry, motors, battery, wheels, tires, decals, lights, cables and full outline. Scaled proportionally and padded it to a transparent 1,200 × 1,200 lossless WebP with Sharp; checked the source and cutout on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/cycplus-as2-ultra-tiny-e-pump.webp",
+    "owner": "CYCPLUS",
+    "source": "https://cdn.shopify.com/s/files/1/0413/9597/8398/files/3_0c3ab418-3006-43d9-8349-026bbd59b8ce.png?v=1784623141",
+    "retrievedOn": "2026-10-24",
+    "transformation": "Inspected the exact official AS2 Ultra studio image, removed only its plain white background with OpenAI image_gen, then trimmed and padded it as a transparent 1,200 × 1,200 lossless WebP with Sharp. Compared the pump, CYCPLUS mark, 120 PSI display, buttons and complete outline with the source on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/cycplus-a8-electric-air-pump.webp",
+    "owner": "CYCPLUS",
+    "source": "https://cdn.shopify.com/s/files/1/0413/9597/8398/files/6_1c1714c7-1578-4818-b922-3530d2ab71ba.png?v=1784623141",
+    "retrievedOn": "2026-10-24",
+    "transformation": "Inspected the exact official A8 Grey studio image and removed only its plain white background with OpenAI image_gen. Resized proportionally as a transparent 1,200 × 1,200 lossless WebP with Sharp. Compared the pump body, CYCPLUS mark, 120 PSI display, controls and full outline on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/cycplus-t7-smart-bike.webp",
+    "owner": "CYCPLUS",
+    "source": "https://cdn.shopify.com/s/files/1/0413/9597/8398/files/b58ce7b99582c961375527c3c6b27ebb.png?v=1789436664",
+    "retrievedOn": "2026-10-24",
+    "transformation": "Removed the white background from the exact official T7 image with OpenAI image_gen, then trimmed and centered the transparent cutout in a 1,200 × 1,200 lossless WebP with Sharp. Inspected the open frame area, saddle, bars, drive housing, pedals, orange details and floor supports on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/eahora-m1ps-ironbone-horse.webp",
+    "owner": "Eahora",
+    "source": "https://eahoraescooter.com/cdn/shop/files/m1ps-ironbone-horse-side-view.png?v=1784712474&width=2000",
+    "retrievedOn": "2026-10-24",
+    "transformation": "Used the exact official Ironbone Horse side-view image. Removed only its white studio background with OpenAI image_gen, then trimmed transparent margins and centered the intact scooter in a 1,200 × 1,200 transparent lossless WebP with Sharp. Compared the frame, Eahora mark, girder fork, controls, seat, wheels, tires, rotors, cables and complete outline with the source on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/mooncool-tk2-pro-electric-trike.webp",
+    "owner": "Mooncool",
+    "source": "https://cdn.shopify.com/s/files/1/0567/3821/8156/files/180_abe86531-c67b-45a6-8a3b-88e7a9eda0dc.png?v=1790235074",
+    "retrievedOn": "2026-10-24",
+    "transformation": "The exact official Burgundy-Matte variant image already had a transparent background. Preserved its transparency and original composition, scaled it proportionally to 1,120 × 1,120 and padded it to a 1,200 × 1,200 lossless WebP with Sharp. Compared the trike, TK2 Pro and Mooncool marks, baskets, seat, fenders, wheels, tires, brakes, controls, cables and complete outline on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/mooncool-ft1-fat-tire-electric-trike.webp",
+    "owner": "Mooncool",
+    "source": "https://cdn.shopify.com/s/files/1/0567/3821/8156/files/180_25fcbb21-05c1-45a6-8a3b-88e7a9eda0dc.png?v=1792036685",
+    "retrievedOn": "2026-10-24",
+    "transformation": "The exact official Peacock Green-Matte FT1 image was already 1,200 × 1,200 with a transparent background. Preserved the source composition and transparency in a lossless WebP conversion with Sharp; no background-removal edit was needed. Compared the complete trike, Mooncool and FT1 marks, baskets, seat, backrest, tires, wheels, spokes, controls, cables and full outline on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/actbest-striker-max-awd-moped-ebike.webp",
+    "owner": "Actbest",
+    "source": "https://cdn.shopify.com/s/files/1/0763/1064/2970/files/520f764beb1954cab793b251ed2a5a3f_ba214073-7989-4dce-bafd-9aa8c634cf1f.jpg?v=1775805569",
+    "retrievedOn": "2026-10-24",
+    "transformation": "Inspected the exact Red Striker Max gallery image and removed only its white background with OpenAI image_gen. Padded and encoded it as a transparent 1,200 × 1,200 lossless WebP with Sharp. Compared the full bike, red decals, seat, frame, fork, dual rear shocks, tires, spokes, cables, drivetrain and brakes with the official source on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/mooncool-pop-folding-electric-bike.webp",
+    "owner": "Mooncool",
+    "source": "https://cdn.shopify.com/s/files/1/0567/3821/8156/files/180_bcc6be06-6a77-4227-833a-1a8f6acb8243.png?v=1788141569",
+    "retrievedOn": "2026-10-24",
+    "transformation": "The exact official Cyan Green-Matte POP image already had a transparent background. Preserved its 1,200 × 1,200 composition and alpha in a lossless WebP conversion with Sharp; no background-removal edit was needed. Compared the frame, Mooncool and POP marks, battery, front and rear suspension, wheels, spokes, cables, controls, rack, lights and full outline on white and dark backgrounds."
+  },
+  {
+    "file": "/images/products/cycplus-r200-smart-trainer.webp",
+    "owner": "CYCPLUS",
+    "source": "https://cdn.shopify.com/s/files/1/0413/9597/8398/files/04_d6423849-d3b7-4cc1-a64f-9ca436b644b0.jpg?v=1754472544",
+    "retrievedOn": "2026-10-24",
+    "transformation": "Inspected the official 2,000 × 2,000 R200 product image and removed only its white studio background and faint floor shadow with OpenAI image_gen. Preserved the trainer geometry, CYCPLUS mark, resistance housing, axle, carry arch, H-frame support and leveling feet; encoded it as a transparent 1,200 × 1,200 lossless WebP with Sharp and compared source/output on white and dark backgrounds."
+  },
+  {
+    "file": "/images/products/ausom-l2-max-dual-electric-scooter.webp",
+    "owner": "Ausom",
+    "source": "https://ausomstore.com/cdn/shop/files/4_a7b09f9c-5c3a-44ae-b018-f9bd8e546792.jpg?v=1773913017&width=2000",
+    "retrievedOn": "2026-10-24",
+    "transformation": "Inspected the exact official 1,000 × 1,000 L2 Max Dual Motor side-profile image and removed only the white background with OpenAI image_gen. Resized and padded it as a 1,200 × 1,200 transparent lossless WebP with Sharp. Compared the full scooter, Ausom and L2 Max marks, handlebar controls, cables, frame, deck, dual swingarms, tires, fenders, disc brakes and kickstand with the source on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/gebike-g01-compact-folding-electric-bike.webp",
+    "owner": "GEBIKE",
+    "source": "https://gebikeglobal.com/cdn/shop/files/1_2c05be3d-eee3-444b-ada3-2198bc1efc7d.jpg?v=1787278480&width=2000",
+    "retrievedOn": "2026-10-24",
+    "transformation": "Inspected the exact official Gray / Standard Edition G01 listing image, removed only the white studio background with OpenAI image_gen, then trimmed, proportionally resized and padded it as a 1,200 × 1,200 transparent lossless WebP with Sharp. Compared frame, GEBIKE/G01 marks, handlebars, cables, battery housing, both wheels, tires, spokes, brakes and full outline with the source on white and dark backgrounds."
+  },
+  {
+    "file": "/images/products/hiboy-ex11-full-suspension-electric-bike.webp",
+    "owner": "Hiboy",
+    "source": "https://hiboy.com/cdn/shop/files/Hiboy_EX11_Electric_Bike_Navy_Blue.jpg?v=1775093824&width=2000",
+    "retrievedOn": "2026-10-24",
+    "transformation": "Inspected the official Navy Blue EX11 studio image, removed only the white background with OpenAI image_gen, then trimmed, resized proportionally and padded it as a transparent 1,200 × 1,200 lossless WebP with Sharp. Compared the frame, Hiboy and EX11 marks, Navy Blue finish, battery, fork, rear suspension linkage, rack, wheels, tires, spokes, brakes, cables, lights and full outline with the source on white and dark backgrounds."
+  },
+  {
+    "file": "/images/products/ausom-k20-pro-dual-motor-electric-scooter.webp",
+    "owner": "Ausom",
+    "source": "https://ausomstore.com/cdn/shop/files/laluz-2-pro-dual-motor-3.jpg?v=1769071615&width=2000",
+    "retrievedOn": "2026-10-24",
+    "transformation": "Inspected the exact official K20 Pro Dual Motor gallery image, removed only its white studio background with OpenAI image_gen, then trimmed transparent margins and proportionally resized/centered it as a 1,200 × 1,200 transparent lossless WebP with Sharp. Compared the source and cutout on light and dark backgrounds, preserving the AUSOM marks, yellow accents, controls, cables, lights, suspension, wheels, brakes, tires, deck, hinge and kickstand."
+  },
+  {
+    "file": "/images/products/young-electric-e-scout-pro-electric-bike.webp",
+    "owner": "Young Electric",
+    "source": "https://youngelectricbikes.com/cdn/shop/files/young-ebike.jpg?v=1762942908&width=1600",
+    "retrievedOn": "2026-10-24",
+    "transformation": "Inspected the official Matte Gun Metal E-Scout Pro studio image and removed only its white background with OpenAI image_gen. Scaled the transparent cutout proportionally, padded it to 1,200 × 1,200 and encoded a lossless WebP with Sharp. Compared the bike, Young Electric and E-Scout Pro marks, frame, rack, fenders, fork, wheels, tires, spokes, cables and full outline against the source on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/eunorau-urus-2-electric-mountain-bike.webp",
+    "owner": "EUNORAU",
+    "source": "https://cdn.shopify.com/s/files/1/2389/5887/files/URUS2_1.jpg?v=1787046188&width=1946",
+    "retrievedOn": "2026-10-24",
+    "transformation": "Inspected the official Amethyst URUS 2.0 studio image and removed its white background with OpenAI image_gen. Cropped transparent margins, scaled the bicycle proportionally and centered it on a transparent 1,200 × 1,200 canvas as a lossless WebP with Sharp. Compared the frame and EUNORAU marks, battery, suspension, cables, drivetrain, wheels, tire sidewalls, spokes and reflectors against the official image on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/eunorau-s1-electric-dirt-bike.webp",
+    "owner": "EUNORAU",
+    "source": "https://cdn.shopify.com/s/files/1/2389/5887/files/S1_4.jpg?v=1787046075&width=1946",
+    "retrievedOn": "2026-10-24",
+    "transformation": "Inspected the official Orange S1 studio image and used OpenAI image_gen to remove its white background. Sharp trimmed transparent margins, scaled the bike proportionally and centered it on a transparent 1,200 × 1,200 canvas as a lossless WebP. Compared the S1 and EUNORAU marks, frame graphics, tires, spokes, cables, controls, suspension, rotors and kickstand against the official image on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/gebike-gt20-fat-tire-electric-bike.webp",
+    "owner": "GEBIKE",
+    "source": "https://cdn.shopify.com/s/files/1/0980/8904/2241/files/1_4fdb645e-231e-486b-8581-edb3661a4c28.jpg?v=1778146759",
+    "retrievedOn": "2026-10-24",
+    "transformation": "Inspected the exact official GT20 side-profile image, removed only its white studio background with OpenAI image_gen, then trimmed transparent margins and proportionally fitted the complete bike on a 1,200 × 1,200 transparent canvas as a lossless WebP with Sharp. Compared the GT20 marks, brown saddle, handlebars and mirror, frame, fork, fenders, tires, wheels, spokes, cables, drivetrain and full outline with the source on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/gebike-g02-hybrid-electric-bike.webp",
+    "owner": "GEBIKE",
+    "source": "https://cdn.shopify.com/s/files/1/0980/8904/2241/files/2048x2048-06.jpg?v=1788515963",
+    "retrievedOn": "2026-10-24",
+    "transformation": "Inspected the exact official Olive Green / Standard G02 featured image, removed only its white studio background with OpenAI image_gen, then trimmed transparent margins and proportionally fitted the complete bike on a 1,200 × 1,200 transparent canvas as a lossless WebP with Sharp. Compared the olive frame and G02 mark, battery, front fork, fenders, lights, tires, wheels, spokes, brakes, cables, chain and full outline with the source on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/tomofree-r700-electric-bike.webp",
+    "owner": "Tomofree",
+    "source": "https://tomofree.com/cdn/shop/files/R700_26101508.png?v=1792051564",
+    "retrievedOn": "2026-10-24",
+    "transformation": "Inspected the exact official R700 side-profile image and used OpenAI image_gen only to remove its plain light background. Sharp proportionally fitted the transparent cutout to a 1,200 × 1,200 canvas and encoded a lossless WebP. Compared the complete frame, fork, handlebar, headlight, saddle, red rear spring, battery and Tomofree/R700 marks, chain, pedals, fenders, wheels, tires, reflectors and spokes with the official source on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/cycplus-a4-mini-electric-air-pump.webp",
+    "owner": "CYCPLUS",
+    "source": "https://cdn.shopify.com/s/files/1/0413/9597/8398/files/AS2.2345.jpg?v=1791858622",
+    "retrievedOn": "2026-10-24",
+    "transformation": "Inspected the exact A4 Mini product-gallery image, removed only its white background with OpenAI image_gen, then proportionally fit the transparent product to a centered 1,200 × 1,200 canvas and encoded a lossless WebP with Sharp. Compared the pump body, CYCPLUS mark, display, buttons, integrated hose and full outline with the official source on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/mooncool-tk-pro-electric-trike.webp",
+    "owner": "Mooncool",
+    "source": "https://cdn.shopify.com/s/files/1/0567/3821/8156/files/180_cffe7c96-9915-4730-9669-7545afd75772.png?v=1792553641",
+    "retrievedOn": "2026-10-24",
+    "transformation": "Inspected the exact Blue Haze TK Pro variant image. The official 1,200 × 1,200 PNG already had a transparent background, so its alpha and composition were preserved in a lossless WebP conversion with Sharp; no background removal was needed. Compared the frame and TK Pro/Mooncool marks, battery, baskets, backrest, controls, lighting, fenders, tires, wheels, spokes, cables, drivetrain and full outline on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/ancheer-streetrider-electric-bike.webp",
+    "owner": "ANCHEER",
+    "source": "https://cdn.shopify.com/s/files/1/0811/8039/3714/files/AMAK00015_P00_US_B.jpg?v=1773036766",
+    "retrievedOn": "2026-10-24",
+    "transformation": "Inspected the exact Black / One Size StreetRider variant image, then removed only its plain white background with OpenAI image_gen. Sharp trimmed transparent margins, proportionally fitted the complete product on a transparent 1,200 × 1,200 canvas, and encoded a lossless WebP. Compared the ANCHEER logo, frame, battery, controls, fork, seat spring, tires, wheels, spokes, rotors, cables, pedals and complete outline with the official source on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/hiboy-s2-pro-electric-scooter.webp",
+    "owner": "Hiboy",
+    "source": "https://cdn.shopify.com/s/files/1/0425/6350/2247/files/1_4_58517d89-e631-4b53-9a96-914cae6f2f44.jpg?v=1735615061",
+    "retrievedOn": "2026-10-24",
+    "transformation": "Inspected the exact official Basic variant image, removed only the white studio background with OpenAI image_gen, then trimmed transparent margins, proportionally fitted it to a centered 1,200 × 1,200 canvas and encoded a lossless WebP with Sharp. Compared the Hiboy and S2 Pro marks, handlebars, cables, folding latch, deck, tires, rear brake, fenders, lights, kickstand and complete silhouette against the source on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/actbest-summit-plus-full-suspension-fat-tire-electric-bike.webp",
+    "owner": "Actbest",
+    "source": "https://cdn.shopify.com/s/files/1/0763/1064/2970/files/c0fa7a95c0d800d184d00deba0c193c6_84a8c90d-2eb7-415b-9ee9-c35b379d11a0.jpg?v=1780555662",
+    "retrievedOn": "2026-10-24",
+    "transformation": "Inspected the exact official Gray variant image and removed only its white studio background with OpenAI image_gen. Sharp trimmed transparent margins, proportionally fitted the cutout to a centered 1,200 × 1,200 canvas and encoded a lossless WebP. Compared the Gray frame and Actbest/Summit Plus marks, handlebars and cables, fork, rear suspension, rack, tires, wheels, spokes, brakes, pedals and complete outline against the official source on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/happyrun-g100-pro-6000w-electric-bike.webp",
+    "owner": "HappyRun",
+    "source": "https://cdn.shopify.com/s/files/1/0600/6741/4116/files/happyrun-G100pro-electric-motorcycle-product.jpg?v=1783755896",
+    "retrievedOn": "2026-10-24",
+    "transformation": "Inspected the official Black G100 Pro gallery image and removed only its white studio background with OpenAI image_gen. Sharp trimmed transparent margins, proportionally fitted the bike to a centered 1,200 × 1,200 canvas and encoded a lossless WebP. Compared the frame, HappyRun and G100 Pro marks, handlebars, display, cables, both battery housings, fork, front and rear suspension, tires, wheels, spokes, brakes, seat, footpegs and full outline with the source on light and dark backgrounds. The unrelated current variant image with a Halloween gift overlay was excluded."
+  },
+  {
+    "file": "/images/products/lankeleisi-x3000-max-dual-motor-electric-bike.webp",
+    "owner": "LANKELEISI",
+    "source": "https://cdn.shopify.com/s/files/1/0621/3704/1095/files/lankeleisi-x3000-max-2000w-dual-motor-foldable-electric-mountain-bikenew-arrivals-eu-orange-ebike-313.jpg?v=1704345074",
+    "retrievedOn": "2026-10-24",
+    "transformation": "Inspected the exact official Orange / US studio image and removed only its white background and floor shadow with OpenAI image_gen. Resized proportionally as a transparent 1,200 × 1,200 lossless WebP with Sharp. Compared the Orange frame and Lankeleisi/X3000 MAX marks, folding hinge, front and rear hub motors, battery, headlight, fork, rack, tires, wheels, spokes, cables, brakes, drivetrain and complete outline against the source on light and dark backgrounds."
+  },
   {
     "file": "/images/products/eunorau-new-trike-2-electric-trike.webp",
     "owner": "EUNORAU",
@@ -61,52 +385,370 @@
     "retrievedOn": "2026-10-24",
     "transformation": "Exact official Deep Crimson side-profile product photo. OpenAI image_gen removed only the white studio background and floor shadow; Sharp proportionally resized it to 1,200 × 1,200 and encoded a lossless transparent WebP. Compared the frame, EUNORAU and NEW-TRIKE marks, basket, rear rack, seat/backrest, battery, controls, cables, tires, wheels, brakes, and full outline against the source; inspected the cutout on light and dark backgrounds."
   },
- {"file":"/images/products/gyroor-c2-max-electric-scooter-with-seat-and-baskets.webp","owner":"Gyroor","source":"https://cdn.shopify.com/s/files/1/2191/9995/files/C1maxfoldableelectricscooter.webp","retrievedOn":"2026-10-25","transformation":"Official first gallery image on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP. Baskets, fenders and wheels inspected on a light grey background."},
- {"file":"/images/products/cycplus-t2-bldc-direct-drive-smart-trainer.webp","owner":"CYCPLUS","source":"https://cdn.shopify.com/s/files/1/0413/9597/8398/files/4_ca25b3db-6073-4b96-bc13-15b4c785d03d.png","retrievedOn":"2026-10-25","transformation":"Official first gallery image (T2 with its 11-speed cassette) on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP. Cassette, handle and feet inspected on a light grey background."},
- {"file":"/images/products/ecarpat-velostride-700x35c-hybrid-bike.webp","owner":"Hycline","source":"https://cdn.shopify.com/s/files/1/0642/0987/9265/files/WhiteBackgroundMainImage-2.jpg","retrievedOn":"2026-10-27","transformation":"Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/zukka-blaze-27-5-mountain-bike.webp","owner":"Hycline","source":"https://cdn.shopify.com/s/files/1/0642/0987/9265/files/f12a0a3040eefa103480b10c0b6ed42e.jpg","retrievedOn":"2026-10-27","transformation":"Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/kiapalno-iii-26-mountain-bike.webp","owner":"Hycline","source":"https://cdn.shopify.com/s/files/1/0642/0987/9265/files/038a1b5bc64665790b8fdaf81c09478b_0608c31a-85e0-4fd6-83d9-72e78aef5d88.jpg","retrievedOn":"2026-10-27","transformation":"Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/ecarpat-corex-26-full-suspension-mountain-bike.webp","owner":"Hycline","source":"https://cdn.shopify.com/s/files/1/0642/0987/9265/files/2a51d1422422005a66f46ccdc057c000.jpg","retrievedOn":"2026-10-27","transformation":"Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/ecarpat-elecony-24x4-fat-tire-bike.webp","owner":"Hycline","source":"https://cdn.shopify.com/s/files/1/0642/0987/9265/files/ec62ddb527abeddde270e5c8e0444a44.jpg","retrievedOn":"2026-10-27","transformation":"Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/zukka-crossroll-20-folding-bike.webp","owner":"Hycline","source":"https://cdn.shopify.com/s/files/1/0642/0987/9265/files/cf3dcd42211cce73052942fcf669d968_05c2c2ab-7ec3-42dc-87a6-82458daeff87.jpg","retrievedOn":"2026-10-27","transformation":"Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/gyroor-round-rearview-mirrors-e-bike-scooter.webp","owner":"Gyroor","source":"https://cdn.shopify.com/s/files/1/2191/9995/files/electric-scooter-rearview-mirrors-pair.webp","retrievedOn":"2026-10-27","transformation":"Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/gyroor-electric-scooter-handlebar-bag.webp","owner":"Gyroor","source":"https://cdn.shopify.com/s/files/1/2191/9995/files/ScooterHandlebarBag-421c3934fd.webp","retrievedOn":"2026-10-27","transformation":"Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/gyroor-waterproof-e-bike-scooter-cover.webp","owner":"Gyroor","source":"https://cdn.shopify.com/s/files/1/2191/9995/files/Covers-496c8f44fb.webp","retrievedOn":"2026-10-27","transformation":"Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/gyroor-folding-scooter-lock.webp","owner":"Gyroor","source":"https://cdn.shopify.com/s/files/1/2191/9995/files/FoldingBikeLock-b8774f750c.webp","retrievedOn":"2026-10-27","transformation":"Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/gyroor-cycling-sunglasses-5-lens-set.webp","owner":"Gyroor","source":"https://cdn.shopify.com/s/files/1/2191/9995/files/Sunglasses-MatteBlack-8b031fe615.webp","retrievedOn":"2026-10-27","transformation":"Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/gyroor-led-safety-light-2-pack-red.webp","owner":"Gyroor","source":"https://cdn.shopify.com/s/files/1/2191/9995/files/SafetyLight-639fec3619.webp","retrievedOn":"2026-10-27","transformation":"Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/gyroor-usb-rechargeable-headlight-and-taillight-set.webp","owner":"Gyroor","source":"https://cdn.shopify.com/s/files/1/2191/9995/files/1_80da9e81-5288-4103-95f5-ec6e713de422-79ada879e8.webp","retrievedOn":"2026-10-27","transformation":"Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/gyroor-turn-signals-for-e-bike-scooter.webp","owner":"Gyroor","source":"https://cdn.shopify.com/s/files/1/2191/9995/files/TurnSignalsandBrakeLight-8baa5d9b64.webp","retrievedOn":"2026-10-27","transformation":"Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/gyroor-electronic-scooter-horn-black.webp","owner":"Gyroor","source":"https://cdn.shopify.com/s/files/1/2191/9995/files/ElectronicScooterHorn-Black-13fa5a3c00.webp","retrievedOn":"2026-10-27","transformation":"Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/gyroor-anti-theft-alarm-for-scooters-and-e-bikes.webp","owner":"Gyroor","source":"https://cdn.shopify.com/s/files/1/2191/9995/files/Alarm-6638009390.webp","retrievedOn":"2026-10-27","transformation":"Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/gyroor-combination-bike-chain-lock-2-6-ft.webp","owner":"Gyroor","source":"https://cdn.shopify.com/s/files/1/2191/9995/files/5-Digit-electric-scooter-lock-Black-b2e23899db.webp","retrievedOn":"2026-10-27","transformation":"Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/gyroor-waterproof-handlebar-bag-2-4l.webp","owner":"Gyroor","source":"https://cdn.shopify.com/s/files/1/2191/9995/files/ScooterHandlebarBagWaterproof-466cd60c47.webp","retrievedOn":"2026-10-27","transformation":"Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/ecarpat-xr1-26-mountain-bike.webp","owner":"Hycline","source":"https://cdn.shopify.com/s/files/1/0642/0987/9265/files/20230606_ae51f547ae0ff8b1cf97d151895768fe.jpg","retrievedOn":"2026-10-27","transformation":"Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/ecarpat-cirle-wind-20-kids-bike.webp","owner":"Hycline","source":"https://cdn.shopify.com/s/files/1/0642/0987/9265/files/36ab1b9f5180f4905c7aa479b9a8a4af.jpg","retrievedOn":"2026-10-27","transformation":"Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/ecarpat-arena-20x4-kids-fat-tire-bike.webp","owner":"Hycline","source":"https://cdn.shopify.com/s/files/1/0642/0987/9265/files/20240111_350b43230bd0e580d6ceb97337aa4f3d.jpg","retrievedOn":"2026-10-27","transformation":"Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/ecarpat-rock-rod-26-youth-mountain-bike.webp","owner":"Hycline","source":"https://cdn.shopify.com/s/files/1/0642/0987/9265/files/20231213_1041a2eb9df4823e9a0100571732ea40.jpg","retrievedOn":"2026-10-27","transformation":"Official gallery image 2 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/gyroor-adult-e-bike-scooter-helmet-black-medium.webp","owner":"Gyroor","source":"https://cdn.shopify.com/s/files/1/2191/9995/files/Black_Helmet_for_Electric_Scooter_73eb7736-c7c7-45fc-9c79-c53cdb968ad1-df9685ea4c.webp","retrievedOn":"2026-10-27","transformation":"Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/gyroor-youth-helmet-black-52-56cm.webp","owner":"Gyroor","source":"https://cdn.shopify.com/s/files/1/2191/9995/files/MultisportHelmet-Black-1058e0ffc7.webp","retrievedOn":"2026-10-27","transformation":"Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/gyroor-touchscreen-gloves-for-ebike-escooter-large.webp","owner":"Gyroor","source":"https://cdn.shopify.com/s/files/1/2191/9995/files/Gloves-130ad55b96.webp","retrievedOn":"2026-10-27","transformation":"Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/gyroor-phone-mount-holder-1s-lock-release.webp","owner":"Gyroor","source":"https://cdn.shopify.com/s/files/1/2191/9995/files/PhoneMountHolder-93acc8efc1.webp","retrievedOn":"2026-10-27","transformation":"Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/gyroor-led-light-strips-for-scooter-green.webp","owner":"Gyroor","source":"https://cdn.shopify.com/s/files/1/2191/9995/files/71S2SfjA6hL._AC_SL1500-e5e88ff7a4.webp","retrievedOn":"2026-10-27","transformation":"Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/gyroor-repair-tool-kit-for-e-scooters-and-e-bikes.webp","owner":"Gyroor","source":"https://cdn.shopify.com/s/files/1/2191/9995/files/RepairToolKit-dd21f3773b.webp","retrievedOn":"2026-10-27","transformation":"Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/gyroor-cargo-net-for-electric-scooter.webp","owner":"Gyroor","source":"https://cdn.shopify.com/s/files/1/2191/9995/files/Cargo_Net-black-4372a467a8.webp","retrievedOn":"2026-10-27","transformation":"Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/gyroor-360-rotation-cup-holder-for-e-bike-scooter.webp","owner":"Gyroor","source":"https://cdn.shopify.com/s/files/1/2191/9995/files/cupholder-767e1a5254.webp","retrievedOn":"2026-10-27","transformation":"Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."},
- {"file":"/images/products/finbike-m50-electric-bike.jpg","owner":"FinBike","source":"https://www.finbike.com/cdn/shop/files/finbike-m50-electric-bike_7.webp?v=1772699389","retrievedOn":"2026-10-28","transformation":"Copied the exact official M50 Green product image without visual edits or format conversion. The URL ends in .webp but the downloaded 1600 × 1600 file is JPEG; saved with its actual .jpg extension and preserved the white studio background."},
- {"file":"/images/products/finbike-w3-commuter-electric-scooter.jpg","owner":"FinBike","source":"https://cdn.shopify.com/s/files/1/0690/7808/9785/files/w3-escooter_11.webp?v=1792468561","retrievedOn":"2026-10-28","transformation":"Copied the exact official W3 gallery image without visual edits or format conversion. The URL ends in .webp but the downloaded 1000 × 1000 file is JPEG; saved with its actual .jpg extension and preserved the white background and original collage."},
- {"file":"/images/products/touroll-s3-folding-fat-tire-electric-bike.webp","owner":"Touroll","source":"https://touroll.com/cdn/shop/files/Touroll_S3_Folding_Fat-Tire_Electric_Bike_1.jpg?v=1774853276&width=1600","retrievedOn":"2026-10-28","transformation":"Exact official product image edited only to remove the white studio background, then trimmed, centered and padded as a 1200 × 1200 transparent lossless WebP. The complete bike silhouette, frame, wheels, rack, controls, cables, spokes and edges were checked on light and dark backgrounds."},
- {"file":"/images/products/touroll-urbano-3-mid-drive-electric-bike-cutout.webp","owner":"Touroll","source":"https://cdn.shopify.com/s/files/1/0621/4523/3032/files/Touroll-U3-teal-sale-image.jpg?v=1789713495","retrievedOn":"2026-10-28","transformation":"Exact official EU / Teal Urbano 3 product image edited with OpenAI image_gen to remove only the white studio background, then padded and resized to a 1200 × 1200 transparent lossless WebP with Sharp. The full bike silhouette, wheels, fork, rack, controls and drivetrain were compared with the source and checked on light and dark backgrounds."},
- {"file":"/images/products/touroll-u2-pro-mountain-electric-bike.jpg","owner":"Touroll","source":"https://cdn.shopify.com/s/files/1/0621/4523/3032/files/touroll-u2-pro-mountain-electric-bike_2.jpg?v=1776152585","retrievedOn":"2026-10-29","transformation":"Copied the exact official EU U2 Pro gallery image unchanged as a 1600 × 1600 JPEG. Preserved the original white studio background, color, proportions and product details; no generative edits or visual retouching."},
- {"file": "/images/products/coospo-bc107-gps-bike-computer.webp", "owner": "COOSPO", "source": "https://cdn.shopify.com/s/files/1/0636/7749/7600/files/COOSPO-Bike-Computer-GPS-Wireless-ANT_Cycling-Computer-GPS-with-Bluetooth-Multifunctional-ANT_Bicycle-Computer-GPS-with-2_2.jpg?v=1766116509", "retrievedOn": "2026-10-30", "variant": "Black, variant 42572273352960, SKU BC107-B-L", "sha256": "22a893be6b423a6be2f9abd50ce5c40e28f52ff648d8335f48387c45c29fb43b", "transformation": "Exact official Black-variant image resized from 1500 × 1500 and converted from JPEG to 1200 × 1200 WebP with Sharp. Original framing, product, display, and white background preserved; no retouching or generated edits."},
- {"file":"/images/products/the-beam-corky-urban-bike-mirror.jpg","owner":"THE BEAM","source":"https://cdn.shopify.com/s/files/1/0002/8324/6617/products/CU7.jpg?v=1723727335","retrievedOn":"2026-10-30","variant":"CORKY URBAN, variant 39864269570142, SKU BEAM-BM0021-RETR","sha256":"391331b7ec7caaf11d7c6b47aa2aa407a60d55aacecd26e4dde4fd5e6c99af00","transformation":"Exact official CORKY URBAN gallery image copied unchanged from its original 2126 × 2126 JPEG. Original framing, product views, and white background preserved; no retouching or generated edits. Visually inspected as the mirror shown open and closed."},
- {"file":"/images/products/dispatch-carbon-fiber-bicycle-headset-cap.webp","owner":"Dispatch Custom Cycling Components","source":"https://cdn.shopify.com/s/files/1/1660/0023/files/blue_bicycle_headset_cap.png?v=1733729146","retrievedOn":"2026-10-30","variant":"Add bolt: Yes, variant 45919754486002","sha256":"9c877e2f8b78ec1a0b08c51ab50f1aff9d36ce51a8409265145debb9efadb900","transformation":"Official featured product image for the selected Add bolt: Yes option. Resized from 1290 × 1320 PNG to 1173 × 1200 lossless WebP with Sharp; white background, framing and product pixels preserved. No retouching or generated edits; inspected after conversion."},
- {"file":"/images/products/amyet-v9-g60-electric-bike-black.jpg","owner":"AMYET","source":"https://cdn.shopify.com/s/files/1/0794/6292/4566/files/V9-G60-B.jpg?v=1728290505","retrievedOn":"2026-10-30","variant":"Black V9-G60 single-bike option, variant 49196588826902, SKU AMYET-G60-B","sha256":"ddb040802752d5660a3a302374abb7249261f31055c0076949384c4d4378afb3","transformation":"Exact official Black V9-G60 product image copied unchanged from its original 1500 × 1500 JPEG. White studio background and framing preserved; no retouching, generated edits or crop. Visually inspected against the selected variant."},
- {"file":"/images/products/vipcoo-h3-electric-dirt-bike.jpg","owner":"Hidoes","source":"https://cdn.shopify.com/s/files/1/0686/6642/5641/files/VIPCOO_H3_59.jpg?v=1758273515","retrievedOn":"2026-10-30","variant":"Default Title, variant 51227085963561, SKU VIPCOO H3","sha256":"64aa75fe538b96a93e774656d089030cde495813e989cf588935183319c5bfa4","transformation":"Exact official 1500 × 1500 JPEG copied unchanged. White studio background and framing preserved; no crop, retouching or generated edits. Visually inspected against the Hidoes listing."},
- {"file":"/images/products/coospo-realroad-cs600-gps-bike-computer.webp","owner":"COOSPO","source":"https://cdn.shopify.com/s/files/1/0636/7749/7600/files/600_188cd4d6-1f5b-42dd-9bc1-49df7d4afe02.png?v=1790234778","retrievedOn":"2026-10-30","variant":"Standalone CS600, variant 47166935236864, SKU CS600","sha256":"787d60f15abcac71428b0baca6fba9b45fcffc21c01ff2a4cc3f36bc799ceb37","transformation":"Exact official 1600 × 1600 RGB PNG resized to 1200 × 1200 and converted to lossless WebP with Sharp. White background, framing, product, and displayed map preserved; no crop, retouching, or generated edits. Visually inspected after conversion."},
- {"file":"/images/products/the-beam-corky-x-sunglasses-mirror.jpg","owner":"THE BEAM","source":"https://cdn.shopify.com/s/files/1/0002/8324/6617/products/Cx11.jpg?v=1630335311","retrievedOn":"2026-10-31","variant":"CORKY X Black, variant 39412261093470, SKU BEAM-BM0023-RETR","sha256":"1a713742afca22e4c90457708c99551334eafe47f2a281f19e64082e1385dbde","transformation":"Exact official Black-variant featured image copied unchanged from its original 3024 × 3024 JPEG. Original square framing, packaging, mirror and eyewear image preserved; no crop, retouching, generative editing or format conversion. Visually inspected against the selected CORKY X variant."},
- {"file":"/images/products/eleglide-t1-step-thru-trekking-electric-bike.webp","owner":"Eleglide","source":"https://cdn.shopify.com/s/files/1/0579/5581/1533/files/T1-ST-grey-sale-image.jpg?v=1778569481","retrievedOn":"2026-10-31","variant":"T1 ST EU / Grey, variant 41033430958285, SKU 1295591","sha256":"df28fd5ce5f3f3d764776891c8b214ba834821c0f51b6528af72f53423fd9f14","transformation":"Exact official 1600 × 1600 Grey-variant image inspected before editing. OpenAI image_gen removed only the white studio background; Sharp resized and converted the transparent image to 1200 × 1200 WebP. The frame, color, brand and tire markings, rack, wheels, spokes, cables, fork and visible components were compared with the source and inspected on light and dark backgrounds."},
-  {"file": "/images/products/joyor-c10e-electric-scooter.webp", "owner": "Joyor", "source": "https://img.staticdj.com/54739953aa5e64ba3c0fee5eeb141068_540x.jpg", "retrievedOn": "2026-10-31", "variant": "C10E / SKU C10 E; official listing reports no selectable variant", "sha256": "33db947381b62463d0cef0fb29e2cb64567c2addfaebeac0853a6ebd01b29a1e", "transformation": "Exact official 540 × 540 product-gallery image copied byte-for-byte to a .webp asset. White studio background and full scooter framing preserved; no crop, retouching, generated edits or format conversion. Visually inspected against the exact C10E gallery image."},
- {"file":"/images/products/engwe-p275-se-grey.webp","owner":"ENGWE","source":"https://cdn.shopify.com/s/files/1/0683/8560/3641/files/P275SE03_220573d7-23f8-489d-ad7d-898d68acb251.jpg?v=1794548754","retrievedOn":"2026-11-14","variant":"P275 SE Grey, variant 44630500114489","sha256":"79521cc564c50ce9118d1658db7d58bff226901c15666e8419346d0c58811c08","transformation":"Exact official Grey product image edited with image_gen to remove only the white background, preserving the bicycle, color, branding and components. Resized to 1200 × 1200 transparent lossless WebP with Sharp. Silhouette and alpha edges visually checked; no text or product parts added."},
- {"file":"/images/products/ghostcat-f3x-class-2-blackout.webp","owner":"GhostCat Bikes","source":"https://cdn.shopify.com/s/files/1/0675/9215/9302/files/f3x-class2-turned.jpg?v=1784613788","retrievedOn":"2026-11-15","variant":"F3X Class 2 Blackout, variant 45212144861254, SKU BKGC20056BLK","sha256":"47a94f4558f662e50a62e85611184da98a01cb6fe43fe99958c6558faf86f43c","transformation":"Exact official 2000 x 2000 product image. A neutral connected-background mask removed the white studio field and most diffuse shadow while preserving the product pixels; faint contact shadows below the tires and stand remain. Sharp padded and resized it to a 1200 x 1200 lossless transparent WebP. The complete bike, logos, tires, spokes, cables, fork, brakes, drivetrain, battery and stand were visually compared with the source and checked on light and dark backgrounds."}
+  {
+    "file": "/images/products/gyroor-c2-max-electric-scooter-with-seat-and-baskets.webp",
+    "owner": "Gyroor",
+    "source": "https://cdn.shopify.com/s/files/1/2191/9995/files/C1maxfoldableelectricscooter.webp",
+    "retrievedOn": "2026-10-25",
+    "transformation": "Official first gallery image on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP. Baskets, fenders and wheels inspected on a light grey background."
+  },
+  {
+    "file": "/images/products/cycplus-t2-bldc-direct-drive-smart-trainer.webp",
+    "owner": "CYCPLUS",
+    "source": "https://cdn.shopify.com/s/files/1/0413/9597/8398/files/4_ca25b3db-6073-4b96-bc13-15b4c785d03d.png",
+    "retrievedOn": "2026-10-25",
+    "transformation": "Official first gallery image (T2 with its 11-speed cassette) on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP. Cassette, handle and feet inspected on a light grey background."
+  },
+  {
+    "file": "/images/products/ecarpat-velostride-700x35c-hybrid-bike.webp",
+    "owner": "Hycline",
+    "source": "https://cdn.shopify.com/s/files/1/0642/0987/9265/files/WhiteBackgroundMainImage-2.jpg",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/zukka-blaze-27-5-mountain-bike.webp",
+    "owner": "Hycline",
+    "source": "https://cdn.shopify.com/s/files/1/0642/0987/9265/files/f12a0a3040eefa103480b10c0b6ed42e.jpg",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/kiapalno-iii-26-mountain-bike.webp",
+    "owner": "Hycline",
+    "source": "https://cdn.shopify.com/s/files/1/0642/0987/9265/files/038a1b5bc64665790b8fdaf81c09478b_0608c31a-85e0-4fd6-83d9-72e78aef5d88.jpg",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/ecarpat-corex-26-full-suspension-mountain-bike.webp",
+    "owner": "Hycline",
+    "source": "https://cdn.shopify.com/s/files/1/0642/0987/9265/files/2a51d1422422005a66f46ccdc057c000.jpg",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/ecarpat-elecony-24x4-fat-tire-bike.webp",
+    "owner": "Hycline",
+    "source": "https://cdn.shopify.com/s/files/1/0642/0987/9265/files/ec62ddb527abeddde270e5c8e0444a44.jpg",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/zukka-crossroll-20-folding-bike.webp",
+    "owner": "Hycline",
+    "source": "https://cdn.shopify.com/s/files/1/0642/0987/9265/files/cf3dcd42211cce73052942fcf669d968_05c2c2ab-7ec3-42dc-87a6-82458daeff87.jpg",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/gyroor-round-rearview-mirrors-e-bike-scooter.webp",
+    "owner": "Gyroor",
+    "source": "https://cdn.shopify.com/s/files/1/2191/9995/files/electric-scooter-rearview-mirrors-pair.webp",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/gyroor-electric-scooter-handlebar-bag.webp",
+    "owner": "Gyroor",
+    "source": "https://cdn.shopify.com/s/files/1/2191/9995/files/ScooterHandlebarBag-421c3934fd.webp",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/gyroor-waterproof-e-bike-scooter-cover.webp",
+    "owner": "Gyroor",
+    "source": "https://cdn.shopify.com/s/files/1/2191/9995/files/Covers-496c8f44fb.webp",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/gyroor-folding-scooter-lock.webp",
+    "owner": "Gyroor",
+    "source": "https://cdn.shopify.com/s/files/1/2191/9995/files/FoldingBikeLock-b8774f750c.webp",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/gyroor-cycling-sunglasses-5-lens-set.webp",
+    "owner": "Gyroor",
+    "source": "https://cdn.shopify.com/s/files/1/2191/9995/files/Sunglasses-MatteBlack-8b031fe615.webp",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/gyroor-led-safety-light-2-pack-red.webp",
+    "owner": "Gyroor",
+    "source": "https://cdn.shopify.com/s/files/1/2191/9995/files/SafetyLight-639fec3619.webp",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/gyroor-usb-rechargeable-headlight-and-taillight-set.webp",
+    "owner": "Gyroor",
+    "source": "https://cdn.shopify.com/s/files/1/2191/9995/files/1_80da9e81-5288-4103-95f5-ec6e713de422-79ada879e8.webp",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/gyroor-turn-signals-for-e-bike-scooter.webp",
+    "owner": "Gyroor",
+    "source": "https://cdn.shopify.com/s/files/1/2191/9995/files/TurnSignalsandBrakeLight-8baa5d9b64.webp",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/gyroor-electronic-scooter-horn-black.webp",
+    "owner": "Gyroor",
+    "source": "https://cdn.shopify.com/s/files/1/2191/9995/files/ElectronicScooterHorn-Black-13fa5a3c00.webp",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/gyroor-anti-theft-alarm-for-scooters-and-e-bikes.webp",
+    "owner": "Gyroor",
+    "source": "https://cdn.shopify.com/s/files/1/2191/9995/files/Alarm-6638009390.webp",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/gyroor-combination-bike-chain-lock-2-6-ft.webp",
+    "owner": "Gyroor",
+    "source": "https://cdn.shopify.com/s/files/1/2191/9995/files/5-Digit-electric-scooter-lock-Black-b2e23899db.webp",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/gyroor-waterproof-handlebar-bag-2-4l.webp",
+    "owner": "Gyroor",
+    "source": "https://cdn.shopify.com/s/files/1/2191/9995/files/ScooterHandlebarBagWaterproof-466cd60c47.webp",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/ecarpat-xr1-26-mountain-bike.webp",
+    "owner": "Hycline",
+    "source": "https://cdn.shopify.com/s/files/1/0642/0987/9265/files/20230606_ae51f547ae0ff8b1cf97d151895768fe.jpg",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/ecarpat-cirle-wind-20-kids-bike.webp",
+    "owner": "Hycline",
+    "source": "https://cdn.shopify.com/s/files/1/0642/0987/9265/files/36ab1b9f5180f4905c7aa479b9a8a4af.jpg",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/ecarpat-arena-20x4-kids-fat-tire-bike.webp",
+    "owner": "Hycline",
+    "source": "https://cdn.shopify.com/s/files/1/0642/0987/9265/files/20240111_350b43230bd0e580d6ceb97337aa4f3d.jpg",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/ecarpat-rock-rod-26-youth-mountain-bike.webp",
+    "owner": "Hycline",
+    "source": "https://cdn.shopify.com/s/files/1/0642/0987/9265/files/20231213_1041a2eb9df4823e9a0100571732ea40.jpg",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 2 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/gyroor-adult-e-bike-scooter-helmet-black-medium.webp",
+    "owner": "Gyroor",
+    "source": "https://cdn.shopify.com/s/files/1/2191/9995/files/Black_Helmet_for_Electric_Scooter_73eb7736-c7c7-45fc-9c79-c53cdb968ad1-df9685ea4c.webp",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/gyroor-youth-helmet-black-52-56cm.webp",
+    "owner": "Gyroor",
+    "source": "https://cdn.shopify.com/s/files/1/2191/9995/files/MultisportHelmet-Black-1058e0ffc7.webp",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/gyroor-touchscreen-gloves-for-ebike-escooter-large.webp",
+    "owner": "Gyroor",
+    "source": "https://cdn.shopify.com/s/files/1/2191/9995/files/Gloves-130ad55b96.webp",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/gyroor-phone-mount-holder-1s-lock-release.webp",
+    "owner": "Gyroor",
+    "source": "https://cdn.shopify.com/s/files/1/2191/9995/files/PhoneMountHolder-93acc8efc1.webp",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/gyroor-led-light-strips-for-scooter-green.webp",
+    "owner": "Gyroor",
+    "source": "https://cdn.shopify.com/s/files/1/2191/9995/files/71S2SfjA6hL._AC_SL1500-e5e88ff7a4.webp",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/gyroor-repair-tool-kit-for-e-scooters-and-e-bikes.webp",
+    "owner": "Gyroor",
+    "source": "https://cdn.shopify.com/s/files/1/2191/9995/files/RepairToolKit-dd21f3773b.webp",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/gyroor-cargo-net-for-electric-scooter.webp",
+    "owner": "Gyroor",
+    "source": "https://cdn.shopify.com/s/files/1/2191/9995/files/Cargo_Net-black-4372a467a8.webp",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/gyroor-360-rotation-cup-holder-for-e-bike-scooter.webp",
+    "owner": "Gyroor",
+    "source": "https://cdn.shopify.com/s/files/1/2191/9995/files/cupholder-767e1a5254.webp",
+    "retrievedOn": "2026-10-27",
+    "transformation": "Official gallery image 1 on a white background; Apple Vision foreground mask with product pixels unchanged, trimmed and converted to WebP."
+  },
+  {
+    "file": "/images/products/finbike-m50-electric-bike.jpg",
+    "owner": "FinBike",
+    "source": "https://www.finbike.com/cdn/shop/files/finbike-m50-electric-bike_7.webp?v=1772699389",
+    "retrievedOn": "2026-10-28",
+    "transformation": "Copied the exact official M50 Green product image without visual edits or format conversion. The URL ends in .webp but the downloaded 1600 × 1600 file is JPEG; saved with its actual .jpg extension and preserved the white studio background."
+  },
+  {
+    "file": "/images/products/finbike-w3-commuter-electric-scooter.jpg",
+    "owner": "FinBike",
+    "source": "https://cdn.shopify.com/s/files/1/0690/7808/9785/files/w3-escooter_11.webp?v=1792468561",
+    "retrievedOn": "2026-10-28",
+    "transformation": "Copied the exact official W3 gallery image without visual edits or format conversion. The URL ends in .webp but the downloaded 1000 × 1000 file is JPEG; saved with its actual .jpg extension and preserved the white background and original collage."
+  },
+  {
+    "file": "/images/products/touroll-s3-folding-fat-tire-electric-bike.webp",
+    "owner": "Touroll",
+    "source": "https://touroll.com/cdn/shop/files/Touroll_S3_Folding_Fat-Tire_Electric_Bike_1.jpg?v=1774853276&width=1600",
+    "retrievedOn": "2026-10-28",
+    "transformation": "Exact official product image edited only to remove the white studio background, then trimmed, centered and padded as a 1200 × 1200 transparent lossless WebP. The complete bike silhouette, frame, wheels, rack, controls, cables, spokes and edges were checked on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/touroll-urbano-3-mid-drive-electric-bike-cutout.webp",
+    "owner": "Touroll",
+    "source": "https://cdn.shopify.com/s/files/1/0621/4523/3032/files/Touroll-U3-teal-sale-image.jpg?v=1789713495",
+    "retrievedOn": "2026-10-28",
+    "transformation": "Exact official EU / Teal Urbano 3 product image edited with OpenAI image_gen to remove only the white studio background, then padded and resized to a 1200 × 1200 transparent lossless WebP with Sharp. The full bike silhouette, wheels, fork, rack, controls and drivetrain were compared with the source and checked on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/touroll-u2-pro-mountain-electric-bike.jpg",
+    "owner": "Touroll",
+    "source": "https://cdn.shopify.com/s/files/1/0621/4523/3032/files/touroll-u2-pro-mountain-electric-bike_2.jpg?v=1776152585",
+    "retrievedOn": "2026-10-29",
+    "transformation": "Copied the exact official EU U2 Pro gallery image unchanged as a 1600 × 1600 JPEG. Preserved the original white studio background, color, proportions and product details; no generative edits or visual retouching."
+  },
+  {
+    "file": "/images/products/coospo-bc107-gps-bike-computer.webp",
+    "owner": "COOSPO",
+    "source": "https://cdn.shopify.com/s/files/1/0636/7749/7600/files/COOSPO-Bike-Computer-GPS-Wireless-ANT_Cycling-Computer-GPS-with-Bluetooth-Multifunctional-ANT_Bicycle-Computer-GPS-with-2_2.jpg?v=1766116509",
+    "retrievedOn": "2026-10-30",
+    "variant": "Black, variant 42572273352960, SKU BC107-B-L",
+    "sha256": "22a893be6b423a6be2f9abd50ce5c40e28f52ff648d8335f48387c45c29fb43b",
+    "transformation": "Exact official Black-variant image resized from 1500 × 1500 and converted from JPEG to 1200 × 1200 WebP with Sharp. Original framing, product, display, and white background preserved; no retouching or generated edits."
+  },
+  {
+    "file": "/images/products/the-beam-corky-urban-bike-mirror.jpg",
+    "owner": "THE BEAM",
+    "source": "https://cdn.shopify.com/s/files/1/0002/8324/6617/products/CU7.jpg?v=1723727335",
+    "retrievedOn": "2026-10-30",
+    "variant": "CORKY URBAN, variant 39864269570142, SKU BEAM-BM0021-RETR",
+    "sha256": "391331b7ec7caaf11d7c6b47aa2aa407a60d55aacecd26e4dde4fd5e6c99af00",
+    "transformation": "Exact official CORKY URBAN gallery image copied unchanged from its original 2126 × 2126 JPEG. Original framing, product views, and white background preserved; no retouching or generated edits. Visually inspected as the mirror shown open and closed."
+  },
+  {
+    "file": "/images/products/dispatch-carbon-fiber-bicycle-headset-cap.webp",
+    "owner": "Dispatch Custom Cycling Components",
+    "source": "https://cdn.shopify.com/s/files/1/1660/0023/files/blue_bicycle_headset_cap.png?v=1733729146",
+    "retrievedOn": "2026-10-30",
+    "variant": "Add bolt: Yes, variant 45919754486002",
+    "sha256": "9c877e2f8b78ec1a0b08c51ab50f1aff9d36ce51a8409265145debb9efadb900",
+    "transformation": "Official featured product image for the selected Add bolt: Yes option. Resized from 1290 × 1320 PNG to 1173 × 1200 lossless WebP with Sharp; white background, framing and product pixels preserved. No retouching or generated edits; inspected after conversion."
+  },
+  {
+    "file": "/images/products/amyet-v9-g60-electric-bike-black.jpg",
+    "owner": "AMYET",
+    "source": "https://cdn.shopify.com/s/files/1/0794/6292/4566/files/V9-G60-B.jpg?v=1728290505",
+    "retrievedOn": "2026-10-30",
+    "variant": "Black V9-G60 single-bike option, variant 49196588826902, SKU AMYET-G60-B",
+    "sha256": "ddb040802752d5660a3a302374abb7249261f31055c0076949384c4d4378afb3",
+    "transformation": "Exact official Black V9-G60 product image copied unchanged from its original 1500 × 1500 JPEG. White studio background and framing preserved; no retouching, generated edits or crop. Visually inspected against the selected variant."
+  },
+  {
+    "file": "/images/products/vipcoo-h3-electric-dirt-bike.jpg",
+    "owner": "Hidoes",
+    "source": "https://cdn.shopify.com/s/files/1/0686/6642/5641/files/VIPCOO_H3_59.jpg?v=1758273515",
+    "retrievedOn": "2026-10-30",
+    "variant": "Default Title, variant 51227085963561, SKU VIPCOO H3",
+    "sha256": "64aa75fe538b96a93e774656d089030cde495813e989cf588935183319c5bfa4",
+    "transformation": "Exact official 1500 × 1500 JPEG copied unchanged. White studio background and framing preserved; no crop, retouching or generated edits. Visually inspected against the Hidoes listing."
+  },
+  {
+    "file": "/images/products/coospo-realroad-cs600-gps-bike-computer.webp",
+    "owner": "COOSPO",
+    "source": "https://cdn.shopify.com/s/files/1/0636/7749/7600/files/600_188cd4d6-1f5b-42dd-9bc1-49df7d4afe02.png?v=1790234778",
+    "retrievedOn": "2026-10-30",
+    "variant": "Standalone CS600, variant 47166935236864, SKU CS600",
+    "sha256": "787d60f15abcac71428b0baca6fba9b45fcffc21c01ff2a4cc3f36bc799ceb37",
+    "transformation": "Exact official 1600 × 1600 RGB PNG resized to 1200 × 1200 and converted to lossless WebP with Sharp. White background, framing, product, and displayed map preserved; no crop, retouching, or generated edits. Visually inspected after conversion."
+  },
+  {
+    "file": "/images/products/the-beam-corky-x-sunglasses-mirror.jpg",
+    "owner": "THE BEAM",
+    "source": "https://cdn.shopify.com/s/files/1/0002/8324/6617/products/Cx11.jpg?v=1630335311",
+    "retrievedOn": "2026-10-31",
+    "variant": "CORKY X Black, variant 39412261093470, SKU BEAM-BM0023-RETR",
+    "sha256": "1a713742afca22e4c90457708c99551334eafe47f2a281f19e64082e1385dbde",
+    "transformation": "Exact official Black-variant featured image copied unchanged from its original 3024 × 3024 JPEG. Original square framing, packaging, mirror and eyewear image preserved; no crop, retouching, generative editing or format conversion. Visually inspected against the selected CORKY X variant."
+  },
+  {
+    "file": "/images/products/eleglide-t1-step-thru-trekking-electric-bike.webp",
+    "owner": "Eleglide",
+    "source": "https://cdn.shopify.com/s/files/1/0579/5581/1533/files/T1-ST-grey-sale-image.jpg?v=1778569481",
+    "retrievedOn": "2026-10-31",
+    "variant": "T1 ST EU / Grey, variant 41033430958285, SKU 1295591",
+    "sha256": "df28fd5ce5f3f3d764776891c8b214ba834821c0f51b6528af72f53423fd9f14",
+    "transformation": "Exact official 1600 × 1600 Grey-variant image inspected before editing. OpenAI image_gen removed only the white studio background; Sharp resized and converted the transparent image to 1200 × 1200 WebP. The frame, color, brand and tire markings, rack, wheels, spokes, cables, fork and visible components were compared with the source and inspected on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/joyor-c10e-electric-scooter.webp",
+    "owner": "Joyor",
+    "source": "https://img.staticdj.com/54739953aa5e64ba3c0fee5eeb141068_540x.jpg",
+    "retrievedOn": "2026-10-31",
+    "variant": "C10E / SKU C10 E; official listing reports no selectable variant",
+    "sha256": "33db947381b62463d0cef0fb29e2cb64567c2addfaebeac0853a6ebd01b29a1e",
+    "transformation": "Exact official 540 × 540 product-gallery image copied byte-for-byte to a .webp asset. White studio background and full scooter framing preserved; no crop, retouching, generated edits or format conversion. Visually inspected against the exact C10E gallery image."
+  },
+  {
+    "file": "/images/products/engwe-p275-se-grey.webp",
+    "owner": "ENGWE",
+    "source": "https://cdn.shopify.com/s/files/1/0683/8560/3641/files/P275SE03_220573d7-23f8-489d-ad7d-898d68acb251.jpg?v=1794548754",
+    "retrievedOn": "2026-11-14",
+    "variant": "P275 SE Grey, variant 44630500114489",
+    "sha256": "79521cc564c50ce9118d1658db7d58bff226901c15666e8419346d0c58811c08",
+    "transformation": "Exact official Grey product image edited with image_gen to remove only the white background, preserving the bicycle, color, branding and components. Resized to 1200 × 1200 transparent lossless WebP with Sharp. Silhouette and alpha edges visually checked; no text or product parts added."
+  },
+  {
+    "file": "/images/products/ghostcat-f3x-class-2-blackout.webp",
+    "owner": "GhostCat Bikes",
+    "source": "https://cdn.shopify.com/s/files/1/0675/9215/9302/files/f3x-class2-turned.jpg?v=1784613788",
+    "retrievedOn": "2026-11-15",
+    "variant": "F3X Class 2 Blackout, variant 45212144861254, SKU BKGC20056BLK",
+    "sha256": "47a94f4558f662e50a62e85611184da98a01cb6fe43fe99958c6558faf86f43c",
+    "transformation": "Exact official 2000 x 2000 product image. A neutral connected-background mask removed the white studio field and most diffuse shadow while preserving the product pixels; faint contact shadows below the tires and stand remain. Sharp padded and resized it to a 1200 x 1200 lossless transparent WebP. The complete bike, logos, tires, spokes, cables, fork, brakes, drivetrain, battery and stand were visually compared with the source and checked on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/ekx-gts-x22-electric-dirt-bike.webp",
+    "owner": "EKX",
+    "source": "https://ekxbike.com/cdn/shop/files/EKXBike_GTS_X22_Electric_Dirt_Bike-1.png",
+    "retrievedOn": "2026-11-27",
+    "variant": "GTS X22, 12000W(Peak) / 72V 30Ah / United States, variant 47243515461819",
+    "transformation": "Official product image; background removed with macOS Vision subject detection, trimmed and resized to a 900 x 808 WebP with alpha. Checked on light and dark backgrounds."
+  }
 ]
