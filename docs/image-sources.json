@@ -750,5 +750,45 @@
     "retrievedOn": "2026-11-27",
     "variant": "GTS X22, 12000W(Peak) / 72V 30Ah / United States, variant 47243515461819",
     "transformation": "Official product image; background removed with macOS Vision subject detection, trimmed and resized to a 900 x 808 WebP with alpha. Checked on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/engwe-o20-boost-electric-bike.webp",
+    "owner": "Engwe EU",
+    "source": "https://cdn.shopify.com/s/files/1/0549/9017/6300/files/Frame9_26bd9e95-fdd1-488b-83c2-0e243afbe478.png?v=1794376482",
+    "retrievedOn": "2026-11-28",
+    "variant": "O20 Boost, Graphite Gray, variant 45574745620524",
+    "transformation": "Official product image; promotional badge strip cropped from the top; background removed with macOS Vision subject detection, trimmed and resized to a 837 x 908 WebP with alpha. Checked on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/engwe-zip-folding-electric-bike.webp",
+    "owner": "Engwe EU",
+    "source": "https://cdn.shopify.com/s/files/1/0549/9017/6300/files/Frame12_222cb2a5-2469-4d8d-8a48-e614ab49332e.png?v=1794376760",
+    "retrievedOn": "2026-11-28",
+    "variant": "Zip, Grey, variant 45401782222892",
+    "transformation": "Official product image; promotional badge strip cropped from the top; background removed with macOS Vision subject detection, trimmed and resized to a 803 x 816 WebP with alpha. Checked on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/engwe-l20-3-0-boost-electric-bike.webp",
+    "owner": "Engwe EU",
+    "source": "https://cdn.shopify.com/s/files/1/0549/9017/6300/files/Frame8_97668c07-6c10-4265-a090-7196a0ab3a65.png?v=1794375975",
+    "retrievedOn": "2026-11-28",
+    "variant": "L20 3.0 Boost, Black, variant 44183778459692",
+    "transformation": "Official product image; promotional badge strip cropped from the top; background removed with macOS Vision subject detection, trimmed and resized to a 946 x 940 WebP with alpha. Checked on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/ghostcat-f4x-electric-bike.webp",
+    "owner": "GhostCat Bikes",
+    "source": "https://cdn.shopify.com/s/files/1/0675/9215/9302/files/f4x-turned.jpg?v=1784613977",
+    "retrievedOn": "2026-11-28",
+    "variant": "F4X, Blackout, variant 45212144664646",
+    "transformation": "Official product image; background removed with macOS Vision subject detection, trimmed and resized to a 1161 x 1042 WebP with alpha. Checked on light and dark backgrounds."
+  },
+  {
+    "file": "/images/products/ghostcat-saber-s1-electric-bike.webp",
+    "owner": "GhostCat Bikes",
+    "source": "https://cdn.shopify.com/s/files/1/0675/9215/9302/files/saber-s1-turned.jpg?v=1785636291",
+    "retrievedOn": "2026-11-28",
+    "variant": "Saber S1, variant 45212147089478",
+    "transformation": "Official product image; background removed with macOS Vision subject detection, trimmed and resized to a 1145 x 994 WebP with alpha. Checked on light and dark backgrounds."
   }
 ]

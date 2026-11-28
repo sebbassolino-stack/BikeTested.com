@@ -1,4 +1,5 @@
 import { guidesNov27 } from './guides-nov27.js';
+import { guidesNov28 } from './guides-nov28.js';
 // Canonical guide content. Dates are editorial dates, never build timestamps.
 export const guides = [
   {
@@ -1964,3 +1965,4 @@ export const guides = [
   }
 ];
 guides.push(...guidesNov27);
+guides.push(...guidesNov28);
