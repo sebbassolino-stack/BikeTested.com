@@ -727,6 +727,20 @@ export const partners = [
     "description": "Flipsky makes VESC-based speed controllers, BLDC motors and parts for DIY e-bikes and electric skateboards. Use SebastianB for $10 off at flipsky.net."
   },
   {
+    "slug": "twitter-bikes",
+    "name": "Twitter Bikes",
+    "url": "https://twitterbikeusa.com/sebastianbassolino",
+    "code": null,
+    "benefit": null,
+    "category": "traditional-bikes",
+    "platform": "Direct",
+    "reportedOn": "2026-11-27",
+    "status": "active",
+    "evidence": "Owner master deals sheet, November 27, 2026",
+    "checkoutTestedOn": null,
+    "description": "Twitter Bikes sells carbon road, gravel and mountain bikes shipped from the USA. No code needed: shop through our partner link and compare frame size, groupset and wheel spec before choosing a model."
+  },
+  {
     "slug": "buybestgear",
     "name": "Buybestgear",
     "url": "https://www.buybestgear.com/?click_id=428940&utm_campaign=collab&utm_medium=affiliate&utm_source=goaffpro",

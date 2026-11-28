@@ -1821,6 +1821,17 @@
       "code": "SebastianB",
       "reportedBenefit": "$10 off",
       "nextStep": "Select an exact audience-relevant e-bike controller or motor and obtain official specifications and imagery before authoring a review."
+    },
+    {
+      "brand": "Twitter Bikes",
+      "brandSlug": "twitter-bikes",
+      "category": "traditional-bikes",
+      "status": "research-needed",
+      "priority": 2,
+      "affiliateUrl": "https://twitterbikeusa.com/sebastianbassolino",
+      "code": null,
+      "reportedBenefit": null,
+      "nextStep": "Select an exact audience-relevant road or gravel model and obtain official specifications and imagery before authoring a review."
     }
   ]
 }
