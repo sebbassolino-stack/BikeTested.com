@@ -4,5 +4,11 @@
     "url": "https://www.finbike.com/?ref=BIKE",
     "code": "BIKE",
     "benefit": "8% off"
+  },
+  {
+    "brand": "Flipsky",
+    "url": "https://flipsky.net/?ref=SebastianB",
+    "code": "SebastianB",
+    "benefit": "$10 off"
   }
 ]

@@ -707,6 +707,26 @@ export const partners = [
     "description": "Use the Young Electric reader code on the rack configuration we checked at checkout. Confirm hitch and bike compatibility, the package contents, shipping, and the current total with the seller."
   },
   {
+    "slug": "flipsky",
+    "name": "Flipsky",
+    "url": "https://flipsky.net/?ref=SebastianB",
+    "code": "SebastianB",
+    "benefit": "$10.00 off",
+    "discount": {
+      "type": "fixed",
+      "value": 10,
+      "currency": "USD",
+      "scope": "Partner-supplied reader code for flipsky.net."
+    },
+    "category": "components",
+    "platform": "GoAffPro",
+    "reportedOn": "2026-11-27",
+    "status": "active",
+    "evidence": "Owner master deals sheet, November 27, 2026",
+    "checkoutTestedOn": null,
+    "description": "Flipsky makes VESC-based speed controllers, BLDC motors and parts for DIY e-bikes and electric skateboards. Use SebastianB for $10 off at flipsky.net."
+  },
+  {
     "slug": "buybestgear",
     "name": "Buybestgear",
     "url": "https://www.buybestgear.com/?click_id=428940&utm_campaign=collab&utm_medium=affiliate&utm_source=goaffpro",
