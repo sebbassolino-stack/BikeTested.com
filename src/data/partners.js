@@ -589,7 +589,7 @@ export const partners = [
     "slug": "finbike",
     "name": "FinBike",
     "url": "https://www.finbike.com/?ref=BIKE",
-    "code": "SEBASTIANBASSOL",
+    "code": "BIKE",
     "benefit": "8% off",
     "discount": {
       "type": "percent",

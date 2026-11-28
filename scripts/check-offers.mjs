@@ -16,6 +16,8 @@ const added=[...JSON.parse(fs.readFileSync('docs/partners-2026-10-29.json','utf8
 // rows for launch-roster brands are checked below. Gaciron and HX Happy Relax gained a code (launch coded count 26 -> 28).
 const nov25=JSON.parse(fs.readFileSync('docs/partners-2026-11-25.json','utf8'));const launchUpdates=[];
 for(const row of nov25){const i=added.findIndex(r=>r.brand===row.brand);if(i>=0)added[i]=row;else if(offers.find(x=>x.name===row.brand)&&!['Buybestgear'].includes(row.brand))launchUpdates.push(row);else added.push(row);}
+// November 27 master sheet: brand codes replace the name code; these rows replace the November 25 row for the same brand.
+for(const row of JSON.parse(fs.readFileSync('docs/partners-2026-11-27.json','utf8'))){for(const list of [added,launchUpdates]){const i=list.findIndex(r=>r.brand===row.brand);if(i>=0)list[i]=row;}}
 for(const row of launchUpdates){const o=offers.find(x=>x.name===row.brand);assert.equal(o.url,row.url);assert.equal(o.code,row.code);}
 for(const row of added){const o=offers.find(x=>x.name===row.brand);assert(o,'Missing new partner '+row.brand);assert.equal(o.url,row.url);assert.equal(o.code,row.code);}
 assert.equal(offers.length,52+added.length);assert.equal(offers.filter(o=>o.code).length,28+added.filter(x=>x.code).length);assert.equal(offers.filter(o=>o.benefit).length,22+added.filter(x=>x.benefit).length);assert.equal(new Set(offers.map(o=>o.brand)).size,52+added.length);
